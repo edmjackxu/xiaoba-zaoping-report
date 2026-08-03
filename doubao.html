@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>小八早评 - 豆包回复专页</title>
+  <link rel="stylesheet" href="css/style.css?v=20260706">
+  <style>
+    /* 豆包专页额外样式 */
+    .doubao-only .item {
+      border-color: rgba(255, 107, 107, 0.4);
+      background: rgba(255, 107, 107, 0.05);
+    }
+    .doubao-only .item:hover {
+      border-color: rgba(255, 107, 107, 0.7);
+      box-shadow: 0 8px 25px rgba(255, 107, 107, 0.15);
+    }
+    .doubao-only .item-link {
+      color: #ff6b6b;
+      background: rgba(255, 107, 107, 0.1);
+      border-color: rgba(255, 107, 107, 0.3);
+    }
+    .doubao-only .item-link:hover {
+      background: #ff6b6b;
+      color: #1a1a2e;
+    }
+    .status-badge {
+      display: inline-block;
+      padding: 3px 12px;
+      border-radius: 12px;
+      font-size: 0.8em;
+      font-weight: bold;
+      margin-left: 8px;
+    }
+    .status-new { background: rgba(82, 196, 26, 0.2); color: #52c41a; }
+  </style>
+</head>
+<body>
+  <div class="container doubao-only">
+    <!-- Header -->
+    <div class="header">
+      <h1>🤖 小八早评 · 豆包回复</h1>
+      <div class="meta" id="meta-container">加载中...</div>
+      <div class="nav-links">
+        <a href="index.html">📋 全部内容</a>
+        <a href="doubao.html" class="active">🤖 豆包回复</a>
+        <a href="video-content-to-text.html">📝 视频转录</a>
+      </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats" id="stats-container">
+      <div class="stat-item"><div class="number">-</div><div class="label">🎬 视频</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">📄 文章</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">🤖 豆包回复</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">📊 总计</div></div>
+    </div>
+
+    <!-- 博主导航 -->
+    <div id="creator-nav"></div>
+
+    <!-- Content -->
+    <div id="content-container">
+      <div class="loading">加载中...</div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      自动生成 - 小八早评系统<br>
+      豆包回复已用<span style="color: #ff6b6b;">红色</span>标注<br>
+      <a href="index.html">返回主页 →</a>
+    </div>
+  </div>
+
+  <!-- 返回顶部 -->
+  <a href="#" class="back-to-top" id="back-to-top">↑</a>
+
+  <script src="js/app.js?v=20260706"></script>
+  <script>
+    (async function () {
+      var XR = window.XiaobaReport;
+      var container = document.getElementById('content-container');
+
+      try {
+        // 加载数据：直接从 doubao_replies.json 取有回复的记录
+        var [doubaoData, metaData] = await Promise.all([
+          XR.loadData('data/doubao_replies.json').catch(function () { return null; }),
+          XR.loadData('data/meta.json').catch(function () { return null; })
+        ]);
+
+        // 直接从 doubao_replies.json 中取 found 且有回复的记录
+        var allItems = [];
+        if (doubaoData && doubaoData.replies) {
+          doubaoData.replies.forEach(function (r) {
+            if (r.found && r.doubaoReplies && r.doubaoReplies.length > 0) {
+              allItems.push({
+                title: r.title,
+                url: r.url,
+                publishTime: r.publishTime || '',
+                type: 'video',
+                creator: r.creator || '',
+                summary: '',
+                doubaoReply: r.doubaoReplies
+              });
+            }
+          });
+        }
+
+        // 按时间排序
+        allItems.sort(function (a, b) {
+          if (a.publishTime && !b.publishTime) return -1;
+          if (!a.publishTime && b.publishTime) return 1;
+          if (a.publishTime && b.publishTime) {
+            return new Date(b.publishTime) - new Date(a.publishTime);
+          }
+          return 0;
+        });
+
+        // 渲染统计
+        XR.renderStats({
+          videos: allItems.length,
+          articles: 0,
+          doubaoReplies: allItems.length,
+          total: allItems.length
+        });
+
+        // 渲染元数据
+        if (metaData) {
+          XR.renderMeta(metaData);
+        } else {
+          document.getElementById('meta-container').innerHTML =
+            '更新时间：' + (doubaoData && doubaoData.builtAt
+              ? new Date(doubaoData.builtAt).toLocaleString('zh-CN')
+              : new Date().toLocaleString('zh-CN'));
+        }
+
+        // 渲染列表（仅豆包回复条目）
+        XR.renderItemList(allItems, 'content-container', { showDoubaoOnly: true });
+
+        // 博主导航
+        XR.renderCreatorNav(allItems);
+
+        // 设置朗读
+        XR.setupTTS();
+
+        // 设置返回顶部
+        XR.setupBackToTop();
+
+      } catch (err) {
+        container.innerHTML = '<div class="error-msg">❌ 加载数据失败：' + XR.escapeHtml(err.message) + '</div>';
+        console.error(err);
+      }
+    })();
+  </script>
+</body>
+</html>

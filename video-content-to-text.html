@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>小八早评 - 视频转录文字</title>
+  <link rel="stylesheet" href="css/style.css?v=20260803">
+  <style>
+    /* 转录内容区域样式 */
+    .transcript-content {
+      margin-top: 10px;
+      padding: 12px;
+      background: rgba(0,0,0,0.2);
+      border-radius: 8px;
+      color: #ccc;
+      font-size: 0.9em;
+      line-height: 1.8;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <div class="header">
+      <h1>📝 小八早评 · 视频转录文字</h1>
+      <div class="meta" id="meta-container">加载中...</div>
+      <div class="nav-links">
+        <a href="index.html">📋 全部内容</a>
+        <a href="doubao.html">🤖 豆包回复</a>
+        <a href="video-content-to-text.html" class="active">📝 视频转录</a>
+      </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats" id="stats-container">
+      <div class="stat-item"><div class="number">-</div><div class="label">📝 转录视频</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">👤 博主</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">📊 总字数</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">📈 总计</div></div>
+    </div>
+
+    <!-- 博主导航 -->
+    <div id="creator-nav"></div>
+
+    <!-- Content -->
+    <div id="content-container">
+      <div class="loading">加载中...</div>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      自动生成 - 小八早评系统<br>
+      <a href="index.html">返回主页 -></a>
+    </div>
+  </div>
+
+  <!-- 返回顶部 -->
+  <a href="#" class="back-to-top" id="back-to-top">↑</a>
+
+  <script src="js/app.js?v=20260803"></script>
+  <script>
+    (async function () {
+      var XR = window.XiaobaReport;
+      var container = document.getElementById('content-container');
+
+      try {
+        var data = await XR.loadData('data/video_transcripts.json');
+
+        // 统计
+        var totalVideos = data.total;
+        var creatorCount = data.creators.length;
+        var totalChars = data.creators.reduce(function (sum, c) {
+          return sum + c.videos.reduce(function (s, v) { return s + (v.transcriptLength || 0); }, 0);
+        }, 0);
+
+        XR.renderStats({
+          videos: totalVideos,
+          articles: creatorCount,
+          doubaoReplies: totalChars,
+          total: totalVideos
+        });
+
+        // 更新 stat labels
+        var statItems = document.querySelectorAll('.stat-item .label');
+        if (statItems.length >= 4) {
+          statItems[0].textContent = '📝 转录视频';
+          statItems[1].textContent = '👤 博主';
+          statItems[2].textContent = '📊 总字数';
+          statItems[3].textContent = '📈 总计';
+        }
+
+        // 更新时间
+        document.getElementById('meta-container').innerHTML =
+          '更新时间：' + new Date(data.builtAt).toLocaleString('zh-CN');
+
+        // 渲染博主导航
+        var allItems = [];
+        data.creators.forEach(function (c) {
+          c.videos.forEach(function (v) {
+            allItems.push({
+              creator: c.name,
+              title: v.title,
+              url: v.url,
+              publishTime: v.publishTime,
+              type: 'video'
+            });
+          });
+        });
+        XR.renderCreatorNav(allItems);
+
+        // 渲染内容（按博主分组）
+        var html = '';
+        var globalIdx = 0;
+        data.creators.forEach(function (creator) {
+          html += '<div class="creator-section" id="creator-' + XR.escapeHtml(creator.name) + '">';
+          html += '<h2>👤 ' + XR.escapeHtml(creator.name) + ' <span class="count">' + creator.count + '</span></h2>';
+          html += '<div class="section"><div class="item-list">';
+          creator.videos.forEach(function (v) {
+            var itemId = 'item-vt-' + globalIdx++;
+            var formattedDate = v.publishTime ? XR.formatDate(v.publishTime) : '';
+            html += '<div class="item" id="' + itemId + '">';
+            html += '<div class="item-header">';
+            html += '<div class="item-title">' + XR.escapeHtml(v.title || '无标题') + '<button class="tts-btn" data-target="' + itemId + '">🔊 朗读</button></div>';
+            html += '<div><span class="item-badge badge-video">视频</span></div>';
+            html += '</div>';
+            html += '<div class="item-date">📅 ' + formattedDate + '</div>';
+            html += '<div class="transcript-content">' + XR.escapeHtml(v.transcript || '') + '</div>';
+            html += '<a class="item-link" href="' + XR.escapeHtml(v.url) + '" target="_blank" rel="noopener">查看视频 -></a>';
+            html += '</div>';
+          });
+          html += '</div></div></div>';
+        });
+
+        container.innerHTML = html;
+
+        // 设置朗读和返回顶部
+        XR.setupTTS();
+        XR.setupBackToTop();
+
+      } catch (err) {
+        container.innerHTML = '<div class="error-msg">❌ 加载数据失败：' + XR.escapeHtml(err.message) + '</div>';
+        console.error(err);
+      }
+    })();
+  </script>
+</body>
+</html>
