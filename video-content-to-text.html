@@ -6,9 +6,42 @@
   <title>小八早评 - 视频转录文字</title>
   <link rel="stylesheet" href="css/style.css?v=20260803">
   <style>
-    /* 转录内容区域样式 */
-    .transcript-content {
+    /* AI 总结卡片 */
+    .summary-card {
       margin-top: 10px;
+      padding: 14px;
+      background: rgba(114, 46, 209, 0.1);
+      border-left: 4px solid #722ed1;
+      border-radius: 8px;
+    }
+    .summary-header {
+      font-weight: bold;
+      color: #b388ff;
+      margin-bottom: 6px;
+      font-size: 0.9em;
+    }
+    .summary-content {
+      color: #d3bcff;
+      font-size: 0.92em;
+      line-height: 1.7;
+    }
+
+    /* 转录原文折叠 */
+    .transcript-details {
+      margin-top: 10px;
+    }
+    .transcript-details summary {
+      cursor: pointer;
+      color: #888;
+      font-size: 0.88em;
+      padding: 8px 0;
+      user-select: none;
+    }
+    .transcript-details summary:hover {
+      color: #6bcb77;
+    }
+    .transcript-content {
+      margin-top: 8px;
       padding: 12px;
       background: rgba(0,0,0,0.2);
       border-radius: 8px;
@@ -126,7 +159,26 @@
             html += '<div><span class="item-badge badge-video">视频</span></div>';
             html += '</div>';
             html += '<div class="item-date">📅 ' + formattedDate + '</div>';
+            // 如果有 keySummary 或 dsMainPoint，显示总结卡片（默认展开）
+            if (v.keySummary || v.dsMainPoint) {
+              html += '<div class="summary-card">';
+              html += '<div class="summary-header">📝 AI 总结</div>';
+              if (v.dsMainPoint && v.dsMainPoint !== 'NA') {
+                html += '<div class="summary-content"><strong>💡 主要观点：</strong>' + XR.escapeHtml(v.dsMainPoint) + '</div>';
+              }
+              if (v.dsStocks && v.dsStocks !== 'NA') {
+                html += '<div class="summary-content"><strong>📈 股票/公司：</strong>' + XR.escapeHtml(v.dsStocks) + '</div>';
+              }
+              if (v.dsKeyData && v.dsKeyData !== 'NA') {
+                html += '<div class="summary-content"><strong>📊 关键数据：</strong>' + XR.escapeHtml(v.dsKeyData) + '</div>';
+              }
+              html += '</div>';
+            }
+            // 转录原文（默认折叠）
+            html += '<details class="transcript-details">';
+            html += '<summary>📄 查看完整转录文字</summary>';
             html += '<div class="transcript-content">' + XR.escapeHtml(v.transcript || '') + '</div>';
+            html += '</details>';
             html += '<a class="item-link" href="' + XR.escapeHtml(v.url) + '" target="_blank" rel="noopener">查看视频 -></a>';
             html += '</div>';
           });
