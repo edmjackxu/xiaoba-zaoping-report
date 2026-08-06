@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-06T11:07:05.367Z",
+  "checkTime": "2026-08-06T23:06:26.854Z",
   "articles": [
     {
       "title": "",
@@ -565,6 +565,18 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-6号中银徐高：会议后的经济市场展望",
+      "url": "https://www.toutiao.com/video/7670877309766763052/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-6号高盛首席：看好国内大厂资本开支放量。",
+      "url": "https://www.toutiao.com/video/7670875126350676524/",
       "publishTime": "",
       "type": "video"
     },
@@ -1515,24 +1527,47 @@
       ]
     },
     {
-      "title": "6-15号大摩最新闭门会：邢自强发言。",
-      "url": "https://www.toutiao.com/video/7651480417689764390/",
+      "title": "8年穿越牛熊，这位“期货东邪”在赌什么？ #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7670947047323009062/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "热心轮船q0",
-          "askText": "@豆包 总结一下",
-          "doubaoReply": "6月15日邢自强在大摩闭门会上分析，近期全球市场震荡剧烈，AI相关的半导体、存储等赛道前期资金扎堆，大量杠杆资金涌入让交易极度拥挤，美国就业、通胀数据变化引发市场对美联储收紧货币政策的预期，进而出现资金踩踏。美国科技巨头AI投入规模持续走高，庞大的融资需求催生大量IPO与发债，对市场形成资金分流压力，叠加美联储迎来主席换届，利率波动风险进一步加大。他判断美国通胀顽固、经济韧性较强，此前降息存在偏差，美联储短期不会再度降息，而霍尔木兹海峡航运、伊朗制裁等地缘因素，也让油价走势充满变数。当下部分制造业出现回流欧美的趋势，海外AI投资过热同样隐患重重。国内新出台的对外投资新规，将居民个人纳入监管范畴，旨在规范跨境投资，为国内资本流动、汇率及货币政策保留自主空间，同时借助南向通巩固香港金融中心地位，支持企业合规出海。政策也偏向扶持吸纳就业、具备创新模式的企业，以此应对AI带来的就业替代问题，目前全球竞争核心集中在能源安全转型与AI两大领域。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7651499250450957108"
-        }
-      ]
+      "summary": ""
     },
     {
-      "title": "万亿富豪马斯克：为什么他能成功？解读成功底层逻辑",
-      "url": "https://www.toutiao.com/video/7651461123008004646/",
+      "title": "台积电10亿美元苹果芯片堆在仓库等内存——DRAM缺到什么程 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7670937200729309220/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "房贷利率低至2.7%，让利背后藏压力 #房贷 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7670907788484345883/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7670881569221361705/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "宇树科技IPO高估值，成长预期已充分溢价 #上市公司大追踪 #宇树科技 #IPO",
+      "url": "https://www.toutiao.com/video/7670879213171245106/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7670875258961805362/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7670874024683323402/",
       "publishTime": "",
       "type": "video"
     },
@@ -1540,22 +1575,19 @@
       "title": "工信部发文洗牌民爆行业TOP10市占率目标70% 炸药厂也要 #民爆#上市公司大追踪",
       "url": "https://www.toutiao.com/video/7670850013655728171/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "362万台出口、109%增长——3D打印正在改写制造规则 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7670834092887736374/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "指数震荡 煤炭电子特气为何爆发和远气体2连板 电子特气国产替 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7670818896198893611/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "马斯克直言真相，戳破存储芯片的谎言 #上市公司大追踪 #存储 #美股",
@@ -2954,114 +2986,6 @@
       "type": "video"
     },
     {
-      "title": "外资集体转向中国AI，每天15亿块芯片，AI零部件已经不够分 #AI产业链#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7663787543019651107/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "一念",
-          "askText": "@豆包 他说的有哪些公司呀？",
-          "doubaoReply": "提到的相关公司有海光信息、寒武纪、北方华创、中微公司、沪硅产业、安集科技、浪潮信息、中科曙光、中际旭创、新易盛、天孚通信、沪电股份、深南电路、长电科技、通富微电。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7664126887794393910"
-        }
-      ]
-    },
-    {
-      "title": "推理负荷超过训练，算电协同换打法了，2万亿投资在路上 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7663779544222203956/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "青出于蓝",
-          "askText": "@豆包 整理一下",
-          "doubaoReply": "2026世界人工智能大会7月17日在上海开幕，国家能源局定调要加快构建新型能源体系赋能AI，“十五五”时期推理负荷将成为算力核心电力消耗。算电协同要从空间协同升级为多维协同，电源、电网、负荷需同步布局：电源端配气电、抽蓄这类毫秒级响应设备，配套海上风电与海缆；电网端靠构网型储能、智能调度保障电力平稳输送；负荷端核心是核心节点、合规的园区级数据中心。这个赛道总投资约2万亿，十五五年复合增速42%，行业逻辑已从单纯发展绿电转成三者一体化统筹。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7663805972888584970"
-        },
-        {
-          "askUser": "青出于蓝",
-          "askText": "@豆包 整理一下",
-          "doubaoReply": "按三个环节给你梳理好啦\n电源端有东方电气、南网储能、东方电缆、阳光电源这些，负责匹配算力波动、供给稳定电力\n电网端核心是国电南瑞，还有特变电工、特锐德等，做智能调度和电力平稳输送\n负荷端核心是润泽科技，还有协鑫能科、深桑达A这类核心节点的智算园区标的\n以上仅为行业梳理，不构成投资建议哦",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7663806797794902811"
-        }
-      ]
-    },
-    {
-      "title": "35.5%世界纪录，钙钛矿逼近量产，普通光伏交税，钙钛矿免税 #钙钛矿#叠层#砷化镓#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7663771175461650486/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "5GWh欧洲大单落地，钠电出海了，负极硬碳告急，电芯厂正在抢 #钠电池#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7663751358042964031/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "正极、负极、铝箔、电解液，谁卡住材料，谁就卡住增量 #钠离子电池#钠电池#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7663726866553339919/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "毛蛋蛋饼",
-          "askText": "有没有钾电池@豆包",
-          "doubaoReply": "有钾离子电池哦，目前还处在实验室基础研发阶段，没有量产产品，和已经规模化的钠电池差距很大，短期三五年都不具备商用条件😉",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7663894920335770374"
-        }
-      ]
-    },
-    {
-      "title": "7月全球首条全固态电池量产线正式投产 #上市公司大追踪#固态电池",
-      "url": "https://www.toutiao.com/video/7663717475159556106/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "lee136340619",
-          "askText": "@豆包 总结一下视频里产业链公司",
-          "doubaoReply": "固态电池产业链相关企业汇总：电芯分三条技术路线，氧化物路线核心是清陶能源、卫蓝新能源，是国内半固态量产龙头，已配套蔚来、上汽等车型；硫化物路线头部有宁德时代，7月投产了全球首条全固态量产线，还有赣锋锂业，是国内唯一覆盖三条路线的企业；聚合物路线多家材料与电池企业在同步研发配套。上游核心材料里，硫化锂供应商有光华科技、多氟多、天赐材料、厦钨新能、赣锋锂业；固态专用高镍三元正极由容百科技、当升科技、华友钴业提供。设备端核心厂商有先导智能、利元亨等，当前赛道已有超500亿产业资本流入，9月起固态电池将免征消费税，全产业链正迎来扩张周期。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7663867322666943268"
-        }
-      ]
-    },
-    {
-      "title": "出海的不只是模型，是整套中国AI体系。这波AI出海，谁先接到 #人工智能大会#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7663700855443701795/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "乐石轩2017",
-          "askText": "@豆包 总结一下有什么股票",
-          "doubaoReply": "这些是相关受益标的（信息仅供参考，不构成投资建议哦）：\n1跨境数据相关：人民网、海天瑞声、世纪恒通\n2海外智算硬件：中兴通讯、拓维信息、浪潮信息、工业富联等\n3绿色算力配套：英维克、中际旭创、协鑫能科、特变电工等\n4AI应用出海：拓尔思、科大讯飞、海康威视、大华股份等\n5安全类：奇安信、深信服、绿盟科技\n都是围绕数据、算力、应用、安全四大方向的相关企业。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7663754877147185930"
-        },
-        {
-          "askUser": "坦荡的柑桔4T8",
-          "askText": "@豆包 大模型占领市场快吗？",
-          "doubaoReply": "大模型占领市场的速度是分化的~ 线上轻量服务扩张很快，半年到一年就能积累不少海外用户，而本地化全链路落地得2-5年，是中长期的事😉",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7663740919195468594"
-        }
-      ]
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -3843,6 +3767,13 @@
       "type": "video"
     },
     {
+      "title": "8.6",
+      "url": "https://www.toutiao.com/video/7670878550840819752/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
       "title": "8.5",
       "url": "https://www.toutiao.com/video/7670322228097253403/",
       "publishTime": "",
@@ -3860,8 +3791,7 @@
       "title": "8.2",
       "url": "https://www.toutiao.com/video/7669615645588471849/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "8.1",
@@ -5076,12 +5006,6 @@
     {
       "title": "1.7",
       "url": "https://www.toutiao.com/video/7592391042154889235/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "1.6",
-      "url": "https://www.toutiao.com/video/7592029619151503402/",
       "publishTime": "",
       "type": "video"
     },
