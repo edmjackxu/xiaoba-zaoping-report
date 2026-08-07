@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-07T07:06:25.793Z",
+  "checkTime": "2026-08-07T11:06:28.388Z",
   "articles": [
     {
       "title": "",
@@ -565,6 +565,12 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-7号大摩闭门会：半年报业绩速评及云端资本支出更新",
+      "url": "https://www.toutiao.com/video/7671235977045787138/",
       "publishTime": "",
       "type": "video"
     },
@@ -1503,49 +1509,43 @@
       "type": "video"
     },
     {
-      "title": "6-15号大摩最新闭门会：股票首席Laura发言",
-      "url": "https://www.toutiao.com/video/7651499372529713714/",
+      "title": "芯片出口暴涨99.5%！谁在买单？谁在赚钱？一文拆解 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7671202817540882432/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "认知回归",
-          "askText": "@豆包 总结提炼一下",
-          "doubaoReply": "6月15日大摩闭门会股票首席Laura分享的核心观点：1. 全球波动加剧时，中国市场大概率跑赢全球，但难有巨量资金流入，外资更倾向降风险；2. 美股年底标普500看至8000点，短期调整属健康回调；3. 产业聚焦AI、mini max等新赛道，科技回调是健康重置，AI基建将带动存储等产业链上行；4. 策略上短期避高估值题材，中长期关注算力、储能等政策扶持赛道，建议配置向A股倾斜哦～以上是外资机构观点，不构成投资建议哈",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7651556398895465254"
-        },
-        {
-          "askUser": "分秒必争春风fN",
-          "askText": "@豆包 总结一下",
-          "doubaoReply": "6月15日大摩闭门会股票首席Laura分析：外资今年多流向日韩台，A股主动资金持续流出，5月南下资金转负。全球波动时A股相对占优，但外资更倾向减持高风险股票，难有巨量流入，风险资产情绪依赖美股稳定。中长期看标普500年底或到8000点，短期下跌是健康回调；全球对冲基金半导体仓位近20%，高杠杆易受利率和地缘风险冲击，但美股盈利强劲，个股盈利净上调达26%。中美盈利预期差距明显，国内分析师上调下调数量基本持平，修复动能停滞。美国AI生态完整成本优势突出，国内能带动新兴产业但外资布局意愿低。外资新规短期影响有限，A股短期韧性强于港股，中长期港股有望修复，若两三个月内MiniMax等产业政策落地，市场环境会改善，新主线聚焦高端制造与创新科技。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7651582703099986740"
-        }
-      ]
+      "summary": ""
+    },
+    {
+      "title": "SK海力士大手笔扩产，存储产业链新博弈 #上市公司大追踪 #存储 #sk海力士",
+      "url": "https://www.toutiao.com/video/7671195703934517289/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "放量1356亿！反弹变反转了吗？ #收评 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7671188684732891142/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
     },
     {
       "title": "黄金单日暴涨四成，行情暗藏结构性变局 #上市公司大追踪 #黄金 #贵金属",
       "url": "https://www.toutiao.com/video/7671175128725602356/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "AI出口是亮点 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7671172472239800326/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "云南锗业4连板 磷化铟缺口有多大今晚非农数据 会影响周一A股 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7671138712127012873/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "硅料企业联合保价，光伏开启自救模式 #上市公司大追踪 #光伏",
@@ -2934,24 +2934,6 @@
     {
       "title": "高盛把目标价翻了一倍多，从382亿到1236亿，一年三级跳 #中际旭创#上市公司大追踪",
       "url": "https://www.toutiao.com/video/7664228344989663268/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "AI铜箔卖爆了，但产能卡住了，扩产之前，它只是一台满负荷机器 #铜冠铜箔#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7664221469669752832/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "智能汽车+AI手机双轮驱动，从10%到100%，只隔了一个季。#中科创达#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7664164598421356594/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "不卖机柜卖Token，常州模式一旦跑通，其他城市蜂拥跟进 #网宿科技#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7664150616494915634/",
       "publishTime": "",
       "type": "video"
     },
