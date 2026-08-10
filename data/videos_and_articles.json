@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-09T23:06:24.744Z",
+  "checkTime": "2026-08-10T04:06:24.558Z",
   "articles": [
     {
       "title": "",
@@ -1481,6 +1481,20 @@
       "type": "video"
     },
     {
+      "title": "研报催化板块大涨，PCB增量另有主线 #上市公司大追踪 #PCB",
+      "url": "https://www.toutiao.com/video/7672226548967014454/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "韩国股市暴涨2%！三星海力士带飞 #韩国股市 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7672211233898463258/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
       "title": "复产的拼图，已经拼上了最关键的两块。下一步只剩评审和批复。 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7672042562886385715/",
       "publishTime": "",
@@ -1491,15 +1505,13 @@
       "title": "英伟达Vera Rubin全面量产，一台机柜780万美元 钱都去哪了？#上市公司大追踪 #英伟达",
       "url": "https://www.toutiao.com/video/7672006069189083178/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "药明康德取得禁令，行业博弈仍未落幕 #上市公司大追踪 #药明康德",
       "url": "https://www.toutiao.com/video/7671947265545142291/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "10万张芯片连成一台巨型计算机，全人类算200年，第二套已在 #上市公司大追踪",
@@ -2808,54 +2820,6 @@
       "type": "video"
     },
     {
-      "title": "财报季，芯片股分水岭，业绩分化阶段到了 #芯片#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7665012340256931840/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "智者文具盒7v5",
-          "askText": "@豆包 长线资金何时入场？",
-          "doubaoReply": "长线资金目前还没批量入场，要等8月核心公司财报验证基本面、投机仓位充分出清之后，现在别盲目追反弹哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7665075165306946310"
-        },
-        {
-          "askUser": "风趣梦想9j",
-          "askText": "@豆包 后续半导体咋发展呢？",
-          "doubaoReply": "短期会有阶段性技术性修复，中长期会剧烈分化，财报季就是分水岭啦，别无脑抄底，优先选有真实业绩支撑的硬核公司就好😉",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7665036419236283177"
-        },
-        {
-          "askUser": "友爱远山4N",
-          "askText": "@豆包 长线资金何时入场？",
-          "doubaoReply": "目前还没有长线资金大规模入场哦，得等8月英伟达财报验证、筹码和业绩落地后，才会分批布局优质标的，仅供参考不构成投资建议😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7665007337996518178"
-        }
-      ]
-    },
-    {
-      "title": "从-7%到涨停！紫光股份17个点惊天逆转谁导演的？ #紫光股份#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7664999681084768292/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "马伟",
-          "askText": "@豆包 机构后续还会加仓吗？",
-          "doubaoReply": "短期机构会有分歧，中长期有业绩支撑偏积极，后续要看板块和股价波动，以上仅为逻辑推演，不构成投资建议😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7665119334373245705"
-        }
-      ]
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -3637,6 +3601,20 @@
       "type": "video"
     },
     {
+      "title": "8.10",
+      "url": "https://www.toutiao.com/video/7672223668202569768/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "8.10",
+      "url": "https://www.toutiao.com/video/7672183383409033222/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
       "title": "8.8",
       "url": "https://www.toutiao.com/video/7671477487175467059/",
       "publishTime": "",
@@ -3647,15 +3625,13 @@
       "title": "8.7",
       "url": "https://www.toutiao.com/video/7671110782089248822/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "8.6",
       "url": "https://www.toutiao.com/video/7670878550840819752/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "8.5",
@@ -4864,18 +4840,6 @@
     {
       "title": "1.15",
       "url": "https://www.toutiao.com/video/7595512512621330470/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "1.14",
-      "url": "https://www.toutiao.com/video/7595050821462655018/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "1.11",
-      "url": "https://www.toutiao.com/video/7593945284778917940/",
       "publishTime": "",
       "type": "video"
     },
