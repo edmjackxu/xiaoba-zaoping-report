@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-11T11:06:26.675Z",
+  "checkTime": "2026-08-11T23:06:25.785Z",
   "articles": [
     {
       "title": "",
@@ -565,6 +565,18 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-11洪灝：宇树上市8000倍超额认购，是科技点火还是暴跌的开始",
+      "url": "https://www.toutiao.com/video/7672729576056881722/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-11号邢自强最新访谈：下半年机会展望。",
+      "url": "https://www.toutiao.com/video/7672727436974440962/",
       "publishTime": "",
       "type": "video"
     },
@@ -1451,32 +1463,77 @@
       "type": "video"
     },
     {
-      "title": "6/17号洪灏最新英文采访：美股还有新高，港股还有新",
-      "url": "https://www.toutiao.com/video/7653280523783029257/",
+      "title": "固态电池峰会开幕，正式走进量产时代 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7672792110642233379/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "叶生说盘",
-          "askText": "@豆包 总结",
-          "doubaoReply": "洪灏6月17日采访核心观点：美股后续有新高，港股还将刷新低点。美联储维持利率不变但撤销降息倾向，市场押注年内加息；他说若加息因经济提速、AI提升效率、通胀缓和就不打压股市，滞胀环境加息才会重创市场。美联储缩表推升短期利率，是当日市场抛售主因。美股靠AI赛道支撑，全年规模破万亿且扩张，技术红利体现经济韧性，加息难扭转趋势，美元走强也依托长期利率技术支撑。反观港股及内地，地缘冲突后领先指标走弱，PPI承压，需求疲软；消费集中服务零售，新能源车便宜但耐用品无持续动力，内需修复有限，港股估值低但AI布局难对冲压力，仍有下探空间。",
-          "doubaoUser": "豆包",
-          "diggCount": 1,
-          "replyId": "7653270581228061481"
-        },
-        {
-          "askUser": "高地山人",
-          "askText": "@豆包 please summarise in English",
-          "doubaoReply": "This passage summarizes Hong Hao’s viewpoints from his June 17 English interview, focusing on Fed policies, US-Hong Kong stock divergences, US economic drivers and macro pressures. His core judgment: US stocks may hit new highs while Hong Kong stocks could see new lows. \nThe Fed kept rates unchanged but dropped rate-cut bias; markets price high odds of rate hikes before year-end. Hong argues hikes reflect strong US economy—growth accelerating, AI boosting productivity, inflation manageable. Recent stock sell-off stemmed from Fed's balance sheet reduction plan, pushing short-term rates up 15-17 basis points and causing bond market swings. Rising long-term rates and technical support strengthened the dollar. \nUS AI investment will exceed $1 trillion this year, underpinning equities. In contrast, Hong Kong stocks stay weak. Geopolitical conflicts add inflationary pressures; consumer service/retail spending rises but EV sales are distorted by base effects. Weak leading indicators pressure mainland enterprises' PPI and outlook.",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7653521824047285035"
-        }
-      ]
+      "summary": ""
     },
     {
-      "title": "投资女王徐新：投资是靠认知赚钱的。",
-      "url": "https://www.toutiao.com/video/7652916607517344307/",
+      "title": "80家企业涨价，LED行业变天 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7672789254678708224/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7672787551761448960/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "国民技术MCU涨价，跟随者变成定义者 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7672787029284880424/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "中国算力大会 9月11号开幕！ #上市公司大追踪 #算力",
+      "url": "https://www.toutiao.com/video/7672781481744039977/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "特斯拉8月启动，人形机器人产线 #特斯拉 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7672779044043784192/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "美股开盘暗流涌动，英伟达大动作 #上市公司大追踪 #美股 #英伟达",
+      "url": "https://www.toutiao.com/video/7672770605690650687/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7672766381322371118/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "行云科技暴跌10%，算力卡被卡在海关？ #上市公司大追踪 #行云科技",
+      "url": "https://www.toutiao.com/video/7672743743312642090/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "25省78次创新高，AI改写用电规律 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7672740435883114530/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "三星海力士亲自下场，搞光刻工艺 #上市公司大追踪 #三星 #海力士",
+      "url": "https://www.toutiao.com/video/7672737945107300358/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "上海发布软件和，信息十五五规划 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7672726341943574562/",
       "publishTime": "",
       "type": "video"
     },
@@ -1484,22 +1541,19 @@
       "title": "全球燃机订单大增七成，AI带动产业爆发 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7672691917307543592/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "MLCC与机器人走强，赛道走势冰火分化 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7672669205660958772/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "恒生科技大幅修订，摆脱单一标签束缚 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7672654334798397483/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "日本禁机床出口，国产替代爆发 #上市公司大追踪",
@@ -2660,116 +2714,6 @@
     {
       "title": "如果出现这种情况，一般不是什么好事~~ #长鑫科技#上市公司大追踪",
       "url": "https://www.toutiao.com/video/7667051282842320915/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "低估了可以买！ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666839374617739283/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "腾讯200亿、字节474亿，互联网巨头正在抢长鑫的产能 #长鑫科技#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666810633681928230/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "#无人机 #台风 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666715542048538650/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "2GW数据中心、HBM4、自动驾驶，韩国变成美国AI的供应商 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666325450075914255/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "元气阳光Sv",
-          "askText": "@豆包 自动驾驶合作进展咋样？",
-          "doubaoReply": "目前双方已经敲定联合研发L4级自动驾驶乘用车，会把英伟达的车载AI算力方案装到现代、起亚的所有量产车型，还会建专门的数据中心来训练算法，整个自动驾驶产业链已经深度绑定啦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7666355168505578291"
-        },
-        {
-          "askUser": "端庄优雅明月I1w",
-          "askText": "@豆包 数据中心何时能满负荷？",
-          "doubaoReply": "SK电讯的2GW AI数据中心2028年下半年就能满负荷运行，全球主流新建AI数据中心普遍满负荷要到2030年前后哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7666327488213533475"
-        }
-      ]
-    },
-    {
-      "title": "车载操作系统和中间件，智能驾驶链，成为特斯拉的生态 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666261475476848646/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "一副眼镜加一枚芯片，首次大规模推向患者，看不见的人能重新看见 #脑机接口#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666257700317528099/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "制造业的茅苔出来了！从成长转为价值！ #宁德时代#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666074690074787855/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "德明利第五大股东爆仓，从980到400，锁仓锁不住周期担忧 #德明利#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666055866302332938/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "隔夜逆回购再登场，央行的工具箱正在变精细，不是放水，是“削峰 #上市公司大追踪#隔夜逆回购",
-      "url": "https://www.toutiao.com/video/7666044238823424038/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "灰色地带999",
-          "askText": "@豆包 这次操作影响股市大吗？",
-          "doubaoReply": "对股市短期有明显托底效果，能稳定市场情绪、对冲月末资金压力，不过中长期拉动力有限，不会改变市场中期走势哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7666216702279058226"
-        }
-      ]
-    },
-    {
-      "title": "被管制的买不到东西了，但另一批企业可能接到订单 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666034995349979172/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "被管制的买不到东西了，但另一批企业可能接到订单 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666032764441788468/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "某位药屋少女",
-          "askText": "@豆包 订单会流向哪些企业？",
-          "doubaoReply": "订单主要流向两大方向：一是国内具备自主可控能力的本土企业，覆盖半导体精密仪器、激光红外装备、稀土特种材料、高端电机等多个赛道的相关企业；二是海外合规第三方实体，包括欧盟未受限企业、日韩东南亚等地区的合规采购商😊",
-          "doubaoUser": "豆包",
-          "diggCount": 1,
-          "replyId": "7666143110707381046"
-        }
-      ]
-    },
-    {
-      "title": "动念头那一刻就开始计时了内幕交易时间差游戏终结 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7666017878907551759/",
       "publishTime": "",
       "type": "video"
     },
