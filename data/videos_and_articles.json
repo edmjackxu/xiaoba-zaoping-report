@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-10T23:06:24.711Z",
+  "checkTime": "2026-08-11T04:06:23.962Z",
   "articles": [
     {
       "title": "",
@@ -1481,25 +1481,49 @@
       "type": "video"
     },
     {
-      "title": "英伟达30亿买电、马斯克要造光刻机、苹果成本暴涨38%——A #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7672416680421097506/",
+      "title": "创业板小幅走高，MLCC溢价抢筹 #上市公司大追踪 #创业板",
+      "url": "https://www.toutiao.com/video/7672615171555819554/",
       "publishTime": "",
       "type": "video",
       "summary": ""
+    },
+    {
+      "title": "多只新股集体走强，释放市场全新信号 #上市公司大追踪 #打新",
+      "url": "https://www.toutiao.com/video/7672606809542443014/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "GPU功耗持续飙升，固态变压器迎来机遇 #上市公司大追踪 #变压器",
+      "url": "https://www.toutiao.com/video/7672590850481422374/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "光通大跌存储走强，美股赛道剧烈分化 #美股 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7672569380735025178/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "英伟达30亿买电、马斯克要造光刻机、苹果成本暴涨38%——A #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7672416680421097506/",
+      "publishTime": "",
+      "type": "video"
     },
     {
       "title": "分享视频",
       "url": "https://www.toutiao.com/video/7672400079705440298/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "分享视频",
       "url": "https://www.toutiao.com/video/7672389295466151987/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "上市首日就能做空，港交所给中际旭创配齐了所有工具 #上市公司大追踪#中际旭创",
@@ -2750,40 +2774,6 @@
       "type": "video"
     },
     {
-      "title": "关税到期不消失，美国换了个壳继续收，12.5%替代10% #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7665873280082919487/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "R32一年涨60%，制冷剂创十年新高，Q3长协价已涨4.66 #制冷剂#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7665867979041964051/",
-      "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "羽一隹",
-          "askText": "@豆包 下游厂商需求会降吗？",
-          "doubaoReply": "不会整体下降哒，只是存在冷媒品类的结构性切换，短中长期的需求都有明确支撑，下游采购整体在放量~😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7665931863659135782"
-        }
-      ]
-    },
-    {
-      "title": "收盘后甩出100亿，明天怎么接，220亿资本开支，压得住吗 #鹏鼎控股#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7665689989292195874/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "1万亿打底，3万亿合理，5万亿可期，一签赚2万还是3万？ #长鑫科技#新股上市#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7665688276061618212/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -3565,6 +3555,13 @@
       "type": "video"
     },
     {
+      "title": "8.11",
+      "url": "https://www.toutiao.com/video/7672567581118562344/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
       "title": "8.10",
       "url": "https://www.toutiao.com/video/7672223668202569768/",
       "publishTime": "",
@@ -3582,8 +3579,7 @@
       "title": "8.8",
       "url": "https://www.toutiao.com/video/7671477487175467059/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "8.7",
@@ -4798,12 +4794,6 @@
     {
       "title": "1.16",
       "url": "https://www.toutiao.com/video/7595901457594695707/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "1.15",
-      "url": "https://www.toutiao.com/video/7595512512621330470/",
       "publishTime": "",
       "type": "video"
     },
