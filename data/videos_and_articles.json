@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-12T11:06:25.948Z",
+  "checkTime": "2026-08-12T23:06:24.968Z",
   "articles": [
     {
       "title": "",
@@ -565,6 +565,18 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-12号高盛：AI去杠杆近尾声，资金转向互联网",
+      "url": "https://www.toutiao.com/video/7673131219944571436/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-13号付鹏最新访谈:AI泡沫怎解？普通人如何面对股市？",
+      "url": "https://www.toutiao.com/video/7673205750289859116/",
       "publishTime": "",
       "type": "video"
     },
@@ -1441,24 +1453,77 @@
       ]
     },
     {
-      "title": "6-22号大摩最新闭门会：能源风险缓解，政策风险上升？",
-      "url": "https://www.toutiao.com/video/7654082656249987630/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7673278220099289123/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "天涯秋瞑",
-          "askText": "@豆包 请将语音转文字",
-          "doubaoReply": "各位投资者朋友，周一上午好，欢迎来到大摩每周一度的宏观策略谈。我是中国分析师蔡志鹏，邢总这一周在海外路演，所以本次会议由我代班主持。这周我们主要聚焦于海外和中国政策的一些变化。上周发生了两件对全球经济流动性和风险溢价意义深远的事件，一方面是美以的临时谅解备忘录，它是否足以压低能源和地缘风险溢价？另一方面，美联储在六月的FOMC会议上释放了偏鹰派信号。\n中国方面，四五月经济数据开始走弱，特别是K型分化进一步加剧。邢总过去两周参加了体制内研讨会，我们要研判下一步政策走向。今天请到首席策略师劳软，他会分析海内外流动性预期变化、国内经济分化背景下如何布局股票投资。还请到亚洲资深经济学家Derek，探讨亚洲或全球投资超级周期被原油冲击扰动后，下半年节奏及亚洲经济是否会随原油冲击缓释走高。最后请到汽车行业首席Tim，他上周和全球同事合作发布了中国车企出海报告，今天会详细介绍新能源车全球面临的挑战。\n从海外讲，六月FOMC最重要的不是利率政策按兵不动（市场已有充分预期），而是会后声明变短、前瞻指引减少，货币政策重心转向仍高于2%目标的通胀水平，可称为“鹰派的按兵不动”，会后用三件事表达鹰派取向：一是声明语言简短坚决；二是预测点阵图及通胀预测较之前FOMC会议上移；三是发布会将政策反应函数聚焦通胀，沃勒主席强调美联储有能力和承诺把通胀带回2%，“inflation is a choice”（通胀是政策选择）值得核心理解，不是说通胀易控制，而是美联储对通胀长期偏离目标的容忍度不高，即使部分原因外生，只要通胀路径不让美联储放心，短期宽松不急，甚至可能保留收紧选项。\n我们和市场对美联储政策前景的分歧在通胀预测。市场愿交易点阵图鹰派变化和加息风险，但我们觉得信号需打折看，原因有二：一是这次点阵图中新主席沃勒提交预测，若他预测维持利率不变且被纳入，点阵图中位数未必那么鹰派；二是FOMC通胀预测路径可能偏高，委员上修了2026年PCE尤其是核心PCE预测，但我们判断未来几个月通胀数据未必沿高路径运行。美国经济团队认为下半年核心通胀有下行力量，包括油价下行带动旅行交通机票价格反向修复、核心通胀季节性残余影响数据放缓、关税向商品传导接近尾声致核心商品通胀难维持高位。预计年底后核心PCE通胀月度环比中枢平均0.17%，年化2%，已在美联储通胀目标上下，而美联储点阵图隐含的预期是...",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7654180450185249563"
-        }
-      ]
+      "summary": ""
     },
     {
-      "title": "6-21号洪灏瑞士宝盛月度对话： 科技板块的的分化之路",
-      "url": "https://www.toutiao.com/video/7653851399255556635/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7673275667437338659/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7673184163662397474/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7673179134465409060/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "华为韬定律#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673172645705154587/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "手机长出了“手”，荣耀9999元的机器人手机到底能干嘛？ #荣耀#Robot Phone#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673171643446853672/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "国新办明天发布会，生态环境法典来了 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673163891220447267/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "手机长出了“手”，荣耀9999元的机器人手机到底能干嘛？ #荣耀#Robot Phone#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673162999772790824/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "华为Mate90九月发，韬定律芯片首秀 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673160501778219051/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "美国抢先手，算力挂钩美元 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673157827502096422/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "云母提锂攻克难题，大幅提升回收率 #上市公司大追踪 #锂电",
+      "url": "https://www.toutiao.com/video/7673152310498983962/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7673130546776784896/",
       "publishTime": "",
       "type": "video"
     },
@@ -1466,22 +1531,19 @@
       "title": "SpaceX抛出宏大目标，太空AI蓝图待验证 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7673093072733634594/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "腾讯现金流转为负值，剔除数据方见真相 #上市公司大追踪 #腾讯",
       "url": "https://www.toutiao.com/video/7673086501035540534/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "央行投放六千亿逆回购，并非传统大水放水 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7673083590900465727/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "阿里云上线超节点，国产算力弯道提速 #上市公司大追踪",
@@ -2588,78 +2650,6 @@
       "type": "video"
     },
     {
-      "title": "传智教育3连板背后，职业教育增补27个新专业 #职业教育#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7667791025418534962/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7667738014654988330/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "今天存储又有变数 #海力士#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7667731412799684617/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "白天跌16%，晚上紧急澄清，600美元传言，真相是什么 #中际旭创#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7667700565086601257/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "A股今天稳了？反弹还要看韩国？ #希捷科技#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7667692510184996870/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "盘后影响更大，偏利好 #希捷科技#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7667691372345819136/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "闪迪腰斩、铠侠暴跌60%、韩国熔断！存储芯片到底怎么了？ #存储 #上市公司大追踪 #半导体",
-      "url": "https://www.toutiao.com/video/7667601529896960036/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "#上市公司大追踪 #利好",
-      "url": "https://www.toutiao.com/video/7667600160843071539/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "京东方暴跌41%，大股东出手了10亿增持，信号比钱重 #上市公司大追踪 #京东方  1. 京东方暴跌41%，大股东出手了 2. 10亿增持，信号比钱重要 3. 5.58元的京东方，贵不贵 4. 面板周期见底，还是半山腰 5. OLED+玻璃基板，两张牌怎么打",
-      "url": "https://www.toutiao.com/video/7667594955900059711/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7667593772381208612/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "#长鑫存储",
-      "url": "https://www.toutiao.com/video/7667590079501910042/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7667588383595298868/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -3441,6 +3431,13 @@
       "type": "video"
     },
     {
+      "title": "8.13 #印尼 #日惹 #中芭朗天坑 #丁达尔效应",
+      "url": "https://www.toutiao.com/video/7673271698946261055/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
       "title": "8.11",
       "url": "https://www.toutiao.com/video/7672567581118562344/",
       "publishTime": "",
@@ -3458,8 +3455,7 @@
       "title": "8.10",
       "url": "https://www.toutiao.com/video/7672183383409033222/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "8.8",
@@ -4674,12 +4670,6 @@
     {
       "title": "1.18  加油",
       "url": "https://www.toutiao.com/video/7596523206823903270/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "1.16",
-      "url": "https://www.toutiao.com/video/7595901457594695707/",
       "publishTime": "",
       "type": "video"
     },
