@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-13T11:06:27.814Z",
+  "checkTime": "2026-08-13T23:06:25.909Z",
   "articles": [
     {
       "title": "",
@@ -565,6 +565,24 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-13号洪灏最新访谈：中国AI行情进入第二阶段",
+      "url": "https://www.toutiao.com/video/7673651671536501292/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-12号广发首席：拥抱AI算力新材料黄金周期。",
+      "url": "https://www.toutiao.com/video/7673497419136516631/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-13号西部首席：房地产已见底，有多倍涨幅",
+      "url": "https://www.toutiao.com/video/7673474734574682647/",
       "publishTime": "",
       "type": "video"
     },
@@ -1425,53 +1443,103 @@
       ]
     },
     {
-      "title": "6-23号洪灏英文：资金大轮动即将开启，两个月后老登股行情将启动",
-      "url": "https://www.toutiao.com/video/7654517831308018212/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "6-22号大摩最新闭门会:股票首席Laura分享",
-      "url": "https://www.toutiao.com/video/7654378943396086310/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "6-22号华创闭门会：张瑜：中美央行新框架。",
-      "url": "https://www.toutiao.com/video/7654211502089486894/",
+      "title": "中国电力系统正在从“煤电当家”变成“绿电+算力协同当家” #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673654074671923215/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "快意逐浪",
-          "askText": "@豆包 总结一下内容要点",
-          "doubaoReply": "华创证券6.22闭门会由张瑜主讲，核心内容围绕中美货币政策框架变革等展开。美联储后续议息声明将精简并删除前瞻指引，联邦基金利率中值不低于3.5%，还会复盘金融监管政策。国内以DR001为资金价格核心锚，收窄波动区间，多工具并行引导贷款利率，后续计划推隔夜DR工具。美股AI七巨头2026年资本开支或达7000-8000亿美金，四家云服务商现金流难覆盖支出，外部融资成刚需，当前五大信用指标健康但无法预判股价拐点。A股上证指数单周涨1.46%，煤炭、银行等板块领涨，地产消费短期承压，长期看好恒生指数。宏观上，央行政策框架重构或抬升资产波动率，原油供给恢复至1300万桶/日。",
-          "doubaoUser": "豆包",
-          "diggCount": 1,
-          "replyId": "7654512811355800330"
-        }
-      ]
+      "summary": ""
+    },
+    {
+      "title": "闪迪狂飙百分之十三，存储逻辑变了 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673651350239969314/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7673648432674209792/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7673648263970422836/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7673648136133394466/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "一百三十六个万兆光网试点、二零二九年6G落地——通信网正在加 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673552338975457316/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "年轻人不为“便宜”买单，为“心价比”买单 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673552046707982390/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "中国药企的生产质量体系通过了全球最严苛市场的验证” #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673551211479760937/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "中际旭创十七亿入股中石科技，光模块散热卡位战打响 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673550205421912099/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "中国电力系统正在从“煤电当家”变成“绿电+算力协同当家” #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673549472333774888/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "订单远期爆满，折射基建真实景气 #上市公司大追踪 #光模块",
+      "url": "https://www.toutiao.com/video/7673505767684915251/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "万兆光网落地，新通信建设提速 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673501256375074856/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7673467633479958591/",
+      "publishTime": "",
+      "type": "video"
     },
     {
       "title": "万亿逆回购落地｜锁短放长成主线 #上市公司大追踪 #央行",
       "url": "https://www.toutiao.com/video/7673456944749019177/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "长鑫市值登顶｜资本市场逻辑重塑 #上市公司大追踪 #长鑫",
       "url": "https://www.toutiao.com/video/7673452054253158436/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "中芯营收新高｜半导体量价齐升 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7673448085805678655/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "市场放量下挫，多数个股遭遇杀跌 #上市公司大追踪",
@@ -2568,84 +2636,6 @@
     {
       "title": "分享视频",
       "url": "https://www.toutiao.com/video/7668446664193949723/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "昨天ICU今天KTV，存储芯片一夜翻盘，三颗信号弹同时升空 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7668323581567926306/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7668318691620683816/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "三季度降息降准？ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7668316352340557834/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7668308759122608137/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7668245994517053490/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "597亿天量对决 中际旭创发生了什么，创业板跌4% 国家队托 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7668241700276191258/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7668168651589353508/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "工行建行创新高 银行才是永远的神，6456亿分红 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7668165202521063433/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "美联储：你跌你的，我不管 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7668080951637606463/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "不用等半年了，国际大牌新品中国同步上，口红不用每支都测 #上市公司大追踪  动物试验有条件减免，国货品牌抢跑新品赛道",
-      "url": "https://www.toutiao.com/video/7667970420339179572/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "宁德时代在说“2027年小批量”，比亚迪在说“400Wh/k #上市公司大追踪#固态电池",
-      "url": "https://www.toutiao.com/video/7667967116389122111/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "日本地震，A股半导体反而笑了？车规芯片现货要涨价5%到15% #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7667964300400885800/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "今夜美联储“史上最难猜”决议！加息概率从13%飙到30%，市 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7667956250098024454/",
       "publishTime": "",
       "type": "video"
     },
