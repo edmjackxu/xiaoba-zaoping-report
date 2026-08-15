@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>小八早评 - 精选股票</title>
+  <link rel="stylesheet" href="css/style.css?v=20260816">
+  <style>
+    /* 精选股票专页样式（主题色：紫，参考 video-content-to-text 的 AI 卡片） */
+    .selected-stocks .item {
+      border-color: rgba(114, 46, 209, 0.4);
+      background: rgba(114, 46, 209, 0.05);
+    }
+    .selected-stocks .item:hover {
+      border-color: rgba(114, 46, 209, 0.7);
+      box-shadow: 0 8px 25px rgba(114, 46, 209, 0.15);
+    }
+    .selected-stocks .item-link {
+      color: #b388ff;
+      background: rgba(114, 46, 209, 0.1);
+      border-color: rgba(114, 46, 209, 0.3);
+    }
+    .selected-stocks .item-link:hover {
+      background: #722ed1;
+      color: #fff;
+    }
+    .badge-stock {
+      background: rgba(114, 46, 209, 0.2);
+      color: #b388ff;
+    }
+    .stock-code {
+      color: #b388ff;
+      font-family: monospace;
+      margin-right: 6px;
+    }
+
+    /* 千问总结卡片（默认展示 summary，与视频转录页 AI 总结同风格） */
+    .summary-card {
+      margin-top: 10px;
+      padding: 14px;
+      background: rgba(114, 46, 209, 0.1);
+      border-left: 4px solid #722ed1;
+      border-radius: 8px;
+    }
+    .summary-header {
+      font-weight: bold;
+      color: #b388ff;
+      margin-bottom: 6px;
+      font-size: 0.9em;
+    }
+    .summary-content {
+      color: #d3bcff;
+      font-size: 0.92em;
+      line-height: 1.7;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    /* 千问总结全文折叠 */
+    .analysis-details {
+      margin-top: 10px;
+    }
+    .analysis-details summary {
+      cursor: pointer;
+      color: #888;
+      font-size: 0.88em;
+      padding: 8px 0;
+      user-select: none;
+    }
+    .analysis-details summary:hover {
+      color: #b388ff;
+    }
+    .analysis-content {
+      margin-top: 8px;
+      padding: 12px;
+      background: rgba(0,0,0,0.2);
+      border-radius: 8px;
+      color: #ccc;
+      font-size: 0.9em;
+      line-height: 1.8;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    /* 来源列表 */
+    .sources-section {
+      margin-top: 12px;
+    }
+    .sources-title {
+      color: #999;
+      font-size: 0.88em;
+      font-weight: bold;
+      margin-bottom: 6px;
+    }
+    .source-item {
+      padding: 8px 10px;
+      margin-top: 6px;
+      background: rgba(0,0,0,0.2);
+      border-radius: 8px;
+      font-size: 0.88em;
+    }
+    .source-item a {
+      color: #6bcb77;
+      text-decoration: none;
+    }
+    .source-item a:hover {
+      text-decoration: underline;
+    }
+    .source-meta {
+      color: #777;
+      font-size: 0.9em;
+      margin-top: 3px;
+    }
+    .source-point {
+      color: #aaa;
+      margin-top: 4px;
+      line-height: 1.6;
+    }
+
+    /* 空状态 */
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: #666;
+      line-height: 2;
+    }
+    .empty-state .empty-icon {
+      font-size: 3em;
+      display: block;
+      margin-bottom: 10px;
+    }
+    .empty-state code {
+      background: rgba(114, 46, 209, 0.15);
+      color: #b388ff;
+      padding: 2px 8px;
+      border-radius: 6px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container selected-stocks">
+    <!-- Header -->
+    <div class="header">
+      <h1>📈 小八早评 · 精选股票</h1>
+      <div class="meta" id="meta-container">加载中...</div>
+      <div class="nav-links">
+        <a href="index.html">📋 全部内容</a>
+        <a href="doubao.html">🤖 豆包回复</a>
+        <a href="video-content-to-text.html">📝 视频转录</a>
+        <a href="selected-stocks.html" class="active">📈 精选股票</a>
+      </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats" id="stats-container">
+      <div class="stat-item"><div class="number">-</div><div class="label">📈 精选股票</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">📺 来源视频</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">🤖 千问总结</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">📊 总计</div></div>
+    </div>
+
+    <!-- Content -->
+    <div id="content-container">
+      <div class="loading">加载中...</div>
+    </div>
+
+    <!-- 空状态提示（数据为空时显示） -->
+    <div class="empty-state" id="empty-state" style="display: none;">
+      <span class="empty-icon">📈</span>
+      暂无千问股票总结<br>
+      运行 <code>import-stocks.sh --use-qwen</code> 生成精选股票数据
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      自动生成 - 小八早评系统<br>
+      股票总结由<span style="color: #b388ff;">通义千问</span>生成，仅供研究参考，不构成投资建议<br>
+      <a href="index.html">返回主页 -></a>
+    </div>
+  </div>
+
+  <!-- 返回顶部 -->
+  <a href="#" class="back-to-top" id="back-to-top">↑</a>
+
+  <script src="js/app.js?v=20260816"></script>
+  <script>
+    (async function () {
+      var XR = window.XiaobaReport;
+      var container = document.getElementById('content-container');
+      var emptyState = document.getElementById('empty-state');
+
+      try {
+        var data = await XR.loadData('data/selected_stocks.json');
+        var stocks = (data && data.stocks) ? data.stocks : [];
+
+        // 统计
+        var totalSources = stocks.reduce(function (sum, s) {
+          return sum + (s.sources || []).length;
+        }, 0);
+
+        XR.renderStats({
+          videos: stocks.length,
+          articles: totalSources,
+          doubaoReplies: stocks.length,
+          total: stocks.length
+        });
+
+        // 更新 stat labels
+        var statItems = document.querySelectorAll('.stat-item .label');
+        if (statItems.length >= 4) {
+          statItems[0].textContent = '📈 精选股票';
+          statItems[1].textContent = '📺 来源视频';
+          statItems[2].textContent = '🤖 千问总结';
+          statItems[3].textContent = '📊 总计';
+        }
+
+        // 更新时间
+        document.getElementById('meta-container').innerHTML =
+          '更新时间：' + (data.builtAt ? new Date(data.builtAt).toLocaleString('zh-CN') : '-');
+
+        // 空状态
+        if (stocks.length === 0) {
+          container.innerHTML = '';
+          emptyState.style.display = 'block';
+          XR.setupBackToTop();
+          return;
+        }
+
+        // 渲染股票卡片
+        var html = '<div class="section"><div class="item-list">';
+        stocks.forEach(function (s, idx) {
+          var itemId = 'item-stock-' + idx;
+          var queriedDate = s.queriedAt ? XR.formatDate(s.queriedAt) : '';
+          html += '<div class="item" id="' + itemId + '">';
+          html += '<div class="item-header">';
+          html += '<div class="item-title"><span class="stock-code">' + XR.escapeHtml(s.code || '') + '</span>' + XR.escapeHtml(s.name || '') + '<button class="tts-btn" data-target="' + itemId + '">🔊 朗读</button></div>';
+          html += '<div><span class="item-badge badge-stock">' + XR.escapeHtml(s.marketCategory || s.market || '股票') + '</span></div>';
+          html += '</div>';
+          html += '<div class="item-date">🕒 千问查询于 ' + queriedDate + '</div>';
+          // 千问总结摘要（默认展示）
+          if (s.summary) {
+            html += '<div class="summary-card">';
+            html += '<div class="summary-header">🤖 千问总结</div>';
+            html += '<div class="summary-content">' + XR.escapeHtml(s.summary) + '</div>';
+            html += '</div>';
+          }
+          // 千问总结全文（默认折叠）
+          if (s.content && s.content !== s.summary) {
+            html += '<details class="analysis-details">';
+            html += '<summary>📄 查看千问总结全文</summary>';
+            html += '<div class="analysis-content">' + XR.escapeHtml(s.content) + '</div>';
+            html += '</details>';
+          }
+          // 来源推荐
+          html += '<div class="sources-section">';
+          html += '<div class="sources-title">📺 来源推荐（' + (s.sources || []).length + '）</div>';
+          (s.sources || []).forEach(function (src) {
+            html += '<div class="source-item">';
+            html += '<a href="' + XR.escapeHtml(src.url || '#') + '" target="_blank" rel="noopener">' + XR.escapeHtml(src.title || src.url || '无标题') + '</a>';
+            html += '<div class="source-meta">👤 ' + XR.escapeHtml(src.creator || '未知博主') + (src.publishTime ? ' · 📅 ' + XR.formatDate(src.publishTime) : '') + '</div>';
+            if (src.dsMainPoint) {
+              html += '<div class="source-point">💡 ' + XR.escapeHtml(src.dsMainPoint) + '</div>';
+            }
+            html += '</div>';
+          });
+          html += '</div>';
+          html += '</div>';
+        });
+        html += '</div></div>';
+
+        container.innerHTML = html;
+
+        // 设置朗读和返回顶部
+        XR.setupTTS();
+        XR.setupBackToTop();
+
+      } catch (err) {
+        container.innerHTML = '<div class="error-msg">❌ 加载数据失败：' + XR.escapeHtml(err.message) + '</div>';
+        console.error(err);
+      }
+    })();
+  </script>
+</body>
+</html>
