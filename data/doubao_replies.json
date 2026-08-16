@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-16T12:06:24.984Z",
+  "builtAt": "2026-08-16T23:13:56.006Z",
   "total": 291,
   "found": 218,
   "notFound": 73,
@@ -77,38 +77,40 @@
       "title": "患癌医学博士对话大冰｜看完以后五味杂陈，人生奋斗的意义是什么",
       "status": "not_found",
       "found": false,
-      "totalComments": 13,
-      "loadedComments": 12
+      "totalComments": 14,
+      "loadedComments": 13
     },
     {
       "url": "https://www.toutiao.com/video/7574805111252189230/",
       "title": "宇树科技创始人王兴兴创业分享演。福耀科技大学25年开学典礼上",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
+      "totalComments": 2,
+      "loadedComments": 2
     },
     {
       "url": "https://www.toutiao.com/video/7561221799099236403/",
       "title": "马未都精彩演讲：没钱不行！",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3
+      "totalComments": 4,
+      "loadedComments": 4
     },
     {
       "url": "https://www.toutiao.com/video/7560869106573180954/",
       "title": "新凯来：中国半导体设备黑马的崛起之路！",
       "status": "not_found",
       "found": false,
-      "totalComments": 72,
-      "loadedComments": 68
+      "totalComments": 73,
+      "loadedComments": 69
     },
     {
       "url": "https://www.toutiao.com/video/7549935694057472010/",
       "title": "模拟芯片概念股整理出来了！拿去不谢！",
-      "status": "no_comments",
-      "found": false
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
     },
     {
       "url": "https://www.toutiao.com/video/7549727966385668142/",
@@ -553,8 +555,8 @@
       "title": "8-15号对话但斌 | AI时代的赌注：大跌、泡沫与长期主义",
       "status": "not_found",
       "found": false,
-      "totalComments": 18,
-      "loadedComments": 11
+      "totalComments": 21,
+      "loadedComments": 14
     },
     {
       "url": "https://www.toutiao.com/video/7674108839129596418/",
@@ -563,6 +565,7 @@
       "creator": "",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这是瑞士宝盛邓启智和洪灏的访谈，核心聊AI行情是否见底。洪灏判断当前AI行情进入分化阶段，有真实业绩的优质标的会迎来修复，纯概念无业绩的公司会持续走弱，市场情绪仍需时间修复，参考当前韩国市场情况，距离真正底部可能还有距离，不宜急于抄底。以上仅为嘉宾个人观点，不构成任何投资建议。",
       "doubaoReplies": [
         {
@@ -582,6 +585,7 @@
       "creator": "",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "易方达香港全球股票首席Jeff Li的核心观点：他整体看好全球权益市场，认为AI是未来数年核心宏观主线，3-5月科技股回调属于健康调整，AI仍是今年剩余时段的市场主线。AI核心价值是提升全行业生产力，看好AI赋能生物医药、医疗领域的长期机会，建议关注AI、安防、全球国防、金融四大配置方向。以上仅为嘉宾访谈观点，不构成任何投资建议。",
       "doubaoReplies": [
         {
@@ -609,6 +613,7 @@
       "creator": "",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "会议核心总结：Laurence Tam表示减肥药行情带动医药板块反弹，不能局限于减重药概念，要关注跨国药企产能、消费端需求、企业AI业务指标。Alexis Yan提到相关企业下周中旬集中披露业绩，部分母公司压力拖累子公司，留意医保政策对行业影响。嘉宾Fina Lee列席暂无发言记录。⚠️以上仅为分析师讨论，不构成任何投资参考。",
       "doubaoReplies": [
         {
@@ -652,6 +657,7 @@
       "creator": "",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "2026年建材行业整体需求承压、板块走势极致分化，AI算力新材料是核心高景气主线，有两大投资主线：\n一是短期业绩兑现的PCB上游电子布产业链，AI需求拉动下供需缺口大，当前产业链涨价传导顺畅，相关AI PCB、CCL赛道未来两年增速将翻倍；\n二是长期成长的玻璃基先进封装赛道，是下一代封装解决方案，替代空间广阔。\n以上仅为机构观点整理，不构成投资建议，需留意AI需求不及预期、产业落地慢等风险。",
       "doubaoReplies": [
         {
@@ -671,6 +677,7 @@
       "creator": "",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "⚠️分析师观点仅为情景推演，不构成投资建议\n曹柳龙这段分享的核心是：外部要等美联储降息或停止加息，还要留意地缘变量；当前房价下行拖累居民资产负债表，财政很难大规模扩张，政策重心在修复居民资产负债表；如果美联储宽松+房价回暖两个条件落地，推演地产相关标的有2-3倍上涨空间，这是多重乐观假设下的结论，不确定性很高哦。",
       "doubaoReplies": [
         {
@@ -690,6 +697,7 @@
       "creator": "",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "本期彭博节目采访高盛刘劲津，解读中国AI股票策略：主线看好回调后的港股互联网、软科技；列出五大投资方向，兼顾AI标的、盈利改善个股、新股、高现金流企业；同时谈及A股资金杠杆现象，对比各大指数走势。观点仅供参考，不构成投资建议。",
       "doubaoReplies": [
         {
