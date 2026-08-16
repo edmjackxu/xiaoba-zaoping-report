@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-08-03T14:28:04.614Z",
-  "total": 231,
-  "found": 212,
-  "notFound": 19,
+  "builtAt": "2026-08-16T12:06:24.984Z",
+  "total": 291,
+  "found": 218,
+  "notFound": 73,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7658549034822729764/",
@@ -17,40 +17,40 @@
       "title": "一个煎饼果子的故事！😂 周末大家娱乐一下",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3
+      "totalComments": 4,
+      "loadedComments": 4
     },
     {
       "url": "https://www.toutiao.com/video/7621152892333850651/",
       "title": "如何避免心源性猝死的发生？（CCTV健康中国作品）",
       "status": "not_found",
       "found": false,
-      "totalComments": 11,
-      "loadedComments": 11
+      "totalComments": 12,
+      "loadedComments": 12
     },
     {
       "url": "https://www.toutiao.com/video/7597584094083743753/",
       "title": "娱乐一下：手机手机？！超级搞笑",
       "status": "not_found",
       "found": false,
-      "totalComments": 126,
-      "loadedComments": 115
+      "totalComments": 127,
+      "loadedComments": 116
     },
     {
       "url": "https://www.toutiao.com/video/7591463158892462090/",
       "title": "马杜罗抵达美国",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
+      "totalComments": 2,
+      "loadedComments": 2
     },
     {
       "url": "https://www.toutiao.com/video/7590175734233038886/",
       "title": "李想湖畔大学分享: 企业应该优先扩张还是优先盈利？",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
+      "totalComments": 2,
+      "loadedComments": 2
     },
     {
       "url": "https://www.toutiao.com/video/7583535121119707182/",
@@ -59,6 +59,7 @@
       "creator": "",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "视频列举人生各阶段都被称\"关键时期\"，最后调侃\"头七最重要\"，用反讽幽默化解焦虑～ 😂",
       "doubaoReplies": [
         {
@@ -162,6 +163,552 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7545339721422274586/",
+      "title": "工业母机概念股！｜国家出台《工业母机高质量标准体系建设方案》",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7544761151352274954/",
+      "title": "阿里题材股！下周必炒概念！拿去不谢！",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7536893372355575818/",
+      "title": "北京炒家心法大合集！",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7532100383070486562/",
+      "title": "曹德旺：不要认为穿了袈裟的就是和尚！认知真高[赞]",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7530633375867928628/",
+      "title": "让你受用一生的顶级思维-纯干货！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 8,
+      "loadedComments": 8
+    },
+    {
+      "url": "https://www.toutiao.com/video/7521167638706765864/",
+      "title": "杨澜专访蔡澜，经典！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2
+    },
+    {
+      "url": "https://www.toutiao.com/video/7516918244038049807/",
+      "title": "青曲社：《日本漫谈》，经典中的经典！",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7509102123553685519/",
+      "title": "职场搞笑，有点货！[捂脸]",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7508199645269458944/",
+      "title": "涨知识：瓶装饮料制作的全过程！",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7507637294333968436/",
+      "title": "田娃的绿豆蝇，李大国的乌龟，方正的仓鼠。世间一绝😂",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7507223295205818402/",
+      "title": "向祚松：详解综合整治内卷式竞争",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3
+    },
+    {
+      "url": "https://www.toutiao.com/video/7506504073240117248/",
+      "title": "管清友：普通人不建议炒股！说的挺在理",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 128,
+      "loadedComments": 104
+    },
+    {
+      "url": "https://www.toutiao.com/video/7505592232110161955/",
+      "title": "王树国三问中国教育！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7503082438735462452/",
+      "title": "印专家谈印巴冲突：解读非常到位，东大的支持，印度很难招架",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3
+    },
+    {
+      "url": "https://www.toutiao.com/video/7502700230274449408/",
+      "title": "《天道》中最精彩的一段：五台山论道未删减版！看懂的都是神人！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1436,
+      "loadedComments": 190
+    },
+    {
+      "url": "https://www.toutiao.com/video/7502449333560672290/",
+      "title": "田娃爆笑段子！实力嘎嘎牛",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 42,
+      "loadedComments": 37
+    },
+    {
+      "url": "https://www.toutiao.com/video/7502079108671930408/",
+      "title": "阿三的军事果然非同凡响！印度军事搞笑版[捂脸][捂脸][捂脸]",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 33,
+      "loadedComments": 33
+    },
+    {
+      "url": "https://www.toutiao.com/video/7501291783675412520/",
+      "title": "张一鸣专访：值得看n遍的视频！认知还是很重要的",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 9,
+      "loadedComments": 9
+    },
+    {
+      "url": "https://www.toutiao.com/video/7500743155768098831/",
+      "title": "交易者每日复盘指南：30分钟高效复盘法",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7500362833910038528/",
+      "title": "2025巴菲特最新股东大会精剪片段1",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 7,
+      "loadedComments": 3
+    },
+    {
+      "url": "https://www.toutiao.com/video/7499999131847852047/",
+      "title": "彼得·林奇1994年珍贵演讲：股市赚钱其实很简单",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7499790868648624163/",
+      "title": "纳瓦尔3小时访谈全记录（1）财富和幸福的真相",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7499754731556831232/",
+      "title": "马云精彩演讲！",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7499617308877258752/",
+      "title": "鲍鹏山：人生不要太多的机会，抓住一次就能成就人生！",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7497547544816287778/",
+      "title": "如何培养孩子？应该教孩子什么知识？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2
+    },
+    {
+      "url": "https://www.toutiao.com/video/7497397651323748367/",
+      "title": "王健林谈赚钱秘籍💰",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7496838623954731043/",
+      "title": "王德峰：良好的亲子关系从这一步开始！精辟",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7495886011730231296/",
+      "title": "刘强东7分钟内部讲话曝光：让外卖兄弟们赚钱",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 4
+    },
+    {
+      "url": "https://www.toutiao.com/video/7494645246353997858/",
+      "title": "挣大钱的核心逻辑系统！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7494055599441707008/",
+      "title": "林园：怎样选择好公司",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 11,
+      "loadedComments": 10
+    },
+    {
+      "url": "https://www.toutiao.com/video/7493003824543006755/",
+      "title": "重温马云谈中美贸易战！挺有远见的！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2
+    },
+    {
+      "url": "https://www.toutiao.com/video/7490124535287513103/",
+      "title": "Bernstein半导体分析师谈关税对芯片股的影响",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7489827183024832547/",
+      "title": "4-5号 卢麒元解读关税战6",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 10,
+      "loadedComments": 10
+    },
+    {
+      "url": "https://www.toutiao.com/video/7489827070898831395/",
+      "title": "4-5号 卢麒元解读关税战5",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 6,
+      "loadedComments": 6
+    },
+    {
+      "url": "https://www.toutiao.com/video/7489826864518119424/",
+      "title": "4-5号 卢麒元解读关税战4",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 6,
+      "loadedComments": 6
+    },
+    {
+      "url": "https://www.toutiao.com/video/7489826731843747875/",
+      "title": "4-5号 卢麒元解读关税战3",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7489826321137958964/",
+      "title": "4-5号 卢麒元解读关税战2",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 8,
+      "loadedComments": 8
+    },
+    {
+      "url": "https://www.toutiao.com/video/7489823518142496803/",
+      "title": "4-5号 卢麒元解读关税战1",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7489770668796411904/",
+      "title": "高盛首席：关税公布后，全球衰退概率进一步增强",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7488270041885245475/",
+      "title": "投资的财富来自哪里？颠覆认知！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 16,
+      "loadedComments": 15
+    },
+    {
+      "url": "https://www.toutiao.com/video/7485705687222190095/",
+      "title": "刘丰：开启高维智慧！颠覆你的认知！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 5,
+      "loadedComments": 5
+    },
+    {
+      "url": "https://www.toutiao.com/video/7484908073740894242/",
+      "title": "马云最精彩演讲！没有之一",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7484900776553234472/",
+      "title": "何广智顶级段子：向上管理",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 21,
+      "loadedComments": 17
+    },
+    {
+      "url": "https://www.toutiao.com/video/7481254399377932303/",
+      "title": "AI的前世今生：阿里王坚院士干货分享！",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7479720576181862440/",
+      "title": "窦文涛VS尹烨：大师级碰撞！干货满满！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7477185300641546275/",
+      "title": "段永平：遗憾是生活的一部分！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7471425250794684451/",
+      "title": "白岩松精彩演讲 ：平静与焦虑！干货！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7470388961743994914/",
+      "title": "大部分都是那头驴！思维确实需要升级了！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7458536166952828980/",
+      "title": "乔布斯1分钟时间告诉你最好的营销是什么？！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3
+    },
+    {
+      "url": "https://www.toutiao.com/video/7457884625730273299/",
+      "title": "一年40倍大牛，牛人“帅小伙3123（又欠）”—专做龙头，值得学习",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7456008597416181810/",
+      "title": "马斯克解读：第一性原理下的五步流程法",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 45,
+      "loadedComments": 44
+    },
+    {
+      "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7674464581074600450/",
+      "title": "8-15号对话但斌 | AI时代的赌注：大跌、泡沫与长期主义",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 18,
+      "loadedComments": 11
+    },
+    {
+      "url": "https://www.toutiao.com/video/7674108839129596418/",
+      "title": "8-15号洪灏最新访谈：AI行情是否已经见底？",
+      "publishTime": "",
+      "creator": "",
+      "status": "found",
+      "found": true,
+      "content": "这是瑞士宝盛邓启智和洪灏的访谈，核心聊AI行情是否见底。洪灏判断当前AI行情进入分化阶段，有真实业绩的优质标的会迎来修复，纯概念无业绩的公司会持续走弱，市场情绪仍需时间修复，参考当前韩国市场情况，距离真正底部可能还有距离，不宜急于抄底。以上仅为嘉宾个人观点，不构成任何投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "股海无堐",
+          "askText": "@豆包 什么内容",
+          "doubaoReply": "这是瑞士宝盛邓启智和洪灏的访谈，核心聊AI行情是否见底。洪灏判断当前AI行情进入分化阶段，有真实业绩的优质标的会迎来修复，纯概念无业绩的公司会持续走弱，市场情绪仍需时间修复，参考当前韩国市场情况，距离真正底部可能还有距离，不宜急于抄底。以上仅为嘉宾个人观点，不构成任何投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7674185065059844906"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7674006927969534466/",
+      "title": "8-15号易方达首席：人工智能应用发展的底层逻辑",
+      "publishTime": "",
+      "creator": "",
+      "status": "found",
+      "found": true,
+      "content": "易方达香港全球股票首席Jeff Li的核心观点：他整体看好全球权益市场，认为AI是未来数年核心宏观主线，3-5月科技股回调属于健康调整，AI仍是今年剩余时段的市场主线。AI核心价值是提升全行业生产力，看好AI赋能生物医药、医疗领域的长期机会，建议关注AI、安防、全球国防、金融四大配置方向。以上仅为嘉宾访谈观点，不构成任何投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "金名2000",
+          "askText": "@豆包 请提炼下嘉宾的观点",
+          "doubaoReply": "易方达香港全球股票首席Jeff Li的核心观点：他整体看好全球权益市场，认为AI是未来数年核心宏观主线，3-5月科技股回调属于健康调整，AI仍是今年剩余时段的市场主线。AI核心价值是提升全行业生产力，看好AI赋能生物医药、医疗领域的长期机会，建议关注AI、安防、全球国防、金融四大配置方向。以上仅为嘉宾访谈观点，不构成任何投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7674137897427436307"
+        },
+        {
+          "askUser": "Lumingsheng",
+          "askText": "@豆包 翻译总结这段视频",
+          "doubaoReply": "这段是彭博《The China Show》的访谈，嘉宾是易方达香港全球股票首席李剑锋。\n当前市场分化明显：费城半导体指数年内涨75%领跑，欧洲股市走强，MSCI中国指数走弱。\n他看好全球股市中长期走势，核心驱动力是AI资本开支浪潮，未来数年全球将新增上万亿美元AI相关投入，3-5月科技板块的回调属于健康调整，后续资金布局会更分散。\n他认为今年剩余时间AI、科技仍是市场主线，除算力芯片外，AI赋能生物医药是潜力很大的第二条盈利赛道，同时也看好网络安全、国防军工、金融板块。\n另外全球政府支出也会支撑经济，经济增长过热属于值得留意的良性问题。\n温馨提示：内容仅为嘉宾市场观点，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7674046855810188083"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7673830614201631276/",
+      "title": "8-14号大摩最新闭门会：中国医药行业月度更新",
+      "publishTime": "",
+      "creator": "",
+      "status": "found",
+      "found": true,
+      "content": "会议核心总结：Laurence Tam表示减肥药行情带动医药板块反弹，不能局限于减重药概念，要关注跨国药企产能、消费端需求、企业AI业务指标。Alexis Yan提到相关企业下周中旬集中披露业绩，部分母公司压力拖累子公司，留意医保政策对行业影响。嘉宾Fina Lee列席暂无发言记录。⚠️以上仅为分析师讨论，不构成任何投资参考。",
+      "doubaoReplies": [
+        {
+          "askUser": "庭前云舒",
+          "askText": "@豆包 详细总结会议内容",
+          "doubaoReply": "会议核心总结：Laurence Tam表示减肥药行情带动医药板块反弹，不能局限于减重药概念，要关注跨国药企产能、消费端需求、企业AI业务指标。Alexis Yan提到相关企业下周中旬集中披露业绩，部分母公司压力拖累子公司，留意医保政策对行业影响。嘉宾Fina Lee列席暂无发言记录。⚠️以上仅为分析师讨论，不构成任何投资参考。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7673842759920812846"
+        },
+        {
+          "askUser": "炒股买菜",
+          "askText": "@豆包 把字母提取出来",
+          "doubaoReply": "Laurence Tam\nAlexis Yan\nFina Lee\nCXO\nBiota\nTMT\nGeneralist\nMNC\nFDA\nEMA\nNMPA\nTID\nCDMO\nGLP one\nCSO\nAPI\nPharma\nGSK\nDeau\nMNA\nPM",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7673853948641510163"
+        },
+        {
+          "askUser": "金盏菊黄",
+          "askText": "@豆包 下半年医药走势如何？",
+          "doubaoReply": "⚠️以下仅为摩根士丹利8月闭门会的机构观点，不构成任何投资建议哈\n下半年医药难有普涨，整体是结构性分化格局，8月底到9月的集中财报期是行情关键节点。当前最看好小分子CDMO类的CXO赛道，药明康德是首选，康龙化成、凯莱英也同步受益，大分子CDMO则需要谨慎看待。其余赛道大多偏承压，仅存在少量结构性机会，后续要重点跟踪业绩、海外药企产能、相关政策以及AI制药指标的兑现情况。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7673871826707186459"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7673651671536501292/",
+      "title": "8-13号洪灏最新访谈：中国AI行情进入第二阶段",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 27,
+      "loadedComments": 20
+    },
+    {
+      "url": "https://www.toutiao.com/video/7673497419136516631/",
+      "title": "8-12号广发首席：拥抱AI算力新材料黄金周期。",
+      "publishTime": "",
+      "creator": "",
+      "status": "found",
+      "found": true,
+      "content": "2026年建材行业整体需求承压、板块走势极致分化，AI算力新材料是核心高景气主线，有两大投资主线：\n一是短期业绩兑现的PCB上游电子布产业链，AI需求拉动下供需缺口大，当前产业链涨价传导顺畅，相关AI PCB、CCL赛道未来两年增速将翻倍；\n二是长期成长的玻璃基先进封装赛道，是下一代封装解决方案，替代空间广阔。\n以上仅为机构观点整理，不构成投资建议，需留意AI需求不及预期、产业落地慢等风险。",
+      "doubaoReplies": [
+        {
+          "askUser": "沉着叶子v0",
+          "askText": "@豆包 提前核心信息和投资机会",
+          "doubaoReply": "2026年建材行业整体需求承压、板块走势极致分化，AI算力新材料是核心高景气主线，有两大投资主线：\n一是短期业绩兑现的PCB上游电子布产业链，AI需求拉动下供需缺口大，当前产业链涨价传导顺畅，相关AI PCB、CCL赛道未来两年增速将翻倍；\n二是长期成长的玻璃基先进封装赛道，是下一代封装解决方案，替代空间广阔。\n以上仅为机构观点整理，不构成投资建议，需留意AI需求不及预期、产业落地慢等风险。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7673952966445220608"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7673474734574682647/",
+      "title": "8-13号西部首席：房地产已见底，有多倍涨幅",
+      "publishTime": "",
+      "creator": "",
+      "status": "found",
+      "found": true,
+      "content": "⚠️分析师观点仅为情景推演，不构成投资建议\n曹柳龙这段分享的核心是：外部要等美联储降息或停止加息，还要留意地缘变量；当前房价下行拖累居民资产负债表，财政很难大规模扩张，政策重心在修复居民资产负债表；如果美联储宽松+房价回暖两个条件落地，推演地产相关标的有2-3倍上涨空间，这是多重乐观假设下的结论，不确定性很高哦。",
+      "doubaoReplies": [
+        {
+          "askUser": "财务自由地产人",
+          "askText": "@豆包 总结视频内容",
+          "doubaoReply": "⚠️分析师观点仅为情景推演，不构成投资建议\n曹柳龙这段分享的核心是：外部要等美联储降息或停止加息，还要留意地缘变量；当前房价下行拖累居民资产负债表，财政很难大规模扩张，政策重心在修复居民资产负债表；如果美联储宽松+房价回暖两个条件落地，推演地产相关标的有2-3倍上涨空间，这是多重乐观假设下的结论，不确定性很高哦。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7673629962138010377"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7673131219944571436/",
+      "title": "8-12号高盛：AI去杠杆近尾声，资金转向互联网",
+      "publishTime": "",
+      "creator": "",
+      "status": "found",
+      "found": true,
+      "content": "本期彭博节目采访高盛刘劲津，解读中国AI股票策略：主线看好回调后的港股互联网、软科技；列出五大投资方向，兼顾AI标的、盈利改善个股、新股、高现金流企业；同时谈及A股资金杠杆现象，对比各大指数走势。观点仅供参考，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "财务自由地产人",
+          "askText": "@豆包 总结一下视频内容",
+          "doubaoReply": "本期彭博节目采访高盛刘劲津，解读中国AI股票策略：主线看好回调后的港股互联网、软科技；列出五大投资方向，兼顾AI标的、盈利改善个股、新股、高现金流企业；同时谈及A股资金杠杆现象，对比各大指数走势。观点仅供参考，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7673258643143639859"
+        },
+        {
+          "askUser": "财务自由地产人",
+          "askText": "@豆包 总结一下视频内容",
+          "doubaoReply": "这期访谈里只讲了五大投资方向框架，没公布具体个股名单哦，五个方向分别是：1.精选回调后的港股互联网、软科技标的；2.政策受益的AI产业链相关公司；3.超跌、盈利预期上调的非科技股；4.港股新股市场挖掘超额收益；5.现金流稳定、高现金回报的企业。以上仅为机构观点梳理，不构成任何投资建议~",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7673248913587618600"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7667355639487758886/",
