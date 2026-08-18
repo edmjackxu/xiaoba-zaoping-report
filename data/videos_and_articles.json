@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-18T07:06:25.677Z",
+  "checkTime": "2026-08-18T11:06:29.724Z",
   "articles": [
     {
       "title": "",
@@ -565,6 +565,12 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-16号洪灏最新粤语专访：尺度有点大。",
+      "url": "https://www.toutiao.com/video/7675222476380553730/",
       "publishTime": "",
       "type": "video"
     },
@@ -1491,41 +1497,49 @@
       "type": "video"
     },
     {
-      "title": "6-29号华创闭门会：张瑜：切吗？",
-      "url": "https://www.toutiao.com/video/7656811243147149833/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7675308488276656170/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "Szl老石头",
-          "askText": "@豆包 帮我总结一下该视频：\n1、以数字要点方式输出；\n2、如果提到任何股票，请列出股票名称和股票代码\n3、如果提到新的机会和风险，请结合可信源头作进一步深度分析&nbsp;",
-          "doubaoReply": "1. 6月29日华创证券张瑜闭门会核心结论：当前宏观环境不支持资本市场战略性、全面切换至消费板块，暂无明确催化信号～\n2. 2016-2021年消费走牛基础：人均GDP 5000→10000美金，城镇化高速期+超95%城镇家庭房屋自有率，地产基建低学历从业者占3/4，收入分配普惠～\n3. 当前压制消费关键：城镇化率近70%增速放缓，2026年居民金融资产规模将追平房产，但股票投资者仅3-4亿，覆盖范围远小于房产；新经济低学历就业占比仅1/4，收入分化明显，消费K型分化，广谱需求回暖信号缺～\n4. 行业对比看消费需求增速不占优，仅适合短期波段布局，转移支付提振消费政策落地或需半年至一年时滞～\n5. 全程没提具体股票名称和代码哦～\n机会：高端、服务消费有结构性波段机会，居民资产向金融资产转移，AI与高端制造长期增长空间优于消费～\n风险：消费难现系统性超额收益，房产财富预期走弱压制耐用品消费，美联储政策模糊易引发流动性波动，促消费政策短期难扭转内需偏弱格局～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7657151184012116736"
-        }
-      ]
+      "summary": ""
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7675308094674436137/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "历史最强厄尔尼诺来袭，粮价要起飞了， 九部门发文激活县域消费 #上市公司大追踪#县域经济 #厄尔尼诺 #粮食安全 #粮食危机",
+      "url": "https://www.toutiao.com/video/7675302872073895972/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "未来一个月是成分股博弈的关键窗口——潜在纳入标的可能提前受到 #上市公司大追踪#恒生科技",
+      "url": "https://www.toutiao.com/video/7675300252779003938/",
+      "publishTime": "",
+      "type": "video"
     },
     {
       "title": "食品通胀持续抬升，通胀压力再度显现 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7675216116095909922/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "农业板块逆势大涨，危机预期驱动行情 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7675212231928283155/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "九部门出台新政，，下沉市场基建红利 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7675193742122287138/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "中一签狂赚四十五万，估值透支远期业绩 #上市公司大追踪",
@@ -2676,30 +2690,6 @@
     {
       "title": "从“推荐”变“强制”，自动驾驶的“高考”来了 #自动驾驶 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7670181005633781806/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7670179760227483694/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "商业航天再添猛将，长八甲直达快车落地 #商业航天 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7670153489402363914/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "有研新材这份成绩单，三个地方不对劲 #上市公司大追踪 #有研新材",
-      "url": "https://www.toutiao.com/video/7670135551769706522/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "两市放量放大成交，科技主线再度归来 #收评 #上市公司大追踪 #创业板",
-      "url": "https://www.toutiao.com/video/7670084067665215542/",
       "publishTime": "",
       "type": "video"
     },
