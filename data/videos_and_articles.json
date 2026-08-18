@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-18T11:06:29.724Z",
+  "checkTime": "2026-08-18T15:26:06.767Z",
   "articles": [
     {
       "title": "",
@@ -565,6 +565,18 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "私募大佬韩广斌采访：保持专注铸就长跑高手。",
+      "url": "https://www.toutiao.com/video/7675337975760388647/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-18号华泰首席：寻找阻力较小的点",
+      "url": "https://www.toutiao.com/video/7675320895195628055/",
       "publishTime": "",
       "type": "video"
     },
@@ -1475,24 +1487,29 @@
       ]
     },
     {
-      "title": "付鹏：论各大经济体兴衰周期和货币周期",
-      "url": "https://www.toutiao.com/video/7657155106126840370/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7675383568705617971/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "8898小蚊子",
-          "askText": "@豆包  总结一下",
-          "doubaoReply": "付鹏在分享里先强调分析要抛开情绪，客观看经济体的好坏，反对乱扣帽子，二十多年坚持知识分享，还说不介意拉黑听不进多元逻辑的人～ \n五月中旬他要再去日本调研，这次公开聊的日本内容之前多在内部交流过。核心点有：日元自2011年福岛核泄漏后开始贬值，至今快十二年，他2012年年终就去日本调研发现了这趋势；分析市场别只看经济数据，民众的认知和行为变化影响也很大，个体差异虽小但汇聚起来会成大趋势；还结合套期交易逻辑提醒要多维思考，不能局限单一视角，2013-2014年的市场经历就是例子，完整逻辑之前也讲过～ \n总的来说，分析宏观和市场得兼顾经济数据和民众认知行为的长期变化，判断要多维度，别片面解读哦～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7659177330803376931"
-        }
-      ]
+      "summary": ""
     },
     {
-      "title": "6-39号交银国际：2026下半年市场展望。",
-      "url": "https://www.toutiao.com/video/7656834612626440731/",
+      "title": "存储光通信集体暴跌，警告五千亿AI融资 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7675371638490251279/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7675368128800849972/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "国务院修改，住房公积金条例 #上市公司大追踪 #金融知识",
+      "url": "https://www.toutiao.com/video/7675349632389480499/",
       "publishTime": "",
       "type": "video"
     },
@@ -1500,22 +1517,19 @@
       "title": "分享视频",
       "url": "https://www.toutiao.com/video/7675308488276656170/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "分享视频",
       "url": "https://www.toutiao.com/video/7675308094674436137/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "历史最强厄尔尼诺来袭，粮价要起飞了， 九部门发文激活县域消费 #上市公司大追踪#县域经济 #厄尔尼诺 #粮食安全 #粮食危机",
       "url": "https://www.toutiao.com/video/7675302872073895972/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "未来一个月是成分股博弈的关键窗口——潜在纳入标的可能提前受到 #上市公司大追踪#恒生科技",
@@ -2666,30 +2680,6 @@
     {
       "title": "交易所突发断网，量化机房争夺升温 #上市公司大追踪 #交易所",
       "url": "https://www.toutiao.com/video/7670448677664030756/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7670367905701216308/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7670331862812491830/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7670182460105179182/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "从“推荐”变“强制”，自动驾驶的“高考”来了 #自动驾驶 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7670181005633781806/",
       "publishTime": "",
       "type": "video"
     },
