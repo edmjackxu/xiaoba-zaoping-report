@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-20T23:12:08.439Z",
+  "builtAt": "2026-08-21T04:12:12.952Z",
   "total": 297,
   "found": 221,
   "notFound": 76,
@@ -541,54 +541,64 @@
       "title": "段永平：遗憾是生活的一部分！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
+      "totalComments": 2,
+      "loadedComments": 2
     },
     {
       "url": "https://www.toutiao.com/video/7471425250794684451/",
       "title": "白岩松精彩演讲 ：平静与焦虑！干货！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
+      "totalComments": 2,
+      "loadedComments": 2
     },
     {
       "url": "https://www.toutiao.com/video/7470388961743994914/",
       "title": "大部分都是那头驴！思维确实需要升级了！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
+      "totalComments": 2,
+      "loadedComments": 2
     },
     {
       "url": "https://www.toutiao.com/video/7458536166952828980/",
       "title": "乔布斯1分钟时间告诉你最好的营销是什么？！",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3
+      "totalComments": 4,
+      "loadedComments": 4
     },
     {
       "url": "https://www.toutiao.com/video/7457884625730273299/",
       "title": "一年40倍大牛，牛人“帅小伙3123（又欠）”—专做龙头，值得学习",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
+      "totalComments": 2,
+      "loadedComments": 2
     },
     {
       "url": "https://www.toutiao.com/video/7456008597416181810/",
       "title": "马斯克解读：第一性原理下的五步流程法",
       "status": "not_found",
       "found": false,
-      "totalComments": 45,
-      "loadedComments": 44
+      "totalComments": 46,
+      "loadedComments": 45
     },
     {
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
-      "status": "no_comments",
-      "found": false
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7676259906474885655/",
+      "title": "如何让一个有钱人走向破产？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
     },
     {
       "url": "https://www.toutiao.com/video/7676126383902507522/",
@@ -597,6 +607,7 @@
       "creator": "",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "洪灏这次专访的核心观点可以总结为：当前债券基金减持美债、增持公司债，科技企业为布局AI大规模发债，将和美债争夺资金、压制美债需求。头部科技债利率可观，安全性优于对应个股，但AI商业化尚未落地，相关风险不容忽视。美债整体安全性仍高于公司债，美联储偏鹰，后续需关注财政部购债能否缓解美债抛售压力。",
       "doubaoReplies": [
         {
@@ -616,6 +627,7 @@
       "creator": "",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这次林园采访的核心要点很清晰：操作上认为股市仅5%时间上涨，很难精准躲过大跌，要在市场冷清估值低的时候买入、长期满仓持有不轻易择时；靠逛菜市场、观察日常常识做调研；选股偏好有强品牌、小盘、少融资多分红、不懂不碰的公司；7成仓位布局吃喝刚需消费赛道，剩下配低估值大市值龙头，靠挑选高确定性盈利的公司控制风险。以上仅为他个人投资观点，不构成投资建议，股市有风险哦。",
       "doubaoReplies": [
         {
@@ -631,8 +643,10 @@
     {
       "url": "https://www.toutiao.com/video/7675597191683162626/",
       "title": "8-19号大摩最新闭门会：金融、机器人、电力及交运行业更新。",
-      "status": "no_comments",
-      "found": false
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
     },
     {
       "url": "https://www.toutiao.com/video/7675337975760388647/",
@@ -673,14 +687,6 @@
       "title": "8-17号华安基金：黄金右侧机会来了吗？",
       "status": "no_comments",
       "found": false
-    },
-    {
-      "url": "https://www.toutiao.com/video/7674849802470867458/",
-      "title": "8-17号大摩最新闭门会：邢自强分享",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 4
     },
     {
       "url": "https://www.toutiao.com/video/7674108839129596418/",
