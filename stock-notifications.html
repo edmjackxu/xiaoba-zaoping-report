@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>小八早评 - 每日提醒</title>
+  <link rel="stylesheet" href="css/style.css?v=20260823">
+  <style>
+    /* 提醒专页额外样式（红色主题，参照 doubao.html） */
+    .notifications-page .item {
+      border-color: rgba(255, 107, 107, 0.4);
+      background: rgba(255, 107, 107, 0.05);
+    }
+    .notifications-page .item:hover {
+      border-color: rgba(255, 107, 107, 0.7);
+      box-shadow: 0 8px 25px rgba(255, 107, 107, 0.15);
+    }
+    .notifications-page .item-link {
+      color: #ff6b6b;
+      background: rgba(255, 107, 107, 0.1);
+      border-color: rgba(255, 107, 107, 0.3);
+    }
+    .notifications-page .item-link:hover {
+      background: #ff6b6b;
+      color: #1a1a2e;
+    }
+
+    /* 股票代码 */
+    .stock-code {
+      color: #ff6b6b;
+      font-family: monospace;
+      margin-right: 6px;
+    }
+    .badge-stock {
+      background: rgba(255, 107, 107, 0.2);
+      color: #ff6b6b;
+    }
+
+    /* 涨跌颜色 */
+    .change-up {
+      color: #52c41a;
+      font-weight: bold;
+    }
+    .change-down {
+      color: #ff4d4f;
+      font-weight: bold;
+    }
+    .change-flat {
+      color: #888;
+    }
+
+    /* 建议操作徽章 */
+    .rec-badge {
+      display: inline-block;
+      padding: 3px 12px;
+      border-radius: 12px;
+      font-size: 0.8em;
+      font-weight: bold;
+      margin-left: 8px;
+    }
+    .rec-关注  { background: rgba(24, 144, 255, 0.2); color: #69c0ff; }
+    .rec-持有  { background: rgba(82, 196, 26, 0.2); color: #52c41a; }
+    .rec-观望  { background: rgba(136, 136, 136, 0.2); color: #888; }
+    .rec-警惕  { background: rgba(255, 77, 79, 0.2); color: #ff4d4f; }
+    .rec-持续关注 { background: rgba(24, 144, 255, 0.2); color: #69c0ff; }
+
+    /* 日期分组标题 */
+    .date-group {
+      margin-bottom: 25px;
+    }
+    .date-group-header {
+      font-size: 1.3em;
+      font-weight: bold;
+      color: #ff6b6b;
+      margin-bottom: 12px;
+      padding-bottom: 6px;
+      border-bottom: 2px solid rgba(255, 107, 107, 0.3);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .date-group-header .count {
+      background: rgba(255, 107, 107, 0.2);
+      color: #ff6b6b;
+      padding: 2px 12px;
+      border-radius: 12px;
+      font-size: 0.7em;
+    }
+
+    /* 提醒卡片 */
+    .notif-card {
+      margin-bottom: 12px;
+    }
+    .notif-title {
+      font-weight: bold;
+      color: #fff;
+      font-size: 1.05em;
+      margin-bottom: 6px;
+    }
+    .notif-content {
+      color: #ccc;
+      font-size: 0.92em;
+      line-height: 1.7;
+      padding: 10px;
+      background: rgba(0,0,0,0.2);
+      border-radius: 8px;
+      margin-top: 6px;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .notif-meta {
+      color: #777;
+      font-size: 0.82em;
+      margin-top: 6px;
+    }
+
+    /* 空状态 */
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: #666;
+      line-height: 2;
+    }
+    .empty-state .empty-icon {
+      font-size: 3em;
+      display: block;
+      margin-bottom: 10px;
+    }
+    .empty-state code {
+      background: rgba(255, 107, 107, 0.15);
+      color: #ff6b6b;
+      padding: 2px 8px;
+      border-radius: 6px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container notifications-page">
+    <!-- Header -->
+    <div class="header">
+      <h1>🔔 小八早评 · 每日提醒</h1>
+      <div class="meta" id="meta-container">加载中...</div>
+      <div class="nav-links">
+        <a href="index.html">📋 全部内容</a>
+        <a href="doubao.html">🤖 豆包回复</a>
+        <a href="video-content-to-text.html">📝 视频转录</a>
+        <a href="selected-stocks.html">📈 精选股票</a>
+        <a href="stock-notifications.html" class="active">🔔 每日提醒</a>
+      </div>
+    </div>
+
+    <!-- Stats -->
+    <div class="stats" id="stats-container">
+      <div class="stat-item"><div class="number">-</div><div class="label">🔔 提醒</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">📈 股票</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">🆕 今日新增</div></div>
+      <div class="stat-item"><div class="number">-</div><div class="label">📊 总计</div></div>
+    </div>
+
+    <!-- Content -->
+    <div id="content-container">
+      <div class="loading">加载中...</div>
+    </div>
+
+    <!-- 空状态提示 -->
+    <div class="empty-state" id="empty-state" style="display: none;">
+      <span class="empty-icon">🔔</span>
+      暂无每日提醒<br>
+      运行 <code>bash bin/generate-notifications.sh</code> 生成提醒数据
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      自动生成 - 小八早评系统<br>
+      提醒由<span style="color: #ff6b6b;">规则模板</span>生成，仅供研究参考，不构成投资建议<br>
+      <a href="index.html">返回主页 -></a>
+    </div>
+  </div>
+
+  <!-- 返回顶部 -->
+  <a href="#" class="back-to-top" id="back-to-top">↑</a>
+
+  <script src="js/app.js?v=20260823"></script>
+  <script>
+    (async function () {
+      var XR = window.XiaobaReport;
+      var container = document.getElementById('content-container');
+      var emptyState = document.getElementById('empty-state');
+
+      try {
+        var data = await XR.loadData('data/stock_notifications.json');
+        var days = (data && data.days) ? data.days : [];
+        var totalNotifs = data && data.total != null ? data.total : 0;
+
+        // 统计
+        XR.renderStats({
+          videos: totalNotifs,
+          articles: data && data.stockCount != null ? data.stockCount : 0,
+          doubaoReplies: data && data.todayNew != null ? data.todayNew : 0,
+          total: totalNotifs
+        });
+
+        // 更新 stat labels
+        var statItems = document.querySelectorAll('.stat-item .label');
+        if (statItems.length >= 4) {
+          statItems[0].textContent = '🔔 提醒';
+          statItems[1].textContent = '📈 股票';
+          statItems[2].textContent = '🆕 今日新增';
+          statItems[3].textContent = '📊 总计';
+        }
+
+        // 更新时间
+        document.getElementById('meta-container').innerHTML =
+          '更新时间：' + (data && data.builtAt ? new Date(data.builtAt).toLocaleString('zh-CN') : '-');
+
+        // 空状态
+        if (totalNotifs === 0 || days.length === 0) {
+          container.innerHTML = '';
+          emptyState.style.display = 'block';
+          XR.setupBackToTop();
+          return;
+        }
+
+        // 按日期分组渲染
+        var html = '<div class="section">';
+        days.forEach(function (day) {
+          html += '<div class="date-group">';
+          html += '<div class="date-group-header">📅 ' + XR.escapeHtml(day.date) + ' <span class="count">' + day.items.length + ' 条</span></div>';
+          html += '<div class="item-list">';
+          day.items.forEach(function (n, idx) {
+            var itemId = 'notif-' + day.date + '-' + idx;
+            // 涨跌颜色
+            var changeClass = 'change-flat';
+            var changeText = '';
+            if (n.change_percent) {
+              var pct = parseFloat(n.change_percent);
+              if (!isNaN(pct)) {
+                if (pct > 0) {
+                  changeClass = 'change-up';
+                  changeText = ' +' + pct.toFixed(2) + '%';
+                } else if (pct < 0) {
+                  changeClass = 'change-down';
+                  changeText = ' ' + pct.toFixed(2) + '%';
+                } else {
+                  changeText = ' 0.00%';
+                }
+              }
+            }
+
+            // 建议操作徽章 class
+            var recClass = 'rec-持续关注';
+            if (n.recommendation) {
+              recClass = 'rec-' + n.recommendation;
+            }
+
+            html += '<div class="item notif-card" id="' + itemId + '">';
+            html += '<div class="item-header">';
+            html += '<div class="notif-title">' + XR.escapeHtml(n.title || '') + '<button class="tts-btn" data-target="' + itemId + '">🔊 朗读</button></div>';
+            html += '<div><span class="item-badge badge-stock">' + XR.escapeHtml(n.market_category || n.market || '股票') + '</span></div>';
+            html += '</div>';
+            html += '<div class="notif-meta"><span class="stock-code">' + XR.escapeHtml(n.stock_code || '') + '</span>' + XR.escapeHtml(n.stock_name || '');
+            if (n.price) {
+              html += ' · 价格 ' + XR.escapeHtml(n.price);
+            }
+            html += '<span class="' + changeClass + '">' + XR.escapeHtml(changeText) + '</span>';
+            if (n.recommendation) {
+              html += '<span class="rec-badge ' + recClass + '">' + XR.escapeHtml(n.recommendation) + '</span>';
+            }
+            html += '</div>';
+            html += '<div class="notif-content">' + XR.escapeHtml(n.content || '') + '</div>';
+            html += '<div class="notif-meta">🕒 ' + (n.created_at ? XR.formatDate(n.created_at) : '') + '</div>';
+            html += '</div>';
+          });
+          html += '</div>';
+          html += '</div>';
+        });
+        html += '</div>';
+
+        container.innerHTML = html;
+
+        // 设置朗读和返回顶部
+        XR.setupTTS();
+        XR.setupBackToTop();
+
+      } catch (err) {
+        container.innerHTML = '<div class="error-msg">❌ 加载数据失败：' + XR.escapeHtml(err.message) + '</div>';
+        console.error(err);
+      }
+    })();
+  </script>
+</body>
+</html>
