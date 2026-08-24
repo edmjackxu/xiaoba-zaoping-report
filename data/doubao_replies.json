@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-08-23T23:14:29.878Z",
+  "builtAt": "2026-08-24T04:12:34.411Z",
   "total": 298,
-  "found": 221,
-  "notFound": 77,
+  "found": 222,
+  "notFound": 76,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7658549034822729764/",
@@ -597,8 +597,8 @@
       "title": "8-23号华创闭门会：四重拐点的交织",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
+      "totalComments": 2,
+      "loadedComments": 2
     },
     {
       "url": "https://www.toutiao.com/video/7676629369712050727/",
@@ -619,18 +619,29 @@
     {
       "url": "https://www.toutiao.com/video/7676337751532323330/",
       "title": "8-20号中信建投：有色金属行业研究框架",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3
+      "publishTime": "",
+      "creator": "",
+      "status": "found",
+      "found": true,
+      "content": "这份是中信建投的行业研究框架培训内容，核心要点如下：行业研究主要有自上而下、自下而上两种分析路径。有色金属板块产品同质化高，价格参考国内外期货市场，兼具周期性与波动性，供需周期易错配，产业链各环节盈利模式分化，可搭配DDM绝对估值、PE相对估值模型。同时还拆解了加盟快递、仓储物流的经营逻辑，中小盘选股追求α与β共振，依托企业第二增长曲线挖掘预期差，建议摒弃短期博弈思维，长期持有优质企业。内容仅为机构培训观点，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "活力小姐姐",
+          "askText": "@豆包 总结下",
+          "doubaoReply": "这份是中信建投的行业研究框架培训内容，核心要点如下：行业研究主要有自上而下、自下而上两种分析路径。有色金属板块产品同质化高，价格参考国内外期货市场，兼具周期性与波动性，供需周期易错配，产业链各环节盈利模式分化，可搭配DDM绝对估值、PE相对估值模型。同时还拆解了加盟快递、仓储物流的经营逻辑，中小盘选股追求α与β共振，依托企业第二增长曲线挖掘预期差，建议摒弃短期博弈思维，长期持有优质企业。内容仅为机构培训观点，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7677394318570734362"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7676259906474885655/",
       "title": "如何让一个有钱人走向破产？",
       "status": "not_found",
       "found": false,
-      "totalComments": 18,
-      "loadedComments": 16
+      "totalComments": 19,
+      "loadedComments": 17
     },
     {
       "url": "https://www.toutiao.com/video/7676126383902507522/",
