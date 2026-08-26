@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-26T11:06:26.829Z",
+  "checkTime": "2026-08-26T23:06:25.524Z",
   "articles": [
     {
       "title": "",
@@ -565,6 +565,18 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "洪灏：未来十年，用最大的想象力看黄金升值空间",
+      "url": "https://www.toutiao.com/video/7678332559054455325/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-26号大摩最新闭门会：金融、汽车、原材料行业更新",
+      "url": "https://www.toutiao.com/video/7678324400755720733/",
       "publishTime": "",
       "type": "video"
     },
@@ -1447,47 +1459,97 @@
       ]
     },
     {
-      "title": "7-8号大摩闭门会：金融、汽车、工业、交运行业分析解读。",
-      "url": "https://www.toutiao.com/video/7660118720282427954/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7678468211053953064/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "82.9%毛利率！中国AI开始赚钱 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7678366026451157032/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "华为910C卖断货，华为950出口埃及 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7678363259351695394/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "全国首批碳中和，变压器出口欧洲 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7678360784921575487/",
       "publishTime": "",
       "type": "video"
     },
     {
-      "title": "7-7号洪灏最新访谈：港股技术反弹，但大规模解禁还有影像",
-      "url": "https://www.toutiao.com/video/7659921309207429672/",
+      "title": "车企担责保险到位，无人驾驶真上路了 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7678358551038804008/",
       "publishTime": "",
-      "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "认知回归",
-          "askText": "@豆包 总结一下",
-          "doubaoReply": "洪灏7月7日访谈指出，港股只是短期技术性反弹。当天恒生指数、科技和地产板块小幅收涨，阿里、腾讯等中概股也同步走高，但港股年内累计跌幅近8%，远不如韩国、中国台湾股市同期大涨表现，年内上市的AI新股大多走弱。市场资金分化明显，原本投二级市场的钱大量转向打新，不少新股首日涨幅可观，热度短期还会延续，本周还有15家企业集中赴港上市，持续分流存量资金。最大隐患是大额限售股解禁，高盛测算未来12个月港股将有2740亿美元解禁，7月就有418亿美元到期；新股流通盘少股价易波动，解禁会增加供给形成抛压。现在港股一二级市场估值割裂，新股炒作热、二级市场低迷，加上IPO扩容和解禁潮双重利空，这次反弹不是趋势反转，只有少量资金在港股里找低估机会。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7660003640358650639"
-        }
-      ]
+      "type": "video"
+    },
+    {
+      "title": "孟加拉国买战斗机，中国军工出口爆发 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7678356526611824691/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "苹果折叠屏火爆，铰链才最值钱 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7678354530727100456/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "MiniMax营收高增，算力租赁需求爆发 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7678327517232496667/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "PCE数据符合预期，通胀回落节奏放缓 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7678323466654711843/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "英伟达定标准，800V电源革命 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7678308812614139958/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "散户跟着章建平，如何才能赚钱 #上市公司大追踪 #章建平",
+      "url": "https://www.toutiao.com/video/7678302983788396571/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "英伟达定标准，800V电源革命 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7678299742070865930/",
+      "publishTime": "",
+      "type": "video"
     },
     {
       "title": "上海新兴产业规划出炉，2.1万亿目标定了 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7678282699615338531/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "厄尔尼诺席卷世界，多国要进紧急状态 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7678279429768314889/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "锂云母矿环评撤销，锂价短期迎来喘息 #上市公司大追踪 #锂",
       "url": "https://www.toutiao.com/video/7678263477412855808/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "中报个股表现分化，市场全新投资主线 #上市公司大追踪",
@@ -2600,78 +2662,6 @@
       "type": "video"
     },
     {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7673358122791698441/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "光企订单爆满｜产能决定行业话语权 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673340646519111714/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7673278220099289123/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7673275667437338659/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7673184163662397474/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7673179134465409060/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "华为韬定律#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673172645705154587/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "手机长出了“手”，荣耀9999元的机器人手机到底能干嘛？ #荣耀#Robot Phone#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673171643446853672/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "国新办明天发布会，生态环境法典来了 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673163891220447267/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "手机长出了“手”，荣耀9999元的机器人手机到底能干嘛？ #荣耀#Robot Phone#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673162999772790824/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "华为Mate90九月发，韬定律芯片首秀 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673160501778219051/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "美国抢先手，算力挂钩美元 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673157827502096422/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -3345,6 +3335,12 @@
     {
       "title": "有色金属工业：最具竞争力的三家企业 #有色金属 #紫金矿业 #赣锋锂业 #洛阳钼业",
       "url": "https://www.toutiao.com/video/7557981454483852554/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "2.什么是交易体系 #AM交易体系 #交易体系构建 #交易系统 #炒股养家 #股市",
+      "url": "https://www.toutiao.com/video/7678348362692690459/",
       "publishTime": "",
       "type": "video"
     },
@@ -4732,5 +4728,5 @@
       "type": "video"
     }
   ],
-  "totalItems": 708
+  "totalItems": 709
 }
