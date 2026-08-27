@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-26T23:06:25.524Z",
+  "checkTime": "2026-08-27T04:06:30.798Z",
   "articles": [
     {
       "title": "",
@@ -605,12 +605,6 @@
     {
       "title": "8-23号华创闭门会：四重拐点的交织",
       "url": "https://www.toutiao.com/video/7677225371934278167/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "8-21号付鹏访谈：2026年下半年美股、港股、黄金投资解读。",
-      "url": "https://www.toutiao.com/video/7676629369712050727/",
       "publishTime": "",
       "type": "video"
     },
@@ -1459,25 +1453,49 @@
       ]
     },
     {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7678468211053953064/",
+      "title": "7-8号大摩闭门会：金融、汽车、工业、交运行业分析解读。",
+      "url": "https://www.toutiao.com/video/7660118720282427954/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "芯片利润大幅暴涨，行业景气由数据佐证 #上市公司大追踪 #盘面",
+      "url": "https://www.toutiao.com/video/7678545315254763530/",
       "publishTime": "",
       "type": "video",
       "summary": ""
+    },
+    {
+      "title": "电子行业强力拉动，工业新动能加速崛起 #上市公司大追踪 #国家统计局",
+      "url": "https://www.toutiao.com/video/7678541792220250162/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "英伟达营收翻倍，AI算力周期再提速 #上市公司大追踪 #英伟达",
+      "url": "https://www.toutiao.com/video/7678533219536338985/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7678468211053953064/",
+      "publishTime": "",
+      "type": "video"
     },
     {
       "title": "82.9%毛利率！中国AI开始赚钱 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7678366026451157032/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "华为910C卖断货，华为950出口埃及 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7678363259351695394/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "全国首批碳中和，变压器出口欧洲 #上市公司大追踪",
@@ -2644,24 +2662,6 @@
       "type": "video"
     },
     {
-      "title": "市场放量下挫，多数个股遭遇杀跌 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673421035886084150/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "开支大幅超预期，腾讯押注AI赌未来 #上市公司大追踪 #腾讯 #AI",
-      "url": "https://www.toutiao.com/video/7673400603631960098/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "两市放量成交｜多数个股逆势下挫 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673359748796055602/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -3473,6 +3473,13 @@
       "type": "video"
     },
     {
+      "title": "8.27",
+      "url": "https://www.toutiao.com/video/7678548025106497545/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
       "title": "8.26",
       "url": "https://www.toutiao.com/video/7678287304447754280/",
       "publishTime": "",
@@ -3490,8 +3497,7 @@
       "title": "8.25",
       "url": "https://www.toutiao.com/video/7677852360332296235/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "8.23",
@@ -4706,12 +4712,6 @@
     {
       "title": "2.4",
       "url": "https://www.toutiao.com/video/7602960553489006632/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "2.3",
-      "url": "https://www.toutiao.com/video/7602414528248479790/",
       "publishTime": "",
       "type": "video"
     },
