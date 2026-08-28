@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-28T11:06:23.859Z",
+  "checkTime": "2026-08-28T23:06:25.037Z",
   "articles": [
     {
       "title": "",
@@ -571,6 +571,12 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-28号广发：超长债行情再起，后市展望如何？",
+      "url": "https://www.toutiao.com/video/7679064364661654018/",
       "publishTime": "",
       "type": "video"
     },
@@ -1443,41 +1449,73 @@
       "type": "video"
     },
     {
-      "title": "7-10号大摩闭门会：AI 供应链，金山云解读",
-      "url": "https://www.toutiao.com/video/7661530904877482536/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7679211678201806854/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "阿呆的视角",
-          "askText": "@豆包 将该视频的主要信息结论汇总下",
-          "doubaoReply": "7月10日香港时间11点，摩根开了场面向机构客户的闭门会，媒体不能参加，全程录音，参会者能向分析师提问。五位分析师主要聊了台积电业绩前瞻、AI供应链梳理和金山云初评这三大主题。 \n其中互联网电信分析师唐粤首次覆盖金山云，给了增持评级和15美元目标价。看好金山云2022年收缩低毛利传统云业务，转做GPU租赁和MaaS大模型平台的转型。预计公司AI业务收入占比会持续涨，2028年能到78%。背后有小米、金山集团股东生态支持，不过外部企业客户增长潜力更足，现在全球算力供需紧张对公司发展挺有利的。 \n半导体和硬件分析师团队还拆解了整个AI产业链，涉及晶圆、玻璃基板、英伟达新品出货这些板块，预判了台积电业绩，也分析了边缘耦合硬件技术。目前行业在上行周期，Meta等海外企业入局AI云让竞争更激烈，算力扩张也推动着硬件架构和电力配套需求升级~",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7661640963466986292"
-        }
-      ]
+      "summary": ""
+    },
+    {
+      "title": "沃什表示通胀没降，9月别指望降息 #上市公司大追踪 #通胀 #降息",
+      "url": "https://www.toutiao.com/video/7679100256285360164/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "科创50调整样本，1700亿定向输血 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7679096143586230308/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "大股东省钱秘籍，被没收了！ #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7679087996586917926/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "PayPal大幅下挫，金融科技迎来承压期 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7679078411717115947/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "楼市迎来重磅消息，贝壳股价大幅异动 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7679054175091327011/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7679053638691373108/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "五部门同日出手，房地产彻底变了 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7679044091602501647/",
+      "publishTime": "",
+      "type": "video"
     },
     {
       "title": "分享视频",
       "url": "https://www.toutiao.com/video/7678979221326954542/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "张小泉离奇冲高，题材炒作高开即回落 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7678954194107449382/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "沃什杰克逊霍尔首秀，牵动全球资本市场 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7678901113303859219/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "AI服务器耗材大增，竞争延伸至矿产资源 #上市公司大追踪 #矿产 #ai",
@@ -2614,54 +2652,6 @@
       "type": "video"
     },
     {
-      "title": "资本涌入具身智能，资金流向成焦点 #上市公司大追踪 #具身智能",
-      "url": "https://www.toutiao.com/video/7673862252453494799/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "缩量创业板收涨｜反弹可信度存疑 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673846552632573987/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "Token贷来了！AI时代的“石油”终于可以抵押了 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673812870929088562/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "本地化。#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673784532935704610/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7673783814338363419/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673732022275964968/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "开采成本是中国进口价的二十倍，南鸟岛稀土注定是个“梦” #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673721490814009396/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "中国电力系统正在从“煤电当家”变成“绿电+算力协同当家” #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7673654074671923215/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -3339,6 +3329,12 @@
       "type": "video"
     },
     {
+      "title": "4.AM交易体系的核心要素 #AM交易体系 #AMTF #交易体系构建 #交易系统 #股市",
+      "url": "https://www.toutiao.com/video/7679074640290906660/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
       "title": "3.交易的第一性原理 #AM交易体系 #交易体系构建 #交易系统 #炒股养家 #股市",
       "url": "https://www.toutiao.com/video/7678653013564588585/",
       "publishTime": "",
@@ -3480,6 +3476,13 @@
     },
     {
       "title": "8.28",
+      "url": "https://www.toutiao.com/video/7679063647169216522/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "8.28",
       "url": "https://www.toutiao.com/video/7679022498885763135/",
       "publishTime": "",
       "type": "video",
@@ -3496,8 +3499,7 @@
       "title": "8.26",
       "url": "https://www.toutiao.com/video/7678287304447754280/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "8.26",
@@ -4716,12 +4718,6 @@
       "type": "video"
     },
     {
-      "title": "2.5",
-      "url": "https://www.toutiao.com/video/7603157868434440232/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
       "title": "12.21  捋清她的真实意图",
       "url": "https://www.toutiao.com/video/7586214371588571698/",
       "publishTime": "",
@@ -4734,5 +4730,5 @@
       "type": "video"
     }
   ],
-  "totalItems": 710
+  "totalItems": 711
 }
