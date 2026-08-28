@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-28T07:06:29.537Z",
+  "checkTime": "2026-08-28T11:06:23.859Z",
   "articles": [
     {
       "title": "",
@@ -124,6 +124,13 @@
   ],
   "videos": [
     {
+      "title": "付鹏：解读英伟达财报",
+      "url": "https://www.toutiao.com/video/7678998215349256231/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
       "title": "许家印是如何玩转他的生意的？！一般人看一遍看不懂",
       "url": "https://www.toutiao.com/video/7658549034822729764/",
       "publishTime": "",
@@ -141,8 +148,7 @@
       "title": "如何避免心源性猝死的发生？（CCTV健康中国作品）",
       "url": "https://www.toutiao.com/video/7621152892333850651/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "娱乐一下：手机手机？！超级搞笑",
@@ -1453,20 +1459,11 @@
       ]
     },
     {
-      "title": "7-9号邢自强：消费如何激活？",
-      "url": "https://www.toutiao.com/video/7660484448407781907/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7678979221326954542/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "股海无堐",
-          "askText": "@豆包 说什么",
-          "doubaoReply": "这段是彭博财经节目《The China Show》的内容，连线了摩根士丹利首席中国经济学家邢自强解读经济。6月PPI同比涨4.1%符合预期，CPI同比1.0%不及预期1.1%。他认为PPI大概率已见顶，本轮涨价是全球AI和能源推高的输入性通胀，中下游企业成本承压，国内消费需求弱，内生通胀动力不足；二季度GDP预估4.4%低于目标，经济在降温但不会硬着陆。现在经济呈K型分化，AI、高端制造、绿色产业、基建走势好，普通消费和传统服务业低迷，优质赛道体量小难托整体经济，央行也提到了这种结构性失衡。政策重心偏向基建等供给侧，他建议平衡政策，完善社保、加大低收入群体扶持来提振消费，同时发展AI产业造新动力。当天A股全线收涨，创业板领涨，离岸人民币小幅走强，多数国债收益率下行，市场有宽松预期～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7660539033684312874"
-        }
-      ]
+      "summary": ""
     },
     {
       "title": "张小泉离奇冲高，题材炒作高开即回落 #上市公司大追踪",
@@ -1485,13 +1482,6 @@
     {
       "title": "AI服务器耗材大增，竞争延伸至矿产资源 #上市公司大追踪 #矿产 #ai",
       "url": "https://www.toutiao.com/video/7678897020437790761/",
-      "publishTime": "",
-      "type": "video",
-      "summary": ""
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7678855250870829108/",
       "publishTime": "",
       "type": "video"
     },
@@ -3489,6 +3479,13 @@
       "type": "video"
     },
     {
+      "title": "8.28",
+      "url": "https://www.toutiao.com/video/7679022498885763135/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
       "title": "8.27",
       "url": "https://www.toutiao.com/video/7678548025106497545/",
       "publishTime": "",
@@ -3506,8 +3503,7 @@
       "title": "8.26",
       "url": "https://www.toutiao.com/video/7678132431496413226/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "8.25",
@@ -4722,12 +4718,6 @@
     {
       "title": "2.5",
       "url": "https://www.toutiao.com/video/7603157868434440232/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "2.4",
-      "url": "https://www.toutiao.com/video/7602960553489006632/",
       "publishTime": "",
       "type": "video"
     },
