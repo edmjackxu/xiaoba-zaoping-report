@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-08-30T11:06:25.067Z",
+  "checkTime": "2026-08-30T23:06:24.471Z",
   "articles": [
     {
       "title": "",
@@ -571,6 +571,18 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-30号方正首席：AI应用的三层研究框架",
+      "url": "https://www.toutiao.com/video/7679839305048818215/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "8-30号长江：从中报视角看PCB超级周期",
+      "url": "https://www.toutiao.com/video/7679783377255432748/",
       "publishTime": "",
       "type": "video"
     },
@@ -1447,36 +1459,18 @@
       "type": "video"
     },
     {
-      "title": "7-14号洪灏：2026下半年开启板块轮动，把握入场机会",
-      "url": "https://www.toutiao.com/video/7662162880778846739/",
+      "title": "271张牌照出清，支付行业拐点已至 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7679940142358134803/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "翊道五十郎",
-          "askText": "@豆包 板块轮动有啥规律？",
-          "doubaoReply": "板块轮动主要是资金从高估值成长股（半导体、AI等）流向低估值传统股（阿里、腾讯等），过程会震荡，多空反复后才明朗～存量资金爱从贵的往滞涨的跑哦 😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7662253437882958601"
-        }
-      ]
+      "summary": ""
     },
     {
-      "title": "7-13号大摩最新閉門會：股票首席Laura分享",
-      "url": "https://www.toutiao.com/video/7661988508768223782/",
+      "title": "哦？马斯克自造燃气轮机叶片？ #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7679932145322131519/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "光阴的故事",
-          "askText": "@豆包 总结一下视频内容",
-          "doubaoReply": "本次是摩根士丹利股票首席Laura和Robin Xing的线上闭门交流，先由Robin介绍宏观环境，Laura拆解市场逻辑后交回对话。近两周全球市场受中东地缘、油价、美联储政策、日本央行加息预期影响波动剧烈，港股却逆势跑赢，印证机构5月提出的8月修复窗口预判。港股走强有两大支撑：一是此前机构借港股做空资金做多日韩台市场，近期周边市场震荡带动空头平仓，缓解抛压；二是5月南下资金净流出，6至7月持续回流，7月买入力度提升。机构认为8月后修复行情可持续，支撑逻辑有三点：二季度互联网板块财报向好，电商反内卷见效；美联储政策预期趋明朗，新任主席偏向稳定市场，风险偏好回暖；若地缘与油价风险可控，全球利率下行利好成长赛道。操作上建议逐步加仓港股，优先配置大盘互联网股，同时可提前调研生物科技标的。不过中东局势、美股大幅波动等外部变量仍可能扰动市场，以上仅为投行内部观点，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7662053271104275210"
-        }
-      ]
+      "summary": ""
     },
     {
       "title": "液冷订单持续爆满，千亿赛道热度飙升 #上市公司大追踪 #液冷",
@@ -1489,15 +1483,13 @@
       "title": "大批企业筹备上市，具身智能浪潮来袭 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7679706709446967348/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "国家数据局长喊话，Token按效付费！ #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7679702924960989236/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "国家数据局长喊话，Token按效付费！ #上市公司大追踪",
@@ -2670,18 +2662,6 @@
       "type": "video"
     },
     {
-      "title": "机构上调美光目标价，周期属性遭质疑 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7674445683043680290/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "国网布局量子企业，能源跨界开启新局 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7674441482050240550/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -3505,6 +3485,13 @@
       "type": "video"
     },
     {
+      "title": "8.31",
+      "url": "https://www.toutiao.com/video/7679959743963594802/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
       "title": "8.30",
       "url": "https://www.toutiao.com/video/7679643753854402570/",
       "publishTime": "",
@@ -3522,8 +3509,7 @@
       "title": "8.28",
       "url": "https://www.toutiao.com/video/7679063647169216522/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "8.28",
@@ -4738,12 +4724,6 @@
     {
       "title": "2.8",
       "url": "https://www.toutiao.com/video/7604481345649115177/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "2.8",
-      "url": "https://www.toutiao.com/video/7604324260516986880/",
       "publishTime": "",
       "type": "video"
     },
