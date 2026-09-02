@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-01T23:06:24.765Z",
+  "checkTime": "2026-09-02T04:06:33.552Z",
   "articles": [
     {
       "title": "",
@@ -571,6 +571,12 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "9-1号洪灏：九月如何布局？！",
+      "url": "https://www.toutiao.com/video/7680760038004113959/",
       "publishTime": "",
       "type": "video"
     },
@@ -1463,20 +1469,18 @@
       "type": "video"
     },
     {
-      "title": "7-17号大摩最新闭门会：Laura 解读大A（英文版）",
-      "url": "https://www.toutiao.com/video/7663356436545749527/",
+      "title": "创业板大幅下挫，美债压制A股行情 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7680770312169848883/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "自强不息微风TA",
-          "askText": "@豆包 进行总结",
-          "doubaoReply": "这次摩根士丹利闭门会，机构建议增持中国资产、重点布局港股互联网，看好7-9月行情。\n外资关注中国市场有三点：AI赛道资金集中需分散配置，国内独立周期适配；国内科创突破，外资顾虑降低认可个股机会；弱数据或催生政策有板块轮动机会。\n宏观上二季度GDP不及预期，但2026年稳4.5%+增速概率高，不会出大规模刺激，靠存量专项债托底。\n看好港股互联网的支撑是电商停恶性价格战+云计算增长，二季度盈利8月出财报；下半年大厂密集出AI成果拉估值；解禁抛压出清流动性转好。目前港股已跑赢多数新兴市场和标普500，但9月后走势有不确定性。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7663387007657411355"
-        }
-      ]
+      "summary": ""
+    },
+    {
+      "title": "电网投资正式落地，赛道迎来增量机遇 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7680758126039990298/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
     },
     {
       "title": "H酸一天涨1万元，染料要偷偷启动了 #上市公司大追踪",
@@ -1489,15 +1493,13 @@
       "title": "华为全联接大会定档，超节点要“交付”了！ #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7680578926410514483/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "多省上调最低工资，快来消费呀！ #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7680576640040042531/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "手机要涨价了，分1/3给存储！ #上市公司大追踪",
@@ -2666,18 +2668,6 @@
     {
       "title": "未来一个月是成分股博弈的关键窗口——潜在纳入标的可能提前受到 #上市公司大追踪#恒生科技",
       "url": "https://www.toutiao.com/video/7675300252779003938/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "食品通胀持续抬升，通胀压力再度显现 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7675216116095909922/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "农业板块逆势大涨，危机预期驱动行情 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7675212231928283155/",
       "publishTime": "",
       "type": "video"
     },
