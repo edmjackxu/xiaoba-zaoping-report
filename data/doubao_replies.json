@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-03T23:13:33.341Z",
+  "builtAt": "2026-09-04T04:07:19.738Z",
   "total": 307,
   "found": 231,
   "notFound": 76,
@@ -601,6 +601,14 @@
       "loadedComments": 1
     },
     {
+      "url": "https://www.toutiao.com/video/7681461435322548759/",
+      "title": "林园最接地气的一次采访：我是炒股的不是做价值投资的。",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3
+    },
+    {
       "url": "https://www.toutiao.com/video/7681426547026412055/",
       "title": "9-3号洪灏策略：大A能否牛来？",
       "status": "not_found",
@@ -683,14 +691,6 @@
           "replyId": "7680162622914020134"
         }
       ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7680050278078497309/",
-      "title": "8-31号中金宏观策略谈：美联储、美债与算力。",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
     },
     {
       "url": "https://www.toutiao.com/video/7680040866135917079/",
