@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-09-04T11:09:52.149Z",
-  "total": 307,
-  "found": 232,
-  "notFound": 75,
+  "builtAt": "2026-09-09T23:11:52.672Z",
+  "total": 311,
+  "found": 233,
+  "notFound": 78,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -301,7 +301,7 @@
       "title": "《天道》中最精彩的一段：五台山论道未删减版！看懂的都是神人！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1437,
+      "totalComments": 1436,
       "loadedComments": 190
     },
     {
@@ -601,12 +601,67 @@
       "loadedComments": 1
     },
     {
-      "url": "https://www.toutiao.com/video/7681461435322548759/",
-      "title": "林园最接地气的一次采访：我是炒股的不是做价值投资的。",
+      "url": "https://www.toutiao.com/video/7683522385600905786/",
+      "title": "人为什么要赚钱？高维视角",
       "status": "not_found",
       "found": false,
-      "totalComments": 11,
-      "loadedComments": 8
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7683395795164430892/",
+      "title": "9-9号机构：AI新材料方向深度解读。",
+      "publishTime": "",
+      "creator": "",
+      "status": "found",
+      "found": true,
+      "content": "这份视频是机构对于AI新材料赛道的深度解读，重点围绕AI PCB材料展开，同时提及MLCC材料、玻璃基板等方向。AI服务器与交换机推动PCB背板由低阶向7至10阶升级，带动铜箔、电子布、树脂、硅粉等上游材料迭代，产品等级越高，价格、毛利率越高，行业竞争格局越优。\n电子布存在两条发展逻辑：AI高端电子布需求旺盛，但受织布机、生产工艺限制供给持续紧张；普通电子布涨价主要源于供给收缩，厂商优先调配产能生产高盈利AI电子布，叠加新增产线建设门槛高，涨价具备延续性。视频提到4至6月市场炒作的涨价标的多为非AI类材料，直接供应头部AI产业链的高端材料涨价难度相对更大。\n英伟达硬件持续迭代，L2、L2 Auto新增背板以及PTAB新技术方案，或将带来树脂、铜膜、微硅粉等材料体系变革，当前技术方案尚未完全落地定型，值得持续跟踪。机构认为近期板块股价调整并非基本面恶化，更多是股价提前反应产业预期。\n⚠️内容仅为机构观点，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "Lumingsheng",
+          "askText": "@豆包 总结这段视频",
+          "doubaoReply": "这份视频是机构对于AI新材料赛道的深度解读，重点围绕AI PCB材料展开，同时提及MLCC材料、玻璃基板等方向。AI服务器与交换机推动PCB背板由低阶向7至10阶升级，带动铜箔、电子布、树脂、硅粉等上游材料迭代，产品等级越高，价格、毛利率越高，行业竞争格局越优。\n电子布存在两条发展逻辑：AI高端电子布需求旺盛，但受织布机、生产工艺限制供给持续紧张；普通电子布涨价主要源于供给收缩，厂商优先调配产能生产高盈利AI电子布，叠加新增产线建设门槛高，涨价具备延续性。视频提到4至6月市场炒作的涨价标的多为非AI类材料，直接供应头部AI产业链的高端材料涨价难度相对更大。\n英伟达硬件持续迭代，L2、L2 Auto新增背板以及PTAB新技术方案，或将带来树脂、铜膜、微硅粉等材料体系变革，当前技术方案尚未完全落地定型，值得持续跟踪。机构认为近期板块股价调整并非基本面恶化，更多是股价提前反应产业预期。\n⚠️内容仅为机构观点，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7683419562419110719"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7683395580856533548/",
+      "title": "9-9号大摩闭门会：金融、保险、交运、房地产行业解读",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7683117059680551447/",
+      "title": "傅海棠最精彩的演讲！没有之一！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7683115428834525753/",
+      "title": "9-8号申万宏源：全球航运船舶投资体系更新",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7682656287229985303/",
+      "title": "9-7号大摩邢最新闭门会：通缩涛声依旧，2021重现？",
+      "status": "no_comments",
+      "found": false
+    },
+    {
+      "url": "https://www.toutiao.com/video/7682649478561808919/",
+      "title": "9-7号中金宏观策略周论",
+      "status": "no_comments",
+      "found": false
     },
     {
       "url": "https://www.toutiao.com/video/7681426547026412055/",
@@ -649,14 +704,6 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7680899697686463033/",
-      "title": "洪灏：什么时候建仓？",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
-    },
-    {
       "url": "https://www.toutiao.com/video/7680760038004113959/",
       "title": "9-1号洪灏：九月如何布局？！",
       "publishTime": "",
@@ -675,14 +722,6 @@
           "replyId": "7680807444389626650"
         }
       ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7680425996780257794/",
-      "title": "8-31号华创首席张瑜：更务实的下半场",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
     },
     {
       "url": "https://www.toutiao.com/video/7680053131681776167/",
