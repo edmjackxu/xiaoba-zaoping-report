@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-09-10T04:11:42.541Z",
+  "builtAt": "2026-09-10T07:09:07.483Z",
   "total": 311,
-  "found": 233,
-  "notFound": 78,
+  "found": 234,
+  "notFound": 77,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -601,20 +601,37 @@
       "loadedComments": 1
     },
     {
+      "url": "https://www.toutiao.com/video/7683748385391870508/",
+      "title": "9-10号华创张瑜：宏观第三次决胜大判断——K型经济精讲。",
+      "status": "no_comments",
+      "found": false
+    },
+    {
       "url": "https://www.toutiao.com/video/7683744963301016121/",
       "title": "0-10号长江：太空视角下的半导体大厂资本开支",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
+      "publishTime": "",
+      "creator": "",
+      "status": "found",
+      "found": true,
+      "content": "这段是长江证券首席张弛的行业分享，创新用卫星遥感影像跟踪海外半导体晶圆厂真实施工进度，弥补仅靠企业公告判断进度的不足。报告重点分析美光、台积电海外建厂情况：美光爱达荷州博伊西晶圆厂虽计划2027年年中投产，但2026年7月卫星显示尚未封顶，投产大概率延后；新加坡厂区稳步施工，纽约地块仅完成前期平整。台积电亚利桑那州工厂持续扩建，多代制程产线分阶段落地。同时梳理洁净室产业链，指出洁净室建设具备刚性，本轮半导体资本开支持缓存在结构性分化，已开工项目受冲击有限，看好相关企业业绩兑现，所有观点仅作行业参考，不作为投资依据。",
+      "doubaoReplies": [
+        {
+          "askUser": "黄金匪徒",
+          "askText": "@豆包 总结视频内容",
+          "doubaoReply": "这段是长江证券首席张弛的行业分享，创新用卫星遥感影像跟踪海外半导体晶圆厂真实施工进度，弥补仅靠企业公告判断进度的不足。报告重点分析美光、台积电海外建厂情况：美光爱达荷州博伊西晶圆厂虽计划2027年年中投产，但2026年7月卫星显示尚未封顶，投产大概率延后；新加坡厂区稳步施工，纽约地块仅完成前期平整。台积电亚利桑那州工厂持续扩建，多代制程产线分阶段落地。同时梳理洁净室产业链，指出洁净室建设具备刚性，本轮半导体资本开支持缓存在结构性分化，已开工项目受冲击有限，看好相关企业业绩兑现，所有观点仅作行业参考，不作为投资依据。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7683750054561710875"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7683522385600905786/",
       "title": "人为什么要赚钱？高维视角",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2
+      "totalComments": 3,
+      "loadedComments": 3
     },
     {
       "url": "https://www.toutiao.com/video/7683395795164430892/",
@@ -655,14 +672,6 @@
     {
       "url": "https://www.toutiao.com/video/7683115428834525753/",
       "title": "9-8号申万宏源：全球航运船舶投资体系更新",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
-    },
-    {
-      "url": "https://www.toutiao.com/video/7682656287229985303/",
-      "title": "9-7号大摩邢最新闭门会：通缩涛声依旧，2021重现？",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
