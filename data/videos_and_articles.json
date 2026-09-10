@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-09T23:06:25.980Z",
+  "checkTime": "2026-09-10T04:06:26.376Z",
   "articles": [
     {
       "title": "",
@@ -571,6 +571,12 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "0-10号长江：太空视角下的半导体大厂资本开支",
+      "url": "https://www.toutiao.com/video/7683744963301016121/",
       "publishTime": "",
       "type": "video"
     },
@@ -1433,20 +1439,11 @@
       "type": "video"
     },
     {
-      "title": "7-25号高盛研报：中国人工智能大模型如何以低成本获得竞争？",
-      "url": "https://www.toutiao.com/video/7666243903414157870/",
+      "title": "折叠iPhone定价下探，苹果薄利多销抢份额 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7683734313741615139/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "咖啡配蒜头",
-          "askText": "@豆包 成本下降还有啥方法？",
-          "doubaoReply": "大模型降本还有不少可行的思路哦，可以像DeepSeek、智谱那样自研适配自身逻辑的专用推理芯片，也可以靠MoE架构、模型蒸馏、参数微调这类技术削减算力消耗，批量集采算力加精细化调度减少闲置浪费，还能用高价值高毛利场景的营收摊薄整体成本，靠自研工具、按需做不同版本模型、开源生态协同也能进一步压低成本~",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7666399658729915190"
-        }
-      ]
+      "summary": ""
     },
     {
       "title": "美存储逆势上涨，注意三个新动向 #上市公司大追踪",
@@ -1466,8 +1463,7 @@
       "title": "日进口小麦暴涨12%，盼他来还是怕他来？ #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7683545447683588136/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "三大厂商同台发布，折叠屏开启三国博弈 #上市公司大追踪",
@@ -2642,12 +2638,6 @@
     {
       "title": "芯片杠杆ETF大跌，资金仍持续涌入 #上市公司大追踪 #ETF",
       "url": "https://www.toutiao.com/video/7677443867645657114/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "创业板半日大跌，多数个股同步走弱 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7677438563876618255/",
       "publishTime": "",
       "type": "video"
     },
