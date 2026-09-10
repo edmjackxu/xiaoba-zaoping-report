@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-09-10T11:07:20.960Z",
+  "builtAt": "2026-09-10T23:11:44.246Z",
   "total": 311,
-  "found": 234,
-  "notFound": 77,
+  "found": 235,
+  "notFound": 76,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -601,10 +601,20 @@
       "loadedComments": 1
     },
     {
+      "url": "https://www.toutiao.com/video/7683847392894173735/",
+      "title": "夺冠高手颁奖论坛：顶级交易员交易策略分享｜傅海棠等",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
+    },
+    {
       "url": "https://www.toutiao.com/video/7683748385391870508/",
       "title": "9-10号华创张瑜：宏观第三次决胜大判断——K型经济精讲。",
-      "status": "no_comments",
-      "found": false
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
     },
     {
       "url": "https://www.toutiao.com/video/7683744963301016121/",
@@ -629,10 +639,21 @@
     {
       "url": "https://www.toutiao.com/video/7683522385600905786/",
       "title": "人为什么要赚钱？高维视角",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3
+      "publishTime": "",
+      "creator": "",
+      "status": "found",
+      "found": true,
+      "content": "这段访谈里的女士大家一般叫她王欣怡，也有写王欣宜的～网传北大才女身份没啥依据哦，目前只有剪辑片段传播，没找到她本人账号呢😉",
+      "doubaoReplies": [
+        {
+          "askUser": "风趣的SALU",
+          "askText": "@豆包 女的是谁？",
+          "doubaoReply": "这段访谈里的女士大家一般叫她王欣怡，也有写王欣宜的～网传北大才女身份没啥依据哦，目前只有剪辑片段传播，没找到她本人账号呢😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7683901155528999707"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7683395795164430892/",
@@ -665,14 +686,6 @@
     {
       "url": "https://www.toutiao.com/video/7683117059680551447/",
       "title": "傅海棠最精彩的演讲！没有之一！",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1
-    },
-    {
-      "url": "https://www.toutiao.com/video/7683115428834525753/",
-      "title": "9-8号申万宏源：全球航运船舶投资体系更新",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
