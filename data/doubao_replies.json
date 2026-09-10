@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-09T23:11:52.672Z",
+  "builtAt": "2026-09-10T04:11:42.541Z",
   "total": 311,
   "found": 233,
   "notFound": 78,
@@ -601,12 +601,20 @@
       "loadedComments": 1
     },
     {
-      "url": "https://www.toutiao.com/video/7683522385600905786/",
-      "title": "人为什么要赚钱？高维视角",
+      "url": "https://www.toutiao.com/video/7683744963301016121/",
+      "title": "0-10号长江：太空视角下的半导体大厂资本开支",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1
+    },
+    {
+      "url": "https://www.toutiao.com/video/7683522385600905786/",
+      "title": "人为什么要赚钱？高维视角",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2
     },
     {
       "url": "https://www.toutiao.com/video/7683395795164430892/",
@@ -615,6 +623,7 @@
       "creator": "",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这份视频是机构对于AI新材料赛道的深度解读，重点围绕AI PCB材料展开，同时提及MLCC材料、玻璃基板等方向。AI服务器与交换机推动PCB背板由低阶向7至10阶升级，带动铜箔、电子布、树脂、硅粉等上游材料迭代，产品等级越高，价格、毛利率越高，行业竞争格局越优。\n电子布存在两条发展逻辑：AI高端电子布需求旺盛，但受织布机、生产工艺限制供给持续紧张；普通电子布涨价主要源于供给收缩，厂商优先调配产能生产高盈利AI电子布，叠加新增产线建设门槛高，涨价具备延续性。视频提到4至6月市场炒作的涨价标的多为非AI类材料，直接供应头部AI产业链的高端材料涨价难度相对更大。\n英伟达硬件持续迭代，L2、L2 Auto新增背板以及PTAB新技术方案，或将带来树脂、铜膜、微硅粉等材料体系变革，当前技术方案尚未完全落地定型，值得持续跟踪。机构认为近期板块股价调整并非基本面恶化，更多是股价提前反应产业预期。\n⚠️内容仅为机构观点，不构成投资建议。",
       "doubaoReplies": [
         {
@@ -654,14 +663,10 @@
     {
       "url": "https://www.toutiao.com/video/7682656287229985303/",
       "title": "9-7号大摩邢最新闭门会：通缩涛声依旧，2021重现？",
-      "status": "no_comments",
-      "found": false
-    },
-    {
-      "url": "https://www.toutiao.com/video/7682649478561808919/",
-      "title": "9-7号中金宏观策略周论",
-      "status": "no_comments",
-      "found": false
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1
     },
     {
       "url": "https://www.toutiao.com/video/7681426547026412055/",
