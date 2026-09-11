@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-11T04:06:23.301Z",
+  "checkTime": "2026-09-11T07:06:26.534Z",
   "articles": [
     {
       "title": "",
@@ -571,6 +571,12 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "《方清平：单口相声的天花板",
+      "url": "https://www.toutiao.com/video/7684137446250004994/",
       "publishTime": "",
       "type": "video"
     },
@@ -1443,20 +1449,18 @@
       ]
     },
     {
-      "title": "用最好的动画为你讲解--什么是先进封装？",
-      "url": "https://www.toutiao.com/video/7666660723363185178/",
+      "title": "AI大幅提速找矿，勘探迈入算法时代 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7684151149843611684/",
       "publishTime": "",
       "type": "video",
-      "doubaoReply": [
-        {
-          "askUser": "naka人面杜鹃",
-          "askText": "@豆包 这个视频源于哪个账号？",
-          "doubaoReply": "这个视频来自万物研究所账号，在B站、抖音、今日头条等平台都同步发布了这个先进封装的科普内容~",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7666846396276523811"
-        }
-      ]
+      "summary": ""
+    },
+    {
+      "title": "五千余股下跌，科创五十大幅回调 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7684147561889185833/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
     },
     {
       "title": "加息预期飙升，CPI定调美联储抉择 #上市公司大追踪",
@@ -1469,15 +1473,13 @@
       "title": "分享视频",
       "url": "https://www.toutiao.com/video/7684047093061419059/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "新项目踩刹车，电池利好来了？ #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7683923028169719818/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "分享视频",
@@ -2646,18 +2648,6 @@
     {
       "title": "燧原科技9.2申购，GPU四小龙聚齐 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7677618030453719082/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "立讯精密抢跑！三季报预告藏玄机 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7677613105480171572/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "海力士一纸论文，光通信集体雪崩 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7677595687286784050/",
       "publishTime": "",
       "type": "video"
     },
