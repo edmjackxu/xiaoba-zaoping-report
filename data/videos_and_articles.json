@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-13T23:06:50.138Z",
+  "checkTime": "2026-09-14T04:06:52.713Z",
   "articles": [
     {
       "title": "",
@@ -571,6 +571,12 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "9-13号招商首席：落地了就是利空出尽吗？",
+      "url": "https://www.toutiao.com/video/7685169996284346919/",
       "publishTime": "",
       "type": "video"
     },
@@ -1395,10 +1401,18 @@
       "type": "video"
     },
     {
-      "title": "中信里昂：长鑫上市及科技板块投资策略",
-      "url": "https://www.toutiao.com/video/7667557169989976586/",
+      "title": "AI巨头集体喊减速，芯片板块遭遇回调 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7685227340359532550/",
       "publishTime": "",
-      "type": "video"
+      "type": "video",
+      "summary": ""
+    },
+    {
+      "title": "算力硬件走弱电力却走强 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7685210549709193259/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
     },
     {
       "title": "白宫喊话暂缓加息，美联储仍我行我素 #上市公司大追踪 #美联储 #加息",
@@ -1411,15 +1425,13 @@
       "title": "智谱完成巨额融资，机构押注股价上行 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7684997838958231586/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "爆梗！太乙圣莲30亿救哪吒… #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7684942441552166955/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "下周波涛汹涌盯住下周四！ #上市公司大追踪",
@@ -2588,18 +2600,6 @@
     {
       "title": "苹果折叠屏火爆，铰链才最值钱 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7678354530727100456/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "MiniMax营收高增，算力租赁需求爆发 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7678327517232496667/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "PCE数据符合预期，通胀回落节奏放缓 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7678323466654711843/",
       "publishTime": "",
       "type": "video"
     },
