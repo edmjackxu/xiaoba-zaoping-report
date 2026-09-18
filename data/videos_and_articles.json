@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-18T07:06:53.176Z",
+  "checkTime": "2026-09-18T11:06:56.084Z",
   "articles": [
     {
       "title": "",
@@ -1335,97 +1335,43 @@
       "type": "video"
     },
     {
-      "title": "日本失去的30年到底发生了什么",
-      "url": "https://www.toutiao.com/video/7671492535235248684/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7686779820248268815/",
       "publishTime": "",
-      "type": "video"
+      "type": "video",
+      "summary": ""
     },
     {
-      "title": "8-8号广发分享：制造双极，新旧共生",
-      "url": "https://www.toutiao.com/video/7671483504961749548/",
+      "title": "沈鼓两天涨18倍，机构为何集体跑了？ #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7686769481007562802/",
       "publishTime": "",
-      "type": "video"
+      "type": "video",
+      "summary": ""
     },
     {
-      "title": "张朝阳：三分学习方法，终身受用",
-      "url": "https://www.toutiao.com/video/7671449470176920108/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7686767370475929652/",
       "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "8-7号大摩闭门会：半年报业绩速评及云端资本支出更新",
-      "url": "https://www.toutiao.com/video/7671235977045787138/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "8-6号中银徐高：会议后的经济市场展望",
-      "url": "https://www.toutiao.com/video/7670877309766763052/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "8-6号高盛首席：看好国内大厂资本开支放量。",
-      "url": "https://www.toutiao.com/video/7670875126350676524/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "8-6号洪灏最新访谈：分析解读市场",
-      "url": "https://www.toutiao.com/video/7670678931447661079/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "8-5号大摩闭门会：机器人、原材料、商城、保险",
-      "url": "https://www.toutiao.com/video/7670488728779014679/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "8-4号高盛股票首席专访：下半年核心主线在哪",
-      "url": "https://www.toutiao.com/video/7670124013296894487/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "查理·芒格：只需做对这个自动化习惯，普通的薪水也能滚出两百万",
-      "url": "https://www.toutiao.com/video/7670031768376066583/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "8-3号大摩首席邢自强分享：如何投资AI与经济的下半场？",
-      "url": "https://www.toutiao.com/video/7669779944364524055/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "8-3号国泰海通首席：会议与美联储FOMC的政策信号。",
-      "url": "https://www.toutiao.com/video/7669652989346447916/",
-      "publishTime": "",
-      "type": "video"
+      "type": "video",
+      "summary": ""
     },
     {
       "title": "#财经",
       "url": "https://www.toutiao.com/video/7686738871883759650/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "科创五零涨近四，存储缺到二八 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7686728087649730600/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "医保局进了规划桌，医院开始算经济账 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7686704307187367988/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "分享视频",
@@ -2588,24 +2534,6 @@
     {
       "title": "政策海外双重催化，AI板块迎来共振 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7680096793121407010/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "八月指数大幅反弹，缩量背后资金存疑 #上市公司大追踪 #收评",
-      "url": "https://www.toutiao.com/video/7680093121337622537/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "全AI生《后西游记》，8月31日登湖南卫视 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7680049118428790793/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "AI长剧正式播出，传媒板块集体拉升 #上市公司大追踪 #ai应用 #传媒",
-      "url": "https://www.toutiao.com/video/7680045676180930575/",
       "publishTime": "",
       "type": "video"
     },
@@ -4712,5 +4640,5 @@
       "type": "video"
     }
   ],
-  "totalItems": 716
+  "totalItems": 704
 }
