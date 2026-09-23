@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-23T04:06:23.914Z",
+  "checkTime": "2026-09-23T07:06:29.456Z",
   "articles": [
     {
       "title": "",
@@ -571,6 +571,18 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "周金涛演讲完整版：人一生只有三次暴富的机会！",
+      "url": "https://www.toutiao.com/video/7688582756460184092/",
+      "publishTime": "",
+      "type": "video"
+    },
+    {
+      "title": "董明珠彭博专访：谈格力转型：地产承压，自动化与储能寻找增量",
+      "url": "https://www.toutiao.com/video/7688578283511857703/",
       "publishTime": "",
       "type": "video"
     },
@@ -1405,16 +1417,11 @@
       "type": "video"
     },
     {
-      "title": "8-8号广发分享：制造双极，新旧共生",
-      "url": "https://www.toutiao.com/video/7671483504961749548/",
+      "title": "缩量两千六百亿，钱在往哪里躲#上市公司大追踪 #财经",
+      "url": "https://www.toutiao.com/video/7688581517690863679/",
       "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "张朝阳：三分学习方法，终身受用",
-      "url": "https://www.toutiao.com/video/7671449470176920108/",
-      "publishTime": "",
-      "type": "video"
+      "type": "video",
+      "summary": ""
     },
     {
       "title": "AI降价，A股看谁 #上市公司大追踪",
@@ -1434,8 +1441,7 @@
       "title": "领导层上海调研，为什么去这里？ #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7688364077802291215/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "纳指新高英伟达掉队，AI定价逻辑正在迁移 #上市公司大追踪",
@@ -2610,12 +2616,6 @@
     {
       "title": "多重政策协同落地，扩容硬科技IPO供给 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7681232947633979435/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "BDI指数大幅拉升，干散货周期引关注 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7681190561836007459/",
       "publishTime": "",
       "type": "video"
     },
