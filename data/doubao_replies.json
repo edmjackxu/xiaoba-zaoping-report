@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-09-23T11:09:26.480Z",
-  "total": 314,
-  "found": 236,
-  "notFound": 78,
+  "builtAt": "2026-09-23T23:12:08.855Z",
+  "total": 546,
+  "found": 246,
+  "notFound": 300,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -10,7 +10,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7658549034822729764/",
@@ -18,7 +19,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 18,
-      "loadedComments": 16
+      "loadedComments": 16,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7622648145071882290/",
@@ -26,7 +28,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 4,
-      "loadedComments": 4
+      "loadedComments": 4,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7621152892333850651/",
@@ -34,7 +37,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 12,
-      "loadedComments": 12
+      "loadedComments": 12,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7597584094083743753/",
@@ -42,7 +46,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 127,
-      "loadedComments": 115
+      "loadedComments": 115,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7591463158892462090/",
@@ -50,7 +55,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7590175734233038886/",
@@ -58,7 +64,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7583535121119707182/",
@@ -86,7 +93,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 14,
-      "loadedComments": 13
+      "loadedComments": 13,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7574805111252189230/",
@@ -94,7 +102,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7561221799099236403/",
@@ -102,7 +111,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 4,
-      "loadedComments": 4
+      "loadedComments": 4,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7560869106573180954/",
@@ -110,7 +120,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 73,
-      "loadedComments": 68
+      "loadedComments": 68,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7549935694057472010/",
@@ -118,7 +129,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7549727966385668142/",
@@ -126,7 +138,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7549196720379265034/",
@@ -134,7 +147,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7548821186663809033/",
@@ -142,7 +156,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7548590054973636659/",
@@ -150,7 +165,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 4,
-      "loadedComments": 3
+      "loadedComments": 3,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7547675584306872330/",
@@ -158,7 +174,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7546991849928409097/",
@@ -166,7 +183,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7546170246438486066/",
@@ -174,7 +192,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7545502793675571227/",
@@ -182,7 +201,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7545339721422274586/",
@@ -190,7 +210,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7544761151352274954/",
@@ -198,7 +219,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7536893372355575818/",
@@ -206,7 +228,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7532100383070486562/",
@@ -214,7 +237,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7530633375867928628/",
@@ -222,7 +246,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 10,
-      "loadedComments": 10
+      "loadedComments": 10,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7521167638706765864/",
@@ -230,7 +255,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 4,
-      "loadedComments": 4
+      "loadedComments": 4,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7516918244038049807/",
@@ -238,7 +264,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7509102123553685519/",
@@ -246,7 +273,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7508199645269458944/",
@@ -254,7 +282,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7507637294333968436/",
@@ -262,7 +291,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7507223295205818402/",
@@ -270,7 +300,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 4,
-      "loadedComments": 4
+      "loadedComments": 4,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7506504073240117248/",
@@ -278,7 +309,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 129,
-      "loadedComments": 107
+      "loadedComments": 107,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7505592232110161955/",
@@ -286,7 +318,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 3,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7503082438735462452/",
@@ -294,7 +327,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 5,
-      "loadedComments": 5
+      "loadedComments": 5,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7502700230274449408/",
@@ -302,7 +336,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1434,
-      "loadedComments": 189
+      "loadedComments": 189,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7502449333560672290/",
@@ -310,7 +345,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 43,
-      "loadedComments": 38
+      "loadedComments": 38,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7502079108671930408/",
@@ -318,7 +354,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 35,
-      "loadedComments": 35
+      "loadedComments": 35,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7501291783675412520/",
@@ -326,7 +363,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 11,
-      "loadedComments": 11
+      "loadedComments": 11,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7500743155768098831/",
@@ -334,7 +372,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7500362833910038528/",
@@ -342,7 +381,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 8,
-      "loadedComments": 4
+      "loadedComments": 4,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7499999131847852047/",
@@ -350,7 +390,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7499790868648624163/",
@@ -358,7 +399,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7499754731556831232/",
@@ -366,7 +408,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7499617308877258752/",
@@ -374,7 +417,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7497547544816287778/",
@@ -382,7 +426,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 4,
-      "loadedComments": 4
+      "loadedComments": 4,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7497397651323748367/",
@@ -390,7 +435,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7496838623954731043/",
@@ -398,7 +444,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7495886011730231296/",
@@ -406,7 +453,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 6,
-      "loadedComments": 6
+      "loadedComments": 6,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7494645246353997858/",
@@ -414,7 +462,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7494055599441707008/",
@@ -422,7 +471,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 13,
-      "loadedComments": 12
+      "loadedComments": 12,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7493003824543006755/",
@@ -430,7 +480,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 4,
-      "loadedComments": 4
+      "loadedComments": 4,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7490124535287513103/",
@@ -438,7 +489,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489827183024832547/",
@@ -446,7 +498,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 12,
-      "loadedComments": 12
+      "loadedComments": 12,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489827070898831395/",
@@ -454,7 +507,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 7,
-      "loadedComments": 7
+      "loadedComments": 7,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489826864518119424/",
@@ -462,7 +516,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 7,
-      "loadedComments": 7
+      "loadedComments": 7,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489826731843747875/",
@@ -470,7 +525,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489826321137958964/",
@@ -478,7 +534,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 10,
-      "loadedComments": 10
+      "loadedComments": 10,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489823518142496803/",
@@ -486,7 +543,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489770668796411904/",
@@ -494,7 +552,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7488270041885245475/",
@@ -502,7 +561,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 18,
-      "loadedComments": 17
+      "loadedComments": 17,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7485705687222190095/",
@@ -510,7 +570,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 7,
-      "loadedComments": 7
+      "loadedComments": 7,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7484908073740894242/",
@@ -518,7 +579,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 3,
-      "loadedComments": 3
+      "loadedComments": 3,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7484900776553234472/",
@@ -526,7 +588,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 23,
-      "loadedComments": 19
+      "loadedComments": 19,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7481254399377932303/",
@@ -534,7 +597,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7479720576181862440/",
@@ -542,7 +606,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7477185300641546275/",
@@ -550,7 +615,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7471425250794684451/",
@@ -558,7 +624,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7470388961743994914/",
@@ -566,7 +633,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7458536166952828980/",
@@ -574,7 +642,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 5,
-      "loadedComments": 5
+      "loadedComments": 5,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7457884625730273299/",
@@ -582,7 +651,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 2,
-      "loadedComments": 2
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7456008597416181810/",
@@ -590,7 +660,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 47,
-      "loadedComments": 46
+      "loadedComments": 46,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7442105249403584512/",
@@ -598,25 +669,45 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7688672530332271165/",
       "title": "9-23号大摩闭门会：交运、工业、原材料 更新",
-      "status": "no_comments",
-      "found": false
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7688582756460184092/",
       "title": "周金涛演讲完整版：人一生只有三次暴富的机会！",
-      "status": "no_comments",
-      "found": false
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7688578283511857703/",
       "title": "董明珠彭博专访：谈格力转型：地产承压，自动化与储能寻找增量",
-      "status": "no_comments",
-      "found": false
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "董明珠说格力增长机会主要在欧洲寒冷地区供暖业务，国内家电以旧换新、新能源储能，还有智能制造升级降本呢😊",
+      "doubaoReplies": [
+        {
+          "askUser": "itshello",
+          "askText": "@豆包 格力的增长机会在哪？",
+          "doubaoReply": "董明珠说格力增长机会主要在欧洲寒冷地区供暖业务，国内家电以旧换新、新能源储能，还有智能制造升级降本呢😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7688703713371833122"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7688119550323196471/",
@@ -624,13 +715,14 @@
       "status": "not_found",
       "found": false,
       "totalComments": 24,
-      "loadedComments": 23
+      "loadedComments": 23,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7687953702132466231/",
       "title": "9-21号大摩最新闭门会：内需未稳，外扰再起？",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -652,7 +744,8 @@
       "status": "not_found",
       "found": false,
       "totalComments": 3,
-      "loadedComments": 3
+      "loadedComments": 3,
+      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7687760294369608215/",
@@ -660,13 +753,2268 @@
       "status": "not_found",
       "found": false,
       "totalComments": 1,
-      "loadedComments": 1
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688862008585748521/",
+      "title": "分享视频",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "钱变贵理论上会压制房价，但不一定会直接降哦～买房贷款利率主要看国内政策，本地供需、调控这些影响更大哒～",
+      "doubaoReplies": [
+        {
+          "askUser": "菊花古剑和酒104",
+          "askText": "@豆包 钱贵了，房价也该降了？",
+          "doubaoReply": "钱变贵理论上会压制房价，但不一定会直接降哦～买房贷款利率主要看国内政策，本地供需、调控这些影响更大哒～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7688860949163918143"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688846182550306858/",
+      "title": "工信部定调通信网，要“适度超前”！ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688755963222589482/",
+      "title": "被海外垄断三十年，冷门设备突然涨停 #上市公司大追踪",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "VNA就是矢量网络分析仪呀～相当于AI服务器PCB电路板的“信号试压检查员”，专门测高速电信号的损耗、反射和延迟呢～普通示波器性能不够，它可是刚性刚需哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "正大光明青山R6",
+          "askText": "@豆包 VNA是什么设备？",
+          "doubaoReply": "VNA就是矢量网络分析仪呀～相当于AI服务器PCB电路板的“信号试压检查员”，专门测高速电信号的损耗、反射和延迟呢～普通示波器性能不够，它可是刚性刚需哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7688785825559003958"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688741773749239835/",
+      "title": "连续6到9天暴雨！盯住A股这三个方向 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688669351372652585/",
+      "title": "一万亿不是放水，央行国庆不休息 #上市公司大追踪 #央行",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "这个视频标签标注的发布账号是上市公司大追踪，同内容的原版源头博主大概率是抖音的大威哥，目前头条上的是二次转载版本~",
+      "doubaoReplies": [
+        {
+          "askUser": "别杠了杠就是你对",
+          "askText": "@豆包 原视频作者是谁？",
+          "doubaoReply": "这个视频标签标注的发布账号是上市公司大追踪，同内容的原版源头博主大概率是抖音的大威哥，目前头条上的是二次转载版本~",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7688735428622615332"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688655144333869065/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688581517690863679/",
+      "title": "缩量两千六百亿，钱在往哪里躲#上市公司大追踪 #财经",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688492545420525609/",
+      "title": "AI降价，A股看谁 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688366210622652435/",
+      "title": "个人Agent时代来了，A股谁最受益？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688364077802291215/",
+      "title": "领导层上海调研，为什么去这里？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 22,
+      "loadedComments": 19,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688361029416534070/",
+      "title": "纳指新高英伟达掉队，AI定价逻辑正在迁移 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688293531999273003/",
+      "title": "美诺华订单破2亿，暗藏市场信息差 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688258529731772466/",
+      "title": "腾讯对标Muse，A股跟不跟",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688243498076897314/",
+      "title": "沈鼓事件刚落地，两新股炒作需警惕 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 18,
+      "loadedComments": 13,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688210804528644136/",
+      "title": "自然资源部定调，钱流向三个方向 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688195412993245220/",
+      "title": "放量两千亿钱，在抢算力上游 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688115206636175402/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687997048381472822/",
+      "title": "人民日报定调房地产，“绝非行业退潮！” #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687988922458554422/",
+      "title": "美股集体高开，英特尔暴涨9% #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687982539763351586/",
+      "title": "万科两连板！首套房贴息？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 5,
+      "loadedComments": 5,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687907785029566491/",
+      "title": "特斯拉宁波审厂，三家企业待甄选 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687900148680097807/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687893416617148466/",
+      "title": "缩量普涨 钱是在换锚 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687850844418473993/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687848761314033698/",
+      "title": "六只“新华”集体涨停兄弟，卖出或者减仓！ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 13,
+      "loadedComments": 10,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687848386451472427/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687831912643362816/",
+      "title": "净流入五十四亿，钱在抢医药 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 64,
+      "loadedComments": 50,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687814633834758144/",
+      "title": "放量七百亿，钱在抢三个方向 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687587894994993198/",
+      "title": "#上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 16,
+      "loadedComments": 13,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687585086493884459/",
+      "title": "下周只交易四天，持币还是持股？ #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687547834292174854/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 4,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687547550476042294/",
+      "title": "新华吞财联社复牌，传媒第一股值多少？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687532750945517608/",
+      "title": "啊？存储不缺货！宏碁董事长掀桌了 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687528175990997038/",
+      "title": "长鑫量产破局，存储定价权易主 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687475047595327538/",
+      "title": "国新办明天开“大国粮仓”发布会 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687472820560855055/",
+      "title": "央视点名！电力心脏升级 #上市公司大追踪",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "涉及的企业挺多的～整机厂商有四方股份（SST1.0量产）、金盘科技（样机海外测试）、中国西电（出海订单）；上游碳化硅核心器件有中电科五十五所、斯达半导、时代电气；东莞昱懋则和中科院合作攻关软磁材料～（不构成投资建议哈）",
+      "doubaoReplies": [
+        {
+          "askUser": "弯弯的大树",
+          "askText": "@豆包 涉及什么企业？",
+          "doubaoReply": "涉及的企业挺多的～整机厂商有四方股份（SST1.0量产）、金盘科技（样机海外测试）、中国西电（出海订单）；上游碳化硅核心器件有中电科五十五所、斯达半导、时代电气；东莞昱懋则和中科院合作攻关软磁材料～（不构成投资建议哈）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7687477563949990710"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687461995029528576/",
+      "title": "电力转向算力底座，锁定两大主线 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687418649133219883/",
+      "title": "电容价格两极分化，MLCC到底发生了什么 #上市公司大追踪 #mlcc #电容",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "这视频讲MLCC现在K型分化啦～AI服务器用的高容量款现货最高炒到原价10倍，消费级料号却从30块跌回10块～本质是AI算力带来的结构性供需失衡～海外龙头都把产能往AI倾斜，国产高端订单都排到2027年啦～国瓷材料作为上游粉体供应商正在扩产AI相关产能，还布局了AI算力材料链，比下游订单更稳～目前板块涨幅不小不适合追涨，稳健的可以等回调再进，别碰没高端产能只靠消费级讲故事的公司哦～（温馨提示：以上仅为信息分享，不构成任何投资建议）",
+      "doubaoReplies": [
+        {
+          "askUser": "爱锄草孟凡公",
+          "askText": "@豆包  总结一下视频的内容",
+          "doubaoReply": "这视频讲MLCC现在K型分化啦～AI服务器用的高容量款现货最高炒到原价10倍，消费级料号却从30块跌回10块～本质是AI算力带来的结构性供需失衡～海外龙头都把产能往AI倾斜，国产高端订单都排到2027年啦～国瓷材料作为上游粉体供应商正在扩产AI相关产能，还布局了AI算力材料链，比下游订单更稳～目前板块涨幅不小不适合追涨，稳健的可以等回调再进，别碰没高端产能只靠消费级讲故事的公司哦～（温馨提示：以上仅为信息分享，不构成任何投资建议）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7687451095085646638"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687400112712056832/",
+      "title": "黄仁勋否定AI末日，暗藏赛道机会 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687160340505788459/",
+      "title": "油运日租120万美元，板块强于石油股 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687149091550740534/",
+      "title": "AI模型偷偷做药，藏了什么野心？ #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687129398030303284/",
+      "title": "爆！四家平台被查，酒店板块又要嗨？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 6,
+      "loadedComments": 6,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687096067971940393/",
+      "title": "四家OTA被立案，股价不跌反涨？ #上市公司大追踪",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "这次被立案的四家OTA分别是：杭州淘美（运营飞猪）、同程网络（运营同程旅行）、途家在线（运营途家）、北京三快（负责美团酒旅业务）～携程不在这次名单里，之前相关案件已经完成处罚整改啦。",
+      "doubaoReplies": [
+        {
+          "askUser": "番茄4028198412617934",
+          "askText": "@豆包 四家OTA具体是哪些？",
+          "doubaoReply": "这次被立案的四家OTA分别是：杭州淘美（运营飞猪）、同程网络（运营同程旅行）、途家在线（运营途家）、北京三快（负责美团酒旅业务）～携程不在这次名单里，之前相关案件已经完成处罚整改啦。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7687175280205136692"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687019590807011362/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687004629606858806/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686875896070422555/",
+      "title": "国常会定调健康消费，A股看这三条主线！ #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686875772287467572/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686850434313420827/",
+      "title": "上交所直接拔网线，沈鼓被暂停交易 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 41,
+      "loadedComments": 36,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686779820248268815/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686769481007562802/",
+      "title": "沈鼓两天涨18倍，机构为何集体跑了？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 51,
+      "loadedComments": 43,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686767370475929652/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686738871883759650/",
+      "title": "#财经",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "受海外光刻胶厂商涨价消息刺激，光刻胶板块迎来拉升。JSR、信乐化学宣布自2026年10月1日起光刻胶整体涨价15%，散单涨幅可达32%-38%；其中HBM配套浸没式ArF、3D NAND用KrF光刻胶涨幅领先，背后是AI芯片、HBM存储扩产带来的需求增长。行情深层逻辑为半导体“去日化”，日系厂商垄断高端光刻胶，叠加日本收紧相关产品出口管制，国产替代加速推进。目前国内g线光刻胶国产化率较高，但KrF、ArF等高阶产品国产化程度极低。\n本次提及的具体股票：\n1. 华软科技（002453）\n2. 西陇科学（002584）\n3. 聚石化学（688669）\n4. 久日新材（688199）\n5. 安集科技（688019）\n6. 肯特催化（无公开上市代码）\n视频提示投资风险：警惕纯题材炒作个股。华软科技光刻胶相关业务营收占比不足2%；西陇科学并不生产光刻胶，仅供应配套试剂，这类个股波动巨大。可以重点关注有产品落地的标的，包括推进9000吨光刻胶技改项目的聚石化学、多款光刻胶产品实现销售的久日新材、光刻相关产品批量生产的肯特催化。板块受消息驱动、波动剧烈，不宜盲目追涨；光刻胶国产替代是长期赛道，优先布局中高端产品取得进展的企业，逢回调布局更为稳妥。\n风险提示：内容仅为视频观点整理，不构成任何投资建议，股市有风险，投资需谨慎。",
+      "doubaoReplies": [
+        {
+          "askUser": "胖小宋s宋小胖",
+          "askText": "@豆包 ，帮我总结视频内容。同时如果提及具体股票，请列出股票名称和编码，如果不提及则只做总结",
+          "doubaoReply": "受海外光刻胶厂商涨价消息刺激，光刻胶板块迎来拉升。JSR、信乐化学宣布自2026年10月1日起光刻胶整体涨价15%，散单涨幅可达32%-38%；其中HBM配套浸没式ArF、3D NAND用KrF光刻胶涨幅领先，背后是AI芯片、HBM存储扩产带来的需求增长。行情深层逻辑为半导体“去日化”，日系厂商垄断高端光刻胶，叠加日本收紧相关产品出口管制，国产替代加速推进。目前国内g线光刻胶国产化率较高，但KrF、ArF等高阶产品国产化程度极低。\n本次提及的具体股票：\n1. 华软科技（002453）\n2. 西陇科学（002584）\n3. 聚石化学（688669）\n4. 久日新材（688199）\n5. 安集科技（688019）\n6. 肯特催化（无公开上市代码）\n视频提示投资风险：警惕纯题材炒作个股。华软科技光刻胶相关业务营收占比不足2%；西陇科学并不生产光刻胶，仅供应配套试剂，这类个股波动巨大。可以重点关注有产品落地的标的，包括推进9000吨光刻胶技改项目的聚石化学、多款光刻胶产品实现销售的久日新材、光刻相关产品批量生产的肯特催化。板块受消息驱动、波动剧烈，不宜盲目追涨；光刻胶国产替代是长期赛道，优先布局中高端产品取得进展的企业，逢回调布局更为稳妥。\n风险提示：内容仅为视频观点整理，不构成任何投资建议，股市有风险，投资需谨慎。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7686752374941614898"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686728087649730600/",
+      "title": "科创五零涨近四，存储缺到二八 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686704307187367988/",
+      "title": "医保局进了规划桌，医院开始算经济账 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686649271797415986/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686642860149768207/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686622758016385060/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686618120923906094/",
+      "title": "五城市群四年试点，氢能最全受益图谱 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686615805421125675/",
+      "title": "义乌卖UFO了？80万一台！ #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686518154969038882/",
+      "title": "注意！特斯拉机器人最后一道审厂开闸！ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 41,
+      "loadedComments": 30,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686501426697027626/",
+      "title": "英伟达销量翻倍，多数人解读跑偏 #上市公司大追踪 #英伟达 #黄仁勋",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 14,
+      "loadedComments": 10,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686498677065859072/",
+      "title": "今晚的芯片暴涨，跟A股啥关系 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686490471933165587/",
+      "title": "二股东减持真相，振石为何此时套现 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686420291186065460/",
+      "title": "收盘指数跌了，但钱换了赛道 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686417639014400054/",
+      "title": "40个月交货期，谁掌握半导体周期 #上市公司大追踪 #半导体",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "目前半导体产业链还有不少要突破的地方～高端零部件（国产化率才7.1%）、关键材料、EDA工具这些，都是国产替代的重点方向哦～",
+      "doubaoReplies": [
+        {
+          "askUser": "三色琉璃球",
+          "askText": "@豆包 还有什么需要突破的！",
+          "doubaoReply": "目前半导体产业链还有不少要突破的地方～高端零部件（国产化率才7.1%）、关键材料、EDA工具这些，都是国产替代的重点方向哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7686416905607119651"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686413517171195944/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 18,
+      "loadedComments": 13,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686403019489738761/",
+      "title": "华为扔颗“光炸弹”90%的股民没看懂 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 45,
+      "loadedComments": 42,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686346743103193103/",
+      "title": "放量冲高回落，钱换了赛道 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686272164818845750/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686267414236889126/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686139344583098374/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686120546115223588/",
+      "title": "#上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686086367663718450/",
+      "title": "宁王丢单真相，车企为何集体逃离 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 148,
+      "loadedComments": 89,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686065842827558912/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686041715257868297/",
+      "title": "科创五零涨4％三一却跌停 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686030359168188450/",
+      "title": "液冷政策升级，信息差在这 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686026884836458548/",
+      "title": "壳公司收购财联社，传媒估值重估 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686012367628402703/",
+      "title": "香港首个五年规划，普通人能抓住什么 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 15,
+      "loadedComments": 13,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7685980131151904808/",
+      "title": "科创50暴涨，三一差点跌停 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 5,
+      "loadedComments": 4,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7685975924910915647/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686679557297930255/",
+      "title": "全球先进封装：谁吃肉、谁喝汤--大盘点 #先进封装",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 24,
+      "loadedComments": 15,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686440435595165705/",
+      "title": "戒掉随机收益的陷阱，交易长期盈利的核心只有一件事 #AM交易体系 #交易体系构建",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7684247396968071168/",
+      "title": "你距离稳定复利，还差一套体系 #AM交易体系 #交易体系构建 #交易系统 #GNCapital",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7683321736868724782/",
+      "title": "01 集：先想明白！你到底是投资还是投机？ 短线、波段、长线到底该怎么选？#从零学炒股 #GNCapital",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7675686097138073619/",
+      "title": "8月19日 功率半导体迎来新一轮涨价潮：AI算力成核心驱动力 #功率半导体 #AI算力",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7675532349328916534/",
+      "title": "00集前言：90%散户亏钱的真正原因，这套新手炒股教程 ，彻底帮你扭转亏损 #从零学炒股 #股市 #炒股养家",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7675447182618525711/",
+      "title": "8月16日 生益科技2026上半年净利暴增130.42% 高端覆铜板驱动业绩超预期 #生益科技 #覆铜板 #PCB #AI",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7670765729914273832/",
+      "title": "HBF高带宽闪存，存储下一代新兴赛道 #HBF #高带宽闪存 #存储 #存储芯片 #AI算力",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 10,
+      "loadedComments": 10,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7670238203161116699/",
+      "title": "2026年8月4日 有研新材 2026 半年报深度解读 #有研新材 #财务报表 #财报分析 #股市",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 10,
+      "loadedComments": 9,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7669403908193681450/",
+      "title": "史诗级围猎！华尔街 36 小时猎杀 AI 神童全记录： 25 岁 OpenAI 天才，8 人基金 450 亿帝国一夜崩塌 #华尔街 #华尔街AI股神爆仓 #Leopold #美股",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7651404633864142875/",
+      "title": "2026年6月15日 申菱环境是国内AI液冷CDU领域的市占率第一龙头，深度绑定华为、字节等头部大厂，稳居数据中心液冷温控解决方案第一梯队。#申菱环境 #液冷 #财务报表",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7649710899166445602/",
+      "title": "2026年6月10日 九大热门电子材料全解析：找准短线缺货与长期国产替代的投资机会 电子布、铜箔、陶瓷基板、ABF 载板、玻璃基板、PCB 钻针、MLCC 电容、锡焊膏、金刚石散热 #电子布 #玻璃基板 #PCB #MLCC",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 13,
+      "loadedComments": 12,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7649342156955451442/",
+      "title": "2026年6月9日 抛开行业红利与国产替代“滤镜”后，兆易创新的真实底色是什么？ #兆易创新 #存储 #财报解读",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7649211764538212393/",
+      "title": "2026年6月9日 多空视角解读澜起科技2026一季报 #澜起科技 #财务报表 #内存",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7646781951148589097/",
+      "title": "2026年6月2日 重磅！国家定调六大未来产业，看懂这篇，抓住未来 5-10 年黄金机遇 #未来产业 #新兴产业",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 98,
+      "loadedComments": 80,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7644341906620547126/",
+      "title": "韬定律是什么？大白话给你全解读！ #韬定律 #华为",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7643677675961516067/",
+      "title": "2026年5月25日 从几何到时间：华为发表“韬（τ）定律”，一次对半导体演进逻辑的深层重构 #华为 #半导体",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7640655748477354047/",
+      "title": "2026年5月17日 人形机器人，5 大核心零部件全解 #人形机器人",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7640655723052007439/",
+      "title": "2026年5月16日 碳化硅产业迎来历史性拐点，AI + 新能源双轮驱动开启高增长时代 #碳化硅",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7640398369877966900/",
+      "title": "2026年5月14日 瑞银Q-Series：全球储能需求为何激增？#储能",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7638407944039563314/",
+      "title": "2026年5月11日 Agentic AI重塑通用计算价值，算力底层逻辑的彻底重构 #CPU #算力",
+      "publishTime": "",
+      "creator": "GNCapital产业研究",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "智能体AI让算力逻辑大洗牌啦！以前AI是答题机器，现在智能体像能干活的员工，得自主规划、调用工具，这些都靠CPU，GPU根本干不了～常见场景里CPU耗时超八成，能耗也高，成了运行瓶颈。\n数据中心CPU和GPU配比要从8:1变1:1，需求量直接翻四倍！2026年CPU已经缺货涨价，消费级涨5%-10%，服务器级涨10%-20%，缺货可能持续到2027年，三季度还会再涨。\n科技巨头都在抢CPU市场，自研芯片、升级架构打得火热。产业链上下游也跟着受益，内存接口芯片需求翻好几倍。2026年是CPU回归算力核心的元年，未来会是CPU+GPU+专用芯片协同的新架构，整个行业要量价齐升啦～",
+      "doubaoReplies": [
+        {
+          "askUser": "nanana93",
+          "askText": "@豆包 简要总结一下内容",
+          "doubaoReply": "智能体AI让算力逻辑大洗牌啦！以前AI是答题机器，现在智能体像能干活的员工，得自主规划、调用工具，这些都靠CPU，GPU根本干不了～常见场景里CPU耗时超八成，能耗也高，成了运行瓶颈。\n数据中心CPU和GPU配比要从8:1变1:1，需求量直接翻四倍！2026年CPU已经缺货涨价，消费级涨5%-10%，服务器级涨10%-20%，缺货可能持续到2027年，三季度还会再涨。\n科技巨头都在抢CPU市场，自研芯片、升级架构打得火热。产业链上下游也跟着受益，内存接口芯片需求翻好几倍。2026年是CPU回归算力核心的元年，未来会是CPU+GPU+专用芯片协同的新架构，整个行业要量价齐升啦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7642336646444090150"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7637870362274545699/",
+      "title": "2026年5月9日 SpaceX 狂飙：星链 + 星舰引爆商业航天，8 大核心龙头全梳理再升科技 西部材料 斯瑞新材 超捷股份 天银机电 信维通信 通宇通讯 派克新材 #商业航天 #SpaceX #星链",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 47,
+      "loadedComments": 42,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7636445000700624923/",
+      "title": "2026年5月5日 CoPoS：先进封装的下一步？ #CoPoS #先进封装",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7636419020918259752/",
+      "title": "2026年5月4日 SpaceX 史诗级 IPO：估值逆天，华尔街明知溢价为何抢着入局 #SpaceX #星链 #马斯克",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7634681490076336164/",
+      "title": "2026年5月1日 稀土，真的不一样了 #稀土",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7628931485291921443/",
+      "title": "2026年4月15日 存储芯片HBM产业链全景解析 联瑞新材 华海诚科 彤程新材 鼎龙股份 晶瑞电材 南大光电 东材科技 兴福电子 晶瑞电材 中巨芯 江化微 华特气体 雅克科技 中船特气 凯美特气 艾森股份 中微公司 北方华创 拓荆科技 精智达 精测电子 中科飞测 鼎龙股份 安集科技 盛美上海 上海新阳 天承科技 长电科技 通富微电 华天科技 佰维存储 江波龙 兆易创新  #存储芯片 #HBM",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 7,
+      "loadedComments": 6,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7625900674085371955/",
+      "title": "2026年4月7日 光通信核心赛道：光模块产线设备全解析！博众精工 罗博特科 科瑞技术 快克智能 联讯仪器 智立方 奥特维 凯格精机 华盛昌 芯源微 芯碁微装 大族激光 联赢激光 海目星 帝尔激光 #光模块",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 9,
+      "loadedComments": 9,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7625428160548765730/",
+      "title": "2026年4月6日 半导体关键气体：六氟化钨产业链全解析 厦门钨业、章源钨业、中钨高新、翔鹭钨业、中船特气、昊华科技、中巨芯、南大光电、和远气体、雅克科技 #六氟化钨 #钨",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7624445018979991561/",
+      "title": "2026年4月3日 最近特别火的XPO，到底是个啥？#XPO #CPO #光模块",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 82,
+      "loadedComments": 76,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7623441696164724788/",
+      "title": "2026年3月31日 商业航天 拐点已至 #商业航天 #可回收火箭",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 18,
+      "loadedComments": 18,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7623187994103283721/",
+      "title": "20263月31 固态变压器行业核心公司梳理 中国西电 特变电工 许继电气 金盘科技 盛弘股份 四方股份 科华数据 新风光 思源电气 #固态变压器 #变压器 #SST",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7622818041687965705/",
+      "title": "2026年3月30日 绿电 + 储能全产业链风口来袭，十大龙头公司梳理 中国天楹 龙净环保 上海电力 华能国际 国电电力 三峡能源 中绿电 亿纬锂能 阳光电源 宁德时代  #绿电 #储能",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7622270614703964214/",
+      "title": "2026年3月28日 创新药十大核心公司梳理 恒瑞医药 百济神州 荣昌生物 信达生物 科伦药业 君实生物 石药集团 诺诚健华 百利天恒 药明康德 #创新药",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 26,
+      "loadedComments": 18,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7621362401778892843/",
+      "title": "2026年3月26日 算力租赁核心企业梳理 润泽科技 万国数据 世纪互联 光环新网 中国电子 中国电科 广电运通 云赛智联 中贝通信 鸿博股份 利通电子 优刻得 青云科技 工业富联 中科曙光 #算力租赁",
+      "publishTime": "",
+      "creator": "GNCapital产业研究",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "传统云服务提供商有：中国移动、中国电信、中国联通、阿里、腾讯、字节跳动；专业IDC服务商（市场主力军）包括：万国数据、世纪互联、润泽科技、光环新网；具备IDC建设运营能力的央国企有：中国电子、中国电科、广电运通、云赛智联；具备IDC建设运营能力的民企有：中贝通信、鸿博股份、利通电子、优刻得、青云科技；服务器头部厂商是：工业富联、中科曙光。",
+      "doubaoReplies": [
+        {
+          "askUser": "星语微笑27044643",
+          "askText": "@豆包 说的是哪几家企业？",
+          "doubaoReply": "传统云服务提供商有：中国移动、中国电信、中国联通、阿里、腾讯、字节跳动；专业IDC服务商（市场主力军）包括：万国数据、世纪互联、润泽科技、光环新网；具备IDC建设运营能力的央国企有：中国电子、中国电科、广电运通、云赛智联；具备IDC建设运营能力的民企有：中贝通信、鸿博股份、利通电子、优刻得、青云科技；服务器头部厂商是：工业富联、中科曙光。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7621567425011647272"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7621093721144033280/",
+      "title": "2026年3月25日 变压器十大核心公司梳理 特变电工 中国西电 保变电气 金盘科技 思源电气 伊戈尔 望变电气 四方股份 明阳电气 扬电科技 #变压器",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7619852028293939251/",
+      "title": "2026年3月22日 AI算力核心赛道：Token工厂产业链全解析 #Token #AI",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 76,
+      "loadedComments": 57,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7618891298459615272/",
+      "title": "2026年3月19日 存储芯片巨头美光科技财报大超预期，预示着什么样的未来？#美光 #token #存储芯片",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 7,
+      "loadedComments": 7,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7617397139152797723/",
+      "title": "2026年3月15日 储能行业迎来确定性向上拐点行情！ #储能 #宁德时代 #比亚迪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7616695351520526377/",
+      "title": "2026年3月13日 AI算力核心赛道：光互联核心技术路线全解析长芯博创 致尚科技 胜宏科技 中际旭创 新易盛 华工科技 华懋科技 天孚通信 罗博特科环旭电子 源杰科技 仕佳光子 长光华芯 致尚科技 太辰光 德科立 赛微电子 光库科技 腾景科技 炬光科技 凌云光 #光互联 #光模块 #交换机 #CPO",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 12,
+      "loadedComments": 11,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7616139275625005066/",
+      "title": "2026年3月12日AI算力核心赛道：PCB产业链全景解析 诺德股份 德福科技 宝明科技 东材科技 宏昌电子 美联新材 圣泉集团 菲利华 中材科技 国际复材 宏和科技 铜冠铜箔 康尼机电 合锻智能 大族数控 东威科技 芯碁微装 广合科技 沪电股份 景旺电子 胜宏股份 鹏鼎控股 深南电路 东山精密 胜宏科技 兴森科技 华正新材 #PCB #英伟达 #AI算力",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7614645551761457203/",
+      "title": "2026年3月8日 算电协同七家核心企业梳理 协鑫能科 豫能控股 三峡能源 国电南瑞 国网信通 科华数据 南网储能 #算力 #电力 #算电协同",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 45,
+      "loadedComments": 40,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7610943654198247439/",
+      "title": "2026年2月26日 工业机械巨兽订单排到2030年，中国燃气轮机企业迎超级红利应流股份 钢研高纳 图南股份 联德股份 豪迈科技 万泽股份 东方电气 上海电气 航发动力 杰瑞股份 华光环能 博盈特焊 西子洁能 #燃气轮机 #AIDC",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7610371675896758326/",
+      "title": "2026年2月24日 特斯拉与SpaceX开启光伏扩产，国产供应链受益，重视辅材机会钧达股份 帝科股份 永臻股份 亚玛顿 福斯特 海优新材 泽润新能 连城数控 奥特维 拉普拉斯 迈为股份 东方日升 晶科能源 #光伏 #太空光伏 #特斯拉 #SpaceX",
+      "publishTime": "",
+      "creator": "GNCapital产业研究",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "提到的股票：钧达股份、帝科股份、永臻股份、亚玛顿、福斯特、海优新材、泽润新能、连城数控、奥特维、拉普拉斯、迈为股份、东方日升、晶科能源",
+      "doubaoReplies": [
+        {
+          "askUser": "爱看你的眼",
+          "askText": "@豆包 讲了哪几个股票？",
+          "doubaoReply": "提到的股票：钧达股份、帝科股份、永臻股份、亚玛顿、福斯特、海优新材、泽润新能、连城数控、奥特维、拉普拉斯、迈为股份、东方日升、晶科能源",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7610766126247002926"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7609641956590747702/",
+      "title": "2026年2月22日 铟价暴涨超180%,2026开年再涨88%，比稀土还稀缺的硬通货遭疯抢锡业股份 华锡有色 铟靶新材（原京蓝科技）锌业股份 株冶集团 中金岭南 隆华科技 #铟 #有色金属",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 36,
+      "loadedComments": 22,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7609264224082067462/",
+      "title": "2026年2月21日 疯了！钨价暴涨超200%,2026开年再涨50%，到底在抢什么？中钨高新 厦门钨业 章源钨业 翔鹭钨业 洛阳钼业 中稀有色 #钨",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7608833258982146094/",
+      "title": "2026年2月20日 机器人核心赛道：伺服电机行业全解析 汇川技术 埃斯顿 鸣志电器 卧龙电驱 雷赛智能 禾川科技 步科股份 科力尔 鼎智科技 德昌股份 #伺服电机 #人形机器人",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7606445072816537635/",
+      "title": "2026年2月12日 中芯国际联席CEO赵海军最新发言，透露出哪些信号？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7604787035610153012/",
+      "title": "2026年2月9日 人形机器人核心赛道：丝杠行业全解析 恒立液压 贝斯特 五洲新春 北特科技 秦川机床 江苏雷利 双林股份 长盛轴承 斯菱股份#人形机器人 #丝杠",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7604422002568331300/",
+      "title": "2026年2月8日 美国四大科技巨头正在疯狂砸钱，一年4.6万亿花在哪里 #谷歌 #亚马逊 #微软 #Meta",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 12,
+      "loadedComments": 12,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7603330730496557106/",
+      "title": "2026年2月5日 储能：筛选核心八家公司 阳光电源 隆基绿能 阿特斯 科华数据 海博思创 西典新能 盛弘股份 上能电气 #储能",
+      "publishTime": "",
+      "creator": "GNCapital产业研究",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "八家核心储能公司分别是阳光电源（全球出货量第一）、隆基绿能（合资进美国市场）、阿特斯（2026目标14-17GWh）、科华数据（PCS国内榜首）、海博思创（国内累计装机第一）、西典新能（特斯拉供应商）、盛弘股份（百兆瓦订单）、上能电气（全场景设备），各有技术和市场优势哦～",
+      "doubaoReplies": [
+        {
+          "askUser": "方枪枪痛打高加林",
+          "askText": "@豆包 请总结一下那八家公司",
+          "doubaoReply": "八家核心储能公司分别是阳光电源（全球出货量第一）、隆基绿能（合资进美国市场）、阿特斯（2026目标14-17GWh）、科华数据（PCS国内榜首）、海博思创（国内累计装机第一）、西典新能（特斯拉供应商）、盛弘股份（百兆瓦订单）、上能电气（全场景设备），各有技术和市场优势哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 1,
+          "replyId": "7603662105941639990"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7602774628888477723/",
+      "title": "2026年2月4日商业航天核心赛道：卫星量子通信产业链全解析 华工科技 光库科技 罗博特科 国盾量子 光迅科技 神州信息 光韵达 中国卫星 航天电子 亨通光电 亚信安全 盛邦安全 达华智能 陕西华达 震有科技 #量子通信 #卫星通信 #商业航天",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7602177797804687401/",
+      "title": "2026年2月2日 商业航天核心赛道：相控阵天线产业链全解析 钧达股份 东方日升 隆基绿能 铖昌科技 臻镭科技 成都华微 复旦微电 天锐星通 华芯天微 信维通信 国博电子 华力创通 振芯科技 陕西华达 三维通信 雷电微力 国睿科技 雷科防务 四创电子 硕贝德 航天环宇 通宇通讯 航天电子 盟升电子 霍莱沃 睿创微纳 #商业航天 #相控阵天线 #卫星互联网",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7601818601057681418/",
+      "title": "2026年2月1日商业航天核心赛道：星间激光通信产业链全解析 长光华芯 源杰科技 福晶科技 腾景科技 光库科技 航天电子 振华科技 复旦微电 光迅科技 震有科技 上海瀚讯 海格通信 航天宏图 三维通信 烽火通信 中国卫通 中国电信 #商业航天 #星间激光通信 #卫星互联网",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 149,
+      "loadedComments": 140,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7601300112744448034/",
+      "title": "2026年1月31日 黄金、有色为何大跌？ #黄金 #白银 #贵金属 #有色金属",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7600183280390701108/",
+      "title": "2026年1月28日 存储芯片产业链全景解析 #存储芯片 #HBM #产业链",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 14,
+      "loadedComments": 12,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7598789106650316834/",
+      "title": "2026年1月24日 太空光伏产业链全解析 乾照光电 明阳智能 云南锗业 沃格光电 瑞华泰 蓝思科技 凯盛科技 鹿山新材 福斯特 航天电子 航天智装 航宇微 复旦微电 盛路通信 拓博科技 凯迅光电 迈为股份 东方日升 通威股份 钧达股份 晶科能源 上海港湾 银河航天 中国卫星 航天机电 航天环宇 #太空光伏 #光伏",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 12,
+      "loadedComments": 7,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7598501314871443498/",
+      "title": "2026年1月23日 钙钛矿电池产业链全景梳理 捷佳伟创 微导纳米 曼恩斯特 京山轻机 德龙激光、帝尔激光 金晶科技 隆华科技 福斯特、海优新材 奥来德 极电光能 协鑫光电 纤纳光电 杭州柯林 天合光能 隆基绿能 晶科能源 通威股份 东方日升 #钙钛矿 #光伏电池",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7597365277885792308/",
+      "title": "2026年1月20日 新型电力系统核心赛道全解析 保变电气、国电南瑞、特变电工、中国西电、平高电气、许继电气、思源电气、四方股份、国网信通、涪陵电力、南网科技、国能日新、恒实科技、东方电子、朗新科技、金智科技、金智科技、科陆电子、科华数据、万胜智能、国电南自、阳光电源、南都电源、比亚迪、宁德时代、海博思创、新风光、派能科技、科士达、固德威、安科瑞 #新型电力系统 #国家电网 #特高压 #储能",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 66,
+      "loadedComments": 58,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7596983464214626346/",
+      "title": "2026年1月19日AIDC电源产业技术发展趋势与投资机遇 建议：海外链优先、产业趋势优先，兼顾弹性和公司，以下四大方向值得关注(1)AIDC电源主机(PSU、HVDC、SST)：阳光电源、麦格米特、欧陆通、金盘科技、思源电气、伊戈尔、科士达、科华数据、中恒电气、新风光等；(2)电站级储能：阳光电源、宁德时代等。(3)核心增量零部件(固态断路器、电子熔断器、CBU/BBU、DC/DC、高频隔离变、VPD等)：良信股份、国电南瑞、中熔电气、江海股份、蔚蓝锂芯等；(4)GaN、SiC等第三代半导体。#AIDC #电源",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 4,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7596615107837165577/",
+      "title": "2026年1月18日 高盛：AI电力 六家核心企业梳理 应流股份、思源电气、宏发股份、江海股份、科士达、英维克 #AIDC #AI服务器 #电力设备",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 63,
+      "loadedComments": 52,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7595895787906105394/",
+      "title": "2026年1月16日  先进封装产业链全解析 强力新材 艾森股份 天承科技 上海新阳 飞凯材料 鼎龙股份 强力新材 波米科技 艾森股份 飞凯材料 华海诚科 联瑞新材 壹石通 中材科技 宏和科技 菲利华 国际复材 兴森科技 深南电路 沃格光电 华海清科 盛美上海 中微公司 北方华创 拓荆科技 华卓精科 芯源微 长电科技 通富微电 华天科技 甬矽电子 深科技 汇成股份 佰维存储 #先进封装",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7593624655714811919/",
+      "title": "2026年1月10日 AI应用专题： AI + 营销与广告智能化 —— 重塑营销全链路，易点天下 蓝色光标 利欧股份 浙文互联 焦点科技 因赛集团 #AI应用",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 15,
+      "loadedComments": 13,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7593295993736462371/",
+      "title": "2026年1月9日 AI医疗核心企业全景梳理 联影医疗 万东医疗 安必平 祥生医疗 美年健康 乐心医疗 讯飞医疗 卫宁健康 创业慧康 华大智造 贝瑞基因 华大基因 晶泰控股 成都先导 微创机器人 天智航 #AI医疗",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 116,
+      "loadedComments": 109,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7592144705521991715/",
+      "title": "2026年1月6日 智能驾驶产业链全景深度解析 禾赛科技 速腾聚创 森思泰克 德赛西威 舜宇光学 联创电子 欧菲光 豪恩汽电 地平线 黑芝麻智能 芯海科技 华依科技 经纬恒润 科博达 均胜电子 北斗星通 路畅科技 伯特利 亚太股份 耐世特 浙江世宝 中鼎股份 保隆科技 裕太微 瑞发科 仁芯科技 矽力杰 士兰微 #自动驾驶 #l3级自动驾驶",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 9,
+      "loadedComments": 7,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7591862175862849576/",
+      "title": "2026年1月5日 脑机接口产业链全景梳理 熵基科技 高德红外 汉威科技 科大讯飞 中科信息 三博脑科 创新医疗 诚益通 爱朋医疗 伟思医疗 美好医疗 翔宇医疗 岩山科技 佳禾智能 汤姆猫 #脑机接口",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7589955211788353587/",
+      "title": "2025年12月31日  特斯拉 Optimus 人形机器人 最新核心供应商全景梳理  三花智控 拓普集团 长盈精密 蓝思科技 恒力液压 五洲新春 卧龙电驱 震裕科技 恒博股份 斯菱智驱 浙江荣泰 昊志机电 伟创电气 鸣志电器 兆威机电#特斯拉 #Optimus #人形机器人",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7588790382840643599/",
+      "title": "2025年12月28日  低轨卫星产业链全景梳理 乾照光电 云南锗业 航天环宇 通宇通讯 航天电子 上海瀚讯 华力创通 铖昌科技 烽火通信 长光华芯 中国卫星北斗星通 海格通信 星图测控 航天驭星 震有科技 华测导航 中海达 中国移动 中国卫通 中国电信 中国联通 四维图新 #低轨卫星 #卫星制造 #商业航天",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7588090644934721571/",
+      "title": "2025年12月26日 可回收火箭产业链全景梳理 钢研高纳 应流股份 中航高科 豪能股份 光威复材 斯瑞新材 航天动力 航宇科技 隆盛科技 高华科技 铂力特 九丰能源 国机精工 龙溪股份 派克新材 陕西华达 司南导航 航天科技 航天电子 海兰信 中集集团 #可回收火箭 #火箭",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7587348300203425832/",
+      "title": "2025年12月24日 贵金属铜：产业链全景梳理 紫金矿业 江西铜业 洛阳钼业 西部矿业 五矿资源 金诚信 格林美 中再资源 启迪环境 江西铜业 铜陵有色 云南铜业 大冶有色 海亮股份 博威合金 金田股份 楚江新材 诺德股份 嘉元科技 铜冠铜箔 斯瑞新材",
+      "publishTime": "",
+      "creator": "GNCapital产业研究",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "视频中文字主要内容：2025年12月24日伦铜价触及12159美元/吨历史高位，沪铜、国际铜期货主力合约分别达95300元/吨、85910元/吨。铜价上涨因供应端黑天鹅（智利、印尼等铜矿停产减产，中国CSPT宣布2026年矿铜产能减产10%）、需求端AI与新能源爆发（国内AI数据中心年耗铜30万吨，新能源车、光伏等领域消费量预计380-400万吨）及库存失衡（LME库存锐减超60%）。产业链核心企业包括上游矿产铜企业紫金矿业（2024年产铜107万吨）、江西铜业等，再生铜相关企业格林美等。",
+      "doubaoReplies": [
+        {
+          "askUser": "不觉秋色浅",
+          "askText": "@豆包 提炼视频中的文字",
+          "doubaoReply": "视频中文字主要内容：2025年12月24日伦铜价触及12159美元/吨历史高位，沪铜、国际铜期货主力合约分别达95300元/吨、85910元/吨。铜价上涨因供应端黑天鹅（智利、印尼等铜矿停产减产，中国CSPT宣布2026年矿铜产能减产10%）、需求端AI与新能源爆发（国内AI数据中心年耗铜30万吨，新能源车、光伏等领域消费量预计380-400万吨）及库存失衡（LME库存锐减超60%）。产业链核心企业包括上游矿产铜企业紫金矿业（2024年产铜107万吨）、江西铜业等，再生铜相关企业格林美等。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7587159259562377999"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7586992362381787136/",
+      "title": "2025年12月23日  可控核聚变：高价值设备环节全解析 西部超导 永鼎股份 联创光电 上海电气 精达股份 东方电气 国机重装 航天晨光 雪人集团 中泰股份 冰轮环境 杭氧股份 东方钽业 安泰科技 楚江新材 派克新材 国光电气 合锻智能 王子新材 旭光电子 四创电子 爱科赛博 英杰电气 #可控核聚变",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 195,
+      "loadedComments": 190,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7585890005915336740/",
+      "title": "2025年12月20日 端侧AI：三家潜力核心企业 虹软科技：计算机视觉算法隐形冠军，端侧AI体验赋能者晶晨股份：智能视听芯片龙头，端侧多媒体AI算力提供者恒玄科技：智能音频SoC龙头，端侧音频AI交互引领者#端侧AI",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7584806193735254067/",
+      "title": "2025年12月17日 中金吸并东兴、信达证券预案出炉！ 万亿级投行航母启航 #中金公司 #东兴证券 #信达证券",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7584023735708729344/",
+      "title": "2025年12月15日  半导体设备核心零部件全解析 富创精密 华亚智能 菲利华 先锋精科 晶盛机电 江丰电子 新莱应材 正帆科技 至纯科技 汉钟精机 北方华创 茂莱光学 英杰电气 有研新材 中瓷电子 #半导体设备",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 7,
+      "loadedComments": 7,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7583663121362141236/",
+      "title": "2025年12月14日  半导体设备国产替代全解析 中微公司 北方华创 屹唐股份 拓荆科技 微导纳米 科益虹源 华卓精科 国科精密 启尔机电 芯源微 盛美上海 至纯科技 华海清科 万业企业 长川科技 华峰测控 中科飞测 精测电子 精智达 #半导体设备 #国产替代",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 8,
+      "loadedComments": 6,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7583615239519354889/",
+      "title": "2025年12月14日  半导体材料国产替代全解析 南大光电 彤程新材 晶瑞电材 容大感光 上海新阳 安集科技 鼎龙股份 瑞华泰 时代新材 澳洋顺昌 生益科技 菲利华 石英股份 中瓷电子 安彩高科 三安光电 #半导体材料 #国产替代",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 53,
+      "loadedComments": 52,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7582895365951930431/",
+      "title": "光芯片，AI 时代的隐形算力基石--行业全解析 #光芯片 #光模块",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7581503591611449354/",
+      "title": "SpaceX供应链最核心十家公司梳理 #商业航天 #SpaceX #星链",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 135,
+      "loadedComments": 124,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7581412357139202091/",
+      "title": "阿里巴巴AI布局：从飞天筑基到千问破局 #阿里巴巴 #阿里云 #千问",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7580677832750137407/",
+      "title": "朱雀三号首飞：中国商业航天叩响可复用时代的大门 #朱雀三号 #蓝箭航天 #运载火箭 #热点",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7579203187312525353/",
+      "title": "医疗器械板块拐点来临， 短期来看，Q4和26年业绩改善个股存在业绩估值修复机会#医疗器械 #医疗设备 #IVD",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688726257760780314/",
+      "title": "9.23",
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "石油市场短期最大的扰动是中东地缘局势，会直接影响油价风险溢价，还有OPEC+减产与非OPEC增产的博弈、油价和美元及美联储利率的拉扯，加上需求端分化，整体多空制衡很难走出单边行情。以上仅为市场观点整理，不构成投资建议😊",
+      "doubaoReplies": [
+        {
+          "askUser": "竹枝野老968",
+          "askText": "@豆包 石油市场还有啥看点？",
+          "doubaoReply": "石油市场短期最大的扰动是中东地缘局势，会直接影响油价风险溢价，还有OPEC+减产与非OPEC增产的博弈、油价和美元及美联储利率的拉扯，加上需求端分化，整体多空制衡很难走出单边行情。以上仅为市场观点整理，不构成投资建议😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7688745371766063898"
+        },
+        {
+          "askUser": "竹枝野老968",
+          "askText": "@豆包 石油市场还有啥看点？",
+          "doubaoReply": "石油市场大概率维持高位震荡格局，短期看中东地缘扰动、OPEC+减产执行力度，长期关注石油美元体系变化与非美元结算推进，以上仅为市场观点梳理，不构成任何投资建议😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7688746100555334438"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688567992585568296/",
+      "title": "9.23",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 17,
+      "loadedComments": 16,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687822653444325430/",
+      "title": "9.21",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 106,
+      "loadedComments": 75,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687494641885741090/",
+      "title": "9.20",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 106,
+      "loadedComments": 89,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686723001504825379/",
+      "title": "9.18",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 79,
+      "loadedComments": 58,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686296177541906483/",
+      "title": "9.17",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 96,
+      "loadedComments": 63,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7685687410662834214/",
+      "title": "9.15",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 87,
+      "loadedComments": 71,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7683485588969619497/",
+      "title": "9.9",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 341,
+      "loadedComments": 190,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7683028401792811049/",
+      "title": "9.8",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 59,
+      "loadedComments": 49,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7682708441581305898/",
+      "title": "9.7",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 50,
+      "loadedComments": 40,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7682220896111001638/",
+      "title": "9.6",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 41,
+      "loadedComments": 31,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7682008403614384162/",
+      "title": "9.5",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 85,
+      "loadedComments": 71,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7681885922207465526/",
+      "title": "9.5 助力中国优质企业出海之泰国行 #企业出海 #东盟 #泰国 #产业链供应链",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 10,
+      "loadedComments": 9,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7680505149945806902/",
+      "title": "9.1",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 210,
+      "loadedComments": 190,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7680090585684541478/",
+      "title": "8.31",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 9,
+      "loadedComments": 8,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7679959743963594802/",
+      "title": "8.31",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 30,
+      "loadedComments": 25,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7679643753854402570/",
+      "title": "8.30",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 43,
+      "loadedComments": 37,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7679280401184981011/",
+      "title": "8.29 他说了“该说的”，但却不需要马上做“该做的”... #沃什 #通胀 #美元指数 #黄金 #AI发展",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 168,
+      "loadedComments": 126,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7679063647169216522/",
+      "title": "8.28",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 36,
+      "loadedComments": 27,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7679022498885763135/",
+      "title": "8.28",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 19,
+      "loadedComments": 19,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7678548025106497545/",
+      "title": "8.27",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 61,
+      "loadedComments": 51,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7678287304447754280/",
+      "title": "8.26",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 13,
+      "loadedComments": 13,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7678132431496413226/",
+      "title": "8.26",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 35,
+      "loadedComments": 29,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7677852360332296235/",
+      "title": "8.25",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 43,
+      "loadedComments": 29,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7677051665389420582/",
+      "title": "8.23",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 288,
+      "loadedComments": 175,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7676291543758798867/",
+      "title": "8.21",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 229,
+      "loadedComments": 177,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7676076139081433134/",
+      "title": "8.20",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 26,
+      "loadedComments": 24,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7675955374653980710/",
+      "title": "8.20",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 118,
+      "loadedComments": 104,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7675665096567210038/",
+      "title": "8.19",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 48,
+      "loadedComments": 42,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7675016920571887616/",
+      "title": "8.17",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 79,
+      "loadedComments": 76,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7674833869304627210/",
+      "title": "8.17",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 57,
+      "loadedComments": 43,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7674423190508830755/",
+      "title": "8.16 亲眼见证Ijen火山的“蓝色火焰” #Ijen火山 #蓝色火焰 #印尼 再次夜里12点出发 再次爬又高又陡又滑的山体 终于 看到了Ijen火山上的“蓝紫色火焰” 全球仅少数地点如冰岛、埃塞俄比亚有类似现象 印尼的Ijen火山是南半球唯一稳定的观测点 没有想到这个过程是如此之不易 更没有想到第二次到印尼的旅程 竟是我这么多年去的这么多的国家里面 把自己弄得浑身上下最脏也是最辛苦的一次 双腿已然快觉得不是自己的了 鞋脏到应该已经洗不出来了 裤子也已经灰的认不出了 但 还是都坚持下来了 要为自己的坚持点个赞 🥂 看世界的美妙之一 就是总是充满着各种不确定性 美好的东西 总要付出多一些努力才能得到 其实 生活中也是如此 不管是更多的知识还是更优秀的人 印尼之后不久 将要开启第60个国家的旅程了 ——格鲁吉亚、阿塞拜疆、亚美尼亚 期待～😎🥂",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 48,
+      "loadedComments": 41,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7674109830793986082/",
+      "title": "8.15 Bromo活火山 🌋 #Bromo火山  夜里1点出发 黑咕隆咚开始上山 乌漆嘛黑开始爬很高很崎岖很土的山路 多少有点害怕的 中间有很多可以停下来不再爬也可以观看日出的地方 但我们每次停下来歇了歇想了想后依旧选择继续向上 经过了2个小时 登上了最高最好的视野区 身上脸上已然全是灰尘 但心情确实无比兴奋 终于 终于～ 历尽千辛万苦 见到了这次旅程的倒数第二个重要目的地 ——Bromo活火山 也是人生第一次如此近距离的注视着活火山 火山口正在冒着滚滚浓烟 日出升起之时 火山顶被染成了金黄色 与周围一起 一个五彩斑斓的世界映入眼帘 旅行的意义 就是在克服各种困难之后的这种获得感吧❤️ 满足了～🥂 旅途中碰到一对河南的父子 儿子15岁 即将上高中 是儿子选的暑假国外旅行的目的地——印尼 一问才知道 儿子是他们当地县10000多个学生里的前50名 初中开始自己学习高一高二的课程 这次来火山还拿了地理课本 里面讲地质结构用的就是“Bromo火山”的照片 特意拿到现场对比 父子俩很亲切也很谦虚 爸爸说 他自己是第一次出国 而希望儿子从小就能多出去走走看看 打开眼界 打开心胸  了解世界的大 更了解自己的渺小 永远用学习的心态去认识世界 明年他成年了 以后再出国应该可以独立去了 这也是一种锻炼 和他们聊之后就想着把这段话在视频里记录下来 或许可以分享给更多的父母 当我们越多的出去走走看看 就会越来越关注值得关注的人和事 用自己的眼睛去看世界、用双脚去行世界 这件事情别人永远替代不了你 而你的收获只有你自己知道 与此同时会让你愿意去看更多的真实的世界 而这就是旅行这件事情的无限魅力❤️ 另 看到很多朋友问印尼地震的事情 我是下山后看到朋友们问才知道的 其实印尼人很多自己都不知道 因为离我们在的地方很远很远 所以没有任何震感和影响 一切顺利平安 谢谢大家的关心 🙆‍♀️ 未完待续....",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 21,
+      "loadedComments": 20,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7673433385981149225/",
+      "title": "8.13",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 157,
+      "loadedComments": 107,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7673319606500458547/",
+      "title": "8.13",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 108,
+      "loadedComments": 99,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7673271698946261055/",
+      "title": "8.13 #印尼 #日惹 #中芭朗天坑 #丁达尔效应",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 13,
+      "loadedComments": 13,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7672567581118562344/",
+      "title": "8.11",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 41,
+      "loadedComments": 36,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7672223668202569768/",
+      "title": "8.10",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 64,
+      "loadedComments": 48,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7672183383409033222/",
+      "title": "8.10",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 111,
+      "loadedComments": 98,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7671477487175467059/",
+      "title": "8.8",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 116,
+      "loadedComments": 101,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7671110782089248822/",
+      "title": "8.7",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 36,
+      "loadedComments": 32,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7670878550840819752/",
+      "title": "8.6",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 105,
+      "loadedComments": 79,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7670322228097253403/",
+      "title": "8.5",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 150,
+      "loadedComments": 117,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7669939238380503055/",
+      "title": "8.4",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 89,
+      "loadedComments": 72,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7669615645588471849/",
+      "title": "8.2",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 116,
+      "loadedComments": 95,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7668970370360426548/",
+      "title": "8.1",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 87,
+      "loadedComments": 60,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7668488136917254198/",
+      "title": "7.31",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 480,
+      "loadedComments": 190,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7667786797344292902/",
+      "title": "7.29",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 50,
+      "loadedComments": 36,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7667383754003857471/",
+      "title": "7.28",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 80,
+      "loadedComments": 71,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7666418280873558054/",
+      "title": "7.25",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 107,
+      "loadedComments": 93,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7665642406873563151/",
+      "title": "7.23",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 73,
+      "loadedComments": 45,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7664918750857592847/",
+      "title": "7.21",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 47,
+      "loadedComments": 45,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7664158879722749961/",
+      "title": "7.19",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 63,
+      "loadedComments": 53,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7663809700194713610/",
+      "title": "7.18",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 126,
+      "loadedComments": 106,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7663326960853024795/",
+      "title": "7.17",
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这是7月17日的10分钟金融盘点内容，聚焦黄金、石油、美元三大资产，围绕贝森特、沃什推进的“重塑美元体系”展开，还关联了此前7月13日的相关分享。\n黄金从去年底被机构吹涨至5600多美元高点后，现在已经跌到不足4000美元，当初唱多的机构都没了声响。美元指数从1月低点95回升，现在在100.4-100.7区间波动，是中东事件后各国购油的需求推高的。原油整体稳定在80-90美元区间，近期因霍尔木兹海峡封锁小幅反弹，后续走势要看美国能否拿到海峡的控制权。\n核心逻辑是美国一边绑定石油美元，一边炒高黄金收割散户，靠手里的海量黄金储备把控定价权，巩固美元霸权。",
+      "doubaoReplies": [
+        {
+          "askUser": "肉蛋小揪揪",
+          "askText": "@豆包 总结一下内容",
+          "doubaoReply": "这是7月17日的10分钟金融盘点内容，聚焦黄金、石油、美元三大资产，围绕贝森特、沃什推进的“重塑美元体系”展开，还关联了此前7月13日的相关分享。\n黄金从去年底被机构吹涨至5600多美元高点后，现在已经跌到不足4000美元，当初唱多的机构都没了声响。美元指数从1月低点95回升，现在在100.4-100.7区间波动，是中东事件后各国购油的需求推高的。原油整体稳定在80-90美元区间，近期因霍尔木兹海峡封锁小幅反弹，后续走势要看美国能否拿到海峡的控制权。\n核心逻辑是美国一边绑定石油美元，一边炒高黄金收割散户，靠手里的海量黄金储备把控定价权，巩固美元霸权。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7663318419588776739"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7663064601790906368/",
+      "title": "7.16",
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "博主的核心观点是这样的：Open Standard要推出新美元稳定币OUSD，联合百余家金融科技巨头对标现有稳定币，把原本发行商独吞的美债利息分给渠道商，用联盟共治做类Visa的行业金融联盟，是巨头布局合规跨境结算的信号。OUSD主打企业级跨境结算，将在高性能公链发行，合作名单有造势水分。本质是巨头重构稳定币规则抢全球清算权，行业要进多方博弈新阶段啦",
+      "doubaoReplies": [
+        {
+          "askUser": "木木依山",
+          "askText": "@豆包 总结一下博主观点",
+          "doubaoReply": "博主的核心观点是这样的：Open Standard要推出新美元稳定币OUSD，联合百余家金融科技巨头对标现有稳定币，把原本发行商独吞的美债利息分给渠道商，用联盟共治做类Visa的行业金融联盟，是巨头布局合规跨境结算的信号。OUSD主打企业级跨境结算，将在高性能公链发行，合作名单有造势水分。本质是巨头重构稳定币规则抢全球清算权，行业要进多方博弈新阶段啦",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7663235297782137609"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7662718470333923347/",
+      "title": "7.15",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 34,
+      "loadedComments": 27,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7662666319921152046/",
+      "title": "7.15",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 16,
+      "loadedComments": 16,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7662314093093355520/",
+      "title": "7.14",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 26,
+      "loadedComments": 23,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7662172664441602086/",
+      "title": "7.14",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 66,
+      "loadedComments": 55,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7661933396805795890/",
+      "title": "7.13",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 23,
+      "loadedComments": 19,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7661795659577557055/",
+      "title": "7.13",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 48,
+      "loadedComments": 43,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7661522073168936998/",
+      "title": "7.12",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 101,
+      "loadedComments": 85,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7661134113126793256/",
+      "title": "7.11",
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "不是让离场休息哦～“偃旗息鼓”是说海外机构少了看多言论，视频建议保持警惕，控制风险，理性参与呢～",
+      "doubaoReplies": [
+        {
+          "askUser": "爱辣无忧",
+          "askText": "是要靠岸休息吗？@豆包",
+          "doubaoReply": "不是让离场休息哦～“偃旗息鼓”是说海外机构少了看多言论，视频建议保持警惕，控制风险，理性参与呢～",
+          "doubaoUser": "豆包",
+          "diggCount": 1,
+          "replyId": "7661178037564015375"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7661133065504030760/",
+      "title": "7.11",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 59,
+      "loadedComments": 45,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7661080869092327470/",
+      "title": "7.11",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 17,
+      "loadedComments": 15,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7660816240414146594/",
+      "title": "7.10",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 45,
+      "loadedComments": 32,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7660450357874081819/",
+      "title": "7.9",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 24,
+      "loadedComments": 20,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7660081351031849014/",
+      "title": "7.8",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 25,
+      "loadedComments": 25,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7659944732272885810/",
+      "title": "7.8",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 16,
+      "loadedComments": 15,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7659702416358998068/",
+      "title": "7.7",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 19,
+      "loadedComments": 15,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7659207193933119498/",
+      "title": "7.6",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 31,
+      "loadedComments": 28,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7658870322318540838/",
+      "title": "7.5",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 35,
+      "loadedComments": 30,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7658484652130500649/",
+      "title": "7.4",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 26,
+      "loadedComments": 22,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7658235592496873506/",
+      "title": "7.3",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 29,
+      "loadedComments": 17,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7657762399236227118/",
+      "title": "7.2",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 47,
+      "loadedComments": 44,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7657509896266448950/",
+      "title": "7.1",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 48,
+      "loadedComments": 44,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7657393294850457636/",
+      "title": "7.1",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 49,
+      "loadedComments": 42,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7656984769825898534/",
+      "title": "6.30",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 37,
+      "loadedComments": 31,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7656669351663927330/",
+      "title": "6.29",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 20,
+      "loadedComments": 18,
+      "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7683744963301016121/",
       "title": "0-10号长江：太空视角下的半导体大厂资本开支",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -686,7 +3034,7 @@
       "url": "https://www.toutiao.com/video/7683522385600905786/",
       "title": "人为什么要赚钱？高维视角",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -706,7 +3054,7 @@
       "url": "https://www.toutiao.com/video/7683395795164430892/",
       "title": "9-9号机构：AI新材料方向深度解读。",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -726,7 +3074,7 @@
       "url": "https://www.toutiao.com/video/7681426547026412055/",
       "title": "9-3号洪灏策略：大A能否牛来？",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -746,7 +3094,7 @@
       "url": "https://www.toutiao.com/video/7680954902633349676/",
       "title": "9-2号洪灏策略：大A快出现期盼的机会了",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -766,7 +3114,7 @@
       "url": "https://www.toutiao.com/video/7680760038004113959/",
       "title": "9-1号洪灏：九月如何布局？！",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -786,7 +3134,7 @@
       "url": "https://www.toutiao.com/video/7680053131681776167/",
       "title": "8-31号大摩最新闭门会：股票首席Laura分享",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -806,7 +3154,7 @@
       "url": "https://www.toutiao.com/video/7680040866135917079/",
       "title": "8-31号大摩最新闭门会：邢自强分享。",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -826,7 +3174,7 @@
       "url": "https://www.toutiao.com/video/7679717603937665559/",
       "title": "2分钟讲明白：什么是股票及如何选股？",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -846,7 +3194,7 @@
       "url": "https://www.toutiao.com/video/7679330032451453479/",
       "title": "8-28号中泰：汽车行业最新投资策略",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -866,7 +3214,7 @@
       "url": "https://www.toutiao.com/video/7678942632139096615/",
       "title": "8-38号机构：英伟达最新财报解读。",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -886,7 +3234,7 @@
       "url": "https://www.toutiao.com/video/7678324400755720733/",
       "title": "8-26号大摩最新闭门会：金融、汽车、原材料行业更新",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -906,7 +3254,7 @@
       "url": "https://www.toutiao.com/video/7677890907189887511/",
       "title": "8-24号洪Hao：美国财政量宽，黄金白银齐涨",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -926,7 +3274,7 @@
       "url": "https://www.toutiao.com/video/7676337751532323330/",
       "title": "8-20号中信建投：有色金属行业研究框架",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -946,7 +3294,7 @@
       "url": "https://www.toutiao.com/video/7676126383902507522/",
       "title": "8-20号洪灏最新粤语专访：美国财政部买债对于市场的影响",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -966,7 +3314,7 @@
       "url": "https://www.toutiao.com/video/7676083774467375660/",
       "title": "林园最干货的一次采访！",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -986,7 +3334,7 @@
       "url": "https://www.toutiao.com/video/7675337975760388647/",
       "title": "私募大佬韩广斌采访：保持专注铸就长跑高手。",
       "publishTime": "",
-      "creator": "",
+      "creator": "初心笔记",
       "status": "found",
       "found": true,
       "from_db": true,
@@ -1899,66 +4247,6 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7663326960853024795/",
-      "title": "7.17",
-      "publishTime": "2026-07-17",
-      "creator": "艾丽无废话财经",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这是7月17日的10分钟金融盘点内容，聚焦黄金、石油、美元三大资产，围绕贝森特、沃什推进的“重塑美元体系”展开，还关联了此前7月13日的相关分享。\n黄金从去年底被机构吹涨至5600多美元高点后，现在已经跌到不足4000美元，当初唱多的机构都没了声响。美元指数从1月低点95回升，现在在100.4-100.7区间波动，是中东事件后各国购油的需求推高的。原油整体稳定在80-90美元区间，近期因霍尔木兹海峡封锁小幅反弹，后续走势要看美国能否拿到海峡的控制权。\n核心逻辑是美国一边绑定石油美元，一边炒高黄金收割散户，靠手里的海量黄金储备把控定价权，巩固美元霸权。",
-      "doubaoReplies": [
-        {
-          "askUser": "肉蛋小揪揪",
-          "askText": "@豆包 总结一下内容",
-          "doubaoReply": "这是7月17日的10分钟金融盘点内容，聚焦黄金、石油、美元三大资产，围绕贝森特、沃什推进的“重塑美元体系”展开，还关联了此前7月13日的相关分享。\n黄金从去年底被机构吹涨至5600多美元高点后，现在已经跌到不足4000美元，当初唱多的机构都没了声响。美元指数从1月低点95回升，现在在100.4-100.7区间波动，是中东事件后各国购油的需求推高的。原油整体稳定在80-90美元区间，近期因霍尔木兹海峡封锁小幅反弹，后续走势要看美国能否拿到海峡的控制权。\n核心逻辑是美国一边绑定石油美元，一边炒高黄金收割散户，靠手里的海量黄金储备把控定价权，巩固美元霸权。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7663318419588776739"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7663064601790906368/",
-      "title": "7.16",
-      "publishTime": "2026-07-16",
-      "creator": "艾丽无废话财经",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "博主的核心观点是这样的：Open Standard要推出新美元稳定币OUSD，联合百余家金融科技巨头对标现有稳定币，把原本发行商独吞的美债利息分给渠道商，用联盟共治做类Visa的行业金融联盟，是巨头布局合规跨境结算的信号。OUSD主打企业级跨境结算，将在高性能公链发行，合作名单有造势水分。本质是巨头重构稳定币规则抢全球清算权，行业要进多方博弈新阶段啦",
-      "doubaoReplies": [
-        {
-          "askUser": "木木依山",
-          "askText": "@豆包 总结一下博主观点",
-          "doubaoReply": "博主的核心观点是这样的：Open Standard要推出新美元稳定币OUSD，联合百余家金融科技巨头对标现有稳定币，把原本发行商独吞的美债利息分给渠道商，用联盟共治做类Visa的行业金融联盟，是巨头布局合规跨境结算的信号。OUSD主打企业级跨境结算，将在高性能公链发行，合作名单有造势水分。本质是巨头重构稳定币规则抢全球清算权，行业要进多方博弈新阶段啦",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7663235297782137609"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7661134113126793256/",
-      "title": "7.11",
-      "publishTime": "2026-07-11",
-      "creator": "艾丽无废话财经",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "不是让离场休息哦～“偃旗息鼓”是说海外机构少了看多言论，视频建议保持警惕，控制风险，理性参与呢～",
-      "doubaoReplies": [
-        {
-          "askUser": "爱辣无忧",
-          "askText": "是要靠岸休息吗？@豆包",
-          "doubaoReply": "不是让离场休息哦～“偃旗息鼓”是说海外机构少了看多言论，视频建议保持警惕，控制风险，理性参与呢～",
-          "doubaoUser": "豆包",
-          "diggCount": 1,
-          "replyId": "7661178037564015375"
-        }
-      ]
-    },
-    {
       "url": "https://www.toutiao.com/video/7641056504229199923/",
       "title": "5.18",
       "publishTime": "2026-05-18",
@@ -2549,106 +4837,6 @@
           "doubaoUser": "豆包",
           "diggCount": 0,
           "replyId": "7657169073104749352"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7638407944039563314/",
-      "title": "2026年5月11日 Agentic AI重塑通用计算价值，算力底层逻辑的彻底重构 #CPU #算力",
-      "publishTime": "2026-05-10",
-      "creator": "GNCapital产业研究",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "智能体AI让算力逻辑大洗牌啦！以前AI是答题机器，现在智能体像能干活的员工，得自主规划、调用工具，这些都靠CPU，GPU根本干不了～常见场景里CPU耗时超八成，能耗也高，成了运行瓶颈。\n数据中心CPU和GPU配比要从8:1变1:1，需求量直接翻四倍！2026年CPU已经缺货涨价，消费级涨5%-10%，服务器级涨10%-20%，缺货可能持续到2027年，三季度还会再涨。\n科技巨头都在抢CPU市场，自研芯片、升级架构打得火热。产业链上下游也跟着受益，内存接口芯片需求翻好几倍。2026年是CPU回归算力核心的元年，未来会是CPU+GPU+专用芯片协同的新架构，整个行业要量价齐升啦～",
-      "doubaoReplies": [
-        {
-          "askUser": "nanana93",
-          "askText": "@豆包 简要总结一下内容",
-          "doubaoReply": "智能体AI让算力逻辑大洗牌啦！以前AI是答题机器，现在智能体像能干活的员工，得自主规划、调用工具，这些都靠CPU，GPU根本干不了～常见场景里CPU耗时超八成，能耗也高，成了运行瓶颈。\n数据中心CPU和GPU配比要从8:1变1:1，需求量直接翻四倍！2026年CPU已经缺货涨价，消费级涨5%-10%，服务器级涨10%-20%，缺货可能持续到2027年，三季度还会再涨。\n科技巨头都在抢CPU市场，自研芯片、升级架构打得火热。产业链上下游也跟着受益，内存接口芯片需求翻好几倍。2026年是CPU回归算力核心的元年，未来会是CPU+GPU+专用芯片协同的新架构，整个行业要量价齐升啦～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7642336646444090150"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7621362401778892843/",
-      "title": "2026年3月26日 算力租赁核心企业梳理 润泽科技 万国数据 世纪互联 光环新网 中国电子 中国电科 广电运通 云赛智联 中贝通信 鸿博股份 利通电子 优刻得 青云科技 工业富联 中科曙光 #算力租赁",
-      "publishTime": "2026-03-26",
-      "creator": "GNCapital产业研究",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "传统云服务提供商有：中国移动、中国电信、中国联通、阿里、腾讯、字节跳动；专业IDC服务商（市场主力军）包括：万国数据、世纪互联、润泽科技、光环新网；具备IDC建设运营能力的央国企有：中国电子、中国电科、广电运通、云赛智联；具备IDC建设运营能力的民企有：中贝通信、鸿博股份、利通电子、优刻得、青云科技；服务器头部厂商是：工业富联、中科曙光。",
-      "doubaoReplies": [
-        {
-          "askUser": "星语微笑27044643",
-          "askText": "@豆包 说的是哪几家企业？",
-          "doubaoReply": "传统云服务提供商有：中国移动、中国电信、中国联通、阿里、腾讯、字节跳动；专业IDC服务商（市场主力军）包括：万国数据、世纪互联、润泽科技、光环新网；具备IDC建设运营能力的央国企有：中国电子、中国电科、广电运通、云赛智联；具备IDC建设运营能力的民企有：中贝通信、鸿博股份、利通电子、优刻得、青云科技；服务器头部厂商是：工业富联、中科曙光。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7621567425011647272"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7610371675896758326/",
-      "title": "2026年2月24日 特斯拉与SpaceX开启光伏扩产，国产供应链受益，重视辅材机会钧达股份 帝科股份 永臻股份 亚玛顿 福斯特 海优新材 泽润新能 连城数控 奥特维 拉普拉斯 迈为股份 东方日升 晶科能源 #光伏 #太空光伏 #特斯拉 #SpaceX",
-      "publishTime": "2026-02-24",
-      "creator": "GNCapital产业研究",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "提到的股票：钧达股份、帝科股份、永臻股份、亚玛顿、福斯特、海优新材、泽润新能、连城数控、奥特维、拉普拉斯、迈为股份、东方日升、晶科能源",
-      "doubaoReplies": [
-        {
-          "askUser": "爱看你的眼",
-          "askText": "@豆包 讲了哪几个股票？",
-          "doubaoReply": "提到的股票：钧达股份、帝科股份、永臻股份、亚玛顿、福斯特、海优新材、泽润新能、连城数控、奥特维、拉普拉斯、迈为股份、东方日升、晶科能源",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7610766126247002926"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7603330730496557106/",
-      "title": "2026年2月5日 储能：筛选核心八家公司 阳光电源 隆基绿能 阿特斯 科华数据 海博思创 西典新能 盛弘股份 上能电气 #储能",
-      "publishTime": "2026-02-05",
-      "creator": "GNCapital产业研究",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "八家核心储能公司分别是阳光电源（全球出货量第一）、隆基绿能（合资进美国市场）、阿特斯（2026目标14-17GWh）、科华数据（PCS国内榜首）、海博思创（国内累计装机第一）、西典新能（特斯拉供应商）、盛弘股份（百兆瓦订单）、上能电气（全场景设备），各有技术和市场优势哦～",
-      "doubaoReplies": [
-        {
-          "askUser": "方枪枪痛打高加林",
-          "askText": "@豆包 请总结一下那八家公司",
-          "doubaoReply": "八家核心储能公司分别是阳光电源（全球出货量第一）、隆基绿能（合资进美国市场）、阿特斯（2026目标14-17GWh）、科华数据（PCS国内榜首）、海博思创（国内累计装机第一）、西典新能（特斯拉供应商）、盛弘股份（百兆瓦订单）、上能电气（全场景设备），各有技术和市场优势哦～",
-          "doubaoUser": "豆包",
-          "diggCount": 1,
-          "replyId": "7603662105941639990"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7587348300203425832/",
-      "title": "2025年12月24日 贵金属铜：产业链全景梳理 紫金矿业 江西铜业 洛阳钼业 西部矿业 五矿资源 金诚信 格林美 中再资源 启迪环境 江西铜业 铜陵有色 云南铜业 大冶有色 海亮股份 博威合金 金田股份 楚江新材 诺德股份 嘉元科技 铜冠铜箔 斯瑞新材",
-      "publishTime": "2025-12-24",
-      "creator": "GNCapital产业研究",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "视频中文字主要内容：2025年12月24日伦铜价触及12159美元/吨历史高位，沪铜、国际铜期货主力合约分别达95300元/吨、85910元/吨。铜价上涨因供应端黑天鹅（智利、印尼等铜矿停产减产，中国CSPT宣布2026年矿铜产能减产10%）、需求端AI与新能源爆发（国内AI数据中心年耗铜30万吨，新能源车、光伏等领域消费量预计380-400万吨）及库存失衡（LME库存锐减超60%）。产业链核心企业包括上游矿产铜企业紫金矿业（2024年产铜107万吨）、江西铜业等，再生铜相关企业格林美等。",
-      "doubaoReplies": [
-        {
-          "askUser": "不觉秋色浅",
-          "askText": "@豆包 提炼视频中的文字",
-          "doubaoReply": "视频中文字主要内容：2025年12月24日伦铜价触及12159美元/吨历史高位，沪铜、国际铜期货主力合约分别达95300元/吨、85910元/吨。铜价上涨因供应端黑天鹅（智利、印尼等铜矿停产减产，中国CSPT宣布2026年矿铜产能减产10%）、需求端AI与新能源爆发（国内AI数据中心年耗铜30万吨，新能源车、光伏等领域消费量预计380-400万吨）及库存失衡（LME库存锐减超60%）。产业链核心企业包括上游矿产铜企业紫金矿业（2024年产铜107万吨）、江西铜业等，再生铜相关企业格林美等。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7587159259562377999"
         }
       ]
     },
