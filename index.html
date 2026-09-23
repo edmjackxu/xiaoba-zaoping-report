@@ -85,6 +85,9 @@
         // 渲染列表
         XiaobaReport.renderItemList(allItems, 'content-container');
 
+        // 博主导航（Issue #063：与豆包页保持一致）
+        XiaobaReport.renderCreatorNav(allItems);
+
         // 设置筛选
         XiaobaReport.setupFilters(allItems, 'content-container');
 
