@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-22T23:06:25.863Z",
+  "checkTime": "2026-09-23T04:06:23.914Z",
   "articles": [
     {
       "title": "",
@@ -3449,6 +3449,13 @@
       "type": "video"
     },
     {
+      "title": "9.23",
+      "url": "https://www.toutiao.com/video/7688567992585568296/",
+      "publishTime": "",
+      "type": "video",
+      "summary": ""
+    },
+    {
       "title": "9.21",
       "url": "https://www.toutiao.com/video/7687822653444325430/",
       "publishTime": "",
@@ -3466,8 +3473,7 @@
       "title": "9.18",
       "url": "https://www.toutiao.com/video/7686723001504825379/",
       "publishTime": "",
-      "type": "video",
-      "summary": ""
+      "type": "video"
     },
     {
       "title": "9.17",
@@ -4682,12 +4688,6 @@
     {
       "title": "2.21",
       "url": "https://www.toutiao.com/video/7609238608075030571/",
-      "publishTime": "",
-      "type": "video"
-    },
-    {
-      "title": "2.21",
-      "url": "https://www.toutiao.com/video/7609122467709190185/",
       "publishTime": "",
       "type": "video"
     },
