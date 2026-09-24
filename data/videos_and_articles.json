@@ -1638,7 +1638,17 @@
       "publishTime": "",
       "type": "video",
       "summary": "",
-      "creator": "上市公司大追踪"
+      "creator": "上市公司大追踪",
+      "doubaoReply": [
+        {
+          "askUser": "祥云怡志园",
+          "askText": "@豆包 什么是算网协同？",
+          "doubaoReply": "算网协同就是把算力和通信网统一调度，让各地算力像电力一样灵活调用～解决算力闲置等问题，支撑AI等业务，是现在通信网建设重点哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7688874004379255578"
+        }
+      ]
     },
     {
       "title": "被海外垄断三十年，冷门设备突然涨停 #上市公司大追踪",

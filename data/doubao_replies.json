@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-09-23T23:12:08.855Z",
+  "builtAt": "2026-09-24T04:12:06.671Z",
   "total": 546,
-  "found": 246,
-  "notFound": 300,
+  "found": 247,
+  "notFound": 299,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7688876838835356204/",
+      "title": "成功秘籍！罗伯特·清崎教你如何致富？《穷爸爸，富爸爸》作者",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7688672530332271165/",
       "title": "9-23号大摩闭门会：交运、工业、原材料 更新",
       "status": "not_found",
@@ -686,8 +695,8 @@
       "title": "周金涛演讲完整版：人一生只有三次暴富的机会！",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "初心笔记"
     },
     {
@@ -697,6 +706,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "董明珠说格力增长机会主要在欧洲寒冷地区供暖业务，国内家电以旧换新、新能源储能，还有智能制造升级降本呢😊",
       "doubaoReplies": [
         {
@@ -748,21 +758,13 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7687760294369608215/",
-      "title": "9-20号华创闭门会：存款、新动能、投资解读",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
       "url": "https://www.toutiao.com/video/7688862008585748521/",
       "title": "分享视频",
       "publishTime": "",
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "钱变贵理论上会压制房价，但不一定会直接降哦～买房贷款利率主要看国内政策，本地供需、调控这些影响更大哒～",
       "doubaoReplies": [
         {
@@ -778,11 +780,21 @@
     {
       "url": "https://www.toutiao.com/video/7688846182550306858/",
       "title": "工信部定调通信网，要“适度超前”！ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "算网协同就是把算力和通信网统一调度，让各地算力像电力一样灵活调用～解决算力闲置等问题，支撑AI等业务，是现在通信网建设重点哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "祥云怡志园",
+          "askText": "@豆包 什么是算网协同？",
+          "doubaoReply": "算网协同就是把算力和通信网统一调度，让各地算力像电力一样灵活调用～解决算力闲置等问题，支撑AI等业务，是现在通信网建设重点哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7688874004379255578"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7688755963222589482/",
@@ -791,6 +803,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "VNA就是矢量网络分析仪呀～相当于AI服务器PCB电路板的“信号试压检查员”，专门测高速电信号的损耗、反射和延迟呢～普通示波器性能不够，它可是刚性刚需哦😊",
       "doubaoReplies": [
         {
@@ -819,6 +832,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这个视频标签标注的发布账号是上市公司大追踪，同内容的原版源头博主大概率是抖音的大威哥，目前头条上的是二次转载版本~",
       "doubaoReplies": [
         {
@@ -989,15 +1003,17 @@
       "title": "缩量普涨 钱是在换锚 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7687850844418473993/",
       "title": "分享视频",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1005,15 +1021,17 @@
       "title": "六只“新华”集体涨停兄弟，卖出或者减仓！ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 13,
-      "loadedComments": 10,
+      "totalComments": 14,
+      "loadedComments": 11,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7687848386451472427/",
       "title": "分享视频",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1021,8 +1039,8 @@
       "title": "净流入五十四亿，钱在抢医药 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 64,
-      "loadedComments": 50,
+      "totalComments": 65,
+      "loadedComments": 51,
       "creator": "上市公司大追踪"
     },
     {
@@ -1030,8 +1048,8 @@
       "title": "放量七百亿，钱在抢三个方向 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -1039,15 +1057,17 @@
       "title": "#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 16,
-      "loadedComments": 13,
+      "totalComments": 17,
+      "loadedComments": 14,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7687585086493884459/",
       "title": "下周只交易四天，持币还是持股？ #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1055,8 +1075,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "totalComments": 5,
+      "loadedComments": 5,
       "creator": "上市公司大追踪"
     },
     {
@@ -1098,6 +1118,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "涉及的企业挺多的～整机厂商有四方股份（SST1.0量产）、金盘科技（样机海外测试）、中国西电（出海订单）；上游碳化硅核心器件有中电科五十五所、斯达半导、时代电气；东莞昱懋则和中科院合作攻关软磁材料～（不构成投资建议哈）",
       "doubaoReplies": [
         {
@@ -1124,6 +1145,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这视频讲MLCC现在K型分化啦～AI服务器用的高容量款现货最高炒到原价10倍，消费级料号却从30块跌回10块～本质是AI算力带来的结构性供需失衡～海外龙头都把产能往AI倾斜，国产高端订单都排到2027年啦～国瓷材料作为上游粉体供应商正在扩产AI相关产能，还布局了AI算力材料链，比下游订单更稳～目前板块涨幅不小不适合追涨，稳健的可以等回调再进，别碰没高端产能只靠消费级讲故事的公司哦～（温馨提示：以上仅为信息分享，不构成任何投资建议）",
       "doubaoReplies": [
         {
@@ -1177,6 +1199,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这次被立案的四家OTA分别是：杭州淘美（运营飞猪）、同程网络（运营同程旅行）、途家在线（运营途家）、北京三快（负责美团酒旅业务）～携程不在这次名单里，之前相关案件已经完成处罚整改啦。",
       "doubaoReplies": [
         {
@@ -1260,6 +1283,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "受海外光刻胶厂商涨价消息刺激，光刻胶板块迎来拉升。JSR、信乐化学宣布自2026年10月1日起光刻胶整体涨价15%，散单涨幅可达32%-38%；其中HBM配套浸没式ArF、3D NAND用KrF光刻胶涨幅领先，背后是AI芯片、HBM存储扩产带来的需求增长。行情深层逻辑为半导体“去日化”，日系厂商垄断高端光刻胶，叠加日本收紧相关产品出口管制，国产替代加速推进。目前国内g线光刻胶国产化率较高，但KrF、ArF等高阶产品国产化程度极低。\n本次提及的具体股票：\n1. 华软科技（002453）\n2. 西陇科学（002584）\n3. 聚石化学（688669）\n4. 久日新材（688199）\n5. 安集科技（688019）\n6. 肯特催化（无公开上市代码）\n视频提示投资风险：警惕纯题材炒作个股。华软科技光刻胶相关业务营收占比不足2%；西陇科学并不生产光刻胶，仅供应配套试剂，这类个股波动巨大。可以重点关注有产品落地的标的，包括推进9000吨光刻胶技改项目的聚石化学、多款光刻胶产品实现销售的久日新材、光刻相关产品批量生产的肯特催化。板块受消息驱动、波动剧烈，不宜盲目追涨；光刻胶国产替代是长期赛道，优先布局中高端产品取得进展的企业，逢回调布局更为稳妥。\n风险提示：内容仅为视频观点整理，不构成任何投资建议，股市有风险，投资需谨慎。",
       "doubaoReplies": [
         {
@@ -1373,6 +1397,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "目前半导体产业链还有不少要突破的地方～高端零部件（国产化率才7.1%）、关键材料、EDA工具这些，都是国产替代的重点方向哦～",
       "doubaoReplies": [
         {
@@ -2246,6 +2271,7 @@
       "creator": "艾丽无废话财经",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "石油市场短期最大的扰动是中东地缘局势，会直接影响油价风险溢价，还有OPEC+减产与非OPEC增产的博弈、油价和美元及美联储利率的拉扯，加上需求端分化，整体多空制衡很难走出单边行情。以上仅为市场观点整理，不构成投资建议😊",
       "doubaoReplies": [
         {
@@ -2280,8 +2306,8 @@
       "title": "9.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 106,
-      "loadedComments": 75,
+      "totalComments": 105,
+      "loadedComments": 74,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2289,7 +2315,7 @@
       "title": "9.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 106,
+      "totalComments": 107,
       "loadedComments": 89,
       "creator": "艾丽无废话财经"
     },
@@ -2298,8 +2324,8 @@
       "title": "9.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 79,
-      "loadedComments": 58,
+      "totalComments": 78,
+      "loadedComments": 57,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2316,8 +2342,8 @@
       "title": "9.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 87,
-      "loadedComments": 71,
+      "totalComments": 86,
+      "loadedComments": 70,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2325,7 +2351,7 @@
       "title": "9.9",
       "status": "not_found",
       "found": false,
-      "totalComments": 341,
+      "totalComments": 342,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2487,8 +2513,8 @@
       "title": "8.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 229,
-      "loadedComments": 177,
+      "totalComments": 227,
+      "loadedComments": 175,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2568,8 +2594,8 @@
       "title": "8.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 108,
-      "loadedComments": 99,
+      "totalComments": 107,
+      "loadedComments": 98,
       "creator": "艾丽无废话财经"
     },
     {
