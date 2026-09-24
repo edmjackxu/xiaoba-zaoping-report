@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-24T11:07:25.461Z",
+  "builtAt": "2026-09-24T23:11:50.663Z",
   "total": 546,
   "found": 248,
   "notFound": 298,
@@ -675,8 +675,10 @@
     {
       "url": "https://www.toutiao.com/video/7688953817672466967/",
       "title": "投资高手霍华德·马克斯：为什么大多数投资者变现平庸",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "初心笔记"
     },
     {
@@ -756,15 +758,8 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7689047872842842122/",
-      "title": "央行例会大定调，物价合理回升！ #上市公司大追踪",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7689044940285820974/",
-      "title": "爆！三安光电实控人被刑拘！ #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7689237956024320000/",
+      "title": "分享视频",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -772,24 +767,66 @@
       "creator": "上市公司大追踪"
     },
     {
+      "url": "https://www.toutiao.com/video/7689073783009476634/",
+      "title": "亨通定增六十六亿 海缆龙头再扩军 #上市公司大追踪 #亨通光电",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7689062926271348777/",
+      "title": "李蓓：AI第二波，下跌要等到明年 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7689047872842842122/",
+      "title": "央行例会大定调，物价合理回升！ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 169,
+      "loadedComments": 116,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7689044940285820974/",
+      "title": "爆！三安光电实控人被刑拘！ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 23,
+      "loadedComments": 23,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7689042561851195392/",
       "title": "突发！美光被告了说它侵权！ #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7688982960971710498/",
       "title": "日债收益率再创新高，廉价资金快速枯竭 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7688943603896451087/",
       "title": "缩量阴跌，钱在往哪躲 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1120,8 +1157,8 @@
       "title": "新华吞财联社复牌，传媒第一股值多少？ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1267,8 +1304,10 @@
     {
       "url": "https://www.toutiao.com/video/7686875896070422555/",
       "title": "国常会定调健康消费，A股看这三条主线！ #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1390,7 +1429,7 @@
       "title": "注意！特斯拉机器人最后一道审厂开闸！ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 41,
+      "totalComments": 42,
       "loadedComments": 30,
       "creator": "上市公司大追踪"
     },
@@ -1506,37 +1545,12 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7686086367663718450/",
-      "title": "宁王丢单真相，车企为何集体逃离 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 148,
-      "loadedComments": 89,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7686065842827558912/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7686041715257868297/",
-      "title": "科创五零涨4％三一却跌停 #上市公司大追踪",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7686679557297930255/",
       "title": "全球先进封装：谁吃肉、谁喝汤--大盘点 #先进封装",
       "status": "not_found",
       "found": false,
-      "totalComments": 24,
-      "loadedComments": 15,
+      "totalComments": 25,
+      "loadedComments": 16,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1544,8 +1558,8 @@
       "title": "戒掉随机收益的陷阱，交易长期盈利的核心只有一件事 #AM交易体系 #交易体系构建",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2266,6 +2280,7 @@
       "creator": "艾丽无废话财经",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "内地暂时不会采用私人机构发行的稳定币哦，咱们的方向是数字人民币哒～香港虽有合规框架，但相关服务不进入内地市场哦 😊",
       "doubaoReplies": [
         {
@@ -2320,8 +2335,8 @@
       "title": "9.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 105,
-      "loadedComments": 74,
+      "totalComments": 106,
+      "loadedComments": 75,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2420,7 +2435,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 211,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
