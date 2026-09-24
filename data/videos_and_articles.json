@@ -4065,7 +4065,17 @@
       "publishTime": "",
       "type": "video",
       "summary": "",
-      "creator": "艾丽无废话财经"
+      "creator": "艾丽无废话财经",
+      "doubaoReply": [
+        {
+          "askUser": "山货供需信息服务中心",
+          "askText": "@豆包 中国会使用稳定币吗？",
+          "doubaoReply": "内地暂时不会采用私人机构发行的稳定币哦，咱们的方向是数字人民币哒～香港虽有合规框架，但相关服务不进入内地市场哦 😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7689018748187378486"
+        }
+      ]
     },
     {
       "title": "9.23",
