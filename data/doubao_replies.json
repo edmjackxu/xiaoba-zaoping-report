@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-09-25T07:07:18.667Z",
+  "builtAt": "2026-09-25T11:07:20.875Z",
   "total": 549,
-  "found": 253,
-  "notFound": 296,
+  "found": 254,
+  "notFound": 295,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这是9月25日摩根士丹利面向机构客户举办的闭门会，围绕AI广告、先进封装、覆铜板、中国AI算力等方向展开交流。AI广告方面：AI不会扩大广告市场总预算，主要是广告主对现有预算重新分配，投放向能提升ROI的头部平台集中；平台竞争胜负不在于模型优劣，而在于能否将AI能力落地转化为广告收益，百度、快手AI技术评价较高，但预算吸引力偏弱，腾讯有望依托AI提升广告变现效率。先进封装板块更看好能够抢占市场份额的企业，判断不会出现其他存储完全替代HBM的情况。覆铜板领域海外厂商开启大额扩产，高阶覆铜板供需偏紧，相关厂商盈利会受到明显影响。算力方面国内算力扩张将持续提速，本土算力资本开支约为美国同行的22%，阿里云等企业布局海外算力，算力项目IRR处于10%-20%区间，平头哥等国产芯片在明年国内算力建设中将扮演重要角色。会议同时还交流了云厂商、英伟达平台出货以及中国企业峰会相关内容。 \n风险提示：以上仅为机构会议观点，不构成投资建议。",
       "doubaoReplies": [
         {
@@ -696,8 +697,8 @@
       "title": "今年最好的相声之一！讽刺感拉满！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "初心笔记"
     },
     {
@@ -744,6 +745,15 @@
       "totalComments": 1,
       "loadedComments": 1,
       "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7689394482504007721/",
+      "title": "港股大幅回调，南向却逆势加仓 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7689356794363461667/",
@@ -845,6 +855,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "就是不是让物价暴涨搞恶性通胀哈，是把偏低的物价拉回健康区间，温和可控地上涨，打破之前“越降价企业越不赚钱、大家越不敢花”的负循环，带动企业盈利、就业和居民收入，政策也不会大水漫灌，是定向滴灌相关领域的~",
       "doubaoReplies": [
         {
@@ -862,8 +873,8 @@
       "title": "爆！三安光电实控人被刑拘！ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 48,
-      "loadedComments": 45,
+      "totalComments": 59,
+      "loadedComments": 53,
       "creator": "上市公司大追踪"
     },
     {
@@ -1023,7 +1034,7 @@
       "title": "领导层上海调研，为什么去这里？ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 27,
+      "totalComments": 29,
       "loadedComments": 21,
       "creator": "上市公司大追踪"
     },
@@ -1565,21 +1576,12 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7686403019489738761/",
-      "title": "华为扔颗“光炸弹”90%的股民没看懂 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 45,
-      "loadedComments": 42,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7686679557297930255/",
       "title": "全球先进封装：谁吃肉、谁喝汤--大盘点 #先进封装",
       "status": "not_found",
       "found": false,
-      "totalComments": 25,
-      "loadedComments": 16,
+      "totalComments": 27,
+      "loadedComments": 17,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2303,12 +2305,32 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7689411438263631910/",
+      "title": "9.25",
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "不计成本的算力军备竞赛大概2028-2030年有拐点，2026-2027还是投入高峰～之后资金转向场景落地，广义投入还会持续十几年哦～行业预测不构成投资建议哈😉",
+      "doubaoReplies": [
+        {
+          "askUser": "崂山故事",
+          "askText": "@豆包 AI发展烧钱持续多久？",
+          "doubaoReply": "不计成本的算力军备竞赛大概2028-2030年有拐点，2026-2027还是投入高峰～之后资金转向场景落地，广义投入还会持续十几年哦～行业预测不构成投资建议哈😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7689422642650252058"
+        }
+      ]
+    },
+    {
       "url": "https://www.toutiao.com/video/7689313878034874410/",
       "title": "9.25  前瞻性思考分享",
       "publishTime": "",
       "creator": "艾丽无废话财经",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "代币化黄金不是比特币哦～像视频里说的XAUT就是，1枚对应瑞士金库1盎司实物黄金，是实物的数字化凭证，价格随金价波动～比特币是原生加密货币，没有实物抵押哒😊",
       "doubaoReplies": [
         {
@@ -2483,7 +2505,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 211,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2918,8 +2940,8 @@
       "title": "7.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 66,
-      "loadedComments": 55,
+      "totalComments": 65,
+      "loadedComments": 54,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3084,15 +3106,6 @@
       "found": false,
       "totalComments": 48,
       "loadedComments": 44,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7657393294850457636/",
-      "title": "7.1",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 49,
-      "loadedComments": 42,
       "creator": "艾丽无废话财经"
     },
     {

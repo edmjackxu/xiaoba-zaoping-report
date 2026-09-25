@@ -4111,7 +4111,17 @@
       "publishTime": "",
       "type": "video",
       "summary": "",
-      "creator": "艾丽无废话财经"
+      "creator": "艾丽无废话财经",
+      "doubaoReply": [
+        {
+          "askUser": "崂山故事",
+          "askText": "@豆包 AI发展烧钱持续多久？",
+          "doubaoReply": "不计成本的算力军备竞赛大概2028-2030年有拐点，2026-2027还是投入高峰～之后资金转向场景落地，广义投入还会持续十几年哦～行业预测不构成投资建议哈😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7689422642650252058"
+        }
+      ]
     },
     {
       "title": "9.25  前瞻性思考分享",
