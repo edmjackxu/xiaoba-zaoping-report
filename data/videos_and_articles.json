@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-24T23:06:26.027Z",
+  "checkTime": "2026-09-25T04:06:25.446Z",
   "articles": [
     {
       "title": "",
@@ -668,7 +668,21 @@
       "creator": "初心笔记"
     },
     {
-      "title": "投资高手霍华德·马克斯：为什么大多数投资者变现平庸",
+      "title": "哈弗商学院：如何构建自己想要的人生？",
+      "url": "https://www.toutiao.com/video/7689257007299346946/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "俞敏洪：人要像树而不是像草一样活着！以前的老俞还是惊情四射，敢说的！",
+      "url": "https://www.toutiao.com/video/7689251953456562743/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "投资高手霍华德·马克斯：为什么大多数投资者表现平庸",
       "url": "https://www.toutiao.com/video/7688953817672466967/",
       "publishTime": "",
       "type": "video",
@@ -694,23 +708,6 @@
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
-    },
-    {
-      "title": "董明珠彭博专访：谈格力转型：地产承压，自动化与储能寻找增量",
-      "url": "https://www.toutiao.com/video/7688578283511857703/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "itshello",
-          "askText": "@豆包 格力的增长机会在哪？",
-          "doubaoReply": "董明珠说格力增长机会主要在欧洲寒冷地区供暖业务，国内家电以旧换新、新能源储能，还有智能制造升级降本呢😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7688703713371833122"
-        }
-      ]
     },
     {
       "title": "周天王当年真实演讲：人生发财靠康波",
@@ -1608,11 +1605,20 @@
       "creator": "初心笔记"
     },
     {
-      "title": "8-9号邢自强最新演讲：AI与能源，开启新周期",
-      "url": "https://www.toutiao.com/video/7671986800667361836/",
+      "title": "源杰实控人首次减持，光芯片龙头的信号 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7689292493394182159/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7689267929178701860/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "分享视频",
@@ -1627,7 +1633,6 @@
       "url": "https://www.toutiao.com/video/7689073783009476634/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1635,7 +1640,6 @@
       "url": "https://www.toutiao.com/video/7689062926271348777/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3094,20 +3098,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "AI拍照诊察虫害，赋能现代农业生产 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7682037520664100905/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "新品官宣即被调查，创新直面监管博弈 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7682033367398744105/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -4060,6 +4050,14 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "title": "9.25  前瞻性思考分享",
+      "url": "https://www.toutiao.com/video/7689313878034874410/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "艾丽无废话财经"
+    },
+    {
       "title": "9.24",
       "url": "https://www.toutiao.com/video/7688972708273225755/",
       "publishTime": "",
@@ -4108,7 +4106,6 @@
       "url": "https://www.toutiao.com/video/7688567992585568296/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "艾丽无废话财经"
     },
     {
@@ -5519,13 +5516,6 @@
     {
       "title": "2.23",
       "url": "https://www.toutiao.com/video/7610013670239633454/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "title": "2.22",
-      "url": "https://www.toutiao.com/video/7609561028224876571/",
       "publishTime": "",
       "type": "video",
       "creator": "艾丽无废话财经"
