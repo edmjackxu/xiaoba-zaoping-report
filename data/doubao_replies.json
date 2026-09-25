@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-25T11:07:20.875Z",
+  "builtAt": "2026-09-25T23:13:57.391Z",
   "total": 549,
   "found": 254,
   "notFound": 295,
@@ -697,8 +697,8 @@
       "title": "今年最好的相声之一！讽刺感拉满！",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 28,
+      "loadedComments": 27,
       "creator": "初心笔记"
     },
     {
@@ -747,8 +747,8 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7689394482504007721/",
-      "title": "港股大幅回调，南向却逆势加仓 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7689433340881715240/",
+      "title": "港交所新增国债抵押，盘活万亿外资 #上市公司大追踪",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -756,24 +756,39 @@
       "creator": "上市公司大追踪"
     },
     {
+      "url": "https://www.toutiao.com/video/7689394482504007721/",
+      "title": "港股大幅回调，南向却逆势加仓 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 12,
+      "loadedComments": 9,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7689356794363461667/",
       "title": "光智科技的底牌，磷化铟到底有多香 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7689354877247438888/",
       "title": "分享视频",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7689321783979147302/",
       "title": "意念操控还有多远，脑机接口五到十年 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -873,8 +888,8 @@
       "title": "爆！三安光电实控人被刑拘！ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 59,
-      "loadedComments": 53,
+      "totalComments": 69,
+      "loadedComments": 60,
       "creator": "上市公司大追踪"
     },
     {
@@ -1333,8 +1348,10 @@
     {
       "url": "https://www.toutiao.com/video/7687149091550740534/",
       "title": "AI模型偷偷做药，藏了什么野心？ #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1342,8 +1359,8 @@
       "title": "爆！四家平台被查，酒店板块又要嗨？ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 6,
-      "loadedComments": 6,
+      "totalComments": 8,
+      "loadedComments": 8,
       "creator": "上市公司大追踪"
     },
     {
@@ -1371,15 +1388,17 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7687004629606858806/",
       "title": "分享视频",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1565,15 +1584,6 @@
           "replyId": "7686416905607119651"
         }
       ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7686413517171195944/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 18,
-      "loadedComments": 13,
-      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7686679557297930255/",
@@ -2311,6 +2321,7 @@
       "creator": "艾丽无废话财经",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "不计成本的算力军备竞赛大概2028-2030年有拐点，2026-2027还是投入高峰～之后资金转向场景落地，广义投入还会持续十几年哦～行业预测不构成投资建议哈😉",
       "doubaoReplies": [
         {
@@ -2396,8 +2407,8 @@
       "title": "9.23",
       "status": "not_found",
       "found": false,
-      "totalComments": 17,
-      "loadedComments": 16,
+      "totalComments": 16,
+      "loadedComments": 15,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2441,8 +2452,8 @@
       "title": "9.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 86,
-      "loadedComments": 70,
+      "totalComments": 85,
+      "loadedComments": 69,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2450,7 +2461,7 @@
       "title": "9.9",
       "status": "not_found",
       "found": false,
-      "totalComments": 342,
+      "totalComments": 343,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2720,8 +2731,8 @@
       "title": "8.10",
       "status": "not_found",
       "found": false,
-      "totalComments": 64,
-      "loadedComments": 48,
+      "totalComments": 63,
+      "loadedComments": 47,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2792,8 +2803,8 @@
       "title": "8.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 87,
-      "loadedComments": 60,
+      "totalComments": 86,
+      "loadedComments": 59,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2801,7 +2812,7 @@
       "title": "7.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 479,
+      "totalComments": 478,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2996,8 +3007,8 @@
       "title": "7.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 59,
-      "loadedComments": 45,
+      "totalComments": 58,
+      "loadedComments": 44,
       "creator": "艾丽无废话财经"
     },
     {
