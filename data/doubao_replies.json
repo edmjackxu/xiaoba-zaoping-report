@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-26T04:09:18.558Z",
+  "builtAt": "2026-09-26T11:09:28.945Z",
   "total": 550,
   "found": 254,
   "notFound": 296,
@@ -673,6 +673,13 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7689771105132970540/",
+      "title": "邱国鹭对话高瓴资本张磊：一个投资人的自我修养",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7689347721139864119/",
       "title": "9-25号大摩最新闭门会： 先进封装｜覆铜板｜AI 广告｜中国企业峰会分析解读",
       "publishTime": "",
@@ -697,8 +704,8 @@
       "title": "今年最好的相声之一！讽刺感拉满！",
       "status": "not_found",
       "found": false,
-      "totalComments": 55,
-      "loadedComments": 46,
+      "totalComments": 71,
+      "loadedComments": 58,
       "creator": "初心笔记"
     },
     {
@@ -738,19 +745,19 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7688672530332271165/",
-      "title": "9-23号大摩闭门会：交运、工业、原材料 更新",
-      "status": "not_found",
+      "url": "https://www.toutiao.com/video/7689701253610160168/",
+      "title": "机票预订大涨六成，暗藏关键信号 #上市公司大追踪",
+      "status": "no_comments",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7689657675700764722/",
       "title": "高盛预判AI投入1.2万亿 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -895,8 +902,8 @@
       "title": "爆！三安光电实控人被刑拘！ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 74,
-      "loadedComments": 62,
+      "totalComments": 77,
+      "loadedComments": 65,
       "creator": "上市公司大追踪"
     },
     {
@@ -1574,18 +1581,11 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7686420291186065460/",
-      "title": "收盘指数跌了，但钱换了赛道 #上市公司大追踪",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7686679557297930255/",
       "title": "全球先进封装：谁吃肉、谁喝汤--大盘点 #先进封装",
       "status": "not_found",
       "found": false,
-      "totalComments": 28,
+      "totalComments": 29,
       "loadedComments": 18,
       "creator": "GNCapital产业研究"
     },
@@ -2310,6 +2310,15 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7689729828065230858/",
+      "title": "9.26",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 14,
+      "loadedComments": 11,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7689411438263631910/",
       "title": "9.25",
       "publishTime": "",
@@ -2402,8 +2411,8 @@
       "title": "9.23",
       "status": "not_found",
       "found": false,
-      "totalComments": 16,
-      "loadedComments": 15,
+      "totalComments": 17,
+      "loadedComments": 16,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2438,8 +2447,8 @@
       "title": "9.17",
       "status": "not_found",
       "found": false,
-      "totalComments": 96,
-      "loadedComments": 63,
+      "totalComments": 95,
+      "loadedComments": 62,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2510,8 +2519,8 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 211,
-      "loadedComments": 189,
+      "totalComments": 212,
+      "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3102,15 +3111,6 @@
       "status": "not_found",
       "found": false,
       "totalComments": 47,
-      "loadedComments": 44,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7657509896266448950/",
-      "title": "7.1",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 48,
       "loadedComments": 44,
       "creator": "艾丽无废话财经"
     },
