@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-26T04:06:26.769Z",
+  "checkTime": "2026-09-26T07:06:26.736Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "2026马斯克央财专访：AI算力与机器人",
+      "url": "https://www.toutiao.com/video/7689732009824043522/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1618,11 +1625,12 @@
       "creator": "初心笔记"
     },
     {
-      "title": "8-11洪灝：宇树上市8000倍超额认购，是科技点火还是暴跌的开始",
-      "url": "https://www.toutiao.com/video/7672729576056881722/",
+      "title": "机票预订大涨六成，暗藏关键信号 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7689701253610160168/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "高盛预判AI投入1.2万亿 #上市公司大追踪",
@@ -1645,7 +1653,6 @@
       "url": "https://www.toutiao.com/video/7689394482504007721/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3147,13 +3154,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "财政部注资险企，金融业大变天！ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7682367628974751798/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -4106,6 +4106,14 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "title": "9.26",
+      "url": "https://www.toutiao.com/video/7689729828065230858/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "艾丽无废话财经"
+    },
+    {
       "title": "9.25",
       "url": "https://www.toutiao.com/video/7689411438263631910/",
       "publishTime": "",
@@ -4146,7 +4154,6 @@
       "url": "https://www.toutiao.com/video/7688972708273225755/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "艾丽无废话财经",
       "doubaoReply": [
         {
@@ -5585,13 +5592,6 @@
     {
       "title": "2.27",
       "url": "https://www.toutiao.com/video/7611362767115436078/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "title": "2.26",
-      "url": "https://www.toutiao.com/video/7611117850345865251/",
       "publishTime": "",
       "type": "video",
       "creator": "艾丽无废话财经"
