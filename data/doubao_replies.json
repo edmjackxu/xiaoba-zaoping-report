@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-09-25T23:13:57.391Z",
-  "total": 549,
+  "builtAt": "2026-09-26T04:09:18.558Z",
+  "total": 550,
   "found": 254,
-  "notFound": 295,
+  "notFound": 296,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -697,8 +697,8 @@
       "title": "今年最好的相声之一！讽刺感拉满！",
       "status": "not_found",
       "found": false,
-      "totalComments": 28,
-      "loadedComments": 27,
+      "totalComments": 55,
+      "loadedComments": 46,
       "creator": "初心笔记"
     },
     {
@@ -745,6 +745,13 @@
       "totalComments": 1,
       "loadedComments": 1,
       "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7689657675700764722/",
+      "title": "高盛预判AI投入1.2万亿 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7689433340881715240/",
@@ -888,8 +895,8 @@
       "title": "爆！三安光电实控人被刑拘！ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 69,
-      "loadedComments": 60,
+      "totalComments": 74,
+      "loadedComments": 62,
       "creator": "上市公司大追踪"
     },
     {
@@ -1049,8 +1056,8 @@
       "title": "领导层上海调研，为什么去这里？ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 29,
-      "loadedComments": 21,
+      "totalComments": 30,
+      "loadedComments": 22,
       "creator": "上市公司大追踪"
     },
     {
@@ -1406,15 +1413,17 @@
       "title": "国常会定调健康消费，A股看这三条主线！ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7686875772287467572/",
       "title": "分享视频",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1422,15 +1431,17 @@
       "title": "上交所直接拔网线，沈鼓被暂停交易 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 41,
-      "loadedComments": 36,
+      "totalComments": 42,
+      "loadedComments": 37,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7686779820248268815/",
       "title": "分享视频",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1438,8 +1449,8 @@
       "title": "沈鼓两天涨18倍，机构为何集体跑了？ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 52,
-      "loadedComments": 43,
+      "totalComments": 53,
+      "loadedComments": 44,
       "creator": "上市公司大追踪"
     },
     {
@@ -1447,8 +1458,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1474,8 +1485,10 @@
     {
       "url": "https://www.toutiao.com/video/7686728087649730600/",
       "title": "科创五零涨近四，存储缺到二八 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1483,15 +1496,17 @@
       "title": "医保局进了规划桌，医院开始算经济账 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7686649271797415986/",
       "title": "分享视频",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1499,8 +1514,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1566,32 +1581,12 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7686417639014400054/",
-      "title": "40个月交货期，谁掌握半导体周期 #上市公司大追踪 #半导体",
-      "publishTime": "",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "目前半导体产业链还有不少要突破的地方～高端零部件（国产化率才7.1%）、关键材料、EDA工具这些，都是国产替代的重点方向哦～",
-      "doubaoReplies": [
-        {
-          "askUser": "三色琉璃球",
-          "askText": "@豆包 还有什么需要突破的！",
-          "doubaoReply": "目前半导体产业链还有不少要突破的地方～高端零部件（国产化率才7.1%）、关键材料、EDA工具这些，都是国产替代的重点方向哦～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7686416905607119651"
-        }
-      ]
-    },
-    {
       "url": "https://www.toutiao.com/video/7686679557297930255/",
       "title": "全球先进封装：谁吃肉、谁喝汤--大盘点 #先进封装",
       "status": "not_found",
       "found": false,
-      "totalComments": 27,
-      "loadedComments": 17,
+      "totalComments": 28,
+      "loadedComments": 18,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2461,7 +2456,7 @@
       "title": "9.9",
       "status": "not_found",
       "found": false,
-      "totalComments": 343,
+      "totalComments": 342,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2488,8 +2483,8 @@
       "title": "9.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 41,
-      "loadedComments": 31,
+      "totalComments": 40,
+      "loadedComments": 30,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2506,8 +2501,8 @@
       "title": "9.5 助力中国优质企业出海之泰国行 #企业出海 #东盟 #泰国 #产业链供应链",
       "status": "not_found",
       "found": false,
-      "totalComments": 10,
-      "loadedComments": 9,
+      "totalComments": 9,
+      "loadedComments": 8,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2578,8 +2573,8 @@
       "title": "8.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 61,
-      "loadedComments": 51,
+      "totalComments": 60,
+      "loadedComments": 50,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2614,8 +2609,8 @@
       "title": "8.23",
       "status": "not_found",
       "found": false,
-      "totalComments": 288,
-      "loadedComments": 175,
+      "totalComments": 287,
+      "loadedComments": 174,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2632,8 +2627,8 @@
       "title": "8.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 26,
-      "loadedComments": 24,
+      "totalComments": 25,
+      "loadedComments": 23,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2641,8 +2636,8 @@
       "title": "8.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 118,
-      "loadedComments": 104,
+      "totalComments": 117,
+      "loadedComments": 103,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3118,6 +3113,26 @@
       "totalComments": 48,
       "loadedComments": 44,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7686417639014400054/",
+      "title": "40个月交货期，谁掌握半导体周期 #上市公司大追踪 #半导体",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "目前半导体产业链还有不少要突破的地方～高端零部件（国产化率才7.1%）、关键材料、EDA工具这些，都是国产替代的重点方向哦～",
+      "doubaoReplies": [
+        {
+          "askUser": "三色琉璃球",
+          "askText": "@豆包 还有什么需要突破的！",
+          "doubaoReply": "目前半导体产业链还有不少要突破的地方～高端零部件（国产化率才7.1%）、关键材料、EDA工具这些，都是国产替代的重点方向哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7686416905607119651"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7688582756460184092/",
