@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-27T11:06:25.134Z",
+  "checkTime": "2026-09-27T23:06:24.547Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "9-27号中金：AI应用探讨：Meta Muse与C端Agent路径解析",
+      "url": "https://www.toutiao.com/video/7690173351486210583/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1600,29 +1607,12 @@
       ]
     },
     {
-      "title": "8-12号高盛：AI去杠杆近尾声，资金转向互联网",
-      "url": "https://www.toutiao.com/video/7673131219944571436/",
+      "title": "粤芯三年巨亏65亿，打新需谨慎甄别 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7690209852970237995/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "财务自由地产人",
-          "askText": "@豆包 总结一下视频内容",
-          "doubaoReply": "本期彭博节目采访高盛刘劲津，解读中国AI股票策略：主线看好回调后的港股互联网、软科技；列出五大投资方向，兼顾AI标的、盈利改善个股、新股、高现金流企业；同时谈及A股资金杠杆现象，对比各大指数走势。观点仅供参考，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7673258643143639859"
-        },
-        {
-          "askUser": "财务自由地产人",
-          "askText": "@豆包 总结一下视频内容",
-          "doubaoReply": "这期访谈里只讲了五大投资方向框架，没公布具体个股名单哦，五个方向分别是：1.精选回调后的港股互联网、软科技标的；2.政策受益的AI产业链相关公司；3.超跌、盈利预期上调的非科技股；4.港股新股市场挖掘超额收益；5.现金流稳定、高现金回报的企业。以上仅为机构观点梳理，不构成任何投资建议~",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7673248913587618600"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "汇绿豪赌光模块，三点零九亿扩产 #上市公司大追踪",
@@ -1645,7 +1635,6 @@
       "url": "https://www.toutiao.com/video/7690111440388096010/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3142,13 +3131,6 @@
     {
       "title": "央行持续增持黄金，究竟释放什么信号 #上市公司大追踪 #央行 #黄金",
       "url": "https://www.toutiao.com/video/7682777645872611343/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "新华传媒停牌重组，估值逻辑迎重塑 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7682774723843309620/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
