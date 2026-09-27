@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-26T23:11:59.996Z",
+  "builtAt": "2026-09-27T04:07:32.256Z",
   "total": 550,
   "found": 254,
   "notFound": 296,
@@ -673,6 +673,20 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7690004808115208743/",
+      "title": "投资交易：如何搜集信息和阅读研报？",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7689993522161795645/",
+      "title": "歌手刘欢去世，一代人心中的歌王，落幕！妻子最后一次同框太催泪！",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7689771105132970540/",
       "title": "邱国鹭对话高瓴资本张磊：一个投资人的自我修养",
       "status": "not_found",
@@ -706,8 +720,8 @@
       "title": "今年最好的相声之一！讽刺感拉满！",
       "status": "not_found",
       "found": false,
-      "totalComments": 78,
-      "loadedComments": 65,
+      "totalComments": 89,
+      "loadedComments": 74,
       "creator": "初心笔记"
     },
     {
@@ -729,24 +743,6 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7688953817672466967/",
-      "title": "投资高手霍华德·马克斯：为什么大多数投资者表现平庸",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7688876838835356204/",
-      "title": "成功秘籍！罗伯特·清崎教你如何致富？《穷爸爸，富爸爸》作者",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
       "url": "https://www.toutiao.com/video/7689842989270564906/",
       "title": "分享视频",
       "status": "not_found",
@@ -760,8 +756,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 6,
-      "loadedComments": 5,
+      "totalComments": 8,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -924,8 +920,8 @@
       "title": "爆！三安光电实控人被刑拘！ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 90,
-      "loadedComments": 74,
+      "totalComments": 95,
+      "loadedComments": 78,
       "creator": "上市公司大追踪"
     },
     {
@@ -1085,8 +1081,8 @@
       "title": "领导层上海调研，为什么去这里？ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 30,
-      "loadedComments": 22,
+      "totalComments": 32,
+      "loadedComments": 24,
       "creator": "上市公司大追踪"
     },
     {
@@ -2441,8 +2437,8 @@
       "title": "9.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 107,
-      "loadedComments": 89,
+      "totalComments": 108,
+      "loadedComments": 90,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2513,8 +2509,8 @@
       "title": "9.5",
       "status": "not_found",
       "found": false,
-      "totalComments": 85,
-      "loadedComments": 71,
+      "totalComments": 84,
+      "loadedComments": 70,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2531,7 +2527,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 212,
+      "totalComments": 213,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
