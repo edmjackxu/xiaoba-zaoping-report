@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-28T07:07:57.140Z",
+  "builtAt": "2026-09-28T11:10:01.311Z",
   "total": 550,
   "found": 254,
   "notFound": 296,
@@ -733,8 +733,8 @@
       "title": "今年最好的相声之一！讽刺感拉满！",
       "status": "not_found",
       "found": false,
-      "totalComments": 97,
-      "loadedComments": 81,
+      "totalComments": 99,
+      "loadedComments": 83,
       "creator": "初心笔记"
     },
     {
@@ -747,12 +747,30 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7690490006833954857/",
+      "title": "七部门定调固态，短期难迎规模落地 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7690483413958017070/",
+      "title": "新型电池十五五规划,全固态电池最受益？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 5,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7690408448274235433/",
       "title": "放量五百亿，钱在夺路而逃 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 69,
-      "loadedComments": 60,
+      "totalComments": 178,
+      "loadedComments": 151,
       "creator": "上市公司大追踪"
     },
     {
@@ -778,8 +796,8 @@
       "title": "AI安全紧急提升 周一看这些公司 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 25,
-      "loadedComments": 24,
+      "totalComments": 26,
+      "loadedComments": 25,
       "creator": "上市公司大追踪"
     },
     {
@@ -940,8 +958,8 @@
       "title": "李蓓：AI第二波，下跌要等到明年 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1130,8 +1148,8 @@
       "title": "领导层上海调研，为什么去这里？ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 39,
-      "loadedComments": 28,
+      "totalComments": 40,
+      "loadedComments": 29,
       "creator": "上市公司大追踪"
     },
     {
@@ -1572,24 +1590,6 @@
       "found": false,
       "totalComments": 3,
       "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7686649271797415986/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7686642860149768207/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -2326,8 +2326,8 @@
       "title": "9.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 88,
-      "loadedComments": 70,
+      "totalComments": 92,
+      "loadedComments": 73,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2335,8 +2335,8 @@
       "title": "9.26",
       "status": "not_found",
       "found": false,
-      "totalComments": 28,
-      "loadedComments": 24,
+      "totalComments": 30,
+      "loadedComments": 25,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2568,103 +2568,115 @@
       "status": "not_found",
       "found": false,
       "totalComments": 43,
-      "loadedComments": 10,
+      "loadedComments": 37,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7679280401184981011/",
       "title": "8.29 他说了“该说的”，但却不需要马上做“该做的”... #沃什 #通胀 #美元指数 #黄金 #AI发展",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7679280401184981011/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 168,
+      "loadedComments": 126,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7679063647169216522/",
       "title": "8.28",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_NETWORK_CHANGED at https://www.toutiao.com/video/7679063647169216522/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7679063647169216522/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 36,
+      "loadedComments": 27,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7679022498885763135/",
       "title": "8.28",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7679022498885763135/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7679022498885763135/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 19,
+      "loadedComments": 19,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7678548025106497545/",
       "title": "8.27",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7678548025106497545/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7678548025106497545/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 60,
+      "loadedComments": 50,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7678287304447754280/",
       "title": "8.26",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7678287304447754280/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7678287304447754280/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 13,
+      "loadedComments": 13,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7678132431496413226/",
       "title": "8.26",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7678132431496413226/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7678132431496413226/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 35,
+      "loadedComments": 29,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7677852360332296235/",
       "title": "8.25",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7677852360332296235/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 43,
+      "loadedComments": 29,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7677051665389420582/",
       "title": "8.23",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7677051665389420582/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 287,
+      "loadedComments": 174,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7676291543758798867/",
       "title": "8.21",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7676291543758798867/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 227,
+      "loadedComments": 175,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7676076139081433134/",
       "title": "8.20",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.toutiao.com/video/7676076139081433134/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7676076139081433134/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 25,
+      "loadedComments": 23,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7675955374653980710/",
       "title": "8.20",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7675955374653980710/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 117,
+      "loadedComments": 103,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7675665096567210038/",
       "title": "8.19",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7675665096567210038/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 47,
+      "loadedComments": 42,
       "creator": "艾丽无废话财经"
     },
     {
