@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-28T11:06:27.229Z",
+  "checkTime": "2026-09-28T23:06:26.470Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,20 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "9-28号中金公司宏观策略：探讨四季度市场前景。",
+      "url": "https://www.toutiao.com/video/7690552479515165231/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "9-28号付鹏演讲：旧时代周期已落幕，如何理解新时代周期经济与资产配置逻辑",
+      "url": "https://www.toutiao.com/video/7690541657653232130/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1573,45 +1587,41 @@
       "creator": "初心笔记"
     },
     {
-      "title": "8-12号广发首席：拥抱AI算力新材料黄金周期。",
-      "url": "https://www.toutiao.com/video/7673497419136516631/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7690720148927774766/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "沉着叶子v0",
-          "askText": "@豆包 提前核心信息和投资机会",
-          "doubaoReply": "2026年建材行业整体需求承压、板块走势极致分化，AI算力新材料是核心高景气主线，有两大投资主线：\n一是短期业绩兑现的PCB上游电子布产业链，AI需求拉动下供需缺口大，当前产业链涨价传导顺畅，相关AI PCB、CCL赛道未来两年增速将翻倍；\n二是长期成长的玻璃基先进封装赛道，是下一代封装解决方案，替代空间广阔。\n以上仅为机构观点整理，不构成投资建议，需留意AI需求不及预期、产业落地慢等风险。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7673952966445220608"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
-      "title": "8-13号西部首席：房地产已见底，有多倍涨幅",
-      "url": "https://www.toutiao.com/video/7673474734574682647/",
+      "title": "老特要来深圳了，你该盯紧什么？ #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7690600923063648291/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "财务自由地产人",
-          "askText": "@豆包 总结视频内容",
-          "doubaoReply": "⚠️分析师观点仅为情景推演，不构成投资建议\n曹柳龙这段分享的核心是：外部要等美联储降息或停止加息，还要留意地缘变量；当前房价下行拖累居民资产负债表，财政很难大规模扩张，政策重心在修复居民资产负债表；如果美联储宽松+房价回暖两个条件落地，推演地产相关标的有2-3倍上涨空间，这是多重乐观假设下的结论，不确定性很高哦。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7673629962138010377"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "美股大盘在跌，英伟达凭什么涨 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7690582186692444160/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "英伟达千亿回购，现金流释放强信号 #上市公司大追踪 #英伟达",
+      "url": "https://www.toutiao.com/video/7690562916399415315/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "七部门定调固态，短期难迎规模落地 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7690490006833954857/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1619,7 +1629,6 @@
       "url": "https://www.toutiao.com/video/7690483413958017070/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1627,7 +1636,6 @@
       "url": "https://www.toutiao.com/video/7690408448274235433/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3103,34 +3111,6 @@
     {
       "title": "化肥板块大涨，行情持续性存疑 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7683004705598898216/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "英特尔三连涨价，CPU迎来价值重估 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7682982130519179283/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "社保赚3900亿，80%散户亏损 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7682808555053891624/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "新中国第一条，通江达海运河来了！ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7682806634170925092/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "泰国糖产量，骤降超17% #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7682804637895753778/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
