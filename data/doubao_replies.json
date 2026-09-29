@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-09-29T07:10:04.804Z",
-  "total": 551,
+  "builtAt": "2026-09-29T11:09:10.895Z",
+  "total": 552,
   "found": 257,
-  "notFound": 294,
+  "notFound": 295,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -780,6 +780,45 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7690908158075600946/",
+      "title": "“首套房贴息落地！省5万只是表面， “150万门槛、9：1分担、只搞1年——房贷贴息背后的三个隐藏信号，看懂少走三年弯路”",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7690899562123657216/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7690877862596837416/",
+      "title": "科技部提从一到零，科创逻辑重塑 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7690854427267170344/",
+      "title": "缩量红盘见地价 明天稳了？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 16,
+      "loadedComments": 13,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7690851927076126756/",
+      "title": "最强厄尔尼诺来了！更重要的三条暗线 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7690808547046588416/",
       "title": "节前最后两天，钱在选方向 #上市公司大追踪",
       "status": "not_found",
@@ -1244,8 +1283,8 @@
       "title": "领导层上海调研，为什么去这里？ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 40,
-      "loadedComments": 29,
+      "totalComments": 39,
+      "loadedComments": 28,
       "creator": "上市公司大追踪"
     },
     {
@@ -1556,62 +1595,6 @@
       "found": false,
       "totalComments": 8,
       "loadedComments": 8,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687096067971940393/",
-      "title": "四家OTA被立案，股价不跌反涨？ #上市公司大追踪",
-      "publishTime": "",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这次被立案的四家OTA分别是：杭州淘美（运营飞猪）、同程网络（运营同程旅行）、途家在线（运营途家）、北京三快（负责美团酒旅业务）～携程不在这次名单里，之前相关案件已经完成处罚整改啦。",
-      "doubaoReplies": [
-        {
-          "askUser": "番茄4028198412617934",
-          "askText": "@豆包 四家OTA具体是哪些？",
-          "doubaoReply": "这次被立案的四家OTA分别是：杭州淘美（运营飞猪）、同程网络（运营同程旅行）、途家在线（运营途家）、北京三快（负责美团酒旅业务）～携程不在这次名单里，之前相关案件已经完成处罚整改啦。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7687175280205136692"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687019590807011362/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687004629606858806/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7686875896070422555/",
-      "title": "国常会定调健康消费，A股看这三条主线！ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7686875772287467572/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2348,8 +2331,8 @@
       "title": "9.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 98,
-      "loadedComments": 76,
+      "totalComments": 100,
+      "loadedComments": 77,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2508,7 +2491,7 @@
       "title": "9.9",
       "status": "not_found",
       "found": false,
-      "totalComments": 342,
+      "totalComments": 341,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3147,6 +3130,26 @@
       "totalComments": 29,
       "loadedComments": 17,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687096067971940393/",
+      "title": "四家OTA被立案，股价不跌反涨？ #上市公司大追踪",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这次被立案的四家OTA分别是：杭州淘美（运营飞猪）、同程网络（运营同程旅行）、途家在线（运营途家）、北京三快（负责美团酒旅业务）～携程不在这次名单里，之前相关案件已经完成处罚整改啦。",
+      "doubaoReplies": [
+        {
+          "askUser": "番茄4028198412617934",
+          "askText": "@豆包 四家OTA具体是哪些？",
+          "doubaoReply": "这次被立案的四家OTA分别是：杭州淘美（运营飞猪）、同程网络（运营同程旅行）、途家在线（运营途家）、北京三快（负责美团酒旅业务）～携程不在这次名单里，之前相关案件已经完成处罚整改啦。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7687175280205136692"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7686738871883759650/",
