@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-28T23:12:06.023Z",
+  "builtAt": "2026-09-29T04:11:42.230Z",
   "total": 551,
   "found": 257,
   "notFound": 294,
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "中金宏观策略周论第八十四期于2026年9月28日播出，主题聚焦四季度市场前景。刘刚分析当前中美市场呈K型分化，国内企业端靠科技支撑，但居民信贷偏弱、内需不足；利用胜率赔率框架建议，四季度优先关注科技产业趋势，周期板块等待美联储政策落地，内需板块等待政策催化，若无明确机会可优先配置红利资产。陶冶分析AI资本开支，测算2026-2028三年合理规模约4.16万亿美元，市场关注点已从产业叙事转向投资回报验证。黄亚东解读香港首个五年规划，该规划对接国家十五五规划，金融与科技为核心亮点，利好港股相关板块。内容仅为分析师观点分享，不构成投资建议。",
       "doubaoReplies": [
         {
@@ -693,11 +694,12 @@
     },
     {
       "url": "https://www.toutiao.com/video/7690541657653232130/",
-      "title": "9-28号付鹏演讲：旧时代周期已落幕，如何理解新时代周期经济与资产配置逻辑",
+      "title": "9-28号付鹏演讲：全球收缩状况下的投资逻辑",
       "publishTime": "",
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "付鹏本次演讲核心观点：2008年后长达十余年的全球流动性大宽松周期已经落幕，美联储货币政策转向保守，进入流动性收缩阶段。判断流动性不能只看加息降息，要从资金总量、利率曲线、流动性结构三个维度观察。流动性收紧会带来市场“缩圈”效应，资金逐层抛弃外围高风险资产，持续向确定性高的核心资产汇聚，市场目前处于生产力发展阶段，尚未迎来全面危机，会告别普涨行情进入结构性分化阶段。\n对应A股的价值资产分两类：一类是高股息红利资产作为组合压舱石，集中在能源、公用事业、交通运输、银行等领域，代表公司有中国神华、陕西煤业、长江电力、大秦铁路、工商银行、建设银行、中国移动；另一类是具备生产力突破的硬科技成长资产，代表包括中芯国际、海光信息、工业富联等算力、半导体龙头，这类资产资金拥挤度较高，风险也不容忽视。缺乏稳定现金流的小盘边缘题材资产会持续被资金抛弃。以上仅为演讲观点推导，不构成任何投资建议。",
       "doubaoReplies": [
         {
@@ -717,6 +719,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "中金本次电话会议分享《AI应用参考（1）：从Meta Muse探讨C端Agent路径》，以Meta Muse作为案例，分析C端智能代理的发展方向。Meta Muse于9月8日在美国上线，面向18岁以上用户，依托自研NewSpark模型，支持手机、网页与WhatsApp入口。产品上线热度较高，下载量亮眼，流量主要来自Facebook、Instagram引流，可完成保单处理、购物比价下单等任务，但现阶段付费转化水平偏低。\nMuse实现了从对话式AI向自主任务执行的跨越，具备后台异步执行与长期记忆能力，能够连接邮箱、日程、电商等各类服务；采用独立安全沙箱，对外操作需要用户审批；同时拥有主动预判并推荐任务的能力。早期C端助手大多只能按固定流程执行，难以应对开放式跨平台需求，Muse的落地具备里程碑意义。报告认为C端Agent的核心是挖掘高频刚需场景，需要胜任长周期复杂任务。Meta凭借庞大社交生态，拥有独特的用户分发优势，这是竞品较难复制的。本次内容仅为行业观点，不构成投资建议。",
       "doubaoReplies": [
         {
@@ -777,12 +780,30 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7690783901434069026/",
+      "title": "OpenAI撤了Anthropic却冲了 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7690776619871322127/",
+      "title": "缩量一千六百亿，是钱躺平了 #上市公司大追踪 #财经",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7690720148927774766/",
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 35,
+      "loadedComments": 28,
       "creator": "上市公司大追踪"
     },
     {
@@ -808,8 +829,8 @@
       "title": "英伟达千亿回购，现金流释放强信号 #上市公司大追踪 #英伟达",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -1594,24 +1615,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7686779820248268815/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7686769481007562802/",
-      "title": "沈鼓两天涨18倍，机构为何集体跑了？ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 53,
-      "loadedComments": 44,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7686679557297930255/",
       "title": "全球先进封装：谁吃肉、谁喝汤--大盘点 #先进封装",
       "status": "not_found",
@@ -2345,8 +2348,8 @@
       "title": "9.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 95,
-      "loadedComments": 75,
+      "totalComments": 96,
+      "loadedComments": 76,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2560,7 +2563,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 215,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
