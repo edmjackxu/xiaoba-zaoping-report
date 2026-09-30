@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-30T04:06:26.553Z",
+  "checkTime": "2026-09-30T07:06:26.675Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "湖南某国企董事长端午节收礼视频！牛B！",
+      "url": "https://www.toutiao.com/video/7691196883229753885/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1580,39 +1587,6 @@
           "doubaoUser": "豆包",
           "diggCount": 0,
           "replyId": "7674046855810188083"
-        }
-      ]
-    },
-    {
-      "title": "8-14号大摩最新闭门会：中国医药行业月度更新",
-      "url": "https://www.toutiao.com/video/7673830614201631276/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "庭前云舒",
-          "askText": "@豆包 详细总结会议内容",
-          "doubaoReply": "会议核心总结：Laurence Tam表示减肥药行情带动医药板块反弹，不能局限于减重药概念，要关注跨国药企产能、消费端需求、企业AI业务指标。Alexis Yan提到相关企业下周中旬集中披露业绩，部分母公司压力拖累子公司，留意医保政策对行业影响。嘉宾Fina Lee列席暂无发言记录。⚠️以上仅为分析师讨论，不构成任何投资参考。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7673842759920812846"
-        },
-        {
-          "askUser": "炒股买菜",
-          "askText": "@豆包 把字母提取出来",
-          "doubaoReply": "Laurence Tam\nAlexis Yan\nFina Lee\nCXO\nBiota\nTMT\nGeneralist\nMNC\nFDA\nEMA\nNMPA\nTID\nCDMO\nGLP one\nCSO\nAPI\nPharma\nGSK\nDeau\nMNA\nPM",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7673853948641510163"
-        },
-        {
-          "askUser": "金盏菊黄",
-          "askText": "@豆包 下半年医药走势如何？",
-          "doubaoReply": "⚠️以下仅为摩根士丹利8月闭门会的机构观点，不构成任何投资建议哈\n下半年医药难有普涨，整体是结构性分化格局，8月底到9月的集中财报期是行情关键节点。当前最看好小分子CDMO类的CXO赛道，药明康德是首选，康龙化成、凯莱英也同步受益，大分子CDMO则需要谨慎看待。其余赛道大多偏承压，仅存在少量结构性机会，后续要重点跟踪业绩、海外药企产能、相关政策以及AI制药指标的兑现情况。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7673871826707186459"
         }
       ]
     },
