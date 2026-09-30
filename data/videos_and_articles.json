@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-30T11:06:27.749Z",
+  "checkTime": "2026-09-30T23:06:24.537Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "马克·蒂尔伯里：新手如何投资？",
+      "url": "https://www.toutiao.com/video/7691429936216900140/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1576,36 +1583,34 @@
       ]
     },
     {
-      "title": "8-15号易方达首席：人工智能应用发展的底层逻辑",
-      "url": "https://www.toutiao.com/video/7674006927969534466/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7691333722204815410/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "金名2000",
-          "askText": "@豆包 请提炼下嘉宾的观点",
-          "doubaoReply": "易方达香港全球股票首席Jeff Li的核心观点：他整体看好全球权益市场，认为AI是未来数年核心宏观主线，3-5月科技股回调属于健康调整，AI仍是今年剩余时段的市场主线。AI核心价值是提升全行业生产力，看好AI赋能生物医药、医疗领域的长期机会，建议关注AI、安防、全球国防、金融四大配置方向。以上仅为嘉宾访谈观点，不构成任何投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7674137897427436307"
-        },
-        {
-          "askUser": "Lumingsheng",
-          "askText": "@豆包 翻译总结这段视频",
-          "doubaoReply": "这段是彭博《The China Show》的访谈，嘉宾是易方达香港全球股票首席李剑锋。\n当前市场分化明显：费城半导体指数年内涨75%领跑，欧洲股市走强，MSCI中国指数走弱。\n他看好全球股市中长期走势，核心驱动力是AI资本开支浪潮，未来数年全球将新增上万亿美元AI相关投入，3-5月科技板块的回调属于健康调整，后续资金布局会更分散。\n他认为今年剩余时间AI、科技仍是市场主线，除算力芯片外，AI赋能生物医药是潜力很大的第二条盈利赛道，同时也看好网络安全、国防军工、金融板块。\n另外全球政府支出也会支撑经济，经济增长过热属于值得留意的良性问题。\n温馨提示：内容仅为嘉宾市场观点，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7674046855810188083"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "万亿投放有假象，核心信号在此 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7691315607794860041/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "PCE数据落地，暗藏关键被忽略指标 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7691313192277901331/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "科创大幅下挫，银行板块逆势走强 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7691223495463665702/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1613,7 +1618,6 @@
       "url": "https://www.toutiao.com/video/7691169200940826659/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1621,7 +1625,6 @@
       "url": "https://www.toutiao.com/video/7691139238598803497/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪",
       "doubaoReply": [
         {
@@ -3114,27 +3117,6 @@
     {
       "title": "周期板块逆势走强，资金转向防御布局 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7683433133744046130/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "苹果折叠屏问世，定价引发市场担忧 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7683427961831161910/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "物价涨跌分化，折射经济结构差异 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7683350100525252658/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7683302497355563071/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
