@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-09-30T07:09:28.092Z",
+  "builtAt": "2026-09-30T11:07:30.506Z",
   "total": 554,
-  "found": 257,
-  "notFound": 297,
+  "found": 259,
+  "notFound": 295,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -675,13 +675,25 @@
     {
       "url": "https://www.toutiao.com/video/7691196883229753885/",
       "title": "湖南某国企董事长端午节收礼视频！牛B！",
-      "status": "no_comments",
-      "found": false,
-      "creator": "初心笔记"
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "这是湖南丰润农业发展有限公司原董事长张祥哦，他因相关问题已经被免职，当地还在进一步核查处置呢～",
+      "doubaoReplies": [
+        {
+          "askUser": "小折竞技",
+          "askText": "@豆包 这个人是谁",
+          "doubaoReply": "这是湖南丰润农业发展有限公司原董事长张祥哦，他因相关问题已经被免职，当地还在进一步核查处置呢～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691256579445965614"
+        }
+      ]
     },
     {
-      "url": "https://www.toutiao.com/video/7691103541066482215/",
-      "title": "苏姿丰对话李飞飞：为什么AMD要买下World Labs？AI全栈时代的终极对决",
+      "url": "https://www.toutiao.com/video/7691099145104310812/",
+      "title": "9-29号付 鹏：地产、大A、美债投资等",
       "status": "no_comments",
       "found": false,
       "creator": "初心笔记"
@@ -765,6 +777,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7691223495463665702/",
+      "title": "科创大幅下挫，银行板块逆势走强 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7691169200940826659/",
       "title": "科创50走弱 医药逆势掀起涨停潮 #上市公司大追踪",
       "status": "not_found",
@@ -776,11 +797,21 @@
     {
       "url": "https://www.toutiao.com/video/7691139238598803497/",
       "title": "地量却普涨，节前盘面暗藏分歧 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "单日缩量反弹不算趋势反转啦～节前抛压阶段性衰竭，节后资金有望逐步回流，10月重点看三季报业绩，地产后周期、科技端这些方向可以留意哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "反弹154",
+          "askText": "@豆包 地量普涨接下来咋走？",
+          "doubaoReply": "单日缩量反弹不算趋势反转啦～节前抛压阶段性衰竭，节后资金有望逐步回流，10月重点看三季报业绩，地产后周期、科技端这些方向可以留意哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691253066939237166"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7690955223929454618/",
@@ -805,8 +836,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 22,
-      "loadedComments": 22,
+      "totalComments": 25,
+      "loadedComments": 25,
       "creator": "上市公司大追踪"
     },
     {
@@ -1569,15 +1600,6 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7687461995029528576/",
-      "title": "电力转向算力底座，锁定两大主线 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7691120219515240475/",
       "title": "03 集：A股全景地图！ 上交所、深交所、北交所到底有什么区别？90%散户都搞不懂的市场底层架构 #从零学炒股 #GNCapital",
       "status": "no_comments",
@@ -2311,8 +2333,8 @@
       "title": "9.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
+      "totalComments": 8,
+      "loadedComments": 7,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2535,7 +2557,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 215,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2894,8 +2916,8 @@
       "title": "7.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 126,
-      "loadedComments": 106,
+      "totalComments": 127,
+      "loadedComments": 107,
       "creator": "艾丽无废话财经"
     },
     {

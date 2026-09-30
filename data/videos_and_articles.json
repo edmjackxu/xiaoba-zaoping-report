@@ -672,7 +672,17 @@
       "url": "https://www.toutiao.com/video/7691196883229753885/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "小折竞技",
+          "askText": "@豆包 这个人是谁",
+          "doubaoReply": "这是湖南丰润农业发展有限公司原董事长张祥哦，他因相关问题已经被免职，当地还在进一步核查处置呢～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691256579445965614"
+        }
+      ]
     },
     {
       "title": "9-29号付 鹏：地产、大A、美债投资等",
@@ -1612,7 +1622,17 @@
       "publishTime": "",
       "type": "video",
       "summary": "",
-      "creator": "上市公司大追踪"
+      "creator": "上市公司大追踪",
+      "doubaoReply": [
+        {
+          "askUser": "反弹154",
+          "askText": "@豆包 地量普涨接下来咋走？",
+          "doubaoReply": "单日缩量反弹不算趋势反转啦～节前抛压阶段性衰竭，节后资金有望逐步回流，10月重点看三季报业绩，地产后周期、科技端这些方向可以留意哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691253066939237166"
+        }
+      ]
     },
     {
       "title": "美股存储光纤，双线爆发 #上市公司大追踪",
