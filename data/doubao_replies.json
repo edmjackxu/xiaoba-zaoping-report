@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-09-30T11:07:30.506Z",
-  "total": 554,
+  "builtAt": "2026-09-30T23:11:36.581Z",
+  "total": 555,
   "found": 259,
-  "notFound": 295,
+  "notFound": 296,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,12 +673,22 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7691429936216900140/",
+      "title": "马克·蒂尔伯里：新手如何投资？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7691196883229753885/",
       "title": "湖南某国企董事长端午节收礼视频！牛B！",
       "publishTime": "",
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这是湖南丰润农业发展有限公司原董事长张祥哦，他因相关问题已经被免职，当地还在进一步核查处置呢～",
       "doubaoReplies": [
         {
@@ -694,8 +704,10 @@
     {
       "url": "https://www.toutiao.com/video/7691099145104310812/",
       "title": "9-29号付 鹏：地产、大A、美债投资等",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "初心笔记"
     },
     {
@@ -768,17 +780,8 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7689993522161795645/",
-      "title": "歌手刘欢去世，一代人心中的歌王，落幕！妻子最后一次同框太催泪！",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 10,
-      "loadedComments": 4,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7691223495463665702/",
-      "title": "科创大幅下挫，银行板块逆势走强 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7691333722204815410/",
+      "title": "分享视频",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -786,12 +789,39 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7691169200940826659/",
-      "title": "科创50走弱 医药逆势掀起涨停潮 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7691315607794860041/",
+      "title": "万亿投放有假象，核心信号在此 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7691313192277901331/",
+      "title": "PCE数据落地，暗藏关键被忽略指标 #上市公司大追踪",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7691223495463665702/",
+      "title": "科创大幅下挫，银行板块逆势走强 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7691169200940826659/",
+      "title": "科创50走弱 医药逆势掀起涨停潮 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -801,6 +831,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "单日缩量反弹不算趋势反转啦～节前抛压阶段性衰竭，节后资金有望逐步回流，10月重点看三季报业绩，地产后周期、科技端这些方向可以留意哦😊",
       "doubaoReplies": [
         {
@@ -836,8 +867,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 25,
-      "loadedComments": 25,
+      "totalComments": 29,
+      "loadedComments": 29,
       "creator": "上市公司大追踪"
     },
     {
@@ -917,8 +948,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 43,
-      "loadedComments": 34,
+      "totalComments": 44,
+      "loadedComments": 35,
       "creator": "上市公司大追踪"
     },
     {
@@ -1160,8 +1191,8 @@
       "title": "李蓓：AI第二波，下跌要等到明年 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -1560,44 +1591,6 @@
       "totalComments": 4,
       "loadedComments": 4,
       "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687528175990997038/",
-      "title": "长鑫量产破局，存储定价权易主 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687475047595327538/",
-      "title": "国新办明天开“大国粮仓”发布会 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687472820560855055/",
-      "title": "央视点名！电力心脏升级 #上市公司大追踪",
-      "publishTime": "",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "涉及的企业挺多的～整机厂商有四方股份（SST1.0量产）、金盘科技（样机海外测试）、中国西电（出海订单）；上游碳化硅核心器件有中电科五十五所、斯达半导、时代电气；东莞昱懋则和中科院合作攻关软磁材料～（不构成投资建议哈）",
-      "doubaoReplies": [
-        {
-          "askUser": "弯弯的大树",
-          "askText": "@豆包 涉及什么企业？",
-          "doubaoReply": "涉及的企业挺多的～整机厂商有四方股份（SST1.0量产）、金盘科技（样机海外测试）、中国西电（出海订单）；上游碳化硅核心器件有中电科五十五所、斯达半导、时代电气；东莞昱懋则和中科院合作攻关软磁材料～（不构成投资建议哈）",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7687477563949990710"
-        }
-      ]
     },
     {
       "url": "https://www.toutiao.com/video/7691120219515240475/",
@@ -2333,8 +2326,8 @@
       "title": "9.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 8,
-      "loadedComments": 7,
+      "totalComments": 13,
+      "loadedComments": 12,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2511,8 +2504,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 61,
-      "loadedComments": 51,
+      "totalComments": 63,
+      "loadedComments": 52,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2556,7 +2549,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 215,
+      "totalComments": 216,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3132,6 +3125,26 @@
       "totalComments": 26,
       "loadedComments": 22,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7687472820560855055/",
+      "title": "央视点名！电力心脏升级 #上市公司大追踪",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "涉及的企业挺多的～整机厂商有四方股份（SST1.0量产）、金盘科技（样机海外测试）、中国西电（出海订单）；上游碳化硅核心器件有中电科五十五所、斯达半导、时代电气；东莞昱懋则和中科院合作攻关软磁材料～（不构成投资建议哈）",
+      "doubaoReplies": [
+        {
+          "askUser": "弯弯的大树",
+          "askText": "@豆包 涉及什么企业？",
+          "doubaoReply": "涉及的企业挺多的～整机厂商有四方股份（SST1.0量产）、金盘科技（样机海外测试）、中国西电（出海订单）；上游碳化硅核心器件有中电科五十五所、斯达半导、时代电气；东莞昱懋则和中科院合作攻关软磁材料～（不构成投资建议哈）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7687477563949990710"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7689347721139864119/",
