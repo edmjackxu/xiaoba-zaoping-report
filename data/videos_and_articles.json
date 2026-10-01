@@ -4093,7 +4093,17 @@
       "publishTime": "",
       "type": "video",
       "summary": "",
-      "creator": "艾丽无废话财经"
+      "creator": "艾丽无废话财经",
+      "doubaoReply": [
+        {
+          "askUser": "轰隆隆007",
+          "askText": "@豆包 美元会升值还是贬值？",
+          "doubaoReply": "短期美元会升值哒～中长期会贬值哦，按视频里说的是「弱美元但强势美元」逻辑啦，短期加息、中东局势撑着，后面降息就会有变化咯",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691721821125018395"
+        }
+      ]
     },
     {
       "title": "10.1",

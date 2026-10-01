@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-10-01T11:07:22.141Z",
-  "total": 555,
-  "found": 261,
+  "builtAt": "2026-10-01T23:12:13.118Z",
+  "total": 556,
+  "found": 262,
   "notFound": 294,
   "replies": [
     {
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "摩根大通主要观点是美债吸引力回升，建议关注短端美债和投资级公司债，零利率时代已结束，经济韧性强，AI行业会分化哦～",
       "doubaoReplies": [
         {
@@ -696,8 +697,8 @@
       "title": "马克·蒂尔伯里：新手如何投资？",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "初心笔记"
     },
     {
@@ -790,10 +791,21 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7691660194471739430/",
+      "title": "华为赛力斯重签协议，利益格局重塑 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7691510022501007387/",
       "title": "美光业务十倍，A股存储链迎考验 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -884,8 +896,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 39,
-      "loadedComments": 38,
+      "totalComments": 44,
+      "loadedComments": 43,
       "creator": "上市公司大追踪"
     },
     {
@@ -893,7 +905,7 @@
       "title": "“首套房贴息落地！省5万只是表面， “150万门槛、9：1分担、只搞1年——房贷贴息背后的三个隐藏信号，看懂少走三年弯路”",
       "status": "not_found",
       "found": false,
-      "totalComments": 379,
+      "totalComments": 383,
       "loadedComments": 190,
       "creator": "上市公司大追踪"
     },
@@ -1019,7 +1031,7 @@
       "title": "放量五百亿，钱在夺路而逃 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 249,
+      "totalComments": 247,
       "loadedComments": 190,
       "creator": "上市公司大追踪"
     },
@@ -1589,15 +1601,6 @@
       "found": false,
       "totalComments": 5,
       "loadedComments": 5,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687547550476042294/",
-      "title": "新华吞财联社复牌，传媒第一股值多少？ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -2319,7 +2322,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 135,
-      "loadedComments": 124,
+      "loadedComments": 123,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2332,63 +2335,30 @@
     {
       "url": "https://www.toutiao.com/video/7691647169836630016/",
       "title": "10.1",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "艾丽无废话财经"
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "短期美元会升值哒～中长期会贬值哦，按视频里说的是「弱美元但强势美元」逻辑啦，短期加息、中东局势撑着，后面降息就会有变化咯",
+      "doubaoReplies": [
+        {
+          "askUser": "轰隆隆007",
+          "askText": "@豆包 美元会升值还是贬值？",
+          "doubaoReply": "短期美元会升值哒～中长期会贬值哦，按视频里说的是「弱美元但强势美元」逻辑啦，短期加息、中东局势撑着，后面降息就会有变化咯",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691721821125018395"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7691581632981631003/",
       "title": "10.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 18,
-      "loadedComments": 15,
+      "totalComments": 33,
+      "loadedComments": 26,
       "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7691573493384609801/",
-      "title": "10.1",
-      "publishTime": "",
-      "creator": "艾丽无废话财经",
-      "status": "found",
-      "found": true,
-      "content": "这次PCE统计口径调整让核心PCE降到3%，市场下调加息概率，不过居民日常物价压力没明显下降，得结合CPI看真实通胀水平哦～",
-      "doubaoReplies": [
-        {
-          "askUser": "灿烂荷叶tL",
-          "askText": "@豆包 调整口径有啥影响？",
-          "doubaoReply": "这次PCE统计口径调整让核心PCE降到3%，市场下调加息概率，不过居民日常物价压力没明显下降，得结合CPI看真实通胀水平哦～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691590110344676142"
-        },
-        {
-          "askUser": "端庄优雅圆月Jo",
-          "askText": "@豆包 调整口径有啥影响？",
-          "doubaoReply": "这次调整压低了通胀读数，不过日常物价压力其实没降～市场也下调了10月加息预期，美股美债都有反应哦 😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691591770262094635"
-        },
-        {
-          "askUser": "灿烂荷叶tL",
-          "askText": "@豆包 调整口径有啥影响？",
-          "doubaoReply": "这次调整了三大分项的统计方法，还追溯改了2021年以来的基数，让通胀读数明显降温～不过民生相关的真实物价压力还没变化，市场也因此下调了10月加息预期哦 😉",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691589760183517961"
-        },
-        {
-          "askUser": "用户9854556876995",
-          "askText": "@豆包 什么是PCE数据？",
-          "doubaoReply": "PCE全称个人消费支出价格指数，是美联储超看重的通胀指标哦～用来衡量商品服务价格变动，还会动态调权重反映大家换替代品的行为，核心PCE还剔除了波动大的食品能源价呢～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691585503111545651"
-        }
-      ]
     },
     {
       "url": "https://www.toutiao.com/video/7691158589473800207/",
@@ -2573,7 +2543,7 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 63,
+      "totalComments": 64,
       "loadedComments": 52,
       "creator": "艾丽无废话财经"
     },
@@ -3167,6 +3137,58 @@
       "totalComments": 19,
       "loadedComments": 15,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7659207193933119498/",
+      "title": "7.6",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 31,
+      "loadedComments": 28,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7691573493384609801/",
+      "title": "10.1",
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "这次PCE统计口径调整让核心PCE降到3%，市场下调加息概率，不过居民日常物价压力没明显下降，得结合CPI看真实通胀水平哦～",
+      "doubaoReplies": [
+        {
+          "askUser": "灿烂荷叶tL",
+          "askText": "@豆包 调整口径有啥影响？",
+          "doubaoReply": "这次PCE统计口径调整让核心PCE降到3%，市场下调加息概率，不过居民日常物价压力没明显下降，得结合CPI看真实通胀水平哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691590110344676142"
+        },
+        {
+          "askUser": "端庄优雅圆月Jo",
+          "askText": "@豆包 调整口径有啥影响？",
+          "doubaoReply": "这次调整压低了通胀读数，不过日常物价压力其实没降～市场也下调了10月加息预期，美股美债都有反应哦 😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691591770262094635"
+        },
+        {
+          "askUser": "灿烂荷叶tL",
+          "askText": "@豆包 调整口径有啥影响？",
+          "doubaoReply": "这次调整了三大分项的统计方法，还追溯改了2021年以来的基数，让通胀读数明显降温～不过民生相关的真实物价压力还没变化，市场也因此下调了10月加息预期哦 😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691589760183517961"
+        },
+        {
+          "askUser": "用户9854556876995",
+          "askText": "@豆包 什么是PCE数据？",
+          "doubaoReply": "PCE全称个人消费支出价格指数，是美联储超看重的通胀指标哦～用来衡量商品服务价格变动，还会动态调权重反映大家换替代品的行为，核心PCE还剔除了波动大的食品能源价呢～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691585503111545651"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7687472820560855055/",
