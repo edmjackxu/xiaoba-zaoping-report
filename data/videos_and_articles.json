@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-01T11:06:23.614Z",
+  "checkTime": "2026-10-01T23:06:25.245Z",
   "articles": [
     {
       "title": "",
@@ -1583,6 +1583,14 @@
       "creator": "初心笔记"
     },
     {
+      "title": "华为赛力斯重签协议，利益格局重塑 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7691660194471739430/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
       "title": "美光业务十倍，A股存储链迎考验 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7691510022501007387/",
       "publishTime": "",
@@ -1603,7 +1611,6 @@
       "url": "https://www.toutiao.com/video/7691315607794860041/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3115,13 +3122,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7683437539072524322/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -4104,52 +4104,11 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "title": "10.1",
-      "url": "https://www.toutiao.com/video/7691573493384609801/",
-      "publishTime": "",
-      "type": "video",
-      "summary": "",
-      "creator": "艾丽无废话财经",
-      "doubaoReply": [
-        {
-          "askUser": "灿烂荷叶tL",
-          "askText": "@豆包 调整口径有啥影响？",
-          "doubaoReply": "这次PCE统计口径调整让核心PCE降到3%，市场下调加息概率，不过居民日常物价压力没明显下降，得结合CPI看真实通胀水平哦～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691590110344676142"
-        },
-        {
-          "askUser": "端庄优雅圆月Jo",
-          "askText": "@豆包 调整口径有啥影响？",
-          "doubaoReply": "这次调整压低了通胀读数，不过日常物价压力其实没降～市场也下调了10月加息预期，美股美债都有反应哦 😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691591770262094635"
-        },
-        {
-          "askUser": "灿烂荷叶tL",
-          "askText": "@豆包 调整口径有啥影响？",
-          "doubaoReply": "这次调整了三大分项的统计方法，还追溯改了2021年以来的基数，让通胀读数明显降温～不过民生相关的真实物价压力还没变化，市场也因此下调了10月加息预期哦 😉",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691589760183517961"
-        },
-        {
-          "askUser": "用户9854556876995",
-          "askText": "@豆包 什么是PCE数据？",
-          "doubaoReply": "PCE全称个人消费支出价格指数，是美联储超看重的通胀指标哦～用来衡量商品服务价格变动，还会动态调权重反映大家换替代品的行为，核心PCE还剔除了波动大的食品能源价呢～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691585503111545651"
-        }
-      ]
-    },
-    {
       "title": "9.30",
       "url": "https://www.toutiao.com/video/7691158589473800207/",
       "publishTime": "",
       "type": "video",
+      "summary": "",
       "creator": "艾丽无废话财经"
     },
     {
@@ -5608,6 +5567,13 @@
     {
       "title": "3.2",
       "url": "https://www.toutiao.com/video/7612452717022412842/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "title": "3.1",
+      "url": "https://www.toutiao.com/video/7612179732650131510/",
       "publishTime": "",
       "type": "video",
       "creator": "艾丽无废话财经"
