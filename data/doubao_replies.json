@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-09-30T23:11:36.581Z",
+  "builtAt": "2026-10-01T04:09:36.420Z",
   "total": 555,
   "found": 259,
   "notFound": 296,
@@ -673,6 +673,13 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7691490249582723613/",
+      "title": "9-30号摩根大通：大厂资本开支仍在扩大",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7691429936216900140/",
       "title": "马克·蒂尔伯里：新手如何投资？",
       "status": "not_found",
@@ -771,13 +778,11 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7690004808115208743/",
-      "title": "投资交易：如何搜集信息和阅读研报？",
-      "status": "not_found",
+      "url": "https://www.toutiao.com/video/7691510022501007387/",
+      "title": "美光业务十倍，A股存储链迎考验 #上市公司大追踪",
+      "status": "no_comments",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7691333722204815410/",
@@ -811,8 +816,8 @@
       "title": "科创大幅下挫，银行板块逆势走强 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -867,8 +872,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 29,
-      "loadedComments": 29,
+      "totalComments": 31,
+      "loadedComments": 31,
       "creator": "上市公司大追踪"
     },
     {
@@ -1011,8 +1016,8 @@
       "title": "粤芯三年巨亏65亿，打新需谨慎甄别 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -1584,13 +1589,11 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7687532750945517608/",
-      "title": "啊？存储不缺货！宏碁董事长掀桌了 #上市公司大追踪",
-      "status": "not_found",
+      "url": "https://www.toutiao.com/video/7691490603364712482/",
+      "title": "交易本质是概率游戏，不是预测游戏 没有人能精准预知每一次涨跌 #交易心法 #AM交易体系 #GNCapital",
+      "status": "no_comments",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
-      "creator": "上市公司大追踪"
+      "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7691120219515240475/",
@@ -2315,19 +2318,12 @@
       "creator": "GNCapital产业研究"
     },
     {
-      "url": "https://www.toutiao.com/video/7580677832750137407/",
-      "title": "朱雀三号首飞：中国商业航天叩响可复用时代的大门 #朱雀三号 #蓝箭航天 #运载火箭 #热点",
-      "status": "no_comments",
-      "found": false,
-      "creator": "GNCapital产业研究"
-    },
-    {
       "url": "https://www.toutiao.com/video/7691158589473800207/",
       "title": "9.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 13,
-      "loadedComments": 12,
+      "totalComments": 17,
+      "loadedComments": 16,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2783,8 +2779,8 @@
       "title": "8.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 116,
-      "loadedComments": 101,
+      "totalComments": 115,
+      "loadedComments": 100,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2846,7 +2842,7 @@
       "title": "7.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 478,
+      "totalComments": 477,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
