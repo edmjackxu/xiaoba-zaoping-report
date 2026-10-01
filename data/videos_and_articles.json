@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-09-30T23:06:24.537Z",
+  "checkTime": "2026-10-01T04:06:25.851Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "9-30号摩根大通：大厂资本开支仍在扩大",
+      "url": "https://www.toutiao.com/video/7691490249582723613/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1566,21 +1573,12 @@
       "creator": "初心笔记"
     },
     {
-      "title": "8-15号洪灏最新访谈：AI行情是否已经见底？",
-      "url": "https://www.toutiao.com/video/7674108839129596418/",
+      "title": "美光业务十倍，A股存储链迎考验 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7691510022501007387/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "股海无堐",
-          "askText": "@豆包 什么内容",
-          "doubaoReply": "这是瑞士宝盛邓启智和洪灏的访谈，核心聊AI行情是否见底。洪灏判断当前AI行情进入分化阶段，有真实业绩的优质标的会迎来修复，纯概念无业绩的公司会持续走弱，市场情绪仍需时间修复，参考当前韩国市场情况，距离真正底部可能还有距离，不宜急于抄底。以上仅为嘉宾个人观点，不构成任何投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7674185065059844906"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "分享视频",
@@ -1603,7 +1601,6 @@
       "url": "https://www.toutiao.com/video/7691313192277901331/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3115,18 +3112,19 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "周期板块逆势走强，资金转向防御布局 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7683433133744046130/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
+    },
+    {
+      "title": "交易本质是概率游戏，不是预测游戏 没有人能精准预知每一次涨跌 #交易心法 #AM交易体系 #GNCapital",
+      "url": "https://www.toutiao.com/video/7691490603364712482/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "GNCapital产业研究"
     },
     {
       "title": "03 集：A股全景地图！ 上交所、深交所、北交所到底有什么区别？90%散户都搞不懂的市场底层架构 #从零学炒股 #GNCapital",
@@ -3149,7 +3147,6 @@
       "url": "https://www.toutiao.com/video/7686440435595165705/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "GNCapital产业研究"
     },
     {
@@ -5586,5 +5583,5 @@
       "creator": "艾丽无废话财经"
     }
   ],
-  "totalItems": 714
+  "totalItems": 715
 }
