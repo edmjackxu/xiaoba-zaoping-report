@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-01T04:09:36.420Z",
+  "builtAt": "2026-10-01T11:07:22.141Z",
   "total": 555,
-  "found": 259,
-  "notFound": 296,
+  "found": 261,
+  "notFound": 294,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -675,9 +675,21 @@
     {
       "url": "https://www.toutiao.com/video/7691490249582723613/",
       "title": "9-30号摩根大通：大厂资本开支仍在扩大",
-      "status": "no_comments",
-      "found": false,
-      "creator": "初心笔记"
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "摩根大通主要观点是美债吸引力回升，建议关注短端美债和投资级公司债，零利率时代已结束，经济韧性强，AI行业会分化哦～",
+      "doubaoReplies": [
+        {
+          "askUser": "GoldenEggsGoose",
+          "askText": "@豆包 他们的主要观点是什么？",
+          "doubaoReply": "摩根大通主要观点是美债吸引力回升，建议关注短端美债和投资级公司债，零利率时代已结束，经济韧性强，AI行业会分化哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691609038722810624"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7691429936216900140/",
@@ -816,8 +828,8 @@
       "title": "科创大幅下挫，银行板块逆势走强 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -872,8 +884,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 31,
-      "loadedComments": 31,
+      "totalComments": 39,
+      "loadedComments": 38,
       "creator": "上市公司大追踪"
     },
     {
@@ -881,7 +893,7 @@
       "title": "“首套房贴息落地！省5万只是表面， “150万门槛、9：1分担、只搞1年——房贷贴息背后的三个隐藏信号，看懂少走三年弯路”",
       "status": "not_found",
       "found": false,
-      "totalComments": 380,
+      "totalComments": 379,
       "loadedComments": 190,
       "creator": "上市公司大追踪"
     },
@@ -2318,6 +2330,67 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7691647169836630016/",
+      "title": "10.1",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7691581632981631003/",
+      "title": "10.1",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 18,
+      "loadedComments": 15,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7691573493384609801/",
+      "title": "10.1",
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "这次PCE统计口径调整让核心PCE降到3%，市场下调加息概率，不过居民日常物价压力没明显下降，得结合CPI看真实通胀水平哦～",
+      "doubaoReplies": [
+        {
+          "askUser": "灿烂荷叶tL",
+          "askText": "@豆包 调整口径有啥影响？",
+          "doubaoReply": "这次PCE统计口径调整让核心PCE降到3%，市场下调加息概率，不过居民日常物价压力没明显下降，得结合CPI看真实通胀水平哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691590110344676142"
+        },
+        {
+          "askUser": "端庄优雅圆月Jo",
+          "askText": "@豆包 调整口径有啥影响？",
+          "doubaoReply": "这次调整压低了通胀读数，不过日常物价压力其实没降～市场也下调了10月加息预期，美股美债都有反应哦 😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691591770262094635"
+        },
+        {
+          "askUser": "灿烂荷叶tL",
+          "askText": "@豆包 调整口径有啥影响？",
+          "doubaoReply": "这次调整了三大分项的统计方法，还追溯改了2021年以来的基数，让通胀读数明显降温～不过民生相关的真实物价压力还没变化，市场也因此下调了10月加息预期哦 😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691589760183517961"
+        },
+        {
+          "askUser": "用户9854556876995",
+          "askText": "@豆包 什么是PCE数据？",
+          "doubaoReply": "PCE全称个人消费支出价格指数，是美联储超看重的通胀指标哦～用来衡量商品服务价格变动，还会动态调权重反映大家换替代品的行为，核心PCE还剔除了波动大的食品能源价呢～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691585503111545651"
+        }
+      ]
+    },
+    {
       "url": "https://www.toutiao.com/video/7691158589473800207/",
       "title": "9.30",
       "status": "not_found",
@@ -2340,8 +2413,8 @@
       "title": "9.26",
       "status": "not_found",
       "found": false,
-      "totalComments": 31,
-      "loadedComments": 26,
+      "totalComments": 30,
+      "loadedComments": 25,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3093,33 +3166,6 @@
       "found": false,
       "totalComments": 19,
       "loadedComments": 15,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7659207193933119498/",
-      "title": "7.6",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 31,
-      "loadedComments": 28,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7658870322318540838/",
-      "title": "7.5",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 35,
-      "loadedComments": 30,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7658484652130500649/",
-      "title": "7.4",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 26,
-      "loadedComments": 22,
       "creator": "艾丽无废话财经"
     },
     {
