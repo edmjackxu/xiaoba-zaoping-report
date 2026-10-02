@@ -672,7 +672,17 @@
       "url": "https://www.toutiao.com/video/7691838139748352567/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "读书人在赌桌",
+          "askText": "@豆包 这个观点有依据吗？",
+          "doubaoReply": "翟东升的观点有自己的理论体系，但不算学界共识哦～有人担心会冲击外贸，咱们政策是让汇率在合理区间浮动哒 😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691905964626789130"
+        }
+      ]
     },
     {
       "title": "10-1号瑞银-股票策略：亚洲与美国投资者会议热点问答",
@@ -1588,7 +1598,17 @@
       "publishTime": "",
       "type": "video",
       "summary": "",
-      "creator": "上市公司大追踪"
+      "creator": "上市公司大追踪",
+      "doubaoReply": [
+        {
+          "askUser": "yf086",
+          "askText": "@豆包 光通信未来走势怎样？",
+          "doubaoReply": "中长期光通信产业逻辑挺硬的～短期受美国政策等影响有波动，可重点看节后承接、三季报业绩哦～不构成投资建议哈 😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691874391646372635"
+        }
+      ]
     },
     {
       "title": "华为赛力斯重签协议，利益格局重塑 #上市公司大追踪",
