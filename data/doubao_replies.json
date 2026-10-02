@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-02T04:07:45.986Z",
+  "builtAt": "2026-10-02T07:07:49.002Z",
   "total": 558,
   "found": 264,
   "notFound": 294,
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "翟东升的观点有自己的理论体系，但不算学界共识哦～有人担心会冲击外贸，咱们政策是让汇率在合理区间浮动哒 😊",
       "doubaoReplies": [
         {
@@ -696,8 +697,8 @@
       "title": "10-1号瑞银-股票策略：亚洲与美国投资者会议热点问答",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "初心笔记"
     },
     {
@@ -785,6 +786,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "中长期光通信产业逻辑挺硬的～短期受美国政策等影响有波动，可重点看节后承接、三季报业绩哦～不构成投资建议哈 😊",
       "doubaoReplies": [
         {
@@ -903,8 +905,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 50,
-      "loadedComments": 48,
+      "totalComments": 51,
+      "loadedComments": 49,
       "creator": "上市公司大追踪"
     },
     {
@@ -912,7 +914,7 @@
       "title": "“首套房贴息落地！省5万只是表面， “150万门槛、9：1分担、只搞1年——房贷贴息背后的三个隐藏信号，看懂少走三年弯路”",
       "status": "not_found",
       "found": false,
-      "totalComments": 390,
+      "totalComments": 393,
       "loadedComments": 190,
       "creator": "上市公司大追踪"
     },
