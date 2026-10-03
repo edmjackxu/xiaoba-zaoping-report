@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-10-03T11:07:18.573Z",
-  "total": 559,
-  "found": 266,
+  "builtAt": "2026-10-03T23:12:16.674Z",
+  "total": 560,
+  "found": 267,
   "notFound": 293,
   "replies": [
     {
@@ -673,8 +673,8 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7692340766315659799/",
-      "title": "周杰这段聊天太提升认知！",
+      "url": "https://www.toutiao.com/video/7692572872560149051/",
+      "title": "巴菲特老师费雪：投资成功的15条原则",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -682,10 +682,31 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7692340766315659799/",
+      "title": "周杰这段聊天太提升认知！",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "周杰觉得不用刻意评判AI啦，看与不看都没啥～他觉得人类真正成长是意识和认知提升，不用焦虑技术，还是要向内探索呀😊",
+      "doubaoReplies": [
+        {
+          "askUser": "才气盖天",
+          "askText": "@豆包 对AI持什么态度？",
+          "doubaoReply": "周杰觉得不用刻意评判AI啦，看与不看都没啥～他觉得人类真正成长是意识和认知提升，不用焦虑技术，还是要向内探索呀😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7692390202530251554"
+        }
+      ]
+    },
+    {
       "url": "https://www.toutiao.com/video/7692311860523155996/",
       "title": "中金：联合解读居民房贷贴息和结构性货币政策。",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "初心笔记"
     },
     {
@@ -747,37 +768,30 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7691196883229753885/",
-      "title": "湖南某国企董事长端午节收礼视频！牛B！",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这是湖南丰润农业发展有限公司原董事长张祥哦，他因相关问题已经被免职，当地还在进一步核查处置呢～",
-      "doubaoReplies": [
-        {
-          "askUser": "小折竞技",
-          "askText": "@豆包 这个人是谁",
-          "doubaoReply": "这是湖南丰润农业发展有限公司原董事长张祥哦，他因相关问题已经被免职，当地还在进一步核查处置呢～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691256579445965614"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7692430093361414187/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 15,
+      "loadedComments": 15,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7692307547964833811/",
       "title": "分享视频",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7692307174437388331/",
       "title": "分享视频",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -814,8 +828,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 40,
-      "loadedComments": 27,
+      "totalComments": 48,
+      "loadedComments": 33,
       "creator": "上市公司大追踪"
     },
     {
@@ -944,8 +958,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 65,
-      "loadedComments": 63,
+      "totalComments": 67,
+      "loadedComments": 65,
       "creator": "上市公司大追踪"
     },
     {
@@ -1589,15 +1603,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7687848761314033698/",
-      "title": "六只“新华”集体涨停兄弟，卖出或者减仓！ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 14,
-      "loadedComments": 11,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7691490603364712482/",
       "title": "交易本质是概率游戏，不是预测游戏 没有人能精准预知每一次涨跌 #交易心法 #AM交易体系 #GNCapital",
       "publishTime": "",
@@ -1703,22 +1708,26 @@
       "title": "2026年8月4日 有研新材 2026 半年报深度解读 #有研新材 #财务报表 #财报分析 #股市",
       "status": "not_found",
       "found": false,
-      "totalComments": 10,
-      "loadedComments": 9,
+      "totalComments": 11,
+      "loadedComments": 10,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7669403908193681450/",
       "title": "史诗级围猎！华尔街 36 小时猎杀 AI 神童全记录： 25 岁 OpenAI 天才，8 人基金 450 亿帝国一夜崩塌 #华尔街 #华尔街AI股神爆仓 #Leopold #美股",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7651404633864142875/",
       "title": "2026年6月15日 申菱环境是国内AI液冷CDU领域的市占率第一龙头，深度绑定华为、字节等头部大厂，稳居数据中心液冷温控解决方案第一梯队。#申菱环境 #液冷 #财务报表",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1726,8 +1735,8 @@
       "title": "2026年6月10日 九大热门电子材料全解析：找准短线缺货与长期国产替代的投资机会 电子布、铜箔、陶瓷基板、ABF 载板、玻璃基板、PCB 钻针、MLCC 电容、锡焊膏、金刚石散热 #电子布 #玻璃基板 #PCB #MLCC",
       "status": "not_found",
       "found": false,
-      "totalComments": 13,
-      "loadedComments": 12,
+      "totalComments": 14,
+      "loadedComments": 13,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2346,12 +2355,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7692398106742095887/",
+      "title": "10.3",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 50,
+      "loadedComments": 43,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7692292920908939300/",
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 71,
-      "loadedComments": 64,
+      "totalComments": 83,
+      "loadedComments": 75,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2611,7 +2629,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 220,
+      "totalComments": 221,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3153,13 +3171,24 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7659702416358998068/",
-      "title": "7.7",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 19,
-      "loadedComments": 15,
-      "creator": "艾丽无废话财经"
+      "url": "https://www.toutiao.com/video/7691196883229753885/",
+      "title": "湖南某国企董事长端午节收礼视频！牛B！",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这是湖南丰润农业发展有限公司原董事长张祥哦，他因相关问题已经被免职，当地还在进一步核查处置呢～",
+      "doubaoReplies": [
+        {
+          "askUser": "小折竞技",
+          "askText": "@豆包 这个人是谁",
+          "doubaoReply": "这是湖南丰润农业发展有限公司原董事长张祥哦，他因相关问题已经被免职，当地还在进一步核查处置呢～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691256579445965614"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7690552479515165231/",

@@ -679,7 +679,17 @@
       "url": "https://www.toutiao.com/video/7692340766315659799/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "才气盖天",
+          "askText": "@豆包 对AI持什么态度？",
+          "doubaoReply": "周杰觉得不用刻意评判AI啦，看与不看都没啥～他觉得人类真正成长是意识和认知提升，不用焦虑技术，还是要向内探索呀😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7692390202530251554"
+        }
+      ]
     },
     {
       "title": "中金：联合解读居民房贷贴息和结构性货币政策。",
