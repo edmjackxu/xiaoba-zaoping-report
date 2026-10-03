@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-03T07:07:13.630Z",
-  "total": 558,
+  "builtAt": "2026-10-03T11:07:18.573Z",
+  "total": 559,
   "found": 266,
-  "notFound": 292,
+  "notFound": 293,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,22 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7692340766315659799/",
+      "title": "周杰这段聊天太提升认知！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7692311860523155996/",
+      "title": "中金：联合解读居民房贷贴息和结构性货币政策。",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7691838139748352567/",
       "title": "翟东升：人民币升值对中国大有好处",
       "publishTime": "",
@@ -751,35 +767,6 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7691099145104310812/",
-      "title": "9-29号付 鹏：地产、大A、美债投资等",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690552479515165231/",
-      "title": "9-28号中金公司宏观策略：探讨四季度市场前景。",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "中金宏观策略周论第八十四期于2026年9月28日播出，主题聚焦四季度市场前景。刘刚分析当前中美市场呈K型分化，国内企业端靠科技支撑，但居民信贷偏弱、内需不足；利用胜率赔率框架建议，四季度优先关注科技产业趋势，周期板块等待美联储政策落地，内需板块等待政策催化，若无明确机会可优先配置红利资产。陶冶分析AI资本开支，测算2026-2028三年合理规模约4.16万亿美元，市场关注点已从产业叙事转向投资回报验证。黄亚东解读香港首个五年规划，该规划对接国家十五五规划，金融与科技为核心亮点，利好港股相关板块。内容仅为分析师观点分享，不构成投资建议。",
-      "doubaoReplies": [
-        {
-          "askUser": "直爽暖阳ve",
-          "askText": "@豆包 总结一下",
-          "doubaoReply": "中金宏观策略周论第八十四期于2026年9月28日播出，主题聚焦四季度市场前景。刘刚分析当前中美市场呈K型分化，国内企业端靠科技支撑，但居民信贷偏弱、内需不足；利用胜率赔率框架建议，四季度优先关注科技产业趋势，周期板块等待美联储政策落地，内需板块等待政策催化，若无明确机会可优先配置红利资产。陶冶分析AI资本开支，测算2026-2028三年合理规模约4.16万亿美元，市场关注点已从产业叙事转向投资回报验证。黄亚东解读香港首个五年规划，该规划对接国家十五五规划，金融与科技为核心亮点，利好港股相关板块。内容仅为分析师观点分享，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7690667137484374838"
-        }
-      ]
-    },
-    {
       "url": "https://www.toutiao.com/video/7692307547964833811/",
       "title": "分享视频",
       "status": "no_comments",
@@ -827,8 +814,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 36,
-      "loadedComments": 25,
+      "totalComments": 40,
+      "loadedComments": 27,
       "creator": "上市公司大追踪"
     },
     {
@@ -957,8 +944,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 64,
-      "loadedComments": 62,
+      "totalComments": 65,
+      "loadedComments": 63,
       "creator": "上市公司大追踪"
     },
     {
@@ -2363,8 +2350,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 27,
-      "loadedComments": 25,
+      "totalComments": 71,
+      "loadedComments": 64,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2624,8 +2611,8 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 219,
-      "loadedComments": 189,
+      "totalComments": 220,
+      "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2723,8 +2710,8 @@
       "title": "8.23",
       "status": "not_found",
       "found": false,
-      "totalComments": 287,
-      "loadedComments": 174,
+      "totalComments": 277,
+      "loadedComments": 172,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3173,6 +3160,26 @@
       "totalComments": 19,
       "loadedComments": 15,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7690552479515165231/",
+      "title": "9-28号中金公司宏观策略：探讨四季度市场前景。",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "中金宏观策略周论第八十四期于2026年9月28日播出，主题聚焦四季度市场前景。刘刚分析当前中美市场呈K型分化，国内企业端靠科技支撑，但居民信贷偏弱、内需不足；利用胜率赔率框架建议，四季度优先关注科技产业趋势，周期板块等待美联储政策落地，内需板块等待政策催化，若无明确机会可优先配置红利资产。陶冶分析AI资本开支，测算2026-2028三年合理规模约4.16万亿美元，市场关注点已从产业叙事转向投资回报验证。黄亚东解读香港首个五年规划，该规划对接国家十五五规划，金融与科技为核心亮点，利好港股相关板块。内容仅为分析师观点分享，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "直爽暖阳ve",
+          "askText": "@豆包 总结一下",
+          "doubaoReply": "中金宏观策略周论第八十四期于2026年9月28日播出，主题聚焦四季度市场前景。刘刚分析当前中美市场呈K型分化，国内企业端靠科技支撑，但居民信贷偏弱、内需不足；利用胜率赔率框架建议，四季度优先关注科技产业趋势，周期板块等待美联储政策落地，内需板块等待政策催化，若无明确机会可优先配置红利资产。陶冶分析AI资本开支，测算2026-2028三年合理规模约4.16万亿美元，市场关注点已从产业叙事转向投资回报验证。黄亚东解读香港首个五年规划，该规划对接国家十五五规划，金融与科技为核心亮点，利好港股相关板块。内容仅为分析师观点分享，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7690667137484374838"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7690541657653232130/",
