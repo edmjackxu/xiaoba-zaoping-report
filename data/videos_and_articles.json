@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-03T11:06:25.831Z",
+  "checkTime": "2026-10-03T23:06:22.310Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "巴菲特老师费雪：投资成功的15条原则",
+      "url": "https://www.toutiao.com/video/7692572872560149051/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1576,21 +1583,12 @@
       "creator": "初心笔记"
     },
     {
-      "title": "私募大佬韩广斌采访：保持专注铸就长跑高手。",
-      "url": "https://www.toutiao.com/video/7675337975760388647/",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7692430093361414187/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "守正出奇",
-          "askText": "@豆包 这是什么时候的采访。",
-          "doubaoReply": "这场采访是2019年10月11日私募排排网的路演，画面里的建国70周年标识也能佐证，你看到的这条是2022年8月的二次转发版本😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7675583684682646318"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "分享视频",
@@ -1613,7 +1611,6 @@
       "url": "https://www.toutiao.com/video/7692126863044378643/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3145,13 +3142,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "证监会重磅发声重回报，投资市 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7683848043095867392/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -4129,6 +4119,14 @@
     },
     {
       "title": "10.3",
+      "url": "https://www.toutiao.com/video/7692398106742095887/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "title": "10.3",
       "url": "https://www.toutiao.com/video/7692292920908939300/",
       "publishTime": "",
       "type": "video",
@@ -4158,7 +4156,6 @@
       "url": "https://www.toutiao.com/video/7691581632981631003/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "艾丽无废话财经"
     },
     {
@@ -5617,13 +5614,6 @@
     {
       "title": "3.2",
       "url": "https://www.toutiao.com/video/7612602813177413666/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "title": "3.2",
-      "url": "https://www.toutiao.com/video/7612452717022412842/",
       "publishTime": "",
       "type": "video",
       "creator": "艾丽无废话财经"
