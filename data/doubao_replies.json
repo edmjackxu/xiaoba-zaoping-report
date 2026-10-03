@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-03T04:07:50.441Z",
+  "builtAt": "2026-10-03T07:07:13.630Z",
   "total": 558,
   "found": 266,
   "notFound": 292,
@@ -780,6 +780,20 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7692307547964833811/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7692307174437388331/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7692126863044378643/",
       "title": "分享视频",
       "status": "not_found",
@@ -789,21 +803,13 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7692126385313644559/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7692065964205129743/",
       "title": "千亿模型落地桌面，算力迎来下沉 #上市公司大追踪",
       "publishTime": "",
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "目前华为还没官宣这类桌面千亿模型盒子哦～昇腾推理主要用在服务器，鸿蒙PC现在容只能跑中小参数，大概率会由生态厂商推出，CANN生态还得慢慢补呢😊",
       "doubaoReplies": [
         {
@@ -821,8 +827,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 35,
-      "loadedComments": 24,
+      "totalComments": 36,
+      "loadedComments": 25,
       "creator": "上市公司大追踪"
     },
     {
@@ -951,8 +957,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 63,
-      "loadedComments": 61,
+      "totalComments": 64,
+      "loadedComments": 62,
       "creator": "上市公司大追踪"
     },
     {
@@ -1605,21 +1611,13 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7687848386451472427/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7691490603364712482/",
       "title": "交易本质是概率游戏，不是预测游戏 没有人能精准预知每一次涨跌 #交易心法 #AM交易体系 #GNCapital",
       "publishTime": "",
       "creator": "GNCapital产业研究",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "建立概率思维呀，先放下预测涨跌的执念，学技术是为了筛选高概率优势机会，定好清晰的交易体系规则，不纠结单笔盈亏，把合理止损当成本，做好长期复盘就好😊",
       "doubaoReplies": [
         {
@@ -2361,6 +2359,15 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7692292920908939300/",
+      "title": "10.3",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 27,
+      "loadedComments": 25,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7691647169836630016/",
       "title": "10.1",
       "publishTime": "",
@@ -2572,8 +2579,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 64,
-      "loadedComments": 52,
+      "totalComments": 65,
+      "loadedComments": 53,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2914,7 +2921,7 @@
       "title": "7.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 477,
+      "totalComments": 476,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3165,15 +3172,6 @@
       "found": false,
       "totalComments": 19,
       "loadedComments": 15,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7659207193933119498/",
-      "title": "7.6",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 31,
-      "loadedComments": 28,
       "creator": "艾丽无废话财经"
     },
     {
