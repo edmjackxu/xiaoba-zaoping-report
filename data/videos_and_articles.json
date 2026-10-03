@@ -1614,7 +1614,17 @@
       "publishTime": "",
       "type": "video",
       "summary": "",
-      "creator": "上市公司大追踪"
+      "creator": "上市公司大追踪",
+      "doubaoReply": [
+        {
+          "askUser": "农民伯伯",
+          "askText": "@豆包 华为什么时候跟进？",
+          "doubaoReply": "目前华为还没官宣这类桌面千亿模型盒子哦～昇腾推理主要用在服务器，鸿蒙PC现在容只能跑中小参数，大概率会由生态厂商推出，CANN生态还得慢慢补呢😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7692222341778490155"
+        }
+      ]
     },
     {
       "title": "分享视频",
@@ -3154,7 +3164,17 @@
       "publishTime": "",
       "type": "video",
       "summary": "",
-      "creator": "GNCapital产业研究"
+      "creator": "GNCapital产业研究",
+      "doubaoReply": [
+        {
+          "askUser": "易道老王",
+          "askText": "@豆包 概率思维怎么建立呢？",
+          "doubaoReply": "建立概率思维呀，先放下预测涨跌的执念，学技术是为了筛选高概率优势机会，定好清晰的交易体系规则，不纠结单笔盈亏，把合理止损当成本，做好长期复盘就好😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7692262640072409896"
+        }
+      ]
     },
     {
       "title": "03 集：A股全景地图！ 上交所、深交所、北交所到底有什么区别？90%散户都搞不懂的市场底层架构 #从零学炒股 #GNCapital",

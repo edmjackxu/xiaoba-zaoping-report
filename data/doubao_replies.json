@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-02T23:14:37.716Z",
+  "builtAt": "2026-10-03T04:07:50.441Z",
   "total": 558,
-  "found": 264,
-  "notFound": 294,
+  "found": 266,
+  "notFound": 292,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -793,26 +793,36 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7692065964205129743/",
       "title": "千亿模型落地桌面，算力迎来下沉 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "目前华为还没官宣这类桌面千亿模型盒子哦～昇腾推理主要用在服务器，鸿蒙PC现在容只能跑中小参数，大概率会由生态厂商推出，CANN生态还得慢慢补呢😊",
+      "doubaoReplies": [
+        {
+          "askUser": "农民伯伯",
+          "askText": "@豆包 华为什么时候跟进？",
+          "doubaoReply": "目前华为还没官宣这类桌面千亿模型盒子哦～昇腾推理主要用在服务器，鸿蒙PC现在容只能跑中小参数，大概率会由生态厂商推出，CANN生态还得慢慢补呢😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7692222341778490155"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7691989929900146734/",
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 25,
-      "loadedComments": 17,
+      "totalComments": 35,
+      "loadedComments": 24,
       "creator": "上市公司大追踪"
     },
     {
@@ -941,8 +951,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 59,
-      "loadedComments": 57,
+      "totalComments": 63,
+      "loadedComments": 61,
       "creator": "上市公司大追踪"
     },
     {
@@ -950,7 +960,7 @@
       "title": "“首套房贴息落地！省5万只是表面， “150万门槛、9：1分担、只搞1年——房贷贴息背后的三个隐藏信号，看懂少走三年弯路”",
       "status": "not_found",
       "found": false,
-      "totalComments": 394,
+      "totalComments": 392,
       "loadedComments": 190,
       "creator": "上市公司大追踪"
     },
@@ -1085,8 +1095,8 @@
       "title": "粤芯三年巨亏65亿，打新需谨慎甄别 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -1606,15 +1616,29 @@
     {
       "url": "https://www.toutiao.com/video/7691490603364712482/",
       "title": "交易本质是概率游戏，不是预测游戏 没有人能精准预知每一次涨跌 #交易心法 #AM交易体系 #GNCapital",
-      "status": "no_comments",
-      "found": false,
-      "creator": "GNCapital产业研究"
+      "publishTime": "",
+      "creator": "GNCapital产业研究",
+      "status": "found",
+      "found": true,
+      "content": "建立概率思维呀，先放下预测涨跌的执念，学技术是为了筛选高概率优势机会，定好清晰的交易体系规则，不纠结单笔盈亏，把合理止损当成本，做好长期复盘就好😊",
+      "doubaoReplies": [
+        {
+          "askUser": "易道老王",
+          "askText": "@豆包 概率思维怎么建立呢？",
+          "doubaoReply": "建立概率思维呀，先放下预测涨跌的执念，学技术是为了筛选高概率优势机会，定好清晰的交易体系规则，不纠结单笔盈亏，把合理止损当成本，做好长期复盘就好😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7692262640072409896"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7691120219515240475/",
       "title": "03 集：A股全景地图！ 上交所、深交所、北交所到底有什么区别？90%散户都搞不懂的市场底层架构 #从零学炒股 #GNCapital",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1622,8 +1646,8 @@
       "title": "全球先进封装：谁吃肉、谁喝汤--大盘点 #先进封装",
       "status": "not_found",
       "found": false,
-      "totalComments": 30,
-      "loadedComments": 19,
+      "totalComments": 31,
+      "loadedComments": 20,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1631,8 +1655,8 @@
       "title": "戒掉随机收益的陷阱，交易长期盈利的核心只有一件事 #AM交易体系 #交易体系构建",
       "status": "not_found",
       "found": false,
-      "totalComments": 6,
-      "loadedComments": 6,
+      "totalComments": 7,
+      "loadedComments": 7,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1640,22 +1664,26 @@
       "title": "你距离稳定复利，还差一套体系 #AM交易体系 #交易体系构建 #交易系统 #GNCapital",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7683321736868724782/",
       "title": "01 集：先想明白！你到底是投资还是投机？ 短线、波段、长线到底该怎么选？#从零学炒股 #GNCapital",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7675686097138073619/",
       "title": "8月19日 功率半导体迎来新一轮涨价潮：AI算力成核心驱动力 #功率半导体 #AI算力",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1663,8 +1691,8 @@
       "title": "00集前言：90%散户亏钱的真正原因，这套新手炒股教程 ，彻底帮你扭转亏损 #从零学炒股 #股市 #炒股养家",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1672,8 +1700,8 @@
       "title": "8月16日 生益科技2026上半年净利暴增130.42% 高端覆铜板驱动业绩超预期 #生益科技 #覆铜板 #PCB #AI",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1681,8 +1709,8 @@
       "title": "HBF高带宽闪存，存储下一代新兴赛道 #HBF #高带宽闪存 #存储 #存储芯片 #AI算力",
       "status": "not_found",
       "found": false,
-      "totalComments": 10,
-      "loadedComments": 10,
+      "totalComments": 11,
+      "loadedComments": 11,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2366,8 +2394,8 @@
       "title": "9.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 17,
-      "loadedComments": 16,
+      "totalComments": 18,
+      "loadedComments": 17,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2590,7 +2618,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 219,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2715,8 +2743,8 @@
       "title": "8.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 117,
-      "loadedComments": 103,
+      "totalComments": 116,
+      "loadedComments": 102,
       "creator": "艾丽无废话财经"
     },
     {
