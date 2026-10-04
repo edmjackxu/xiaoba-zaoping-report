@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-04T04:08:58.492Z",
+  "builtAt": "2026-10-04T07:07:23.378Z",
   "total": 560,
-  "found": 267,
-  "notFound": 293,
+  "found": 268,
+  "notFound": 292,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -36,8 +36,8 @@
       "title": "如何避免心源性猝死的发生？（CCTV健康中国作品）",
       "status": "not_found",
       "found": false,
-      "totalComments": 12,
-      "loadedComments": 12,
+      "totalComments": 11,
+      "loadedComments": 11,
       "creator": "初心笔记"
     },
     {
@@ -686,8 +686,8 @@
       "title": "巴菲特老师费雪：投资成功的15条原则",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "初心笔记"
     },
     {
@@ -769,6 +769,33 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7692678488196661284/",
+      "title": "十篇文章背后，哪些上市公司正在被“重新定 十篇文章背后，哪些上市公司正在被“重新定价”？#上市公司大追踪",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "北斗相关受益股按产业链分，上游芯片有海格通信、振芯科技、雷电微力；中游终端和下游应用有中海达、超图软件、航天宏图～信息仅供参考，股市有风险哦 😊",
+      "doubaoReplies": [
+        {
+          "askUser": "冬日里围炉品茶者",
+          "askText": "@豆包 北斗产业受益股有哪些？",
+          "doubaoReply": "北斗相关受益股按产业链分，上游芯片有海格通信、振芯科技、雷电微力；中游终端和下游应用有中海达、超图软件、航天宏图～信息仅供参考，股市有风险哦 😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7692681428798505743"
+        },
+        {
+          "askUser": "冬日里围炉品茶者",
+          "askText": "@豆包 北斗产业受益股有哪些？",
+          "doubaoReply": "北斗产业链相关A股可以分三类看哦～上游芯片有海格通信、华力创通；中游终端华测导航；下游应用超图软件、中海达。以上仅业务梳理，不构成投资建议哦 😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7692681292714509071"
+        }
+      ]
+    },
+    {
       "url": "https://www.toutiao.com/video/7692642152211283983/",
       "title": "人民日报连发十篇，国庆期间到底在给谁递信 看完这十篇文章，我对节后行情的三个判断和一个提醒",
       "status": "not_found",
@@ -782,8 +809,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 23,
-      "loadedComments": 23,
+      "totalComments": 25,
+      "loadedComments": 24,
       "creator": "上市公司大追踪"
     },
     {
@@ -838,8 +865,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 54,
-      "loadedComments": 37,
+      "totalComments": 55,
+      "loadedComments": 38,
       "creator": "上市公司大追踪"
     },
     {
@@ -1592,15 +1619,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687893416617148466/",
-      "title": "缩量普涨 钱是在换锚 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -2372,8 +2390,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 61,
-      "loadedComments": 51,
+      "totalComments": 66,
+      "loadedComments": 54,
       "creator": "艾丽无废话财经"
     },
     {
