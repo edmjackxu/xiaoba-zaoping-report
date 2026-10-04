@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-04T11:06:25.210Z",
+  "checkTime": "2026-10-04T23:06:24.132Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "翟东升：不能忽视印度的野心和潜力！",
+      "url": "https://www.toutiao.com/video/7692939527383532087/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1576,21 +1583,12 @@
       ]
     },
     {
-      "title": "林园最干货的一次采访！",
-      "url": "https://www.toutiao.com/video/7676083774467375660/",
+      "title": "华尔街通宵了，A股散户的“隔夜保护”要没 美股不睡了，A股高关联赛道盘中就要被“实时收割”？#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7692817554918408242/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "大漠一烟",
-          "askText": "@豆包 博主的要点是什么",
-          "doubaoReply": "这次林园采访的核心要点很清晰：操作上认为股市仅5%时间上涨，很难精准躲过大跌，要在市场冷清估值低的时候买入、长期满仓持有不轻易择时；靠逛菜市场、观察日常常识做调研；选股偏好有强品牌、小盘、少融资多分红、不懂不碰的公司；7成仓位布局吃喝刚需消费赛道，剩下配低估值大市值龙头，靠挑选高确定性盈利的公司控制风险。以上仅为他个人投资观点，不构成投资建议，股市有风险哦。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7676236009322906406"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "国庆充电排队六小时，中科院出3分钟快充 #上市公司大追踪",
@@ -1613,7 +1611,6 @@
       "url": "https://www.toutiao.com/video/7692678488196661284/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪",
       "doubaoReply": [
         {
@@ -3158,13 +3155,6 @@
     {
       "title": "加息预期飙升，CPI定调美联储抉择 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7684099872694960143/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7684047093061419059/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
