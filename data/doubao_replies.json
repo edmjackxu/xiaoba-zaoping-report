@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-04T07:07:23.378Z",
+  "builtAt": "2026-10-04T11:07:27.549Z",
   "total": 560,
   "found": 268,
   "notFound": 292,
@@ -715,8 +715,8 @@
       "title": "中金：联合解读居民房贷贴息和结构性货币政策。",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "初心笔记"
     },
     {
@@ -769,12 +769,27 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7692717151199166518/",
+      "title": "国庆充电排队六小时，中科院出3分钟快充 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7692713829104844854/",
+      "title": "美国机器人集体“自尽”施瓦辛格亲临现场 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7692678488196661284/",
       "title": "十篇文章背后，哪些上市公司正在被“重新定 十篇文章背后，哪些上市公司正在被“重新定价”？#上市公司大追踪",
       "publishTime": "",
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "北斗相关受益股按产业链分，上游芯片有海格通信、振芯科技、雷电微力；中游终端和下游应用有中海达、超图软件、航天宏图～信息仅供参考，股市有风险哦 😊",
       "doubaoReplies": [
         {
@@ -865,8 +880,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 55,
-      "loadedComments": 38,
+      "totalComments": 59,
+      "loadedComments": 40,
       "creator": "上市公司大追踪"
     },
     {
@@ -1601,24 +1616,6 @@
       "found": false,
       "totalComments": 5,
       "loadedComments": 5,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687907785029566491/",
-      "title": "特斯拉宁波审厂，三家企业待甄选 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687900148680097807/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2390,8 +2387,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 66,
-      "loadedComments": 54,
+      "totalComments": 71,
+      "loadedComments": 58,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2561,8 +2558,8 @@
       "title": "9.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 105,
-      "loadedComments": 74,
+      "totalComments": 104,
+      "loadedComments": 73,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2661,7 +2658,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 221,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
