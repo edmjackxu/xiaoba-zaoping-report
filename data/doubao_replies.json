@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-04T11:07:27.549Z",
-  "total": 560,
+  "builtAt": "2026-10-04T23:13:38.068Z",
+  "total": 561,
   "found": 268,
-  "notFound": 292,
+  "notFound": 293,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7692939527383532087/",
+      "title": "翟东升：不能忽视印度的野心和潜力！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7692589988977967663/",
       "title": "10-4号未来中国全球论坛：Ai落地的企业分水岭（全网首发）。",
       "status": "not_found",
@@ -749,37 +758,30 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7691490249582723613/",
-      "title": "9-30号摩根大通：大厂资本开支仍在扩大",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "摩根大通主要观点是美债吸引力回升，建议关注短端美债和投资级公司债，零利率时代已结束，经济韧性强，AI行业会分化哦～",
-      "doubaoReplies": [
-        {
-          "askUser": "GoldenEggsGoose",
-          "askText": "@豆包 他们的主要观点是什么？",
-          "doubaoReply": "摩根大通主要观点是美债吸引力回升，建议关注短端美债和投资级公司债，零利率时代已结束，经济韧性强，AI行业会分化哦～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691609038722810624"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7692817554918408242/",
+      "title": "华尔街通宵了，A股散户的“隔夜保护”要没 美股不睡了，A股高关联赛道盘中就要被“实时收割”？#上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 18,
+      "loadedComments": 15,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7692717151199166518/",
       "title": "国庆充电排队六小时，中科院出3分钟快充 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7692713829104844854/",
       "title": "美国机器人集体“自尽”施瓦辛格亲临现场 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -824,8 +826,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 25,
-      "loadedComments": 24,
+      "totalComments": 30,
+      "loadedComments": 28,
       "creator": "上市公司大追踪"
     },
     {
@@ -880,8 +882,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 59,
-      "loadedComments": 40,
+      "totalComments": 61,
+      "loadedComments": 42,
       "creator": "上市公司大追踪"
     },
     {
@@ -1610,15 +1612,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7687982539763351586/",
-      "title": "万科两连板！首套房贴息？ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7691490603364712482/",
       "title": "交易本质是概率游戏，不是预测游戏 没有人能精准预知每一次涨跌 #交易心法 #AM交易体系 #GNCapital",
       "publishTime": "",
@@ -1814,8 +1807,8 @@
       "title": "2026年5月16日 碳化硅产业迎来历史性拐点，AI + 新能源双轮驱动开启高增长时代 #碳化硅",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1823,8 +1816,8 @@
       "title": "2026年5月14日 瑞银Q-Series：全球储能需求为何激增？#储能",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1870,15 +1863,17 @@
       "title": "2026年5月4日 SpaceX 史诗级 IPO：估值逆天，华尔街明知溢价为何抢着入局 #SpaceX #星链 #马斯克",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7634681490076336164/",
       "title": "2026年5月1日 稀土，真的不一样了 #稀土",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1886,8 +1881,8 @@
       "title": "2026年4月15日 存储芯片HBM产业链全景解析 联瑞新材 华海诚科 彤程新材 鼎龙股份 晶瑞电材 南大光电 东材科技 兴福电子 晶瑞电材 中巨芯 江化微 华特气体 雅克科技 中船特气 凯美特气 艾森股份 中微公司 北方华创 拓荆科技 精智达 精测电子 中科飞测 鼎龙股份 安集科技 盛美上海 上海新阳 天承科技 长电科技 通富微电 华天科技 佰维存储 江波龙 兆易创新  #存储芯片 #HBM",
       "status": "not_found",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 6,
+      "totalComments": 8,
+      "loadedComments": 7,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1895,8 +1890,8 @@
       "title": "2026年4月7日 光通信核心赛道：光模块产线设备全解析！博众精工 罗博特科 科瑞技术 快克智能 联讯仪器 智立方 奥特维 凯格精机 华盛昌 芯源微 芯碁微装 大族激光 联赢激光 海目星 帝尔激光 #光模块",
       "status": "not_found",
       "found": false,
-      "totalComments": 9,
-      "loadedComments": 9,
+      "totalComments": 10,
+      "loadedComments": 10,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2311,7 +2306,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 195,
-      "loadedComments": 190,
+      "loadedComments": 30,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2387,8 +2382,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 71,
-      "loadedComments": 58,
+      "totalComments": 77,
+      "loadedComments": 61,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2396,8 +2391,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 83,
-      "loadedComments": 75,
+      "totalComments": 84,
+      "loadedComments": 76,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2612,8 +2607,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 65,
-      "loadedComments": 53,
+      "totalComments": 64,
+      "loadedComments": 52,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2658,7 +2653,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 221,
-      "loadedComments": 189,
+      "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2954,7 +2949,7 @@
       "title": "7.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 476,
+      "totalComments": 475,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3197,6 +3192,26 @@
       "totalComments": 16,
       "loadedComments": 15,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7691490249582723613/",
+      "title": "9-30号摩根大通：大厂资本开支仍在扩大",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "摩根大通主要观点是美债吸引力回升，建议关注短端美债和投资级公司债，零利率时代已结束，经济韧性强，AI行业会分化哦～",
+      "doubaoReplies": [
+        {
+          "askUser": "GoldenEggsGoose",
+          "askText": "@豆包 他们的主要观点是什么？",
+          "doubaoReply": "摩根大通主要观点是美债吸引力回升，建议关注短端美债和投资级公司债，零利率时代已结束，经济韧性强，AI行业会分化哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691609038722810624"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7691196883229753885/",
