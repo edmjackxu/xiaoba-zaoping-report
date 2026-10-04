@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-03T23:12:16.674Z",
+  "builtAt": "2026-10-04T04:08:58.492Z",
   "total": 560,
   "found": 267,
   "notFound": 293,
@@ -673,12 +673,21 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7692572872560149051/",
-      "title": "巴菲特老师费雪：投资成功的15条原则",
+      "url": "https://www.toutiao.com/video/7692589988977967663/",
+      "title": "10-4号未来中国全球论坛：Ai落地的企业分水岭（全网首发）。",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7692572872560149051/",
+      "title": "巴菲特老师费雪：投资成功的15条原则",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "初心笔记"
     },
     {
@@ -688,6 +697,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "周杰觉得不用刻意评判AI啦，看与不看都没啥～他觉得人类真正成长是意识和认知提升，不用焦虑技术，还是要向内探索呀😊",
       "doubaoReplies": [
         {
@@ -759,21 +769,21 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7691429936216900140/",
-      "title": "马克·蒂尔伯里：新手如何投资？",
+      "url": "https://www.toutiao.com/video/7692642152211283983/",
+      "title": "人民日报连发十篇，国庆期间到底在给谁递信 看完这十篇文章，我对节后行情的三个判断和一个提醒",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "初心笔记"
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7692430093361414187/",
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 15,
-      "loadedComments": 15,
+      "totalComments": 23,
+      "loadedComments": 23,
       "creator": "上市公司大追踪"
     },
     {
@@ -828,8 +838,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 48,
-      "loadedComments": 33,
+      "totalComments": 54,
+      "loadedComments": 37,
       "creator": "上市公司大追踪"
     },
     {
@@ -958,8 +968,8 @@
       "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 67,
-      "loadedComments": 65,
+      "totalComments": 69,
+      "loadedComments": 66,
       "creator": "上市公司大追踪"
     },
     {
@@ -1594,15 +1604,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7687850844418473993/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7691490603364712482/",
       "title": "交易本质是概率游戏，不是预测游戏 没有人能精准预知每一次涨跌 #交易心法 #AM交易体系 #GNCapital",
       "publishTime": "",
@@ -1742,36 +1743,6 @@
     {
       "url": "https://www.toutiao.com/video/7649342156955451442/",
       "title": "2026年6月9日 抛开行业红利与国产替代“滤镜”后，兆易创新的真实底色是什么？ #兆易创新 #存储 #财报解读",
-      "status": "no_comments",
-      "found": false,
-      "creator": "GNCapital产业研究"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7649211764538212393/",
-      "title": "2026年6月9日 多空视角解读澜起科技2026一季报 #澜起科技 #财务报表 #内存",
-      "status": "no_comments",
-      "found": false,
-      "creator": "GNCapital产业研究"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7646781951148589097/",
-      "title": "2026年6月2日 重磅！国家定调六大未来产业，看懂这篇，抓住未来 5-10 年黄金机遇 #未来产业 #新兴产业",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 98,
-      "loadedComments": 80,
-      "creator": "GNCapital产业研究"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7644341906620547126/",
-      "title": "韬定律是什么？大白话给你全解读！ #韬定律 #华为",
-      "status": "no_comments",
-      "found": false,
-      "creator": "GNCapital产业研究"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7643677675961516067/",
-      "title": "2026年5月25日 从几何到时间：华为发表“韬（τ）定律”，一次对半导体演进逻辑的深层重构 #华为 #半导体",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -1779,24 +1750,66 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7649211764538212393/",
+      "title": "2026年6月9日 多空视角解读澜起科技2026一季报 #澜起科技 #财务报表 #内存",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7646781951148589097/",
+      "title": "2026年6月2日 重磅！国家定调六大未来产业，看懂这篇，抓住未来 5-10 年黄金机遇 #未来产业 #新兴产业",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 99,
+      "loadedComments": 81,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7644341906620547126/",
+      "title": "韬定律是什么？大白话给你全解读！ #韬定律 #华为",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7643677675961516067/",
+      "title": "2026年5月25日 从几何到时间：华为发表“韬（τ）定律”，一次对半导体演进逻辑的深层重构 #华为 #半导体",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "GNCapital产业研究"
+    },
+    {
       "url": "https://www.toutiao.com/video/7640655748477354047/",
       "title": "2026年5月17日 人形机器人，5 大核心零部件全解 #人形机器人",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7640655723052007439/",
       "title": "2026年5月16日 碳化硅产业迎来历史性拐点，AI + 新能源双轮驱动开启高增长时代 #碳化硅",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7640398369877966900/",
       "title": "2026年5月14日 瑞银Q-Series：全球储能需求为何激增？#储能",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1824,8 +1837,8 @@
       "title": "2026年5月9日 SpaceX 狂飙：星链 + 星舰引爆商业航天，8 大核心龙头全梳理再升科技 西部材料 斯瑞新材 超捷股份 天银机电 信维通信 通宇通讯 派克新材 #商业航天 #SpaceX #星链",
       "status": "not_found",
       "found": false,
-      "totalComments": 47,
-      "loadedComments": 42,
+      "totalComments": 48,
+      "loadedComments": 43,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1833,8 +1846,8 @@
       "title": "2026年5月5日 CoPoS：先进封装的下一步？ #CoPoS #先进封装",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2359,8 +2372,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 50,
-      "loadedComments": 43,
+      "totalComments": 61,
+      "loadedComments": 51,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2575,7 +2588,7 @@
       "title": "9.9",
       "status": "not_found",
       "found": false,
-      "totalComments": 341,
+      "totalComments": 340,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2971,8 +2984,8 @@
       "title": "7.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 47,
-      "loadedComments": 45,
+      "totalComments": 46,
+      "loadedComments": 44,
       "creator": "艾丽无废话财经"
     },
     {
