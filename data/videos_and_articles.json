@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-04T23:06:24.132Z",
+  "checkTime": "2026-10-05T04:06:26.473Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "马云莫斯科大学演讲：如何在失败中取得成功？！",
+      "url": "https://www.toutiao.com/video/7692947012542579228/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1564,23 +1571,6 @@
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
-    },
-    {
-      "title": "8-20号洪灏最新粤语专访：美国财政部买债对于市场的影响",
-      "url": "https://www.toutiao.com/video/7676126383902507522/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "股股亚克西",
-          "askText": "@豆包 总结一下",
-          "doubaoReply": "洪灏这次专访的核心观点可以总结为：当前债券基金减持美债、增持公司债，科技企业为布局AI大规模发债，将和美债争夺资金、压制美债需求。头部科技债利率可观，安全性优于对应个股，但AI商业化尚未落地，相关风险不容忽视。美债整体安全性仍高于公司债，美联储偏鹰，后续需关注财政部购债能否缓解美债抛售压力。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7676220605703815955"
-        }
-      ]
     },
     {
       "title": "华尔街通宵了，A股散户的“隔夜保护”要没 美股不睡了，A股高关联赛道盘中就要被“实时收割”？#上市公司大追踪",
