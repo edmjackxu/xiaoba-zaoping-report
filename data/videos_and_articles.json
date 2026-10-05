@@ -4131,7 +4131,17 @@
       "publishTime": "",
       "type": "video",
       "summary": "",
-      "creator": "艾丽无废话财经"
+      "creator": "艾丽无废话财经",
+      "doubaoReply": [
+        {
+          "askUser": "鸟枪换大炮滴",
+          "askText": "@豆包 世界上交易最多金额的是什么产品",
+          "doubaoReply": "不同口径结果不一样哦～金融市场里外汇是交易金额最高的，美元相关交易占89%呢～实物商品里原油是交易量最高的大宗商品哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 1,
+          "replyId": "7693052800649364258"
+        }
+      ]
     },
     {
       "title": "10.3",

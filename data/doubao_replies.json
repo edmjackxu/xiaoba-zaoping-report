@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-05T07:07:12.701Z",
+  "builtAt": "2026-10-05T23:13:54.388Z",
   "total": 561,
-  "found": 268,
-  "notFound": 293,
+  "found": 269,
+  "notFound": 292,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -120,7 +120,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 73,
-      "loadedComments": 55,
+      "loadedComments": 30,
       "creator": "初心笔记"
     },
     {
@@ -677,8 +677,8 @@
       "title": "马云莫斯科大学演讲：如何在失败中取得成功？！",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "初心笔记"
     },
     {
@@ -758,10 +758,39 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7693074054501040171/",
-      "title": "祝福国庆节快乐 就不该放假",
-      "status": "no_comments",
+      "url": "https://www.toutiao.com/video/7693320690519195711/",
+      "title": "英伟达又新高了，但这次我劝你盯紧美债 AI的“借来的繁荣”：2200亿美债背后藏着什么#上市公司大追踪",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7693181111220289574/",
+      "title": "港股PCB大涨12%，产业信号凸显 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7693178104038047785/",
+      "title": "美疫苗尚未销售，股价暴涨85% #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7693152896125665299/",
+      "title": "华为高通和解 高通花大钱买华为专利，LogicFolding到底是什么黑科技？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 41,
+      "loadedComments": 39,
       "creator": "上市公司大追踪"
     },
     {
@@ -769,8 +798,8 @@
       "title": "华尔街通宵了，A股散户的“隔夜保护”要没 美股不睡了，A股高关联赛道盘中就要被“实时收割”？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 19,
-      "loadedComments": 16,
+      "totalComments": 18,
+      "loadedComments": 15,
       "creator": "上市公司大追踪"
     },
     {
@@ -833,8 +862,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 32,
-      "loadedComments": 29,
+      "totalComments": 33,
+      "loadedComments": 30,
       "creator": "上市公司大追踪"
     },
     {
@@ -889,8 +918,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 62,
-      "loadedComments": 43,
+      "totalComments": 63,
+      "loadedComments": 44,
       "creator": "上市公司大追踪"
     },
     {
@@ -1100,8 +1129,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 46,
-      "loadedComments": 37,
+      "totalComments": 47,
+      "loadedComments": 38,
       "creator": "上市公司大追踪"
     },
     {
@@ -1154,7 +1183,7 @@
       "title": "放量五百亿，钱在夺路而逃 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 246,
+      "totalComments": 245,
       "loadedComments": 190,
       "creator": "上市公司大追踪"
     },
@@ -1583,33 +1612,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7688195412993245220/",
-      "title": "放量两千亿钱，在抢算力上游 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7688115206636175402/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7687997048381472822/",
-      "title": "人民日报定调房地产，“绝非行业退潮！” #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7691490603364712482/",
       "title": "交易本质是概率游戏，不是预测游戏 没有人能精准预知每一次涨跌 #交易心法 #AM交易体系 #GNCapital",
       "publishTime": "",
@@ -1998,8 +2000,8 @@
       "title": "2026年3月15日 储能行业迎来确定性向上拐点行情！ #储能 #宁德时代 #比亚迪",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2007,8 +2009,8 @@
       "title": "2026年3月13日 AI算力核心赛道：光互联核心技术路线全解析长芯博创 致尚科技 胜宏科技 中际旭创 新易盛 华工科技 华懋科技 天孚通信 罗博特科环旭电子 源杰科技 仕佳光子 长光华芯 致尚科技 太辰光 德科立 赛微电子 光库科技 腾景科技 炬光科技 凌云光 #光互联 #光模块 #交换机 #CPO",
       "status": "not_found",
       "found": false,
-      "totalComments": 12,
-      "loadedComments": 11,
+      "totalComments": 13,
+      "loadedComments": 12,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2016,8 +2018,8 @@
       "title": "2026年3月12日AI算力核心赛道：PCB产业链全景解析 诺德股份 德福科技 宝明科技 东材科技 宏昌电子 美联新材 圣泉集团 菲利华 中材科技 国际复材 宏和科技 铜冠铜箔 康尼机电 合锻智能 大族数控 东威科技 芯碁微装 广合科技 沪电股份 景旺电子 胜宏股份 鹏鼎控股 深南电路 东山精密 胜宏科技 兴森科技 华正新材 #PCB #英伟达 #AI算力",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2025,8 +2027,8 @@
       "title": "2026年3月8日 算电协同七家核心企业梳理 协鑫能科 豫能控股 三峡能源 国电南瑞 国网信通 科华数据 南网储能 #算力 #电力 #算电协同",
       "status": "not_found",
       "found": false,
-      "totalComments": 45,
-      "loadedComments": 40,
+      "totalComments": 46,
+      "loadedComments": 41,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2034,8 +2036,8 @@
       "title": "2026年2月26日 工业机械巨兽订单排到2030年，中国燃气轮机企业迎超级红利应流股份 钢研高纳 图南股份 联德股份 豪迈科技 万泽股份 东方电气 上海电气 航发动力 杰瑞股份 华光环能 博盈特焊 西子洁能 #燃气轮机 #AIDC",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2063,8 +2065,8 @@
       "title": "2026年2月22日 铟价暴涨超180%,2026开年再涨88%，比稀土还稀缺的硬通货遭疯抢锡业股份 华锡有色 铟靶新材（原京蓝科技）锌业股份 株冶集团 中金岭南 隆华科技 #铟 #有色金属",
       "status": "not_found",
       "found": false,
-      "totalComments": 36,
-      "loadedComments": 22,
+      "totalComments": 37,
+      "loadedComments": 23,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2380,19 +2382,29 @@
     {
       "url": "https://www.toutiao.com/video/7693053403290664998/",
       "title": "10.5",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 21,
-      "loadedComments": 16,
-      "creator": "艾丽无废话财经"
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "不同口径结果不一样哦～金融市场里外汇是交易金额最高的，美元相关交易占89%呢～实物商品里原油是交易量最高的大宗商品哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "鸟枪换大炮滴",
+          "askText": "@豆包 世界上交易最多金额的是什么产品",
+          "doubaoReply": "不同口径结果不一样哦～金融市场里外汇是交易金额最高的，美元相关交易占89%呢～实物商品里原油是交易量最高的大宗商品哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 1,
+          "replyId": "7693052800649364258"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7692398106742095887/",
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 81,
-      "loadedComments": 64,
+      "totalComments": 83,
+      "loadedComments": 65,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2400,8 +2412,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 84,
-      "loadedComments": 76,
+      "totalComments": 85,
+      "loadedComments": 77,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2429,8 +2441,8 @@
       "title": "10.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 33,
-      "loadedComments": 26,
+      "totalComments": 32,
+      "loadedComments": 25,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2438,8 +2450,8 @@
       "title": "9.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 18,
-      "loadedComments": 17,
+      "totalComments": 19,
+      "loadedComments": 18,
       "creator": "艾丽无废话财经"
     },
     {
