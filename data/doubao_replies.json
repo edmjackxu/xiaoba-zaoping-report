@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-05T23:13:54.388Z",
-  "total": 561,
-  "found": 269,
-  "notFound": 292,
+  "builtAt": "2026-10-06T04:10:37.617Z",
+  "total": 562,
+  "found": 271,
+  "notFound": 291,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -120,7 +120,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 73,
-      "loadedComments": 30,
+      "loadedComments": 64,
       "creator": "初心笔记"
     },
     {
@@ -673,13 +673,42 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7693322056137507367/",
+      "title": "10-5号洪灏专访：大A四季度有翻身仗吗？",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "洪灏觉得AGI到来比咱们预想的快多啦～软件迭代超猛，已经往物理世界延伸咯～不过AI概念股行情不等于技术成熟，硬件跟进还得稍等哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "玉荣",
+          "askText": "@豆包 AGI发展速度快吗？",
+          "doubaoReply": "洪灏觉得AGI到来比咱们预想的快多啦～软件迭代超猛，已经往物理世界延伸咯～不过AI概念股行情不等于技术成熟，硬件跟进还得稍等哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7693375553629963034"
+        }
+      ]
+    },
+    {
       "url": "https://www.toutiao.com/video/7692947012542579228/",
       "title": "马云莫斯科大学演讲：如何在失败中取得成功？！",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
-      "creator": "初心笔记"
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "这个是2017年10月18日马云在莫斯科国立大学的演讲片段，当时他围绕创业、失败与成功分享了不少自己的经历😊",
+      "doubaoReplies": [
+        {
+          "askUser": "奔跑的蜗牛3456",
+          "askText": "@豆包 这是好久视频",
+          "doubaoReply": "这个是2017年10月18日马云在莫斯科国立大学的演讲片段，当时他围绕创业、失败与成功分享了不少自己的经历😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7693351711842960138"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7692939527383532087/",
@@ -704,8 +733,8 @@
       "title": "巴菲特老师费雪：投资成功的15条原则",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "初心笔记"
     },
     {
@@ -738,32 +767,12 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7691838139748352567/",
-      "title": "翟东升：人民币升值对中国大有好处",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "翟东升的观点有自己的理论体系，但不算学界共识哦～有人担心会冲击外贸，咱们政策是让汇率在合理区间浮动哒 😊",
-      "doubaoReplies": [
-        {
-          "askUser": "读书人在赌桌",
-          "askText": "@豆包 这个观点有依据吗？",
-          "doubaoReply": "翟东升的观点有自己的理论体系，但不算学界共识哦～有人担心会冲击外贸，咱们政策是让汇率在合理区间浮动哒 😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691905964626789130"
-        }
-      ]
-    },
-    {
       "url": "https://www.toutiao.com/video/7693320690519195711/",
       "title": "英伟达又新高了，但这次我劝你盯紧美债 AI的“借来的繁荣”：2200亿美债背后藏着什么#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 8,
+      "loadedComments": 8,
       "creator": "上市公司大追踪"
     },
     {
@@ -789,8 +798,8 @@
       "title": "华为高通和解 高通花大钱买华为专利，LogicFolding到底是什么黑科技？",
       "status": "not_found",
       "found": false,
-      "totalComments": 41,
-      "loadedComments": 39,
+      "totalComments": 47,
+      "loadedComments": 42,
       "creator": "上市公司大追踪"
     },
     {
@@ -2074,8 +2083,8 @@
       "title": "2026年2月21日 疯了！钨价暴涨超200%,2026开年再涨50%，到底在抢什么？中钨高新 厦门钨业 章源钨业 翔鹭钨业 洛阳钼业 中稀有色 #钨",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2083,8 +2092,8 @@
       "title": "2026年2月20日 机器人核心赛道：伺服电机行业全解析 汇川技术 埃斯顿 鸣志电器 卧龙电驱 雷赛智能 禾川科技 步科股份 科力尔 鼎智科技 德昌股份 #伺服电机 #人形机器人",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2092,15 +2101,17 @@
       "title": "2026年2月12日 中芯国际联席CEO赵海军最新发言，透露出哪些信号？",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7604787035610153012/",
       "title": "2026年2月9日 人形机器人核心赛道：丝杠行业全解析 恒立液压 贝斯特 五洲新春 北特科技 秦川机床 江苏雷利 双林股份 长盛轴承 斯菱股份#人形机器人 #丝杠",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2108,8 +2119,8 @@
       "title": "2026年2月8日 美国四大科技巨头正在疯狂砸钱，一年4.6万亿花在哪里 #谷歌 #亚马逊 #微软 #Meta",
       "status": "not_found",
       "found": false,
-      "totalComments": 12,
-      "loadedComments": 12,
+      "totalComments": 13,
+      "loadedComments": 13,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2137,15 +2148,17 @@
       "title": "2026年2月4日商业航天核心赛道：卫星量子通信产业链全解析 华工科技 光库科技 罗博特科 国盾量子 光迅科技 神州信息 光韵达 中国卫星 航天电子 亨通光电 亚信安全 盛邦安全 达华智能 陕西华达 震有科技 #量子通信 #卫星通信 #商业航天",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7602177797804687401/",
       "title": "2026年2月2日 商业航天核心赛道：相控阵天线产业链全解析 钧达股份 东方日升 隆基绿能 铖昌科技 臻镭科技 成都华微 复旦微电 天锐星通 华芯天微 信维通信 国博电子 华力创通 振芯科技 陕西华达 三维通信 雷电微力 国睿科技 雷科防务 四创电子 硕贝德 航天环宇 通宇通讯 航天电子 盟升电子 霍莱沃 睿创微纳 #商业航天 #相控阵天线 #卫星互联网",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2153,8 +2166,8 @@
       "title": "2026年2月1日商业航天核心赛道：星间激光通信产业链全解析 长光华芯 源杰科技 福晶科技 腾景科技 光库科技 航天电子 振华科技 复旦微电 光迅科技 震有科技 上海瀚讯 海格通信 航天宏图 三维通信 烽火通信 中国卫通 中国电信 #商业航天 #星间激光通信 #卫星互联网",
       "status": "not_found",
       "found": false,
-      "totalComments": 149,
-      "loadedComments": 140,
+      "totalComments": 150,
+      "loadedComments": 141,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2162,8 +2175,8 @@
       "title": "2026年1月31日 黄金、有色为何大跌？ #黄金 #白银 #贵金属 #有色金属",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2171,8 +2184,8 @@
       "title": "2026年1月28日 存储芯片产业链全景解析 #存储芯片 #HBM #产业链",
       "status": "not_found",
       "found": false,
-      "totalComments": 14,
-      "loadedComments": 12,
+      "totalComments": 15,
+      "loadedComments": 13,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2308,7 +2321,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 195,
-      "loadedComments": 30,
+      "loadedComments": 190,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2386,6 +2399,7 @@
       "creator": "艾丽无废话财经",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "不同口径结果不一样哦～金融市场里外汇是交易金额最高的，美元相关交易占89%呢～实物商品里原油是交易量最高的大宗商品哦😊",
       "doubaoReplies": [
         {
@@ -3204,6 +3218,26 @@
       "totalComments": 25,
       "loadedComments": 25,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7691838139748352567/",
+      "title": "翟东升：人民币升值对中国大有好处",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "翟东升的观点有自己的理论体系，但不算学界共识哦～有人担心会冲击外贸，咱们政策是让汇率在合理区间浮动哒 😊",
+      "doubaoReplies": [
+        {
+          "askUser": "读书人在赌桌",
+          "askText": "@豆包 这个观点有依据吗？",
+          "doubaoReply": "翟东升的观点有自己的理论体系，但不算学界共识哦～有人担心会冲击外贸，咱们政策是让汇率在合理区间浮动哒 😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691905964626789130"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7691490249582723613/",

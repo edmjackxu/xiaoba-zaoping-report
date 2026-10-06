@@ -672,14 +672,34 @@
       "url": "https://www.toutiao.com/video/7693322056137507367/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "玉荣",
+          "askText": "@豆包 AGI发展速度快吗？",
+          "doubaoReply": "洪灏觉得AGI到来比咱们预想的快多啦～软件迭代超猛，已经往物理世界延伸咯～不过AI概念股行情不等于技术成熟，硬件跟进还得稍等哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7693375553629963034"
+        }
+      ]
     },
     {
       "title": "马云莫斯科大学演讲：如何在失败中取得成功？！",
       "url": "https://www.toutiao.com/video/7692947012542579228/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "奔跑的蜗牛3456",
+          "askText": "@豆包 这是好久视频",
+          "doubaoReply": "这个是2017年10月18日马云在莫斯科国立大学的演讲片段，当时他围绕创业、失败与成功分享了不少自己的经历😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7693351711842960138"
+        }
+      ]
     },
     {
       "title": "翟东升：不能忽视印度的野心和潜力！",
