@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-06T04:10:37.617Z",
+  "builtAt": "2026-10-06T07:07:17.555Z",
   "total": 562,
   "found": 271,
   "notFound": 291,
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "洪灏觉得AGI到来比咱们预想的快多啦～软件迭代超猛，已经往物理世界延伸咯～不过AI概念股行情不等于技术成熟，硬件跟进还得稍等哦😊",
       "doubaoReplies": [
         {
@@ -698,6 +699,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这个是2017年10月18日马云在莫斯科国立大学的演讲片段，当时他围绕创业、失败与成功分享了不少自己的经历😊",
       "doubaoReplies": [
         {
@@ -798,8 +800,8 @@
       "title": "华为高通和解 高通花大钱买华为专利，LogicFolding到底是什么黑科技？",
       "status": "not_found",
       "found": false,
-      "totalComments": 47,
-      "loadedComments": 42,
+      "totalComments": 49,
+      "loadedComments": 43,
       "creator": "上市公司大追踪"
     },
     {
@@ -2393,6 +2395,15 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7693411641896370211/",
+      "title": "10.6",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 48,
+      "loadedComments": 40,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7693053403290664998/",
       "title": "10.5",
       "publishTime": "",
@@ -2688,7 +2699,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 221,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3208,15 +3219,6 @@
       "found": false,
       "totalComments": 24,
       "loadedComments": 20,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7660081351031849014/",
-      "title": "7.8",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 25,
-      "loadedComments": 25,
       "creator": "艾丽无废话财经"
     },
     {
