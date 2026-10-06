@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-06T11:07:26.907Z",
+  "builtAt": "2026-10-06T23:12:00.593Z",
   "total": 562,
   "found": 271,
   "notFound": 291,
@@ -769,10 +769,39 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7693562854024642587/",
+      "title": "纳指开盘又新高，存储股为什么全跌 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7693525841956044846/",
+      "title": "AMD产业链爆发，两家龙头谁更强？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 5,
+      "loadedComments": 5,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7693522265387843599/",
+      "title": "诺奖引爆光电管，A股迎来产业机会 #上市公司大追踪 #诺贝尔奖",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7693501609283682319/",
       "title": "谁在匿名捐出5.03亿？扒一扒财富搬运的 人大校友狂捐5亿！想到这钱也有我的贡献，心里啥滋味？#上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -807,8 +836,8 @@
       "title": "华为高通和解 高通花大钱买华为专利，LogicFolding到底是什么黑科技？",
       "status": "not_found",
       "found": false,
-      "totalComments": 54,
-      "loadedComments": 47,
+      "totalComments": 58,
+      "loadedComments": 49,
       "creator": "上市公司大追踪"
     },
     {
@@ -816,8 +845,8 @@
       "title": "华尔街通宵了，A股散户的“隔夜保护”要没 美股不睡了，A股高关联赛道盘中就要被“实时收割”？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 18,
-      "loadedComments": 15,
+      "totalComments": 19,
+      "loadedComments": 16,
       "creator": "上市公司大追踪"
     },
     {
@@ -880,8 +909,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 33,
-      "loadedComments": 30,
+      "totalComments": 35,
+      "loadedComments": 32,
       "creator": "上市公司大追踪"
     },
     {
@@ -1594,33 +1623,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7688293531999273003/",
-      "title": "美诺华订单破2亿，暗藏市场信息差 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7688258529731772466/",
-      "title": "腾讯对标Muse，A股跟不跟",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7688243498076897314/",
-      "title": "沈鼓事件刚落地，两新股炒作需警惕 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 18,
-      "loadedComments": 13,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7691490603364712482/",
       "title": "交易本质是概率游戏，不是预测游戏 没有人能精准预知每一次涨跌 #交易心法 #AM交易体系 #GNCapital",
       "publishTime": "",
@@ -2166,8 +2168,8 @@
       "title": "2026年2月1日商业航天核心赛道：星间激光通信产业链全解析 长光华芯 源杰科技 福晶科技 腾景科技 光库科技 航天电子 振华科技 复旦微电 光迅科技 震有科技 上海瀚讯 海格通信 航天宏图 三维通信 烽火通信 中国卫通 中国电信 #商业航天 #星间激光通信 #卫星互联网",
       "status": "not_found",
       "found": false,
-      "totalComments": 150,
-      "loadedComments": 141,
+      "totalComments": 151,
+      "loadedComments": 142,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2193,15 +2195,17 @@
       "title": "2026年1月24日 太空光伏产业链全解析 乾照光电 明阳智能 云南锗业 沃格光电 瑞华泰 蓝思科技 凯盛科技 鹿山新材 福斯特 航天电子 航天智装 航宇微 复旦微电 盛路通信 拓博科技 凯迅光电 迈为股份 东方日升 通威股份 钧达股份 晶科能源 上海港湾 银河航天 中国卫星 航天机电 航天环宇 #太空光伏 #光伏",
       "status": "not_found",
       "found": false,
-      "totalComments": 12,
-      "loadedComments": 7,
+      "totalComments": 13,
+      "loadedComments": 8,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7598501314871443498/",
       "title": "2026年1月23日 钙钛矿电池产业链全景梳理 捷佳伟创 微导纳米 曼恩斯特 京山轻机 德龙激光、帝尔激光 金晶科技 隆华科技 福斯特、海优新材 奥来德 极电光能 协鑫光电 纤纳光电 杭州柯林 天合光能 隆基绿能 晶科能源 通威股份 东方日升 #钙钛矿 #光伏电池",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2209,8 +2213,8 @@
       "title": "2026年1月20日 新型电力系统核心赛道全解析 保变电气、国电南瑞、特变电工、中国西电、平高电气、许继电气、思源电气、四方股份、国网信通、涪陵电力、南网科技、国能日新、恒实科技、东方电子、朗新科技、金智科技、金智科技、科陆电子、科华数据、万胜智能、国电南自、阳光电源、南都电源、比亚迪、宁德时代、海博思创、新风光、派能科技、科士达、固德威、安科瑞 #新型电力系统 #国家电网 #特高压 #储能",
       "status": "not_found",
       "found": false,
-      "totalComments": 66,
-      "loadedComments": 58,
+      "totalComments": 67,
+      "loadedComments": 59,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2218,8 +2222,8 @@
       "title": "2026年1月19日AIDC电源产业技术发展趋势与投资机遇 建议：海外链优先、产业趋势优先，兼顾弹性和公司，以下四大方向值得关注(1)AIDC电源主机(PSU、HVDC、SST)：阳光电源、麦格米特、欧陆通、金盘科技、思源电气、伊戈尔、科士达、科华数据、中恒电气、新风光等；(2)电站级储能：阳光电源、宁德时代等。(3)核心增量零部件(固态断路器、电子熔断器、CBU/BBU、DC/DC、高频隔离变、VPD等)：良信股份、国电南瑞、中熔电气、江海股份、蔚蓝锂芯等；(4)GaN、SiC等第三代半导体。#AIDC #电源",
       "status": "not_found",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "totalComments": 5,
+      "loadedComments": 5,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2227,8 +2231,8 @@
       "title": "2026年1月18日 高盛：AI电力 六家核心企业梳理 应流股份、思源电气、宏发股份、江海股份、科士达、英维克 #AIDC #AI服务器 #电力设备",
       "status": "not_found",
       "found": false,
-      "totalComments": 63,
-      "loadedComments": 52,
+      "totalComments": 64,
+      "loadedComments": 53,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2364,7 +2368,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 53,
-      "loadedComments": 30,
+      "loadedComments": 52,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2397,8 +2401,8 @@
       "title": "10.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 78,
-      "loadedComments": 60,
+      "totalComments": 94,
+      "loadedComments": 72,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2427,7 +2431,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 83,
-      "loadedComments": 65,
+      "loadedComments": 66,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2696,7 +2700,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 221,
+      "totalComments": 222,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2732,8 +2736,8 @@
       "title": "8.29 他说了“该说的”，但却不需要马上做“该做的”... #沃什 #通胀 #美元指数 #黄金 #AI发展",
       "status": "not_found",
       "found": false,
-      "totalComments": 168,
-      "loadedComments": 126,
+      "totalComments": 167,
+      "loadedComments": 125,
       "creator": "艾丽无废话财经"
     },
     {
