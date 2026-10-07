@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-06T23:12:00.593Z",
+  "builtAt": "2026-10-07T04:09:04.537Z",
   "total": 562,
-  "found": 271,
-  "notFound": 291,
+  "found": 272,
+  "notFound": 290,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -800,8 +800,8 @@
       "title": "谁在匿名捐出5.03亿？扒一扒财富搬运的 人大校友狂捐5亿！想到这钱也有我的贡献，心里啥滋味？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -818,8 +818,8 @@
       "title": "港股PCB大涨12%，产业信号凸显 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -834,11 +834,29 @@
     {
       "url": "https://www.toutiao.com/video/7693152896125665299/",
       "title": "华为高通和解 高通花大钱买华为专利，LogicFolding到底是什么黑科技？",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 58,
-      "loadedComments": 49,
-      "creator": "上市公司大追踪"
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "这次华为高通专利事件市场主要关注三条方向：\n1.专利运营：信科移动，拥有较多5G标准必要专利，专利运营业务可贡献收入。\n2.华为终端出海产业链：裕同科技旗下华研新材料供应华为AI眼镜转轴模组；达瑞电子提供折叠屏碳纤维结构件；波菲光供应摄像头模组。\n3.先进封装与算力：长电科技、通富微电从事半导体封测，适配先进封装；深圳华强是华为昇腾、鲲鹏算力部件经销商。\n⚠️重要提示：以上仅为网络视频观点，**不构成投资建议**。该交易还需要反垄断监管审批，属于短期情绪催化，并不直接带来业绩增长。高通拿到专利许可，不等于可以向华为出售芯片，出口管制限制仍然存在。另外高通方面表示，本次协议和网传逻辑折叠芯片技术无关，相关说法存在偏差。股市波动风险较高，请谨慎决策。",
+      "doubaoReplies": [
+        {
+          "askUser": "热情的芒果zsf",
+          "askText": "@豆包 利好哪些股票",
+          "doubaoReply": "这次华为高通专利事件市场主要关注三条方向：\n1.专利运营：信科移动，拥有较多5G标准必要专利，专利运营业务可贡献收入。\n2.华为终端出海产业链：裕同科技旗下华研新材料供应华为AI眼镜转轴模组；达瑞电子提供折叠屏碳纤维结构件；波菲光供应摄像头模组。\n3.先进封装与算力：长电科技、通富微电从事半导体封测，适配先进封装；深圳华强是华为昇腾、鲲鹏算力部件经销商。\n⚠️重要提示：以上仅为网络视频观点，**不构成投资建议**。该交易还需要反垄断监管审批，属于短期情绪催化，并不直接带来业绩增长。高通拿到专利许可，不等于可以向华为出售芯片，出口管制限制仍然存在。另外高通方面表示，本次协议和网传逻辑折叠芯片技术无关，相关说法存在偏差。股市波动风险较高，请谨慎决策。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7693489578271294254"
+        },
+        {
+          "askUser": "吸睛大师",
+          "askText": "@豆包 是不是澄清了？",
+          "doubaoReply": "对呀，双方都回应澄清啦～网传“高通单方面大额付钱给华为”是交叉许可，专利协议和LogicFolding技术也无关哦。视频里提的A股个股是自媒体主观猜想，不构成投资建议哒。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7693545224358281984"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7692817554918408242/",
@@ -2238,8 +2256,10 @@
     {
       "url": "https://www.toutiao.com/video/7595895787906105394/",
       "title": "2026年1月16日  先进封装产业链全解析 强力新材 艾森股份 天承科技 上海新阳 飞凯材料 鼎龙股份 强力新材 波米科技 艾森股份 飞凯材料 华海诚科 联瑞新材 壹石通 中材科技 宏和科技 菲利华 国际复材 兴森科技 深南电路 沃格光电 华海清科 盛美上海 中微公司 北方华创 拓荆科技 华卓精科 芯源微 长电科技 通富微电 华天科技 甬矽电子 深科技 汇成股份 佰维存储 #先进封装",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2247,8 +2267,8 @@
       "title": "2026年1月10日 AI应用专题： AI + 营销与广告智能化 —— 重塑营销全链路，易点天下 蓝色光标 利欧股份 浙文互联 焦点科技 因赛集团 #AI应用",
       "status": "not_found",
       "found": false,
-      "totalComments": 15,
-      "loadedComments": 13,
+      "totalComments": 16,
+      "loadedComments": 14,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2256,8 +2276,8 @@
       "title": "2026年1月9日 AI医疗核心企业全景梳理 联影医疗 万东医疗 安必平 祥生医疗 美年健康 乐心医疗 讯飞医疗 卫宁健康 创业慧康 华大智造 贝瑞基因 华大基因 晶泰控股 成都先导 微创机器人 天智航 #AI医疗",
       "status": "not_found",
       "found": false,
-      "totalComments": 116,
-      "loadedComments": 109,
+      "totalComments": 117,
+      "loadedComments": 30,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2265,15 +2285,17 @@
       "title": "2026年1月6日 智能驾驶产业链全景深度解析 禾赛科技 速腾聚创 森思泰克 德赛西威 舜宇光学 联创电子 欧菲光 豪恩汽电 地平线 黑芝麻智能 芯海科技 华依科技 经纬恒润 科博达 均胜电子 北斗星通 路畅科技 伯特利 亚太股份 耐世特 浙江世宝 中鼎股份 保隆科技 裕太微 瑞发科 仁芯科技 矽力杰 士兰微 #自动驾驶 #l3级自动驾驶",
       "status": "not_found",
       "found": false,
-      "totalComments": 9,
-      "loadedComments": 7,
+      "totalComments": 10,
+      "loadedComments": 8,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7591862175862849576/",
       "title": "2026年1月5日 脑机接口产业链全景梳理 熵基科技 高德红外 汉威科技 科大讯飞 中科信息 三博脑科 创新医疗 诚益通 爱朋医疗 伟思医疗 美好医疗 翔宇医疗 岩山科技 佳禾智能 汤姆猫 #脑机接口",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2281,22 +2303,26 @@
       "title": "2025年12月31日  特斯拉 Optimus 人形机器人 最新核心供应商全景梳理  三花智控 拓普集团 长盈精密 蓝思科技 恒力液压 五洲新春 卧龙电驱 震裕科技 恒博股份 斯菱智驱 浙江荣泰 昊志机电 伟创电气 鸣志电器 兆威机电#特斯拉 #Optimus #人形机器人",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7588790382840643599/",
       "title": "2025年12月28日  低轨卫星产业链全景梳理 乾照光电 云南锗业 航天环宇 通宇通讯 航天电子 上海瀚讯 华力创通 铖昌科技 烽火通信 长光华芯 中国卫星北斗星通 海格通信 星图测控 航天驭星 震有科技 华测导航 中海达 中国移动 中国卫通 中国电信 中国联通 四维图新 #低轨卫星 #卫星制造 #商业航天",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7588090644934721571/",
       "title": "2025年12月26日 可回收火箭产业链全景梳理 钢研高纳 应流股份 中航高科 豪能股份 光威复材 斯瑞新材 航天动力 航宇科技 隆盛科技 高华科技 铂力特 九丰能源 国机精工 龙溪股份 派克新材 陕西华达 司南导航 航天科技 航天电子 海兰信 中集集团 #可回收火箭 #火箭",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2324,7 +2350,7 @@
       "title": "2025年12月23日  可控核聚变：高价值设备环节全解析 西部超导 永鼎股份 联创光电 上海电气 精达股份 东方电气 国机重装 航天晨光 雪人集团 中泰股份 冰轮环境 杭氧股份 东方钽业 安泰科技 楚江新材 派克新材 国光电气 合锻智能 王子新材 旭光电子 四创电子 爱科赛博 英杰电气 #可控核聚变",
       "status": "not_found",
       "found": false,
-      "totalComments": 195,
+      "totalComments": 196,
       "loadedComments": 190,
       "creator": "GNCapital产业研究"
     },
@@ -2333,8 +2359,8 @@
       "title": "2025年12月20日 端侧AI：三家潜力核心企业 虹软科技：计算机视觉算法隐形冠军，端侧AI体验赋能者晶晨股份：智能视听芯片龙头，端侧多媒体AI算力提供者恒玄科技：智能音频SoC龙头，端侧音频AI交互引领者#端侧AI",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2401,8 +2427,8 @@
       "title": "10.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 94,
-      "loadedComments": 72,
+      "totalComments": 97,
+      "loadedComments": 75,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2430,8 +2456,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 83,
-      "loadedComments": 66,
+      "totalComments": 86,
+      "loadedComments": 69,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2799,8 +2825,8 @@
       "title": "8.23",
       "status": "not_found",
       "found": false,
-      "totalComments": 277,
-      "loadedComments": 172,
+      "totalComments": 268,
+      "loadedComments": 171,
       "creator": "艾丽无废话财经"
     },
     {
