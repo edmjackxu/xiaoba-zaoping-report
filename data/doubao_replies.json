@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-09T04:07:24.808Z",
+  "builtAt": "2026-10-09T07:07:30.550Z",
   "total": 565,
   "found": 276,
   "notFound": 289,
@@ -308,8 +308,8 @@
       "title": "管清友：普通人不建议炒股！说的挺在理",
       "status": "not_found",
       "found": false,
-      "totalComments": 129,
-      "loadedComments": 107,
+      "totalComments": 128,
+      "loadedComments": 106,
       "creator": "初心笔记"
     },
     {
@@ -673,13 +673,6 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7694424617200615980/",
-      "title": "翟东升：如何实现2035年人均GDP超3万美元的目标",
-      "status": "no_comments",
-      "found": false,
-      "creator": "初心笔记"
-    },
-    {
       "url": "https://www.toutiao.com/video/7694213275734557207/",
       "title": "10-8号洪灏最新英文专访：解读大A。",
       "publishTime": "",
@@ -778,12 +771,39 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7692947012542579228/",
+      "title": "马云莫斯科大学演讲：如何在失败中取得成功？！",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这个是2017年10月18日马云在莫斯科国立大学的演讲片段，当时他围绕创业、失败与成功分享了不少自己的经历😊",
+      "doubaoReplies": [
+        {
+          "askUser": "奔跑的蜗牛3456",
+          "askText": "@豆包 这是好久视频",
+          "doubaoReply": "这个是2017年10月18日马云在莫斯科国立大学的演讲片段，当时他围绕创业、失败与成功分享了不少自己的经历😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7693351711842960138"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7694556254206689299/",
+      "title": "ETF持续大额流入，本轮抄底与众不同 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7694423452102426675/",
       "title": "纳指新高两天后就变脸 AI的“信仰”被一张财务文件撕开了一道口子。OpenAI致投资者的内部文",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -1620,26 +1640,6 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7688755963222589482/",
-      "title": "被海外垄断三十年，冷门设备突然涨停 #上市公司大追踪",
-      "publishTime": "",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "VNA就是矢量网络分析仪呀～相当于AI服务器PCB电路板的“信号试压检查员”，专门测高速电信号的损耗、反射和延迟呢～普通示波器性能不够，它可是刚性刚需哦😊",
-      "doubaoReplies": [
-        {
-          "askUser": "正大光明青山R6",
-          "askText": "@豆包 VNA是什么设备？",
-          "doubaoReply": "VNA就是矢量网络分析仪呀～相当于AI服务器PCB电路板的“信号试压检查员”，专门测高速电信号的损耗、反射和延迟呢～普通示波器性能不够，它可是刚性刚需哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7688785825559003958"
-        }
-      ]
-    },
-    {
       "url": "https://www.toutiao.com/video/7694148103439433766/",
       "title": "市场永远是对的，错的只能是自己的仓位、时机与止损 #交易心法 #AM交易体系",
       "publishTime": "",
@@ -2441,8 +2441,8 @@
       "title": "10.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 42,
-      "loadedComments": 35,
+      "totalComments": 43,
+      "loadedComments": 36,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3264,22 +3264,22 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7692947012542579228/",
-      "title": "马云莫斯科大学演讲：如何在失败中取得成功？！",
+      "url": "https://www.toutiao.com/video/7688755963222589482/",
+      "title": "被海外垄断三十年，冷门设备突然涨停 #上市公司大追踪",
       "publishTime": "",
-      "creator": "初心笔记",
+      "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
       "from_db": true,
-      "content": "这个是2017年10月18日马云在莫斯科国立大学的演讲片段，当时他围绕创业、失败与成功分享了不少自己的经历😊",
+      "content": "VNA就是矢量网络分析仪呀～相当于AI服务器PCB电路板的“信号试压检查员”，专门测高速电信号的损耗、反射和延迟呢～普通示波器性能不够，它可是刚性刚需哦😊",
       "doubaoReplies": [
         {
-          "askUser": "奔跑的蜗牛3456",
-          "askText": "@豆包 这是好久视频",
-          "doubaoReply": "这个是2017年10月18日马云在莫斯科国立大学的演讲片段，当时他围绕创业、失败与成功分享了不少自己的经历😊",
+          "askUser": "正大光明青山R6",
+          "askText": "@豆包 VNA是什么设备？",
+          "doubaoReply": "VNA就是矢量网络分析仪呀～相当于AI服务器PCB电路板的“信号试压检查员”，专门测高速电信号的损耗、反射和延迟呢～普通示波器性能不够，它可是刚性刚需哦😊",
           "doubaoUser": "豆包",
           "diggCount": 0,
-          "replyId": "7693351711842960138"
+          "replyId": "7688785825559003958"
         }
       ]
     },
