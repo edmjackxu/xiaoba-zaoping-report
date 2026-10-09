@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-09T07:07:30.550Z",
-  "total": 565,
+  "builtAt": "2026-10-09T11:07:25.975Z",
+  "total": 567,
   "found": 276,
-  "notFound": 289,
+  "notFound": 291,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -791,10 +791,28 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7694556254206689299/",
-      "title": "ETF持续大额流入，本轮抄底与众不同 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7694614240069926912/",
+      "title": "公募基金40万亿大修，三个变化影响你账户 #上市公司大追踪",
       "status": "no_comments",
       "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7694559634992201768/",
+      "title": "早盘普跌午后翻红，市场情绪大逆转 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 7,
+      "loadedComments": 7,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7694556254206689299/",
+      "title": "ETF持续大额流入，本轮抄底与众不同 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 9,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -1600,46 +1618,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7688862008585748521/",
-      "title": "分享视频",
-      "publishTime": "",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "钱变贵理论上会压制房价，但不一定会直接降哦～买房贷款利率主要看国内政策，本地供需、调控这些影响更大哒～",
-      "doubaoReplies": [
-        {
-          "askUser": "菊花古剑和酒104",
-          "askText": "@豆包 钱贵了，房价也该降了？",
-          "doubaoReply": "钱变贵理论上会压制房价，但不一定会直接降哦～买房贷款利率主要看国内政策，本地供需、调控这些影响更大哒～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7688860949163918143"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7688846182550306858/",
-      "title": "工信部定调通信网，要“适度超前”！ #上市公司大追踪",
-      "publishTime": "",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "算网协同就是把算力和通信网统一调度，让各地算力像电力一样灵活调用～解决算力闲置等问题，支撑AI等业务，是现在通信网建设重点哦😊",
-      "doubaoReplies": [
-        {
-          "askUser": "祥云怡志园",
-          "askText": "@豆包 什么是算网协同？",
-          "doubaoReply": "算网协同就是把算力和通信网统一调度，让各地算力像电力一样灵活调用～解决算力闲置等问题，支撑AI等业务，是现在通信网建设重点哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7688874004379255578"
-        }
-      ]
-    },
-    {
       "url": "https://www.toutiao.com/video/7694148103439433766/",
       "title": "市场永远是对的，错的只能是自己的仓位、时机与止损 #交易心法 #AM交易体系",
       "publishTime": "",
@@ -2437,6 +2415,15 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7694580742411845674/",
+      "title": "10.9 #美债拍卖 #投标倍数 #流动性",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 13,
+      "loadedComments": 12,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7694252550673367040/",
       "title": "10.8",
       "status": "not_found",
@@ -2450,8 +2437,8 @@
       "title": "10.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 117,
-      "loadedComments": 86,
+      "totalComments": 118,
+      "loadedComments": 87,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3255,13 +3242,44 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7660816240414146594/",
-      "title": "7.10",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 45,
-      "loadedComments": 32,
-      "creator": "艾丽无废话财经"
+      "url": "https://www.toutiao.com/video/7688862008585748521/",
+      "title": "分享视频",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "钱变贵理论上会压制房价，但不一定会直接降哦～买房贷款利率主要看国内政策，本地供需、调控这些影响更大哒～",
+      "doubaoReplies": [
+        {
+          "askUser": "菊花古剑和酒104",
+          "askText": "@豆包 钱贵了，房价也该降了？",
+          "doubaoReply": "钱变贵理论上会压制房价，但不一定会直接降哦～买房贷款利率主要看国内政策，本地供需、调控这些影响更大哒～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7688860949163918143"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7688846182550306858/",
+      "title": "工信部定调通信网，要“适度超前”！ #上市公司大追踪",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "算网协同就是把算力和通信网统一调度，让各地算力像电力一样灵活调用～解决算力闲置等问题，支撑AI等业务，是现在通信网建设重点哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "祥云怡志园",
+          "askText": "@豆包 什么是算网协同？",
+          "doubaoReply": "算网协同就是把算力和通信网统一调度，让各地算力像电力一样灵活调用～解决算力闲置等问题，支撑AI等业务，是现在通信网建设重点哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7688874004379255578"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7688755963222589482/",
