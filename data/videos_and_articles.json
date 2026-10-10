@@ -693,7 +693,25 @@
       "url": "https://www.toutiao.com/video/7694625292752634427/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "庭前云舒",
+          "askText": "@豆包 视频中对阿里巴巴怎么说",
+          "doubaoReply": "大摩闭门会里提到阿里电商业务已见底，主业环比改善，闪购亏损收窄，基本面在互联网板块内挺亮眼～以上仅为分析师观点，不构成投资建议哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7694976847700214578"
+        },
+        {
+          "askUser": "Daphnefirst",
+          "askText": "@豆包 会议对于各公司的评论",
+          "doubaoReply": "大摩闭门会的机构观点不构成投资建议哦～台积电全年营收有望上修至40%左右，正谈特斯拉合作与德州建厂，网易《遗忘之海》被寄予厚望，碳化硅产能扩张偏缓～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7694682587394065171"
+        }
+      ]
     },
     {
       "title": "10-8号洪灏最新英文专访：解读大A。",
@@ -1632,7 +1650,17 @@
       "url": "https://www.toutiao.com/video/7694960772657922083/",
       "publishTime": "",
       "type": "video",
-      "creator": "上市公司大追踪"
+      "creator": "上市公司大追踪",
+      "doubaoReply": [
+        {
+          "askUser": "GoldenEggsGoose",
+          "askText": "对等反制他们存储芯片。。。[捂脸]@豆包",
+          "doubaoReply": "没法简单直接拿存储芯片做对等反制哦～这次争议是AI电源专利，和存储赛道不一样～咱们国产厂商在慢慢建专利护城河呢，这只是行业信息哈😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7694995021896024895"
+        }
+      ]
     },
     {
       "title": "中欧磋商谈成了什么？这三个方向值得盯紧 #上市公司大追踪",
