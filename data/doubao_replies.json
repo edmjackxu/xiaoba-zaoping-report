@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-10-11T11:09:37.528Z",
-  "total": 574,
-  "found": 280,
+  "builtAt": "2026-10-11T23:12:30.810Z",
+  "total": 575,
+  "found": 281,
   "notFound": 294,
   "replies": [
     {
@@ -673,6 +673,52 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7695414671356068389/",
+      "title": "斯坦福大学：普通人是如何浪费一生的",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695408780682740226/",
+      "title": "10-11号华创张瑜：全球国债利率走高+中国财政加码",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695403872986186295/",
+      "title": "对话郑钦文：忘记成就，我学习如何重新开始！恭喜郑钦文获得中网冠军🏆#郑钦文首夺中网冠军",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695376503831577111/",
+      "title": "10-11号洪灏最新访谈：四季度机会，揭秘恒指目标！",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "这是洪灏的粤语财经访谈，围绕四季度市场机会、全球资产周期展开。他认为美股AI股上涨轨迹类似2000年科网行情，但AI企业有真实盈利和现金流，只是大量资金投入AI基建，投资回报的时间和收益水平不确定，市场预期偏高存在调整风险，韩国杠杆强平事件可作为市场踩踏参考案例。大宗商品有固定轮动规律，顺序是贵金属、有色金属、能源、农产品，本轮农产品上涨源于超强厄尔尼诺极端气候、品种小众等因素，他在一年多前就预判到该机会。谈及港股，他提到恒指回落至23000点附近有机会，不少港股企业现金流扎实，指数编制前瞻性不足，港股走势也反映内地资金动向。此外他指出地缘政治带来市场不确定性，能源、粮食是底层刚需，投资要重视历史经验，警惕杠杆交易面临保证金不足而被强平的风险。\n提示：以上仅为嘉宾访谈观点，不构成任何投资建议，市场存在风险。",
+      "doubaoReplies": [
+        {
+          "askUser": "进取rick",
+          "askText": "@豆包 给我总结",
+          "doubaoReply": "这是洪灏的粤语财经访谈，围绕四季度市场机会、全球资产周期展开。他认为美股AI股上涨轨迹类似2000年科网行情，但AI企业有真实盈利和现金流，只是大量资金投入AI基建，投资回报的时间和收益水平不确定，市场预期偏高存在调整风险，韩国杠杆强平事件可作为市场踩踏参考案例。大宗商品有固定轮动规律，顺序是贵金属、有色金属、能源、农产品，本轮农产品上涨源于超强厄尔尼诺极端气候、品种小众等因素，他在一年多前就预判到该机会。谈及港股，他提到恒指回落至23000点附近有机会，不少港股企业现金流扎实，指数编制前瞻性不足，港股走势也反映内地资金动向。此外他指出地缘政治带来市场不确定性，能源、粮食是底层刚需，投资要重视历史经验，警惕杠杆交易面临保证金不足而被强平的风险。\n提示：以上仅为嘉宾访谈观点，不构成任何投资建议，市场存在风险。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7695417048100487974"
+        }
+      ]
+    },
+    {
       "url": "https://www.toutiao.com/video/7695257037986578946/",
       "title": "网络安全凭什么成为AI新王？历史规律预示，大牛股将从这两大趋势中诞生！",
       "publishTime": "",
@@ -695,8 +741,10 @@
     {
       "url": "https://www.toutiao.com/video/7695216515209232940/",
       "title": "交易系统教学：K线反转形态星线和吞噬线",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "初心笔记"
     },
     {
@@ -709,67 +757,49 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7694888621324698151/",
-      "title": "期货实盘赛季军：实操教授波浪理论",
+      "url": "https://www.toutiao.com/video/7695416078121844751/",
+      "title": "操盘手拆解龙虎榜—博纳影业 #上市公司大追踪 #龙虎榜 #博纳影业",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695413478845841427/",
+      "title": "操盘手拆解龙虎榜—海南橡胶 #上市公司大追踪 #龙虎榜 #海南橡胶",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695411028596342825/",
+      "title": "操盘手拆解龙虎榜—宏昌电子 #上市公司大追踪 #龙虎榜 #宏昌电子",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695407784179236898/",
+      "title": "操盘手拆解龙虎榜—金牛化工 #上市公司大追踪 #龙虎榜 #金牛化工",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7694797349540872733/",
-      "title": "10-10号-高盛-中国地产周报：第40周——一手房成交向好，进入“银十”。",
-      "status": "not_found",
+      "url": "https://www.toutiao.com/video/7695404659989479466/",
+      "title": "操盘手拆解龙虎榜—神农种业 #上市公司大追踪 #龙虎榜 #神农种业",
+      "status": "no_comments",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7694666375767310877/",
-      "title": "没有人注定穷一辈子！司马迁早在2000年前就写透了发财规律：底层人逆袭，靠的从来不是蛮力！",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7694625292752634427/",
-      "title": "10-9号大摩闭门会：台积电、联发科、阿里巴巴网易、与碳化硅",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "大摩闭门会里提到阿里电商业务已见底，主业环比改善，闪购亏损收窄，基本面在互联网板块内挺亮眼～以上仅为分析师观点，不构成投资建议哦😊",
-      "doubaoReplies": [
-        {
-          "askUser": "庭前云舒",
-          "askText": "@豆包 视频中对阿里巴巴怎么说",
-          "doubaoReply": "大摩闭门会里提到阿里电商业务已见底，主业环比改善，闪购亏损收窄，基本面在互联网板块内挺亮眼～以上仅为分析师观点，不构成投资建议哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7694976847700214578"
-        },
-        {
-          "askUser": "Daphnefirst",
-          "askText": "@豆包 会议对于各公司的评论",
-          "doubaoReply": "大摩闭门会的机构观点不构成投资建议哦～台积电全年营收有望上修至40%左右，正谈特斯拉合作与德州建厂，网易《遗忘之海》被寄予厚望，碳化硅产能扩张偏缓～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7694682587394065171"
-        }
-      ]
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7695311423014420514/",
       "title": "新规划定造车红线，速成车企面临洗牌 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -777,8 +807,8 @@
       "title": "AI向警方报假案老特怒了！ #上市公司大追踪 #AI安全",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 6,
+      "loadedComments": 6,
       "creator": "上市公司大追踪"
     },
     {
@@ -786,8 +816,8 @@
       "title": "美国突然出手！立讯、富士康被337 给GPU供电的技术，凭什么让美国企业全球追着告？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 6,
+      "totalComments": 8,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -822,8 +852,8 @@
       "title": "最严汽车设计监管对准隐藏门把手！ #上市公司大追踪 #汽车",
       "status": "not_found",
       "found": false,
-      "totalComments": 21,
-      "loadedComments": 16,
+      "totalComments": 24,
+      "loadedComments": 18,
       "creator": "上市公司大追踪"
     },
     {
@@ -862,6 +892,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "混动短期2-3年前景不错哦～国内需求稳，是燃油车换代的好选择，吉利、比亚迪这些车企都在发力。刚和欧洲达成谅解，出口压力比纯电小～长期是过渡技术，企业分化挺明显哒 😊",
       "doubaoReplies": [
         {
@@ -1536,51 +1567,6 @@
       "found": false,
       "totalComments": 8,
       "loadedComments": 7,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7689701253610160168/",
-      "title": "机票预订大涨六成，暗藏关键信号 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7689657675700764722/",
-      "title": "高盛预判AI投入1.2万亿 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7689433340881715240/",
-      "title": "港交所新增国债抵押，盘活万亿外资 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7689394482504007721/",
-      "title": "港股大幅回调，南向却逆势加仓 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 12,
-      "loadedComments": 9,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7689356794363461667/",
-      "title": "光智科技的底牌，磷化铟到底有多香 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2385,8 +2371,8 @@
       "title": "10.9 #美债拍卖 #投标倍数 #流动性",
       "status": "not_found",
       "found": false,
-      "totalComments": 32,
-      "loadedComments": 26,
+      "totalComments": 33,
+      "loadedComments": 27,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2703,7 +2689,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 221,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2882,8 +2868,8 @@
       "title": "8.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 157,
-      "loadedComments": 107,
+      "totalComments": 156,
+      "loadedComments": 106,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2972,8 +2958,8 @@
       "title": "8.4",
       "status": "not_found",
       "found": false,
-      "totalComments": 87,
-      "loadedComments": 71,
+      "totalComments": 86,
+      "loadedComments": 70,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3206,6 +3192,34 @@
       "totalComments": 17,
       "loadedComments": 15,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7694625292752634427/",
+      "title": "10-9号大摩闭门会：台积电、联发科、阿里巴巴网易、与碳化硅",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "大摩闭门会里提到阿里电商业务已见底，主业环比改善，闪购亏损收窄，基本面在互联网板块内挺亮眼～以上仅为分析师观点，不构成投资建议哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "庭前云舒",
+          "askText": "@豆包 视频中对阿里巴巴怎么说",
+          "doubaoReply": "大摩闭门会里提到阿里电商业务已见底，主业环比改善，闪购亏损收窄，基本面在互联网板块内挺亮眼～以上仅为分析师观点，不构成投资建议哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7694976847700214578"
+        },
+        {
+          "askUser": "Daphnefirst",
+          "askText": "@豆包 会议对于各公司的评论",
+          "doubaoReply": "大摩闭门会的机构观点不构成投资建议哦～台积电全年营收有望上修至40%左右，正谈特斯拉合作与德州建厂，网易《遗忘之海》被寄予厚望，碳化硅产能扩张偏缓～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7694682587394065171"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7694213275734557207/",
