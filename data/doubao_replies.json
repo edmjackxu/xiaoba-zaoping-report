@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-10T23:13:56.614Z",
+  "builtAt": "2026-10-11T04:11:58.881Z",
   "total": 572,
   "found": 278,
   "notFound": 294,
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7695200520520090159/",
+      "title": "10-10号华创张瑜：内外五大核心问题——美国债务篇",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7694888621324698151/",
       "title": "期货实盘赛季军：实操教授波浪理论",
       "status": "not_found",
@@ -706,6 +715,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "大摩闭门会里提到阿里电商业务已见底，主业环比改善，闪购亏损收窄，基本面在互联网板块内挺亮眼～以上仅为分析师观点，不构成投资建议哦😊",
       "doubaoReplies": [
         {
@@ -767,13 +777,13 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7694046835626738215/",
-      "title": "10-8号芒格家族资产管理人李录：哥大商学院最新演讲：价值投资、中美AI、能源、加密货币、人生复利等",
+      "url": "https://www.toutiao.com/video/7695210125589970994/",
+      "title": "美国突然出手！立讯、富士康被337 给GPU供电的技术，凭什么让美国企业全球追着告？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
+      "totalComments": 5,
+      "loadedComments": 4,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7695060435510231078/",
@@ -789,15 +799,17 @@
       "title": "证监会紧急开会！透露三个关键信号 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7695019536764338176/",
       "title": "刚刚！港股大改革延长交易时段！ #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -805,8 +817,8 @@
       "title": "最严汽车设计监管对准隐藏门把手！ #上市公司大追踪 #汽车",
       "status": "not_found",
       "found": false,
-      "totalComments": 15,
-      "loadedComments": 10,
+      "totalComments": 18,
+      "loadedComments": 13,
       "creator": "上市公司大追踪"
     },
     {
@@ -814,8 +826,8 @@
       "title": "操盘手拆解龙虎榜——九阳股份 #上市公司大追踪 #操盘手拆解龙虎榜 #龙虎榜",
       "status": "not_found",
       "found": false,
-      "totalComments": 6,
-      "loadedComments": 6,
+      "totalComments": 7,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -825,6 +837,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "没法简单直接拿存储芯片做对等反制哦～这次争议是AI电源专利，和存储赛道不一样～咱们国产厂商在慢慢建专利护城河呢，这只是行业信息哈😊",
       "doubaoReplies": [
         {
@@ -842,8 +855,8 @@
       "title": "中欧磋商谈成了什么？这三个方向值得盯紧 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 21,
-      "loadedComments": 15,
+      "totalComments": 22,
+      "loadedComments": 16,
       "creator": "上市公司大追踪"
     },
     {
@@ -851,15 +864,17 @@
       "title": "人社部文件藏五字就业逻辑已改写 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 8,
-      "loadedComments": 7,
+      "totalComments": 9,
+      "loadedComments": 8,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7694644523326504994/",
       "title": "#上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -867,8 +882,8 @@
       "title": "公募基金40万亿大修，三个变化影响你账户 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 92,
-      "loadedComments": 78,
+      "totalComments": 93,
+      "loadedComments": 79,
       "creator": "上市公司大追踪"
     },
     {
@@ -876,8 +891,8 @@
       "title": "早盘普跌午后翻红，市场情绪大逆转 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
+      "totalComments": 8,
+      "loadedComments": 8,
       "creator": "上市公司大追踪"
     },
     {
@@ -885,8 +900,8 @@
       "title": "ETF持续大额流入，本轮抄底与众不同 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 22,
-      "loadedComments": 16,
+      "totalComments": 23,
+      "loadedComments": 17,
       "creator": "上市公司大追踪"
     },
     {
@@ -1564,19 +1579,12 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7689292493394182159/",
-      "title": "源杰实控人首次减持，光芯片龙头的信号 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7694715472977395739/",
+      "title": "为什么你越是逢低补仓，账户归零速度越快？ #掘金计划2026 #股市 #GNCapital",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7694715472977395739/",
-      "title": "为什么你越是逢低补仓，账户归零速度越快？ #掘金计划2026 #股市 #GNCapital",
-      "status": "no_comments",
-      "found": false,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2372,8 +2380,8 @@
       "title": "10.9 #美债拍卖 #投标倍数 #流动性",
       "status": "not_found",
       "found": false,
-      "totalComments": 31,
-      "loadedComments": 25,
+      "totalComments": 32,
+      "loadedComments": 26,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2381,8 +2389,8 @@
       "title": "10.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 44,
-      "loadedComments": 36,
+      "totalComments": 46,
+      "loadedComments": 37,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2390,8 +2398,8 @@
       "title": "10.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 120,
-      "loadedComments": 88,
+      "totalComments": 121,
+      "loadedComments": 89,
       "creator": "艾丽无废话财经"
     },
     {
