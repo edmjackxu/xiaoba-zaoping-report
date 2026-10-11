@@ -672,7 +672,17 @@
       "url": "https://www.toutiao.com/video/7695257037986578946/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "王宇8523",
+          "askText": "@豆包 ai的agent是什么",
+          "doubaoReply": "AI Agent也叫智能体～以大模型为核心，不用一步步给指令，给个目标就能自己拆任务、调工具，还有记忆呢～文中OpenAI那1200个Agent，都自己搭论坛翻墙“抄作业”啦😱 这种自主性也催生了新安全需求哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7695273157917442850"
+        }
+      ]
     },
     {
       "title": "翟东升：为什么近年来中央政策文件很少再提以经济建设为中心了。",

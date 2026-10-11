@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-11T04:11:58.881Z",
-  "total": 572,
-  "found": 278,
-  "notFound": 294,
+  "builtAt": "2026-10-11T07:07:21.156Z",
+  "total": 574,
+  "found": 279,
+  "notFound": 295,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,32 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7695257037986578946/",
+      "title": "网络安全凭什么成为AI新王？历史规律预示，大牛股将从这两大趋势中诞生！",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "AI Agent也叫智能体～以大模型为核心，不用一步步给指令，给个目标就能自己拆任务、调工具，还有记忆呢～文中OpenAI那1200个Agent，都自己搭论坛翻墙“抄作业”啦😱 这种自主性也催生了新安全需求哦～",
+      "doubaoReplies": [
+        {
+          "askUser": "王宇8523",
+          "askText": "@豆包 ai的agent是什么",
+          "doubaoReply": "AI Agent也叫智能体～以大模型为核心，不用一步步给指令，给个目标就能自己拆任务、调工具，还有记忆呢～文中OpenAI那1200个Agent，都自己搭论坛翻墙“抄作业”啦😱 这种自主性也催生了新安全需求哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7695273157917442850"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695251655796802109/",
+      "title": "翟东升：为什么近年来中央政策文件很少再提以经济建设为中心了。",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7695200520520090159/",
       "title": "10-10号华创张瑜：内外五大核心问题——美国债务篇",
       "status": "not_found",
@@ -737,52 +763,21 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7694213275734557207/",
-      "title": "10-8号洪灏最新英文专访：解读大A。",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "标题标10-8号是国内剪辑版的上传时间哦～画面里的2025-2026是展示的历史行情数据，目前有两种说法：一种是2026年10月6-7日港股节后时段，另一种是2025年10月7日国庆期间录的呢。",
-      "doubaoReplies": [
-        {
-          "askUser": "泉源轻松接泉水",
-          "askText": "这段采访是什么时候的事@豆包",
-          "doubaoReply": "标题标10-8号是国内剪辑版的上传时间哦～画面里的2025-2026是展示的历史行情数据，目前有两种说法：一种是2026年10月6-7日港股节后时段，另一种是2025年10月7日国庆期间录的呢。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7694309183562924854"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7693919858265702970/",
-      "title": "巴菲特：分享成功秘籍",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这是雅虎财经对沃伦·巴菲特的访谈～他说真正的成功是到六七十岁时，你希望爱你的人真心爱你，还提到见过不少富豪虽坐拥财富，却得不到家人喜爱～给想事业成功的人三个建议：①最好的投资是投资自己，提升书面+口头沟通能力，这份能力旁人拿不走；②身心就像这辈子仅有的一辆车，要好好爱惜；③谨慎选交往的人和效仿榜样，人生伴侣最重要～生活上他爱吃自己喜欢的食物，不刻意迎合，不爱冒险，也觉得频繁交易不如稳稳投资，还爱汉堡可乐这些日常吃食呢😊",
-      "doubaoReplies": [
-        {
-          "askUser": "用户8418231900829",
-          "askText": "@豆包 总结一下",
-          "doubaoReply": "这是雅虎财经对沃伦·巴菲特的访谈～他说真正的成功是到六七十岁时，你希望爱你的人真心爱你，还提到见过不少富豪虽坐拥财富，却得不到家人喜爱～给想事业成功的人三个建议：①最好的投资是投资自己，提升书面+口头沟通能力，这份能力旁人拿不走；②身心就像这辈子仅有的一辆车，要好好爱惜；③谨慎选交往的人和效仿榜样，人生伴侣最重要～生活上他爱吃自己喜欢的食物，不刻意迎合，不爱冒险，也觉得频繁交易不如稳稳投资，还爱汉堡可乐这些日常吃食呢😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7694253944851481370"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7695257442510176256/",
+      "title": "AI向警方报假案老特怒了！ #上市公司大追踪 #AI安全",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7695210125589970994/",
       "title": "美国突然出手！立讯、富士康被337 给GPU供电的技术，凭什么让美国企业全球追着告？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 5,
-      "loadedComments": 4,
+      "totalComments": 7,
+      "loadedComments": 6,
       "creator": "上市公司大追踪"
     },
     {
@@ -817,8 +812,8 @@
       "title": "最严汽车设计监管对准隐藏门把手！ #上市公司大追踪 #汽车",
       "status": "not_found",
       "found": false,
-      "totalComments": 18,
-      "loadedComments": 13,
+      "totalComments": 19,
+      "loadedComments": 14,
       "creator": "上市公司大追踪"
     },
     {
@@ -855,8 +850,8 @@
       "title": "中欧磋商谈成了什么？这三个方向值得盯紧 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 22,
-      "loadedComments": 16,
+      "totalComments": 24,
+      "loadedComments": 18,
       "creator": "上市公司大追踪"
     },
     {
@@ -1090,8 +1085,8 @@
       "title": "美国机器人集体“自尽”施瓦辛格亲临现场 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1563,15 +1558,6 @@
     {
       "url": "https://www.toutiao.com/video/7689354877247438888/",
       "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7689321783979147302/",
-      "title": "意念操控还有多远，脑机接口五到十年 #上市公司大追踪",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -3201,6 +3187,46 @@
       "totalComments": 17,
       "loadedComments": 15,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7694213275734557207/",
+      "title": "10-8号洪灏最新英文专访：解读大A。",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "标题标10-8号是国内剪辑版的上传时间哦～画面里的2025-2026是展示的历史行情数据，目前有两种说法：一种是2026年10月6-7日港股节后时段，另一种是2025年10月7日国庆期间录的呢。",
+      "doubaoReplies": [
+        {
+          "askUser": "泉源轻松接泉水",
+          "askText": "这段采访是什么时候的事@豆包",
+          "doubaoReply": "标题标10-8号是国内剪辑版的上传时间哦～画面里的2025-2026是展示的历史行情数据，目前有两种说法：一种是2026年10月6-7日港股节后时段，另一种是2025年10月7日国庆期间录的呢。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7694309183562924854"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7693919858265702970/",
+      "title": "巴菲特：分享成功秘籍",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这是雅虎财经对沃伦·巴菲特的访谈～他说真正的成功是到六七十岁时，你希望爱你的人真心爱你，还提到见过不少富豪虽坐拥财富，却得不到家人喜爱～给想事业成功的人三个建议：①最好的投资是投资自己，提升书面+口头沟通能力，这份能力旁人拿不走；②身心就像这辈子仅有的一辆车，要好好爱惜；③谨慎选交往的人和效仿榜样，人生伴侣最重要～生活上他爱吃自己喜欢的食物，不刻意迎合，不爱冒险，也觉得频繁交易不如稳稳投资，还爱汉堡可乐这些日常吃食呢😊",
+      "doubaoReplies": [
+        {
+          "askUser": "用户8418231900829",
+          "askText": "@豆包 总结一下",
+          "doubaoReply": "这是雅虎财经对沃伦·巴菲特的访谈～他说真正的成功是到六七十岁时，你希望爱你的人真心爱你，还提到见过不少富豪虽坐拥财富，却得不到家人喜爱～给想事业成功的人三个建议：①最好的投资是投资自己，提升书面+口头沟通能力，这份能力旁人拿不走；②身心就像这辈子仅有的一辆车，要好好爱惜；③谨慎选交往的人和效仿榜样，人生伴侣最重要～生活上他爱吃自己喜欢的食物，不刻意迎合，不爱冒险，也觉得频繁交易不如稳稳投资，还爱汉堡可乐这些日常吃食呢😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7694253944851481370"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7693874217019851325/",
