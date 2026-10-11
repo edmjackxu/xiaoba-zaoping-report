@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-11T04:06:25.731Z",
+  "checkTime": "2026-10-11T07:06:24.493Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,20 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "网络安全凭什么成为AI新王？历史规律预示，大牛股将从这两大趋势中诞生！",
+      "url": "https://www.toutiao.com/video/7695257037986578946/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "翟东升：为什么近年来中央政策文件很少再提以经济建设为中心了。",
+      "url": "https://www.toutiao.com/video/7695251655796802109/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1584,28 +1598,12 @@
       ]
     },
     {
-      "title": "西部策略  一周路演回顾总结",
-      "url": "https://www.toutiao.com/video/7679635940096131613/",
+      "title": "AI向警方报假案老特怒了！ #上市公司大追踪 #AI安全",
+      "url": "https://www.toutiao.com/video/7695257442510176256/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
-    },
-    {
-      "title": "8-28号中泰：汽车行业最新投资策略",
-      "url": "https://www.toutiao.com/video/7679330032451453479/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "金盏菊黄",
-          "askText": "@豆包 换电赛道如何发展？",
-          "doubaoReply": "长期来看换电会作为充电的细分补充，优先在营运车辆场景落地，商用车换电的确定性更高。国内重卡、公交这类高频固定路线车型落地更快，乘用车分车企自有封闭生态、第三方通用联盟两条路线，目前正推车电分离降购车门槛，也在探索换电站结合储能改善盈利。\n出海是重要新增量，会跟着整车往电力基建薄弱的东南亚、拉美等市场输出，重卡、两轮换电会率先走出去。赛道也存在超充迭代、政策波动、标准统一慢等不确定性，短期可关注商用车换电产业链，中长期跟踪标准落地与出海进度。\n以上仅为行业客观分析，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7679449856225772330"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "美国突然出手！立讯、富士康被337 给GPU供电的技术，凭什么让美国企业全球追着告？#上市公司大追踪",
@@ -1628,7 +1626,6 @@
       "url": "https://www.toutiao.com/video/7695023252111884298/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3201,13 +3198,6 @@
     {
       "title": "下周波涛汹涌盯住下周四！ #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7684938969918521371/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "两场发布会同日召，开释放产业共同信号 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7684905136568664105/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
