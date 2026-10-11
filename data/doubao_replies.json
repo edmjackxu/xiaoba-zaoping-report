@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-11T07:07:21.156Z",
+  "builtAt": "2026-10-11T11:09:37.528Z",
   "total": 574,
-  "found": 279,
-  "notFound": 295,
+  "found": 280,
+  "notFound": 294,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "AI Agent也叫智能体～以大模型为核心，不用一步步给指令，给个目标就能自己拆任务、调工具，还有记忆呢～文中OpenAI那1200个Agent，都自己搭论坛翻墙“抄作业”啦😱 这种自主性也催生了新安全需求哦～",
       "doubaoReplies": [
         {
@@ -692,8 +693,8 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7695251655796802109/",
-      "title": "翟东升：为什么近年来中央政策文件很少再提以经济建设为中心了。",
+      "url": "https://www.toutiao.com/video/7695216515209232940/",
+      "title": "交易系统教学：K线反转形态星线和吞噬线",
       "status": "no_comments",
       "found": false,
       "creator": "初心笔记"
@@ -703,8 +704,8 @@
       "title": "10-10号华创张瑜：内外五大核心问题——美国债务篇",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "初心笔记"
     },
     {
@@ -763,6 +764,15 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7695311423014420514/",
+      "title": "新规划定造车红线，速成车企面临洗牌 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7695257442510176256/",
       "title": "AI向警方报假案老特怒了！ #上市公司大追踪 #AI安全",
       "status": "not_found",
@@ -812,8 +822,8 @@
       "title": "最严汽车设计监管对准隐藏门把手！ #上市公司大追踪 #汽车",
       "status": "not_found",
       "found": false,
-      "totalComments": 19,
-      "loadedComments": 14,
+      "totalComments": 21,
+      "loadedComments": 16,
       "creator": "上市公司大追踪"
     },
     {
@@ -848,19 +858,37 @@
     {
       "url": "https://www.toutiao.com/video/7694948713256943643/",
       "title": "中欧磋商谈成了什么？这三个方向值得盯紧 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 24,
-      "loadedComments": 18,
-      "creator": "上市公司大追踪"
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "混动短期2-3年前景不错哦～国内需求稳，是燃油车换代的好选择，吉利、比亚迪这些车企都在发力。刚和欧洲达成谅解，出口压力比纯电小～长期是过渡技术，企业分化挺明显哒 😊",
+      "doubaoReplies": [
+        {
+          "askUser": "草原帐篷惬意夜宿者",
+          "askText": "@豆包 混动发展前景如何？",
+          "doubaoReply": "混动短期2-3年前景不错哦～国内需求稳，是燃油车换代的好选择，吉利、比亚迪这些车企都在发力。刚和欧洲达成谅解，出口压力比纯电小～长期是过渡技术，企业分化挺明显哒 😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7695113138475451172"
+        },
+        {
+          "askUser": "明媚的春天",
+          "askText": "@豆包 混动发展前景如何？",
+          "doubaoReply": "国内混动短期需求稳，能解决里程焦虑，会和纯电共存～这次中欧磋商稳住了海外出口，比亚迪这类车企空间挺大～长期还是纯电方向，机会看企业布局哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7695151044502340387"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7694929618964824090/",
       "title": "人社部文件藏五字就业逻辑已改写 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 9,
-      "loadedComments": 8,
+      "totalComments": 10,
+      "loadedComments": 9,
       "creator": "上市公司大追踪"
     },
     {
@@ -1549,15 +1577,6 @@
     {
       "url": "https://www.toutiao.com/video/7689356794363461667/",
       "title": "光智科技的底牌，磷化铟到底有多香 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7689354877247438888/",
-      "title": "分享视频",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -2375,8 +2394,8 @@
       "title": "10.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 46,
-      "loadedComments": 37,
+      "totalComments": 47,
+      "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2683,8 +2702,8 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 222,
-      "loadedComments": 189,
+      "totalComments": 221,
+      "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
     {
