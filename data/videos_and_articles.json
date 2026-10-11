@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-11T11:06:26.254Z",
+  "checkTime": "2026-10-11T23:06:21.434Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,34 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "斯坦福大学：普通人是如何浪费一生的",
+      "url": "https://www.toutiao.com/video/7695414671356068389/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "10-11号华创张瑜：全球国债利率走高+中国财政加码",
+      "url": "https://www.toutiao.com/video/7695408780682740226/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "对话郑钦文：忘记成就，我学习如何重新开始！恭喜郑钦文获得中网冠军🏆#郑钦文首夺中网冠军",
+      "url": "https://www.toutiao.com/video/7695403872986186295/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "10-11号洪灏最新访谈：四季度机会，揭秘恒指目标！",
+      "url": "https://www.toutiao.com/video/7695376503831577111/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1570,49 +1598,48 @@
       ]
     },
     {
-      "title": "8-30号华创闭门会：金秋圆桌会。",
-      "url": "https://www.toutiao.com/video/7679965266134090263/",
+      "title": "操盘手拆解龙虎榜—博纳影业 #上市公司大追踪 #龙虎榜 #博纳影业",
+      "url": "https://www.toutiao.com/video/7695416078121844751/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
-      "title": "8-30号方正首席：AI应用的三层研究框架",
-      "url": "https://www.toutiao.com/video/7679839305048818215/",
+      "title": "操盘手拆解龙虎榜—海南橡胶 #上市公司大追踪 #龙虎榜 #海南橡胶",
+      "url": "https://www.toutiao.com/video/7695413478845841427/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
-      "title": "8-30号长江：从中报视角看PCB超级周期",
-      "url": "https://www.toutiao.com/video/7679783377255432748/",
+      "title": "操盘手拆解龙虎榜—宏昌电子 #上市公司大追踪 #龙虎榜 #宏昌电子",
+      "url": "https://www.toutiao.com/video/7695411028596342825/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
-      "title": "2分钟讲明白：什么是股票及如何选股？",
-      "url": "https://www.toutiao.com/video/7679717603937665559/",
+      "title": "操盘手拆解龙虎榜—金牛化工 #上市公司大追踪 #龙虎榜 #金牛化工",
+      "url": "https://www.toutiao.com/video/7695407784179236898/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "无为有道",
-          "askText": "@豆包 整理一下视频文字发我一下",
-          "doubaoReply": "股市就像是啤酒。把酒倒进杯子，表面会浮起一层厚厚的泡沫，我们用这个比喻理解股市。\n股票价格由两部分组成：啤酒与泡沫。但真实市场不像透明玻璃杯，我们很难分清里面到底有多少啤酒，又有多少泡沫。\n啤酒代表企业真实的经营价值，也就是销售额、运营成本，以及最终产生的利润。泡沫代表投机带来的价格部分，由市场情绪、热点炒作、恐惧、贪婪、买卖博弈共同形成。整杯啤酒对应的高度就是股票总市值，而泡沫来得快，消散得也快。\n巴菲特的伟大之处，就是只为啤酒占比更高的股票买单。他要么以接近企业内在价值，也就是啤酒本身的价格买入；要么等待市场极度悲观时，以低于企业真实价值的价格布局。\n即便回到巴菲特开始投资的60年代，想要找到价格低于内在价值的标的都十分困难，放到当下更是难上加难，普通人不必强求做到这点。\n我们只需要尽量寻找这类企业：付出合理价格，买到啤酒占大头的公司。这类企业经营状况良好，拥有强势品牌与宽阔护城河，竞争对手很难与之抗衡。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7679757069167559475"
-        }
-      ]
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜—神农种业 #上市公司大追踪 #龙虎榜 #神农种业",
+      "url": "https://www.toutiao.com/video/7695404659989479466/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "新规划定造车红线，速成车企面临洗牌 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7695311423014420514/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1620,7 +1647,6 @@
       "url": "https://www.toutiao.com/video/7695257442510176256/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1628,7 +1654,6 @@
       "url": "https://www.toutiao.com/video/7695210125589970994/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3191,41 +3216,6 @@
     {
       "title": "板块涨跌剧烈分化市场资金重新洗牌 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7685286375833190446/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "AI巨头集体喊减速，芯片板块遭遇回调 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7685227340359532550/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "算力硬件走弱电力却走强 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7685210549709193259/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "白宫喊话暂缓加息，美联储仍我行我素 #上市公司大追踪 #美联储 #加息",
-      "url": "https://www.toutiao.com/video/7685037413277630474/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "智谱完成巨额融资，机构押注股价上行 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7684997838958231586/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "爆梗！太乙圣莲30亿救哪吒… #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7684942441552166955/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
