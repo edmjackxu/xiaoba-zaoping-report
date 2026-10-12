@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-12T11:09:43.091Z",
+  "builtAt": "2026-10-12T23:11:34.584Z",
   "total": 576,
   "found": 283,
   "notFound": 293,
@@ -335,7 +335,7 @@
       "title": "《天道》中最精彩的一段：五台山论道未删减版！看懂的都是神人！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1433,
+      "totalComments": 1432,
       "loadedComments": 189,
       "creator": "初心笔记"
     },
@@ -688,6 +688,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "摩根士丹利中国首席股票策略师王滢（Laura Wang）分享市场解读：机构调整港股优选股票池，调出大模型标的MiniMax，纳入恒瑞医药港股。中国生物医药在全球具备领先优势，前景好、风险可控；人形机器人也有优势但出货量低，属小众配置赛道。资金方面，9月外资对中国市场合计净流出18亿美元，主动、被动型基金同步流出，往年净流入多靠被动基金，主动基金尚未形成持续流入趋势。当前建议配置偏稳健组合，关注红利板块，优先选基本面确定性高的资产，采用轻仓位布局。以上仅为嘉宾观点，不构成任何投资建议。",
       "doubaoReplies": [
         {
@@ -707,6 +708,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这是结合心理学、行为经济学研究的科普内容，拆解普通人如何被拖延、比较和犹豫悄悄消耗人生。多数人有明显拖延，本质是大脑两套系统博弈（偏爱眼前舒适），不少人陷入分析型拖延，反复准备却不动身；社会比较会打乱成长节奏，犹豫的代价比选错还大，加上规划谬误、现状偏见等，总等着未来的自己却迟迟不行动。内容指出人生浪费多是日常无声内耗，建议从小行动开始，别等完美时机，重建自我信任感～",
       "doubaoReplies": [
         {
@@ -775,12 +777,80 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7695810160682647593/",
+      "title": "操盘手拆解盘口——赛力斯 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695796888083611648/",
+      "title": "提出突破的那家，自己跌得最狠 #上市公司大追踪 #美股",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695793805303218212/",
+      "title": "提出突破的那家，自己跌得最狠 #上市公司大追踪 #美股",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695791662836940842/",
+      "title": "出口退税砍4个点：新能源车和电子烟 #上市公司大追踪 #出口退税",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695768149752610852/",
+      "title": "操盘手拆解龙虎榜—金安国纪 #上市公司大追踪 #龙虎榜 #金安国纪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695761813157199914/",
+      "title": "操盘手拆解龙虎榜—博纳影业 #上市公司大追踪 #龙虎榜 #博纳影业",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695759070397284386/",
+      "title": "操盘手拆解龙虎榜—莱美药业 #上市公司大追踪 #龙虎榜 #莱美药业",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695752249288425515/",
+      "title": "操盘手拆解龙虎榜—金健米业 #上市公司大追踪 #龙虎榜 #金健米业",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7695681326553169970/",
       "title": "单日蒸发三千亿成交资金为何大幅流出 #上市公司大追踪 #市场资金流向",
       "status": "not_found",
       "found": false,
-      "totalComments": 6,
-      "loadedComments": 6,
+      "totalComments": 11,
+      "loadedComments": 11,
       "creator": "上市公司大追踪"
     },
     {
@@ -806,8 +876,8 @@
       "title": "指数涨18%，八成散户亏钱！ 保险巨头也追涨杀跌？千亿“耐心资本”为何变成了大号散户？#上市公司大追踪#耐心资本",
       "status": "not_found",
       "found": false,
-      "totalComments": 17,
-      "loadedComments": 16,
+      "totalComments": 34,
+      "loadedComments": 29,
       "creator": "上市公司大追踪"
     },
     {
@@ -1521,78 +1591,6 @@
       "found": false,
       "totalComments": 47,
       "loadedComments": 38,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690600923063648291/",
-      "title": "老特要来深圳了，你该盯紧什么？ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690582186692444160/",
-      "title": "美股大盘在跌，英伟达凭什么涨 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690562916399415315/",
-      "title": "英伟达千亿回购，现金流释放强信号 #上市公司大追踪 #英伟达",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690490006833954857/",
-      "title": "七部门定调固态，短期难迎规模落地 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690483413958017070/",
-      "title": "新型电池十五五规划,全固态电池最受益？ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 10,
-      "loadedComments": 7,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690408448274235433/",
-      "title": "放量五百亿，钱在夺路而逃 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 244,
-      "loadedComments": 190,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690209852970237995/",
-      "title": "粤芯三年巨亏65亿，打新需谨慎甄别 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690166556906979378/",
-      "title": "汇绿豪赌光模块，三点零九亿扩产 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2397,8 +2395,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 30,
-      "loadedComments": 26,
+      "totalComments": 77,
+      "loadedComments": 61,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2406,8 +2404,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 29,
-      "loadedComments": 25,
+      "totalComments": 35,
+      "loadedComments": 30,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2424,7 +2422,7 @@
       "title": "10.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 48,
+      "totalComments": 49,
       "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
@@ -2433,8 +2431,8 @@
       "title": "10.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 121,
-      "loadedComments": 89,
+      "totalComments": 122,
+      "loadedComments": 90,
       "creator": "艾丽无废话财经"
     },
     {
