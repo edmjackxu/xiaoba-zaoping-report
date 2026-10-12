@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-12T04:10:27.579Z",
+  "builtAt": "2026-10-12T07:09:13.002Z",
   "total": 575,
   "found": 281,
   "notFound": 294,
@@ -673,12 +673,30 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7695648399785312791/",
+      "title": "10-12号大摩闭门会：邢自强分享。",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695642265728942639/",
+      "title": "10-12号大摩股票首席Laura分享解读",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7695414671356068389/",
       "title": "斯坦福大学：普通人是如何浪费一生的",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "初心笔记"
     },
     {
@@ -740,24 +758,6 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7695216515209232940/",
-      "title": "交易系统教学：K线反转形态星线和吞噬线",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695200520520090159/",
-      "title": "10-10号华创张瑜：内外五大核心问题——美国债务篇",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "初心笔记"
-    },
-    {
       "url": "https://www.toutiao.com/video/7695624363386601508/",
       "title": "保险巨头也追涨杀跌？散户必看的A股生存真 百亿私募怒撕险资！千亿巨头为何频频高买低卖？",
       "status": "not_found",
@@ -780,8 +780,8 @@
       "title": "指数涨18%，八成散户亏钱！ 保险巨头也追涨杀跌？千亿“耐心资本”为何变成了大号散户？#上市公司大追踪#耐心资本",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -2380,8 +2380,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 12,
-      "loadedComments": 10,
+      "totalComments": 22,
+      "loadedComments": 19,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2445,8 +2445,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 87,
-      "loadedComments": 79,
+      "totalComments": 88,
+      "loadedComments": 80,
       "creator": "艾丽无废话财经"
     },
     {
