@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-11T23:12:30.810Z",
+  "builtAt": "2026-10-12T04:10:27.579Z",
   "total": 575,
   "found": 281,
   "notFound": 294,
@@ -677,8 +677,8 @@
       "title": "斯坦福大学：普通人是如何浪费一生的",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "初心笔记"
     },
     {
@@ -706,6 +706,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这是洪灏的粤语财经访谈，围绕四季度市场机会、全球资产周期展开。他认为美股AI股上涨轨迹类似2000年科网行情，但AI企业有真实盈利和现金流，只是大量资金投入AI基建，投资回报的时间和收益水平不确定，市场预期偏高存在调整风险，韩国杠杆强平事件可作为市场踩踏参考案例。大宗商品有固定轮动规律，顺序是贵金属、有色金属、能源、农产品，本轮农产品上涨源于超强厄尔尼诺极端气候、品种小众等因素，他在一年多前就预判到该机会。谈及港股，他提到恒指回落至23000点附近有机会，不少港股企业现金流扎实，指数编制前瞻性不足，港股走势也反映内地资金动向。此外他指出地缘政治带来市场不确定性，能源、粮食是底层刚需，投资要重视历史经验，警惕杠杆交易面临保证金不足而被强平的风险。\n提示：以上仅为嘉宾访谈观点，不构成任何投资建议，市场存在风险。",
       "doubaoReplies": [
         {
@@ -757,29 +758,8 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7695416078121844751/",
-      "title": "操盘手拆解龙虎榜—博纳影业 #上市公司大追踪 #龙虎榜 #博纳影业",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695413478845841427/",
-      "title": "操盘手拆解龙虎榜—海南橡胶 #上市公司大追踪 #龙虎榜 #海南橡胶",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695411028596342825/",
-      "title": "操盘手拆解龙虎榜—宏昌电子 #上市公司大追踪 #龙虎榜 #宏昌电子",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695407784179236898/",
-      "title": "操盘手拆解龙虎榜—金牛化工 #上市公司大追踪 #龙虎榜 #金牛化工",
+      "url": "https://www.toutiao.com/video/7695624363386601508/",
+      "title": "保险巨头也追涨杀跌？散户必看的A股生存真 百亿私募怒撕险资！千亿巨头为何频频高买低卖？",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -787,15 +767,53 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7695404659989479466/",
-      "title": "操盘手拆解龙虎榜—神农种业 #上市公司大追踪 #龙虎榜 #神农种业",
-      "status": "no_comments",
+      "url": "https://www.toutiao.com/video/7695622921900785698/",
+      "title": "市场缩量换血，资金撤离成长赛道 #上市公司大追踪 #股市复盘",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7695311423014420514/",
-      "title": "新规划定造车红线，速成车企面临洗牌 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7695621713211424803/",
+      "title": "指数涨18%，八成散户亏钱！ 保险巨头也追涨杀跌？千亿“耐心资本”为何变成了大号散户？#上市公司大追踪#耐心资本",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695416078121844751/",
+      "title": "操盘手拆解龙虎榜—博纳影业 #上市公司大追踪 #龙虎榜 #博纳影业",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695413478845841427/",
+      "title": "操盘手拆解龙虎榜—海南橡胶 #上市公司大追踪 #龙虎榜 #海南橡胶",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695411028596342825/",
+      "title": "操盘手拆解龙虎榜—宏昌电子 #上市公司大追踪 #龙虎榜 #宏昌电子",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695407784179236898/",
+      "title": "操盘手拆解龙虎榜—金牛化工 #上市公司大追踪 #龙虎榜 #金牛化工",
       "status": "not_found",
       "found": false,
       "totalComments": 2,
@@ -803,12 +821,30 @@
       "creator": "上市公司大追踪"
     },
     {
+      "url": "https://www.toutiao.com/video/7695404659989479466/",
+      "title": "操盘手拆解龙虎榜—神农种业 #上市公司大追踪 #龙虎榜 #神农种业",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695311423014420514/",
+      "title": "新规划定造车红线，速成车企面临洗牌 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7695257442510176256/",
       "title": "AI向警方报假案老特怒了！ #上市公司大追踪 #AI安全",
       "status": "not_found",
       "found": false,
-      "totalComments": 6,
-      "loadedComments": 6,
+      "totalComments": 7,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -972,8 +1008,8 @@
       "title": "两大硅企对决，谁把握周期红利 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 22,
-      "loadedComments": 16,
+      "totalComments": 23,
+      "loadedComments": 17,
       "creator": "上市公司大追踪"
     },
     {
@@ -1543,33 +1579,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7690111440388096010/",
-      "title": "三季报预约披露，谁先展开行情？ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7689842989270564906/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7689804151901093914/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 8,
-      "loadedComments": 7,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7694715472977395739/",
       "title": "为什么你越是逢低补仓，账户归零速度越快？ #掘金计划2026 #股市 #GNCapital",
       "status": "not_found",
@@ -1659,8 +1668,8 @@
       "title": "01 集：先想明白！你到底是投资还是投机？ 短线、波段、长线到底该怎么选？#从零学炒股 #GNCapital",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2365,6 +2374,15 @@
       "totalComments": 2,
       "loadedComments": 2,
       "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7695600456881405962/",
+      "title": "10.12",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 12,
+      "loadedComments": 10,
+      "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7694580742411845674/",
@@ -3182,15 +3200,6 @@
       "found": false,
       "totalComments": 58,
       "loadedComments": 44,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7661080869092327470/",
-      "title": "7.11",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 17,
-      "loadedComments": 15,
       "creator": "艾丽无废话财经"
     },
     {
