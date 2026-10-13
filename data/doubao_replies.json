@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-10-13T07:09:39.572Z",
-  "total": 576,
-  "found": 283,
+  "builtAt": "2026-10-13T23:12:22.818Z",
+  "total": 577,
+  "found": 284,
   "notFound": 293,
   "replies": [
     {
@@ -675,9 +675,21 @@
     {
       "url": "https://www.toutiao.com/video/7695925443257434653/",
       "title": "1012-高盛-中国策略：AI改变游戏规则—东大来了",
-      "status": "no_comments",
-      "found": false,
-      "creator": "初心笔记"
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "高盛最新报告说中美AI双头格局成型，自2025年初以来中国AI相关市值涨了近5万亿～A+H股里AI占42%总市值、57%交易量呢～企业分两类：出口型在光模块、稀土这些供应链份额很高，2025到2026年中回报率126%跑赢同行；国内内需类有880家总市值3.2万亿，靠政策和国产替代搭自研生态。两类定价逻辑不一样哦～海外主动基金还在低配AI，不过要注意地缘风险呀，以上仅机构观点不构成投资建议哈",
+      "doubaoReplies": [
+        {
+          "askUser": "ghostAG",
+          "askText": "@豆包 总结一下",
+          "doubaoReply": "高盛最新报告说中美AI双头格局成型，自2025年初以来中国AI相关市值涨了近5万亿～A+H股里AI占42%总市值、57%交易量呢～企业分两类：出口型在光模块、稀土这些供应链份额很高，2025到2026年中回报率126%跑赢同行；国内内需类有880家总市值3.2万亿，靠政策和国产替代搭自研生态。两类定价逻辑不一样哦～海外主动基金还在低配AI，不过要注意地缘风险呀，以上仅机构观点不构成投资建议哈",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7696042385662395151"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7695648399785312791/",
@@ -750,8 +762,8 @@
       "title": "对话郑钦文：忘记成就，我学习如何重新开始！恭喜郑钦文获得中网冠军🏆#郑钦文首夺中网冠军",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "初心笔记"
     },
     {
@@ -775,10 +787,64 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7696025287923073033/",
-      "title": "深V反转！科创50涨超1%，A股科 军工板块午后狂飙！珠海航展临近，是事件炒作还是价值重估？#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7696164720340336703/",
+      "title": "操盘手拆解龙虎榜—粤芯半导体 #上市公司大追踪 #龙虎榜 #粤芯半导体",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696161380025991211/",
+      "title": "操盘手拆解龙虎榜—九阳股份 #上市公司大追踪 #龙虎榜 #九阳股份",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696156693549285412/",
+      "title": "操盘手拆解盘口—天娱数科 #上市公司大追踪 #操盘手 #天娱数科 #盘口",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696153923376054282/",
+      "title": "操盘手拆解龙虎榜—雪人集团 #上市公司大追踪 #龙虎榜 #雪人集团",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696149302617178121/",
+      "title": "操盘手拆解龙虎榜—东百集团 #上市公司大追踪 #龙虎榜 #东百集团",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696125147611070491/",
+      "title": "浪潮利润大增176%，单季收益大幅回落 #上市公司大追踪 #浪潮信息",
       "status": "no_comments",
       "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696025287923073033/",
+      "title": "深V反转！科创50涨超1%，A股科 军工板块午后狂飙！珠海航展临近，是事件炒作还是价值重估？#上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -885,8 +951,8 @@
       "title": "指数涨18%，八成散户亏钱！ 保险巨头也追涨杀跌？千亿“耐心资本”为何变成了大号散户？#上市公司大追踪#耐心资本",
       "status": "not_found",
       "found": false,
-      "totalComments": 39,
-      "loadedComments": 34,
+      "totalComments": 41,
+      "loadedComments": 36,
       "creator": "上市公司大追踪"
     },
     {
@@ -1077,8 +1143,8 @@
       "title": "公募基金40万亿大修，三个变化影响你账户 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 93,
-      "loadedComments": 79,
+      "totalComments": 92,
+      "loadedComments": 78,
       "creator": "上市公司大追踪"
     },
     {
@@ -1212,8 +1278,8 @@
       "title": "英伟达又新高了，但这次我劝你盯紧美债 AI的“借来的繁荣”：2200亿美债背后藏着什么#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 8,
-      "loadedComments": 8,
+      "totalComments": 7,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -1461,8 +1527,8 @@
       "title": "科创大幅下挫，银行板块逆势走强 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -1537,60 +1603,6 @@
       "found": false,
       "totalComments": 5,
       "loadedComments": 5,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690877862596837416/",
-      "title": "科技部提从一到零，科创逻辑重塑 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690854427267170344/",
-      "title": "缩量红盘见地价 明天稳了？ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 31,
-      "loadedComments": 27,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690851927076126756/",
-      "title": "最强厄尔尼诺来了！更重要的三条暗线 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690808547046588416/",
-      "title": "节前最后两天，钱在选方向 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690783901434069026/",
-      "title": "OpenAI撤了Anthropic却冲了 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690776619871322127/",
-      "title": "缩量一千六百亿，是钱躺平了 #上市公司大追踪 #财经",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -2391,12 +2403,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7696102609392893995/",
+      "title": "10.13",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 11,
+      "loadedComments": 10,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7695713709687046182/",
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 91,
-      "loadedComments": 70,
+      "totalComments": 103,
+      "loadedComments": 76,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2404,8 +2425,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 38,
-      "loadedComments": 33,
+      "totalComments": 60,
+      "loadedComments": 53,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2910,8 +2931,8 @@
       "title": "8.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 156,
-      "loadedComments": 106,
+      "totalComments": 155,
+      "loadedComments": 105,
       "creator": "艾丽无废话财经"
     },
     {
