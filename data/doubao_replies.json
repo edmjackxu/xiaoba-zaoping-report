@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-13T04:12:07.769Z",
+  "builtAt": "2026-10-13T07:09:39.572Z",
   "total": 576,
   "found": 283,
   "notFound": 293,
@@ -673,6 +673,13 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7695925443257434653/",
+      "title": "1012-高盛-中国策略：AI改变游戏规则—东大来了",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7695648399785312791/",
       "title": "10-12号大摩闭门会：邢自强分享。",
       "status": "not_found",
@@ -768,13 +775,11 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7695216515209232940/",
-      "title": "交易系统教学：K线反转形态星线和吞噬线",
-      "status": "not_found",
+      "url": "https://www.toutiao.com/video/7696025287923073033/",
+      "title": "深V反转！科创50涨超1%，A股科 军工板块午后狂飙！珠海航展临近，是事件炒作还是价值重估？#上市公司大追踪",
+      "status": "no_comments",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7695810160682647593/",
@@ -988,8 +993,8 @@
       "title": "最严汽车设计监管对准隐藏门把手！ #上市公司大追踪 #汽车",
       "status": "not_found",
       "found": false,
-      "totalComments": 26,
-      "loadedComments": 20,
+      "totalComments": 27,
+      "loadedComments": 21,
       "creator": "上市公司大追踪"
     },
     {
@@ -1586,15 +1591,6 @@
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690720148927774766/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 47,
-      "loadedComments": 38,
       "creator": "上市公司大追踪"
     },
     {
@@ -2399,8 +2395,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 88,
-      "loadedComments": 68,
+      "totalComments": 91,
+      "loadedComments": 70,
       "creator": "艾丽无废话财经"
     },
     {
