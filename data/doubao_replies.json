@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-12T23:11:34.584Z",
+  "builtAt": "2026-10-13T04:12:07.769Z",
   "total": 576,
   "found": 283,
   "notFound": 293,
@@ -826,22 +826,26 @@
       "title": "操盘手拆解龙虎榜—博纳影业 #上市公司大追踪 #龙虎榜 #博纳影业",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7695759070397284386/",
       "title": "操盘手拆解龙虎榜—莱美药业 #上市公司大追踪 #龙虎榜 #莱美药业",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7695752249288425515/",
       "title": "操盘手拆解龙虎榜—金健米业 #上市公司大追踪 #龙虎榜 #金健米业",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -876,8 +880,8 @@
       "title": "指数涨18%，八成散户亏钱！ 保险巨头也追涨杀跌？千亿“耐心资本”为何变成了大号散户？#上市公司大追踪#耐心资本",
       "status": "not_found",
       "found": false,
-      "totalComments": 34,
-      "loadedComments": 29,
+      "totalComments": 39,
+      "loadedComments": 34,
       "creator": "上市公司大追踪"
     },
     {
@@ -984,8 +988,8 @@
       "title": "最严汽车设计监管对准隐藏门把手！ #上市公司大追踪 #汽车",
       "status": "not_found",
       "found": false,
-      "totalComments": 25,
-      "loadedComments": 19,
+      "totalComments": 26,
+      "loadedComments": 20,
       "creator": "上市公司大追踪"
     },
     {
@@ -1050,8 +1054,8 @@
       "title": "人社部文件藏五字就业逻辑已改写 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 10,
-      "loadedComments": 9,
+      "totalComments": 11,
+      "loadedComments": 10,
       "creator": "上市公司大追踪"
     },
     {
@@ -2395,8 +2399,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 77,
-      "loadedComments": 61,
+      "totalComments": 88,
+      "loadedComments": 68,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2404,8 +2408,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 35,
-      "loadedComments": 30,
+      "totalComments": 38,
+      "loadedComments": 33,
       "creator": "艾丽无废话财经"
     },
     {
