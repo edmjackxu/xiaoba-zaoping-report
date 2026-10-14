@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-13T23:12:22.818Z",
-  "total": 577,
-  "found": 284,
-  "notFound": 293,
+  "builtAt": "2026-10-14T04:13:23.027Z",
+  "total": 578,
+  "found": 286,
+  "notFound": 292,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,12 +673,60 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7696312730008977967/",
+      "title": "10-14号机构：政策刺激还有加码空间",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "这是彭博《The China Show》对新加坡银行中国股票策略师Louisa Fok的访谈，翻译和总结如下：\n主持人：您好，今天请到新加坡银行中国股票策略师Louisa Fok。早上好呀。\nLouisa Fok：早上好。当前市场环境确实有点难，预计短期波动会持续～宏观上债券收益率走高、美国中期选举临近，加上能源价格高企都是影响因素。接下来会重点看三季报，希望能像二季度那样，创新赛道、精选科技、头部云厂还有医疗板块继续超预期，医疗的盈利上调趋势还在延续哦。防御型的银行板块今年总回报涨了20%，低波动、和大盘相关性低，加上政府的定向宽松政策，很适合当防御资产分散风险～现在刚好是财报季前的关键节点呢。配置思路方面，一方面重点看好防御板块尤其是银行，另一方面就挑各行业里现金流稳、投资回报优秀的公司博取收益。AI还是长期主线，但行情会扩散啦，不局限在半导体硬件这些底层环节，还会到上游电力设备、铜这些原材料，铜的供需格局挺好的，供给端有扰动～今年剩下时间对汽车板块还是偏谨慎的。图表显示中国硬件和美国芯片联动超紧密，费城半导体指数和创业板指数相关性达多年新高。盘中沪深300、上证综指、恒生指数、恒生科技指数都在跌，恒生科技跌幅最大～\n总结：嘉宾认为短期A股港股波动仍会持续，得等三季报验证业绩；投资用哑铃策略，一边配银行防御，一边挑现金流、资本回报优质个股；AI主线会向上游扩散，不看好汽车板块；中美芯片硬件板块联动性处于多年高位。（仅代表嘉宾个人观点，不构成投资建议）",
+      "doubaoReplies": [
+        {
+          "askUser": "雨82169256",
+          "askText": "@豆包 翻译和总话一下",
+          "doubaoReply": "这是彭博《The China Show》对新加坡银行中国股票策略师Louisa Fok的访谈，翻译和总结如下：\n主持人：您好，今天请到新加坡银行中国股票策略师Louisa Fok。早上好呀。\nLouisa Fok：早上好。当前市场环境确实有点难，预计短期波动会持续～宏观上债券收益率走高、美国中期选举临近，加上能源价格高企都是影响因素。接下来会重点看三季报，希望能像二季度那样，创新赛道、精选科技、头部云厂还有医疗板块继续超预期，医疗的盈利上调趋势还在延续哦。防御型的银行板块今年总回报涨了20%，低波动、和大盘相关性低，加上政府的定向宽松政策，很适合当防御资产分散风险～现在刚好是财报季前的关键节点呢。配置思路方面，一方面重点看好防御板块尤其是银行，另一方面就挑各行业里现金流稳、投资回报优秀的公司博取收益。AI还是长期主线，但行情会扩散啦，不局限在半导体硬件这些底层环节，还会到上游电力设备、铜这些原材料，铜的供需格局挺好的，供给端有扰动～今年剩下时间对汽车板块还是偏谨慎的。图表显示中国硬件和美国芯片联动超紧密，费城半导体指数和创业板指数相关性达多年新高。盘中沪深300、上证综指、恒生指数、恒生科技指数都在跌，恒生科技跌幅最大～\n总结：嘉宾认为短期A股港股波动仍会持续，得等三季报验证业绩；投资用哑铃策略，一边配银行防御，一边挑现金流、资本回报优质个股；AI主线会向上游扩散，不看好汽车板块；中美芯片硬件板块联动性处于多年高位。（仅代表嘉宾个人观点，不构成投资建议）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7696354520925799194"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696307473153655323/",
+      "title": "1013-摩根士丹利-腾讯控股：3Q26预览，核心业务放缓与AI投入拖累致经营利润下滑",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696306272153190922/",
+      "title": "10-13号大摩威尔逊：AI机会转向应用，芯片还要再跌吗？",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "这是彭博财经节目对摩根士丹利投资委员会主席Mike Wilson的访谈。内容主要包括：美股自6月开启调整，属于从早周期向周期中段的结构性变化，在持续收紧的金融环境下，半导体、金融等早周期板块已率先承压。Wilson判断标普500是否会出现最后一轮补跌的概率各半，经济增长基本面并未恶化，若出现补跌反而属于机会，但当下还不是大举入场的时候。AI投资主线正在从上游算力芯片转向具备落地变现能力的AI应用企业，长期逻辑不变，但市场开始担忧AI基建扩张带来的信用风险与安全问题。他提出两个判断市场调整是否见底的核心指标：金融股的相对强弱表现和债券波动率，当前两者的“追赶”完成，就意味着本轮调整出清。此外访谈还提及美联储政策、美国中期选举对市场的潜在扰动，画面同步展示美债收益率、标普金融股、纳指100期货等实时行情数据。以上均为嘉宾个人观点，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "庭前云舒",
+          "askText": "@豆包 详细总结主要内容",
+          "doubaoReply": "这是彭博财经节目对摩根士丹利投资委员会主席Mike Wilson的访谈。内容主要包括：美股自6月开启调整，属于从早周期向周期中段的结构性变化，在持续收紧的金融环境下，半导体、金融等早周期板块已率先承压。Wilson判断标普500是否会出现最后一轮补跌的概率各半，经济增长基本面并未恶化，若出现补跌反而属于机会，但当下还不是大举入场的时候。AI投资主线正在从上游算力芯片转向具备落地变现能力的AI应用企业，长期逻辑不变，但市场开始担忧AI基建扩张带来的信用风险与安全问题。他提出两个判断市场调整是否见底的核心指标：金融股的相对强弱表现和债券波动率，当前两者的“追赶”完成，就意味着本轮调整出清。此外访谈还提及美联储政策、美国中期选举对市场的潜在扰动，画面同步展示美债收益率、标普金融股、纳指100期货等实时行情数据。以上均为嘉宾个人观点，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7696333669954896681"
+        }
+      ]
+    },
+    {
       "url": "https://www.toutiao.com/video/7695925443257434653/",
       "title": "1012-高盛-中国策略：AI改变游戏规则—东大来了",
       "publishTime": "",
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "高盛最新报告说中美AI双头格局成型，自2025年初以来中国AI相关市值涨了近5万亿～A+H股里AI占42%总市值、57%交易量呢～企业分两类：出口型在光模块、稀土这些供应链份额很高，2025到2026年中回报率126%跑赢同行；国内内需类有880家总市值3.2万亿，靠政策和国产替代搭自研生态。两类定价逻辑不一样哦～海外主动基金还在低配AI，不过要注意地缘风险呀，以上仅机构观点不构成投资建议哈",
       "doubaoReplies": [
         {
@@ -749,42 +797,22 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7695408780682740226/",
-      "title": "10-11号华创张瑜：全球国债利率走高+中国财政加码",
+      "url": "https://www.toutiao.com/video/7696363219764199465/",
+      "title": "市场缩量磨底资金扎堆AI与PCB #上市公司大追踪 #盘面",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7695403872986186295/",
-      "title": "对话郑钦文：忘记成就，我学习如何重新开始！恭喜郑钦文获得中网冠军🏆#郑钦文首夺中网冠军",
+      "url": "https://www.toutiao.com/video/7696306406337314858/",
+      "title": "1. 43.79亿冻结！茶百道IPO被指 2. 散户不买，机构足额？茶百道暴跌77%背后的抽屉协议疑云#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695257037986578946/",
-      "title": "网络安全凭什么成为AI新王？历史规律预示，大牛股将从这两大趋势中诞生！",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "AI Agent也叫智能体～以大模型为核心，不用一步步给指令，给个目标就能自己拆任务、调工具，还有记忆呢～文中OpenAI那1200个Agent，都自己搭论坛翻墙“抄作业”啦😱 这种自主性也催生了新安全需求哦～",
-      "doubaoReplies": [
-        {
-          "askUser": "王宇8523",
-          "askText": "@豆包 ai的agent是什么",
-          "doubaoReply": "AI Agent也叫智能体～以大模型为核心，不用一步步给指令，给个目标就能自己拆任务、调工具，还有记忆呢～文中OpenAI那1200个Agent，都自己搭论坛翻墙“抄作业”啦😱 这种自主性也催生了新安全需求哦～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7695273157917442850"
-        }
-      ]
+      "totalComments": 4,
+      "loadedComments": 4,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7696164720340336703/",
@@ -834,8 +862,10 @@
     {
       "url": "https://www.toutiao.com/video/7696125147611070491/",
       "title": "浪潮利润大增176%，单季收益大幅回落 #上市公司大追踪 #浪潮信息",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -951,8 +981,8 @@
       "title": "指数涨18%，八成散户亏钱！ 保险巨头也追涨杀跌？千亿“耐心资本”为何变成了大号散户？#上市公司大追踪#耐心资本",
       "status": "not_found",
       "found": false,
-      "totalComments": 41,
-      "loadedComments": 36,
+      "totalComments": 43,
+      "loadedComments": 38,
       "creator": "上市公司大追踪"
     },
     {
@@ -1125,8 +1155,8 @@
       "title": "人社部文件藏五字就业逻辑已改写 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 11,
-      "loadedComments": 10,
+      "totalComments": 12,
+      "loadedComments": 11,
       "creator": "上市公司大追踪"
     },
     {
@@ -1585,24 +1615,6 @@
       "found": false,
       "totalComments": 68,
       "loadedComments": 65,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690908158075600946/",
-      "title": "“首套房贴息落地！省5万只是表面， “150万门槛、9：1分担、只搞1年——房贷贴息背后的三个隐藏信号，看懂少走三年弯路”",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 392,
-      "loadedComments": 190,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690899562123657216/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
       "creator": "上市公司大追踪"
     },
     {
@@ -2403,12 +2415,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7696350487851106304/",
+      "title": "10.14",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 8,
+      "loadedComments": 8,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7696102609392893995/",
       "title": "10.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 11,
-      "loadedComments": 10,
+      "totalComments": 15,
+      "loadedComments": 14,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2416,8 +2437,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 103,
-      "loadedComments": 76,
+      "totalComments": 104,
+      "loadedComments": 77,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2425,8 +2446,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 60,
-      "loadedComments": 53,
+      "totalComments": 62,
+      "loadedComments": 55,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2434,8 +2455,8 @@
       "title": "10.9 #美债拍卖 #投标倍数 #流动性",
       "status": "not_found",
       "found": false,
-      "totalComments": 33,
-      "loadedComments": 27,
+      "totalComments": 34,
+      "loadedComments": 28,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2443,8 +2464,8 @@
       "title": "10.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 49,
-      "loadedComments": 38,
+      "totalComments": 50,
+      "loadedComments": 39,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2452,8 +2473,8 @@
       "title": "10.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 122,
-      "loadedComments": 90,
+      "totalComments": 123,
+      "loadedComments": 91,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2715,8 +2736,8 @@
       "title": "9.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 49,
-      "loadedComments": 39,
+      "totalComments": 48,
+      "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2931,8 +2952,8 @@
       "title": "8.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 155,
-      "loadedComments": 105,
+      "totalComments": 154,
+      "loadedComments": 104,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3210,13 +3231,24 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7661522073168936998/",
-      "title": "7.12",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 101,
-      "loadedComments": 85,
-      "creator": "艾丽无废话财经"
+      "url": "https://www.toutiao.com/video/7695257037986578946/",
+      "title": "网络安全凭什么成为AI新王？历史规律预示，大牛股将从这两大趋势中诞生！",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "AI Agent也叫智能体～以大模型为核心，不用一步步给指令，给个目标就能自己拆任务、调工具，还有记忆呢～文中OpenAI那1200个Agent，都自己搭论坛翻墙“抄作业”啦😱 这种自主性也催生了新安全需求哦～",
+      "doubaoReplies": [
+        {
+          "askUser": "王宇8523",
+          "askText": "@豆包 ai的agent是什么",
+          "doubaoReply": "AI Agent也叫智能体～以大模型为核心，不用一步步给指令，给个目标就能自己拆任务、调工具，还有记忆呢～文中OpenAI那1200个Agent，都自己搭论坛翻墙“抄作业”啦😱 这种自主性也催生了新安全需求哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7695273157917442850"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7661134113126793256/",
