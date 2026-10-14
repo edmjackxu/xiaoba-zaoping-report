@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-14T11:07:31.510Z",
-  "total": 579,
+  "builtAt": "2026-10-14T23:12:13.031Z",
+  "total": 581,
   "found": 286,
-  "notFound": 293,
+  "notFound": 295,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -335,7 +335,7 @@
       "title": "《天道》中最精彩的一段：五台山论道未删减版！看懂的都是神人！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1432,
+      "totalComments": 1431,
       "loadedComments": 189,
       "creator": "初心笔记"
     },
@@ -673,10 +673,21 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7696496739909419546/",
+      "title": "大冰泄露天机！这场直播让百万网友彻底失眠了",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7696425873418813979/",
       "title": "10-14号大摩闭门会：金融、保险、公用事业和新能源行业更新。",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "初心笔记"
     },
     {
@@ -704,8 +715,8 @@
       "title": "1013-摩根士丹利-腾讯控股：3Q26预览，核心业务放缓与AI投入拖累致经营利润下滑",
       "status": "not_found",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 5,
+      "totalComments": 10,
+      "loadedComments": 7,
       "creator": "初心笔记"
     },
     {
@@ -758,24 +769,77 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7695642265728942639/",
-      "title": "10-12号大摩股票首席Laura分享解读",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "摩根士丹利中国首席股票策略师王滢（Laura Wang）分享市场解读：机构调整港股优选股票池，调出大模型标的MiniMax，纳入恒瑞医药港股。中国生物医药在全球具备领先优势，前景好、风险可控；人形机器人也有优势但出货量低，属小众配置赛道。资金方面，9月外资对中国市场合计净流出18亿美元，主动、被动型基金同步流出，往年净流入多靠被动基金，主动基金尚未形成持续流入趋势。当前建议配置偏稳健组合，关注红利板块，优先选基本面确定性高的资产，采用轻仓位布局。以上仅为嘉宾观点，不构成任何投资建议。",
-      "doubaoReplies": [
-        {
-          "askUser": "三生万物",
-          "askText": "@豆包 总结一下视频内容",
-          "doubaoReply": "摩根士丹利中国首席股票策略师王滢（Laura Wang）分享市场解读：机构调整港股优选股票池，调出大模型标的MiniMax，纳入恒瑞医药港股。中国生物医药在全球具备领先优势，前景好、风险可控；人形机器人也有优势但出货量低，属小众配置赛道。资金方面，9月外资对中国市场合计净流出18亿美元，主动、被动型基金同步流出，往年净流入多靠被动基金，主动基金尚未形成持续流入趋势。当前建议配置偏稳健组合，关注红利板块，优先选基本面确定性高的资产，采用轻仓位布局。以上仅为嘉宾观点，不构成任何投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7695722117069505306"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7696661042348179506/",
+      "title": "纳指大跌，A股算力链今天怎么走？ 1. CPI只是导火索？CoreWeave债券暴跌，AI信仰开始裂缝#上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696527659908431887/",
+      "title": "2. 美债收益率破五点三，全球资产定价锚 4. 美联储加息概率五成，A股怎么接招？#上市公司大追踪#美股",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696507845344231434/",
+      "title": "操盘手拆解龙虎榜——雪人集团 #上市公司大追踪 #龙虎榜 #雪人集团",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696506119426392106/",
+      "title": "操盘手拆解龙虎榜——新华文轩 #上市公司大追踪 #龙虎榜 #涨停 #新华文轩",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696497529768116234/",
+      "title": "操盘手拆解龙虎榜——大金重工 #上市公司大追踪 #龙虎榜 #股票 #大金重工",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696495050356965416/",
+      "title": "操盘手拆解龙虎榜——韶能股份 #上市公司大追踪 #龙虎榜 #涨停 #韶能股份",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696491339223711780/",
+      "title": "操盘手拆解龙虎榜—果麦文化 #上市公司大追踪 #龙虎榜 #果麦文化",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696488531774701583/",
+      "title": "操盘手拆解龙虎榜——果麦文化 #上市公司大追踪 #龙虎榜 #果麦文化",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696485492438597651/",
+      "title": "操盘手拆解龙虎榜——富春股份 #上市公司大追踪 #龙虎榜 #涨停 #富春股份",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7696363219764199465/",
@@ -791,8 +855,8 @@
       "title": "1. 43.79亿冻结！茶百道IPO被指 2. 散户不买，机构足额？茶百道暴跌77%背后的抽屉协议疑云#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 8,
-      "loadedComments": 8,
+      "totalComments": 15,
+      "loadedComments": 15,
       "creator": "上市公司大追踪"
     },
     {
@@ -962,8 +1026,8 @@
       "title": "指数涨18%，八成散户亏钱！ 保险巨头也追涨杀跌？千亿“耐心资本”为何变成了大号散户？#上市公司大追踪#耐心资本",
       "status": "not_found",
       "found": false,
-      "totalComments": 45,
-      "loadedComments": 40,
+      "totalComments": 47,
+      "loadedComments": 42,
       "creator": "上市公司大追踪"
     },
     {
@@ -1504,98 +1568,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7691333722204815410/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7691315607794860041/",
-      "title": "万亿投放有假象，核心信号在此 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7691313192277901331/",
-      "title": "PCE数据落地，暗藏关键被忽略指标 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7691223495463665702/",
-      "title": "科创大幅下挫，银行板块逆势走强 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7691169200940826659/",
-      "title": "科创50走弱 医药逆势掀起涨停潮 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7691139238598803497/",
-      "title": "地量却普涨，节前盘面暗藏分歧 #上市公司大追踪",
-      "publishTime": "",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "单日缩量反弹不算趋势反转啦～节前抛压阶段性衰竭，节后资金有望逐步回流，10月重点看三季报业绩，地产后周期、科技端这些方向可以留意哦😊",
-      "doubaoReplies": [
-        {
-          "askUser": "反弹154",
-          "askText": "@豆包 地量普涨接下来咋走？",
-          "doubaoReply": "单日缩量反弹不算趋势反转啦～节前抛压阶段性衰竭，节后资金有望逐步回流，10月重点看三季报业绩，地产后周期、科技端这些方向可以留意哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691253066939237166"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690955223929454618/",
-      "title": "美股存储光纤，双线爆发 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690950007628791850/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7690936635382300710/",
-      "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 68,
-      "loadedComments": 65,
       "creator": "上市公司大追踪"
     },
     {
@@ -2396,12 +2368,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7696510938203029555/",
+      "title": "10.14",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 23,
+      "loadedComments": 16,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7696350487851106304/",
       "title": "10.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 36,
-      "loadedComments": 33,
+      "totalComments": 40,
+      "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2427,8 +2408,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 67,
-      "loadedComments": 59,
+      "totalComments": 68,
+      "loadedComments": 60,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2483,8 +2464,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 88,
-      "loadedComments": 71,
+      "totalComments": 89,
+      "loadedComments": 72,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2492,8 +2473,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 87,
-      "loadedComments": 80,
+      "totalComments": 88,
+      "loadedComments": 81,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2521,8 +2502,8 @@
       "title": "10.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 32,
-      "loadedComments": 25,
+      "totalComments": 33,
+      "loadedComments": 26,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2699,7 +2680,7 @@
       "title": "9.9",
       "status": "not_found",
       "found": false,
-      "totalComments": 342,
+      "totalComments": 343,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2708,8 +2689,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 65,
-      "loadedComments": 53,
+      "totalComments": 66,
+      "loadedComments": 54,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3203,13 +3184,44 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7661795659577557055/",
-      "title": "7.13",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 47,
-      "loadedComments": 42,
-      "creator": "艾丽无废话财经"
+      "url": "https://www.toutiao.com/video/7695642265728942639/",
+      "title": "10-12号大摩股票首席Laura分享解读",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "摩根士丹利中国首席股票策略师王滢（Laura Wang）分享市场解读：机构调整港股优选股票池，调出大模型标的MiniMax，纳入恒瑞医药港股。中国生物医药在全球具备领先优势，前景好、风险可控；人形机器人也有优势但出货量低，属小众配置赛道。资金方面，9月外资对中国市场合计净流出18亿美元，主动、被动型基金同步流出，往年净流入多靠被动基金，主动基金尚未形成持续流入趋势。当前建议配置偏稳健组合，关注红利板块，优先选基本面确定性高的资产，采用轻仓位布局。以上仅为嘉宾观点，不构成任何投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "三生万物",
+          "askText": "@豆包 总结一下视频内容",
+          "doubaoReply": "摩根士丹利中国首席股票策略师王滢（Laura Wang）分享市场解读：机构调整港股优选股票池，调出大模型标的MiniMax，纳入恒瑞医药港股。中国生物医药在全球具备领先优势，前景好、风险可控；人形机器人也有优势但出货量低，属小众配置赛道。资金方面，9月外资对中国市场合计净流出18亿美元，主动、被动型基金同步流出，往年净流入多靠被动基金，主动基金尚未形成持续流入趋势。当前建议配置偏稳健组合，关注红利板块，优先选基本面确定性高的资产，采用轻仓位布局。以上仅为嘉宾观点，不构成任何投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7695722117069505306"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7691139238598803497/",
+      "title": "地量却普涨，节前盘面暗藏分歧 #上市公司大追踪",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "单日缩量反弹不算趋势反转啦～节前抛压阶段性衰竭，节后资金有望逐步回流，10月重点看三季报业绩，地产后周期、科技端这些方向可以留意哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "反弹154",
+          "askText": "@豆包 地量普涨接下来咋走？",
+          "doubaoReply": "单日缩量反弹不算趋势反转啦～节前抛压阶段性衰竭，节后资金有望逐步回流，10月重点看三季报业绩，地产后周期、科技端这些方向可以留意哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7691253066939237166"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7695414671356068389/",
