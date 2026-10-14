@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-14T11:06:30.349Z",
+  "checkTime": "2026-10-14T23:06:21.281Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "大冰泄露天机！这场直播让百万网友彻底失眠了",
+      "url": "https://www.toutiao.com/video/7696496739909419546/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1619,18 +1626,76 @@
       ]
     },
     {
-      "title": "洪灏：什么时候建仓？",
-      "url": "https://www.toutiao.com/video/7680899697686463033/",
+      "title": "纳指大跌，A股算力链今天怎么走？ 1. CPI只是导火索？CoreWeave债券暴跌，AI信仰开始裂缝#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7696661042348179506/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "2. 美债收益率破五点三，全球资产定价锚 4. 美联储加息概率五成，A股怎么接招？#上市公司大追踪#美股",
+      "url": "https://www.toutiao.com/video/7696527659908431887/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——雪人集团 #上市公司大追踪 #龙虎榜 #雪人集团",
+      "url": "https://www.toutiao.com/video/7696507845344231434/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——新华文轩 #上市公司大追踪 #龙虎榜 #涨停 #新华文轩",
+      "url": "https://www.toutiao.com/video/7696506119426392106/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——大金重工 #上市公司大追踪 #龙虎榜 #股票 #大金重工",
+      "url": "https://www.toutiao.com/video/7696497529768116234/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——韶能股份 #上市公司大追踪 #龙虎榜 #涨停 #韶能股份",
+      "url": "https://www.toutiao.com/video/7696495050356965416/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜—果麦文化 #上市公司大追踪 #龙虎榜 #果麦文化",
+      "url": "https://www.toutiao.com/video/7696491339223711780/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——果麦文化 #上市公司大追踪 #龙虎榜 #果麦文化",
+      "url": "https://www.toutiao.com/video/7696488531774701583/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——富春股份 #上市公司大追踪 #龙虎榜 #涨停 #富春股份",
+      "url": "https://www.toutiao.com/video/7696485492438597651/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "市场缩量磨底资金扎堆AI与PCB #上市公司大追踪 #盘面",
       "url": "https://www.toutiao.com/video/7696363219764199465/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1638,7 +1703,6 @@
       "url": "https://www.toutiao.com/video/7696306406337314858/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1646,7 +1710,6 @@
       "url": "https://www.toutiao.com/video/7696164720340336703/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3186,69 +3249,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7686065842827558912/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "科创五零涨4％三一却跌停 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7686041715257868297/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "液冷政策升级，信息差在这 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7686030359168188450/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "壳公司收购财联社，传媒估值重估 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7686026884836458548/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "香港首个五年规划，普通人能抓住什么 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7686012367628402703/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "科创50暴涨，三一差点跌停 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7685980131151904808/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7685975924910915647/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7685900142293516334/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "比亚迪喊话：固态电池时代到了 #上市公司大追踪 #比亚迪",
-      "url": "https://www.toutiao.com/video/7685881360925818895/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -4250,6 +4250,14 @@
     },
     {
       "title": "10.14",
+      "url": "https://www.toutiao.com/video/7696510938203029555/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "title": "10.14",
       "url": "https://www.toutiao.com/video/7696350487851106304/",
       "publishTime": "",
       "type": "video",
@@ -4269,7 +4277,6 @@
       "url": "https://www.toutiao.com/video/7695713709687046182/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "艾丽无废话财经"
     },
     {
@@ -5748,13 +5755,6 @@
     {
       "title": "3.9",
       "url": "https://www.toutiao.com/video/7615062344981544996/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "title": "3.8",
-      "url": "https://www.toutiao.com/video/7614686206651007010/",
       "publishTime": "",
       "type": "video",
       "creator": "艾丽无废话财经"
