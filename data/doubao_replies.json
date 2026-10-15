@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-14T23:12:13.031Z",
+  "builtAt": "2026-10-15T04:07:20.350Z",
   "total": 581,
-  "found": 286,
-  "notFound": 295,
+  "found": 287,
+  "notFound": 294,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,13 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7696666028369019430/",
+      "title": "散户为什么亏钱？四大原因讲透",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7696496739909419546/",
       "title": "大冰泄露天机！这场直播让百万网友彻底失眠了",
       "status": "not_found",
@@ -760,21 +767,12 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7695648399785312791/",
-      "title": "10-12号大摩闭门会：邢自强分享。",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
       "url": "https://www.toutiao.com/video/7696661042348179506/",
       "title": "纳指大跌，A股算力链今天怎么走？ 1. CPI只是导火索？CoreWeave债券暴跌，AI信仰开始裂缝#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 29,
+      "loadedComments": 24,
       "creator": "上市公司大追踪"
     },
     {
@@ -782,8 +780,8 @@
       "title": "2. 美债收益率破五点三，全球资产定价锚 4. 美联储加息概率五成，A股怎么接招？#上市公司大追踪#美股",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -807,20 +805,6 @@
     {
       "url": "https://www.toutiao.com/video/7696497529768116234/",
       "title": "操盘手拆解龙虎榜——大金重工 #上市公司大追踪 #龙虎榜 #股票 #大金重工",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696495050356965416/",
-      "title": "操盘手拆解龙虎榜——韶能股份 #上市公司大追踪 #龙虎榜 #涨停 #韶能股份",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696491339223711780/",
-      "title": "操盘手拆解龙虎榜—果麦文化 #上市公司大追踪 #龙虎榜 #果麦文化",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -828,17 +812,39 @@
       "creator": "上市公司大追踪"
     },
     {
+      "url": "https://www.toutiao.com/video/7696495050356965416/",
+      "title": "操盘手拆解龙虎榜——韶能股份 #上市公司大追踪 #龙虎榜 #涨停 #韶能股份",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696491339223711780/",
+      "title": "操盘手拆解龙虎榜—果麦文化 #上市公司大追踪 #龙虎榜 #果麦文化",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7696488531774701583/",
       "title": "操盘手拆解龙虎榜——果麦文化 #上市公司大追踪 #龙虎榜 #果麦文化",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7696485492438597651/",
       "title": "操盘手拆解龙虎榜——富春股份 #上市公司大追踪 #龙虎榜 #涨停 #富春股份",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -855,8 +861,8 @@
       "title": "1. 43.79亿冻结！茶百道IPO被指 2. 散户不买，机构足额？茶百道暴跌77%背后的抽屉协议疑云#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 15,
-      "loadedComments": 15,
+      "totalComments": 17,
+      "loadedComments": 17,
       "creator": "上市公司大追踪"
     },
     {
@@ -1569,6 +1575,13 @@
       "totalComments": 1,
       "loadedComments": 1,
       "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696686760031289379/",
+      "title": "击穿六十年天花板：长鑫科技4F²突破， 一场改写存储规则的架构革命 #长鑫科技 #存储",
+      "status": "no_comments",
+      "found": false,
+      "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7694715472977395739/",
@@ -2359,21 +2372,55 @@
       "creator": "GNCapital产业研究"
     },
     {
-      "url": "https://www.toutiao.com/video/7582895365951930431/",
-      "title": "光芯片，AI 时代的隐形算力基石--行业全解析 #光芯片 #光模块",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "GNCapital产业研究"
+      "url": "https://www.toutiao.com/video/7696702184025423907/",
+      "title": "10.15 #JudyShelton #金融 #货币",
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "金融博弈可能从三方面升级：内部美联储和财政部会因利率、美债政策出现更多摩擦；全球市场会靠研报引导资产价格波动放大筹码；对外会在汇率、国际货币规则上施压～（自媒体观点，不构成预判）",
+      "doubaoReplies": [
+        {
+          "askUser": "紫水晶悟语",
+          "askText": "@豆包 博弈会怎么升级呢？",
+          "doubaoReply": "金融博弈可能从三方面升级：内部美联储和财政部会因利率、美债政策出现更多摩擦；全球市场会靠研报引导资产价格波动放大筹码；对外会在汇率、国际货币规则上施压～（自媒体观点，不构成预判）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7696709150151590683"
+        },
+        {
+          "askUser": "紫水晶悟语",
+          "askText": "@豆包 博弈会怎么升级呢？",
+          "doubaoReply": "博弈会往货币规则、汇率机制这些深层升级，可能会有汇率施压、更密集的舆论带节奏，操作也会更隐蔽哦～守住金融安全底线就好😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7696707782158271247"
+        },
+        {
+          "askUser": "哎呦，不错喔",
+          "askText": "@豆包 博弈会怎么升级呢？",
+          "doubaoReply": "接下来的金融博弈会从汇率、美债、舆论、国际货币规则等多条战线同步升级，玩法更隐蔽专业，会联动汇率、债券、大宗商品等工具，节奏加快，属于长期结构性的金融竞争哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7696696472226202410"
+        },
+        {
+          "askUser": "PETITANCE",
+          "askText": "@豆包 金融博弈会升级吗？",
+          "doubaoReply": "朱迪加入确实释放了博弈升温的信号呢～不过更多是政策预期层面的拉锯啦，不用过度恐慌，守好金融安全底线就好～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7696703995456996132"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7696510938203029555/",
       "title": "10.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 23,
-      "loadedComments": 16,
+      "totalComments": 27,
+      "loadedComments": 19,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2381,8 +2428,8 @@
       "title": "10.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 40,
-      "loadedComments": 38,
+      "totalComments": 41,
+      "loadedComments": 39,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2408,8 +2455,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 68,
-      "loadedComments": 60,
+      "totalComments": 69,
+      "loadedComments": 61,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2511,8 +2558,8 @@
       "title": "9.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 19,
-      "loadedComments": 18,
+      "totalComments": 20,
+      "loadedComments": 19,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2520,8 +2567,8 @@
       "title": "9.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 102,
-      "loadedComments": 78,
+      "totalComments": 103,
+      "loadedComments": 79,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2529,8 +2576,8 @@
       "title": "9.26",
       "status": "not_found",
       "found": false,
-      "totalComments": 30,
-      "loadedComments": 25,
+      "totalComments": 31,
+      "loadedComments": 26,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2626,8 +2673,8 @@
       "title": "9.23",
       "status": "not_found",
       "found": false,
-      "totalComments": 17,
-      "loadedComments": 16,
+      "totalComments": 18,
+      "loadedComments": 17,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3172,15 +3219,6 @@
       "found": false,
       "totalComments": 65,
       "loadedComments": 54,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7661933396805795890/",
-      "title": "7.13",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 23,
-      "loadedComments": 19,
       "creator": "艾丽无废话财经"
     },
     {
