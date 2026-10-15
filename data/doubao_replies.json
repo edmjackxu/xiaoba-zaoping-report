@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-15T04:07:20.350Z",
-  "total": 581,
+  "builtAt": "2026-10-15T11:07:19.184Z",
+  "total": 582,
   "found": 287,
-  "notFound": 294,
+  "notFound": 295,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7696753313114554927/",
+      "title": "大A会更好！送给每一个股民！人才啊！",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7696666028369019430/",
       "title": "散户为什么亏钱？四大原因讲透",
       "status": "no_comments",
@@ -747,32 +756,30 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7695925443257434653/",
-      "title": "1012-高盛-中国策略：AI改变游戏规则—东大来了",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "高盛最新报告说中美AI双头格局成型，自2025年初以来中国AI相关市值涨了近5万亿～A+H股里AI占42%总市值、57%交易量呢～企业分两类：出口型在光模块、稀土这些供应链份额很高，2025到2026年中回报率126%跑赢同行；国内内需类有880家总市值3.2万亿，靠政策和国产替代搭自研生态。两类定价逻辑不一样哦～海外主动基金还在低配AI，不过要注意地缘风险呀，以上仅机构观点不构成投资建议哈",
-      "doubaoReplies": [
-        {
-          "askUser": "ghostAG",
-          "askText": "@豆包 总结一下",
-          "doubaoReply": "高盛最新报告说中美AI双头格局成型，自2025年初以来中国AI相关市值涨了近5万亿～A+H股里AI占42%总市值、57%交易量呢～企业分两类：出口型在光模块、稀土这些供应链份额很高，2025到2026年中回报率126%跑赢同行；国内内需类有880家总市值3.2万亿，靠政策和国产替代搭自研生态。两类定价逻辑不一样哦～海外主动基金还在低配AI，不过要注意地缘风险呀，以上仅机构观点不构成投资建议哈",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7696042385662395151"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7696788989193224219/",
+      "title": "五千一百股下跌，ETF迎来天量成交 #上市公司大追踪 #a股行情 #etf",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 12,
+      "loadedComments": 10,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696738758481149986/",
+      "title": "五千余股集体下挫，少数题材逆势突围 #上市公司大追踪 #a股行情 #a股市场",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 28,
+      "loadedComments": 23,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7696661042348179506/",
       "title": "纳指大跌，A股算力链今天怎么走？ 1. CPI只是导火索？CoreWeave债券暴跌，AI信仰开始裂缝#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 29,
-      "loadedComments": 24,
+      "totalComments": 31,
+      "loadedComments": 25,
       "creator": "上市公司大追踪"
     },
     {
@@ -861,8 +868,8 @@
       "title": "1. 43.79亿冻结！茶百道IPO被指 2. 散户不买，机构足额？茶百道暴跌77%背后的抽屉协议疑云#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 17,
-      "loadedComments": 17,
+      "totalComments": 18,
+      "loadedComments": 18,
       "creator": "上市公司大追踪"
     },
     {
@@ -1095,8 +1102,8 @@
       "title": "AI向警方报假案老特怒了！ #上市公司大追踪 #AI安全",
       "status": "not_found",
       "found": false,
-      "totalComments": 8,
-      "loadedComments": 8,
+      "totalComments": 7,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -1557,24 +1564,6 @@
           "replyId": "7691874391646372635"
         }
       ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7691660194471739430/",
-      "title": "华为赛力斯重签协议，利益格局重塑 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7691510022501007387/",
-      "title": "美光业务十倍，A股存储链迎考验 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7696686760031289379/",
@@ -2372,12 +2361,22 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7696836181194965001/",
+      "title": "10.15",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7696702184025423907/",
       "title": "10.15 #JudyShelton #金融 #货币",
       "publishTime": "",
       "creator": "艾丽无废话财经",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "金融博弈可能从三方面升级：内部美联储和财政部会因利率、美债政策出现更多摩擦；全球市场会靠研报引导资产价格波动放大筹码；对外会在汇率、国际货币规则上施压～（自媒体观点，不构成预判）",
       "doubaoReplies": [
         {
@@ -2419,8 +2418,8 @@
       "title": "10.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 27,
-      "loadedComments": 19,
+      "totalComments": 30,
+      "loadedComments": 21,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2437,7 +2436,7 @@
       "title": "10.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 16,
+      "totalComments": 17,
       "loadedComments": 14,
       "creator": "艾丽无废话财经"
     },
@@ -2455,8 +2454,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 69,
-      "loadedComments": 61,
+      "totalComments": 70,
+      "loadedComments": 62,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2782,7 +2781,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 222,
-      "loadedComments": 189,
+      "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3213,13 +3212,24 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7662172664441602086/",
-      "title": "7.14",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 65,
-      "loadedComments": 54,
-      "creator": "艾丽无废话财经"
+      "url": "https://www.toutiao.com/video/7695925443257434653/",
+      "title": "1012-高盛-中国策略：AI改变游戏规则—东大来了",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "高盛最新报告说中美AI双头格局成型，自2025年初以来中国AI相关市值涨了近5万亿～A+H股里AI占42%总市值、57%交易量呢～企业分两类：出口型在光模块、稀土这些供应链份额很高，2025到2026年中回报率126%跑赢同行；国内内需类有880家总市值3.2万亿，靠政策和国产替代搭自研生态。两类定价逻辑不一样哦～海外主动基金还在低配AI，不过要注意地缘风险呀，以上仅机构观点不构成投资建议哈",
+      "doubaoReplies": [
+        {
+          "askUser": "ghostAG",
+          "askText": "@豆包 总结一下",
+          "doubaoReply": "高盛最新报告说中美AI双头格局成型，自2025年初以来中国AI相关市值涨了近5万亿～A+H股里AI占42%总市值、57%交易量呢～企业分两类：出口型在光模块、稀土这些供应链份额很高，2025到2026年中回报率126%跑赢同行；国内内需类有880家总市值3.2万亿，靠政策和国产替代搭自研生态。两类定价逻辑不一样哦～海外主动基金还在低配AI，不过要注意地缘风险呀，以上仅机构观点不构成投资建议哈",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7696042385662395151"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7695642265728942639/",
