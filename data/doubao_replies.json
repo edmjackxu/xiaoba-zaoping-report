@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-16T11:07:33.188Z",
+  "builtAt": "2026-10-16T23:11:55.055Z",
   "total": 588,
-  "found": 289,
-  "notFound": 299,
+  "found": 291,
+  "notFound": 297,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,18 +673,51 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7697225204086391305/",
+      "title": "特斯拉Roadster2发布会 完整版",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "这次发布会公布的技术都很硬核~有车底风扇抽吸系统可提供强下压力，还有10组冷气推进喷嘴能实现特技动作，同时配备线控转向制动、可调悬架赛道模式、多电机动力总成，还有优化的空气动力学设计。",
+      "doubaoReplies": [
+        {
+          "askUser": "KK201916",
+          "askText": "@豆包 发布会有哪些技术？",
+          "doubaoReply": "这次发布会公布的技术都很硬核~有车底风扇抽吸系统可提供强下压力，还有10组冷气推进喷嘴能实现特技动作，同时配备线控转向制动、可调悬架赛道模式、多电机动力总成，还有优化的空气动力学设计。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7697242012567470884"
+        }
+      ]
+    },
+    {
       "url": "https://www.toutiao.com/video/7697121120759087644/",
       "title": "马斯克特斯拉roadster2演示！牛就一个字！",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7697056038385664522/",
       "title": "10-16号洪灏：抛售潮进入后半场",
-      "status": "no_comments",
-      "found": false,
-      "creator": "初心笔记"
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "洪灏认为全球抛售潮已进入后半场，利空大多计入股价，年底大概率迎来大反弹，不过筑底尾声跌势可能加速。下跌主要因美国通胀、美债及半导体预期影响，相关政策事件预期已提前充分反应。港股负面预期消化充分，恒指24000附近再深度调整空间不大，本次是全球风险资产同步抛售，并非港股单独走弱。以上仅为嘉宾节目观点，不构成任何投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "谈笑舞乾坤",
+          "askText": "@@豆包 总结",
+          "doubaoReply": "洪灏认为全球抛售潮已进入后半场，利空大多计入股价，年底大概率迎来大反弹，不过筑底尾声跌势可能加速。下跌主要因美国通胀、美债及半导体预期影响，相关政策事件预期已提前充分反应。港股负面预期消化充分，恒指24000附近再深度调整空间不大，本次是全球风险资产同步抛售，并非港股单独走弱。以上仅为嘉宾节目观点，不构成任何投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7697389979068646179"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7697047011056566807/",
@@ -709,15 +742,19 @@
     {
       "url": "https://www.toutiao.com/video/7697039415855825435/",
       "title": "10-16号第36届格雷厄姆与多德年度活动：李录最新访谈！全网首发！",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7697015801718653478/",
       "title": "1015-摩根大通：境内资金流入依然低迷，但AI仍是杠铃策略成长端的核心支撑。",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "初心笔记"
     },
     {
@@ -730,33 +767,48 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7696666028369019430/",
-      "title": "散户为什么亏钱？四大原因讲透",
+      "url": "https://www.toutiao.com/video/7697265621687353378/",
+      "title": "国务院定调人工智能，逻辑彻底反转 #上市公司大追踪",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7697227213942292523/",
+      "title": "内幕交易罚五个亿，证监会这次下死手 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 77,
+      "loadedComments": 75,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7697196594877186063/",
       "title": "生益双业务引擎驱动，覆铜板企业双重收益 #上市公司大追踪 #生益科技",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7697193475669770278/",
       "title": "四十项技术管制，医药光伏同样硬核 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7697159922265358387/",
       "title": "尾盘ETF放量，三千七百点谁在承接 #上市公司大追踪 #a股 #a股行情 #上证指数",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1467,24 +1519,6 @@
       "found": false,
       "totalComments": 7,
       "loadedComments": 7,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7693181111220289574/",
-      "title": "港股PCB大涨12%，产业信号凸显 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7693178104038047785/",
-      "title": "美疫苗尚未销售，股价暴涨85% #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2289,8 +2323,8 @@
       "title": "10.16",
       "status": "not_found",
       "found": false,
-      "totalComments": 25,
-      "loadedComments": 20,
+      "totalComments": 58,
+      "loadedComments": 48,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2298,8 +2332,8 @@
       "title": "10.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 26,
-      "loadedComments": 24,
+      "totalComments": 28,
+      "loadedComments": 26,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2378,8 +2412,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 105,
-      "loadedComments": 77,
+      "totalComments": 107,
+      "loadedComments": 78,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2714,7 +2748,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 223,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2812,8 +2846,8 @@
       "title": "8.23",
       "status": "not_found",
       "found": false,
-      "totalComments": 266,
-      "loadedComments": 170,
+      "totalComments": 265,
+      "loadedComments": 169,
       "creator": "艾丽无废话财经"
     },
     {
