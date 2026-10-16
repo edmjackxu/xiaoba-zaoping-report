@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-10-15T23:13:40.998Z",
-  "total": 584,
-  "found": 287,
+  "builtAt": "2026-10-16T04:07:23.908Z",
+  "total": 585,
+  "found": 288,
   "notFound": 297,
   "replies": [
     {
@@ -673,12 +673,38 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7697047011056566807/",
+      "title": "洪灏：美债收益率超卖",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "这是Now财经台《Finterview》的财经访谈，嘉宾洪灏分析美国宏观经济与全球市场：美国9月CPI高于预期，整体同比3.7%、核心CPI同比2.6%，短期整体通胀仍会走高，通胀主要来自汽油、住房等波动品类，薪资增长乏力，通胀压力可控，美联储决策更看重PCE而非CPI。美国三季度经济增长韧性很强，实际利率抬升，尽管市场担心美国财政赤字，但海外资金持续买入美债、资本持续流入美国，美元走强，洪灏判断当前美债收益率属于超卖，市场存在过度反应。CPI数据引发市场拆仓抛售，AI、芯片板块大幅回调，日韩台股市显著下跌，港股恒生指数、恒生科技指数同步走低。访谈同时展示了国际油价与美债各期限收益率，洪灏认为AI赛道仍存在机会。以上仅为嘉宾个人观点，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "史诗爸爸",
+          "askText": "@豆包 总结一下",
+          "doubaoReply": "这是Now财经台《Finterview》的财经访谈，嘉宾洪灏分析美国宏观经济与全球市场：美国9月CPI高于预期，整体同比3.7%、核心CPI同比2.6%，短期整体通胀仍会走高，通胀主要来自汽油、住房等波动品类，薪资增长乏力，通胀压力可控，美联储决策更看重PCE而非CPI。美国三季度经济增长韧性很强，实际利率抬升，尽管市场担心美国财政赤字，但海外资金持续买入美债、资本持续流入美国，美元走强，洪灏判断当前美债收益率属于超卖，市场存在过度反应。CPI数据引发市场拆仓抛售，AI、芯片板块大幅回调，日韩台股市显著下跌，港股恒生指数、恒生科技指数同步走低。访谈同时展示了国际油价与美债各期限收益率，洪灏认为AI赛道仍存在机会。以上仅为嘉宾个人观点，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7697053223177372458"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7697039415855825435/",
+      "title": "10-16号第36届格雷厄姆与多德年度活动：李录最新访谈！全网首发！",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7696753313114554927/",
       "title": "大A会更好！送给每一个股民！人才啊！",
       "status": "not_found",
       "found": false,
-      "totalComments": 16,
-      "loadedComments": 15,
+      "totalComments": 19,
+      "loadedComments": 17,
       "creator": "初心笔记"
     },
     {
@@ -729,33 +755,11 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7696307473153655323/",
-      "title": "1013-摩根士丹利-腾讯控股：3Q26预览，核心业务放缓与AI投入拖累致经营利润下滑",
-      "status": "not_found",
+      "url": "https://www.toutiao.com/video/7697034488206868480/",
+      "title": "PPI爆表科技股却大涨？美股正在 CoreWeave违约概率超六成，英伟达却说不慌，信谁？#上市公司大追踪#涨知识",
+      "status": "no_comments",
       "found": false,
-      "totalComments": 10,
-      "loadedComments": 7,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696306272153190922/",
-      "title": "10-13号大摩威尔逊：AI机会转向应用，芯片还要再跌吗？",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这是彭博财经节目对摩根士丹利投资委员会主席Mike Wilson的访谈。内容主要包括：美股自6月开启调整，属于从早周期向周期中段的结构性变化，在持续收紧的金融环境下，半导体、金融等早周期板块已率先承压。Wilson判断标普500是否会出现最后一轮补跌的概率各半，经济增长基本面并未恶化，若出现补跌反而属于机会，但当下还不是大举入场的时候。AI投资主线正在从上游算力芯片转向具备落地变现能力的AI应用企业，长期逻辑不变，但市场开始担忧AI基建扩张带来的信用风险与安全问题。他提出两个判断市场调整是否见底的核心指标：金融股的相对强弱表现和债券波动率，当前两者的“追赶”完成，就意味着本轮调整出清。此外访谈还提及美联储政策、美国中期选举对市场的潜在扰动，画面同步展示美债收益率、标普金融股、纳指100期货等实时行情数据。以上均为嘉宾个人观点，不构成投资建议。",
-      "doubaoReplies": [
-        {
-          "askUser": "庭前云舒",
-          "askText": "@豆包 详细总结主要内容",
-          "doubaoReply": "这是彭博财经节目对摩根士丹利投资委员会主席Mike Wilson的访谈。内容主要包括：美股自6月开启调整，属于从早周期向周期中段的结构性变化，在持续收紧的金融环境下，半导体、金融等早周期板块已率先承压。Wilson判断标普500是否会出现最后一轮补跌的概率各半，经济增长基本面并未恶化，若出现补跌反而属于机会，但当下还不是大举入场的时候。AI投资主线正在从上游算力芯片转向具备落地变现能力的AI应用企业，长期逻辑不变，但市场开始担忧AI基建扩张带来的信用风险与安全问题。他提出两个判断市场调整是否见底的核心指标：金融股的相对强弱表现和债券波动率，当前两者的“追赶”完成，就意味着本轮调整出清。此外访谈还提及美联储政策、美国中期选举对市场的潜在扰动，画面同步展示美债收益率、标普金融股、纳指100期货等实时行情数据。以上均为嘉宾个人观点，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7696333669954896681"
-        }
-      ]
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7696904872152580137/",
@@ -805,8 +809,10 @@
     {
       "url": "https://www.toutiao.com/video/7696874785476706330/",
       "title": "操盘手拆解龙虎榜——远东股份 #上市公司大追踪 #龙虎榜 #远东股份",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -814,8 +820,8 @@
       "title": "利好！多家公司回购，谁真心谁在演戏？ #上市公司大追踪 #a股",
       "status": "not_found",
       "found": false,
-      "totalComments": 9,
-      "loadedComments": 9,
+      "totalComments": 10,
+      "loadedComments": 10,
       "creator": "上市公司大追踪"
     },
     {
@@ -1535,15 +1541,6 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7692642152211283983/",
-      "title": "人民日报连发十篇，国庆期间到底在给谁递信 看完这十篇文章，我对节后行情的三个判断和一个提醒",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7696686760031289379/",
       "title": "击穿六十年天花板：长鑫科技4F²突破， 一场改写存储规则的架构革命 #长鑫科技 #存储",
       "status": "not_found",
@@ -2191,7 +2188,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 64,
-      "loadedComments": 53,
+      "loadedComments": 30,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2345,8 +2342,8 @@
       "title": "10.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 24,
-      "loadedComments": 22,
+      "totalComments": 26,
+      "loadedComments": 24,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2425,7 +2422,7 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 104,
+      "totalComments": 105,
       "loadedComments": 77,
       "creator": "艾丽无废话财经"
     },
@@ -2661,8 +2658,8 @@
       "title": "9.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 104,
-      "loadedComments": 73,
+      "totalComments": 105,
+      "loadedComments": 74,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2670,8 +2667,8 @@
       "title": "9.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 106,
-      "loadedComments": 89,
+      "totalComments": 107,
+      "loadedComments": 90,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2679,8 +2676,8 @@
       "title": "9.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 77,
-      "loadedComments": 56,
+      "totalComments": 78,
+      "loadedComments": 57,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2688,8 +2685,8 @@
       "title": "9.17",
       "status": "not_found",
       "found": false,
-      "totalComments": 95,
-      "loadedComments": 62,
+      "totalComments": 96,
+      "loadedComments": 63,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2697,8 +2694,8 @@
       "title": "9.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 81,
-      "loadedComments": 68,
+      "totalComments": 82,
+      "loadedComments": 69,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2706,7 +2703,7 @@
       "title": "9.9",
       "status": "not_found",
       "found": false,
-      "totalComments": 343,
+      "totalComments": 344,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2715,8 +2712,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 66,
-      "loadedComments": 54,
+      "totalComments": 67,
+      "loadedComments": 55,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3190,6 +3187,26 @@
       "totalComments": 26,
       "loadedComments": 23,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7696306272153190922/",
+      "title": "10-13号大摩威尔逊：AI机会转向应用，芯片还要再跌吗？",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这是彭博财经节目对摩根士丹利投资委员会主席Mike Wilson的访谈。内容主要包括：美股自6月开启调整，属于从早周期向周期中段的结构性变化，在持续收紧的金融环境下，半导体、金融等早周期板块已率先承压。Wilson判断标普500是否会出现最后一轮补跌的概率各半，经济增长基本面并未恶化，若出现补跌反而属于机会，但当下还不是大举入场的时候。AI投资主线正在从上游算力芯片转向具备落地变现能力的AI应用企业，长期逻辑不变，但市场开始担忧AI基建扩张带来的信用风险与安全问题。他提出两个判断市场调整是否见底的核心指标：金融股的相对强弱表现和债券波动率，当前两者的“追赶”完成，就意味着本轮调整出清。此外访谈还提及美联储政策、美国中期选举对市场的潜在扰动，画面同步展示美债收益率、标普金融股、纳指100期货等实时行情数据。以上均为嘉宾个人观点，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "庭前云舒",
+          "askText": "@豆包 详细总结主要内容",
+          "doubaoReply": "这是彭博财经节目对摩根士丹利投资委员会主席Mike Wilson的访谈。内容主要包括：美股自6月开启调整，属于从早周期向周期中段的结构性变化，在持续收紧的金融环境下，半导体、金融等早周期板块已率先承压。Wilson判断标普500是否会出现最后一轮补跌的概率各半，经济增长基本面并未恶化，若出现补跌反而属于机会，但当下还不是大举入场的时候。AI投资主线正在从上游算力芯片转向具备落地变现能力的AI应用企业，长期逻辑不变，但市场开始担忧AI基建扩张带来的信用风险与安全问题。他提出两个判断市场调整是否见底的核心指标：金融股的相对强弱表现和债券波动率，当前两者的“追赶”完成，就意味着本轮调整出清。此外访谈还提及美联储政策、美国中期选举对市场的潜在扰动，画面同步展示美债收益率、标普金融股、纳指100期货等实时行情数据。以上均为嘉宾个人观点，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7696333669954896681"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7692065964205129743/",
