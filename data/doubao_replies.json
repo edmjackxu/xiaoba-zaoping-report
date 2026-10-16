@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-16T07:08:39.033Z",
-  "total": 587,
+  "builtAt": "2026-10-16T11:07:33.188Z",
+  "total": 588,
   "found": 289,
-  "notFound": 298,
+  "notFound": 299,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -739,6 +739,27 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7697196594877186063/",
+      "title": "生益双业务引擎驱动，覆铜板企业双重收益 #上市公司大追踪 #生益科技",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7697193475669770278/",
+      "title": "四十项技术管制，医药光伏同样硬核 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7697159922265358387/",
+      "title": "尾盘ETF放量，三千七百点谁在承接 #上市公司大追踪 #a股 #a股行情 #上证指数",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7697115224150638632/",
       "title": "军工集体涨停，航展催化资金布局 #上市公司大追踪",
       "status": "no_comments",
@@ -766,6 +787,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "算力成本降幅得看业务类型哦～离线训练、批量推理能降30%-50%，在线实时业务大概10%-20%，央视实测单位Token成本最高能降31%呢，不过还要受基建和技术迭代限制呀😊",
       "doubaoReplies": [
         {
@@ -837,8 +859,8 @@
       "title": "五千一百股下跌，ETF迎来天量成交 #上市公司大追踪 #a股行情 #etf",
       "status": "not_found",
       "found": false,
-      "totalComments": 23,
-      "loadedComments": 20,
+      "totalComments": 22,
+      "loadedComments": 19,
       "creator": "上市公司大追踪"
     },
     {
@@ -1459,52 +1481,6 @@
     {
       "url": "https://www.toutiao.com/video/7693178104038047785/",
       "title": "美疫苗尚未销售，股价暴涨85% #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7693152896125665299/",
-      "title": "华为高通和解 高通花大钱买华为专利，LogicFolding到底是什么黑科技？",
-      "publishTime": "",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这次华为高通专利事件市场主要关注三条方向：\n1.专利运营：信科移动，拥有较多5G标准必要专利，专利运营业务可贡献收入。\n2.华为终端出海产业链：裕同科技旗下华研新材料供应华为AI眼镜转轴模组；达瑞电子提供折叠屏碳纤维结构件；波菲光供应摄像头模组。\n3.先进封装与算力：长电科技、通富微电从事半导体封测，适配先进封装；深圳华强是华为昇腾、鲲鹏算力部件经销商。\n⚠️重要提示：以上仅为网络视频观点，**不构成投资建议**。该交易还需要反垄断监管审批，属于短期情绪催化，并不直接带来业绩增长。高通拿到专利许可，不等于可以向华为出售芯片，出口管制限制仍然存在。另外高通方面表示，本次协议和网传逻辑折叠芯片技术无关，相关说法存在偏差。股市波动风险较高，请谨慎决策。",
-      "doubaoReplies": [
-        {
-          "askUser": "热情的芒果zsf",
-          "askText": "@豆包 利好哪些股票",
-          "doubaoReply": "这次华为高通专利事件市场主要关注三条方向：\n1.专利运营：信科移动，拥有较多5G标准必要专利，专利运营业务可贡献收入。\n2.华为终端出海产业链：裕同科技旗下华研新材料供应华为AI眼镜转轴模组；达瑞电子提供折叠屏碳纤维结构件；波菲光供应摄像头模组。\n3.先进封装与算力：长电科技、通富微电从事半导体封测，适配先进封装；深圳华强是华为昇腾、鲲鹏算力部件经销商。\n⚠️重要提示：以上仅为网络视频观点，**不构成投资建议**。该交易还需要反垄断监管审批，属于短期情绪催化，并不直接带来业绩增长。高通拿到专利许可，不等于可以向华为出售芯片，出口管制限制仍然存在。另外高通方面表示，本次协议和网传逻辑折叠芯片技术无关，相关说法存在偏差。股市波动风险较高，请谨慎决策。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7693489578271294254"
-        },
-        {
-          "askUser": "吸睛大师",
-          "askText": "@豆包 是不是澄清了？",
-          "doubaoReply": "对呀，双方都回应澄清啦～网传“高通单方面大额付钱给华为”是交叉许可，专利协议和LogicFolding技术也无关哦。视频里提的A股个股是自媒体主观猜想，不构成投资建议哒。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7693545224358281984"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7692817554918408242/",
-      "title": "华尔街通宵了，A股散户的“隔夜保护”要没 美股不睡了，A股高关联赛道盘中就要被“实时收割”？#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 19,
-      "loadedComments": 16,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7692717151199166518/",
-      "title": "国庆充电排队六小时，中科院出3分钟快充 #上市公司大追踪",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -2309,6 +2285,15 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7697189145458065458/",
+      "title": "10.16",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 25,
+      "loadedComments": 20,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7696836181194965001/",
       "title": "10.15",
       "status": "not_found",
@@ -2402,8 +2387,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 70,
-      "loadedComments": 62,
+      "totalComments": 71,
+      "loadedComments": 63,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2683,8 +2668,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 67,
-      "loadedComments": 55,
+      "totalComments": 68,
+      "loadedComments": 56,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2728,8 +2713,8 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 222,
-      "loadedComments": 189,
+      "totalComments": 223,
+      "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3151,13 +3136,32 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7662314093093355520/",
-      "title": "7.14",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 26,
-      "loadedComments": 23,
-      "creator": "艾丽无废话财经"
+      "url": "https://www.toutiao.com/video/7693152896125665299/",
+      "title": "华为高通和解 高通花大钱买华为专利，LogicFolding到底是什么黑科技？",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这次华为高通专利事件市场主要关注三条方向：\n1.专利运营：信科移动，拥有较多5G标准必要专利，专利运营业务可贡献收入。\n2.华为终端出海产业链：裕同科技旗下华研新材料供应华为AI眼镜转轴模组；达瑞电子提供折叠屏碳纤维结构件；波菲光供应摄像头模组。\n3.先进封装与算力：长电科技、通富微电从事半导体封测，适配先进封装；深圳华强是华为昇腾、鲲鹏算力部件经销商。\n⚠️重要提示：以上仅为网络视频观点，**不构成投资建议**。该交易还需要反垄断监管审批，属于短期情绪催化，并不直接带来业绩增长。高通拿到专利许可，不等于可以向华为出售芯片，出口管制限制仍然存在。另外高通方面表示，本次协议和网传逻辑折叠芯片技术无关，相关说法存在偏差。股市波动风险较高，请谨慎决策。",
+      "doubaoReplies": [
+        {
+          "askUser": "热情的芒果zsf",
+          "askText": "@豆包 利好哪些股票",
+          "doubaoReply": "这次华为高通专利事件市场主要关注三条方向：\n1.专利运营：信科移动，拥有较多5G标准必要专利，专利运营业务可贡献收入。\n2.华为终端出海产业链：裕同科技旗下华研新材料供应华为AI眼镜转轴模组；达瑞电子提供折叠屏碳纤维结构件；波菲光供应摄像头模组。\n3.先进封装与算力：长电科技、通富微电从事半导体封测，适配先进封装；深圳华强是华为昇腾、鲲鹏算力部件经销商。\n⚠️重要提示：以上仅为网络视频观点，**不构成投资建议**。该交易还需要反垄断监管审批，属于短期情绪催化，并不直接带来业绩增长。高通拿到专利许可，不等于可以向华为出售芯片，出口管制限制仍然存在。另外高通方面表示，本次协议和网传逻辑折叠芯片技术无关，相关说法存在偏差。股市波动风险较高，请谨慎决策。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7693489578271294254"
+        },
+        {
+          "askUser": "吸睛大师",
+          "askText": "@豆包 是不是澄清了？",
+          "doubaoReply": "对呀，双方都回应澄清啦～网传“高通单方面大额付钱给华为”是交叉许可，专利协议和LogicFolding技术也无关哦。视频里提的A股个股是自媒体主观猜想，不构成投资建议哒。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7693545224358281984"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7696312730008977967/",
