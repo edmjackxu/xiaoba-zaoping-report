@@ -1644,7 +1644,17 @@
       "url": "https://www.toutiao.com/video/7696904872152580137/",
       "publishTime": "",
       "type": "video",
-      "creator": "上市公司大追踪"
+      "creator": "上市公司大追踪",
+      "doubaoReply": [
+        {
+          "askUser": "富足风铃r9A",
+          "askText": "@豆包 算力成本还能降多少？",
+          "doubaoReply": "算力成本降幅得看业务类型哦～离线训练、批量推理能降30%-50%，在线实时业务大概10%-20%，央视实测单位Token成本最高能降31%呢，不过还要受基建和技术迭代限制呀😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7697153862998377243"
+        }
+      ]
     },
     {
       "title": "PPI爆表科技股崩盘 A股明天慌不慌？ #上市公司大追踪 #a股",
