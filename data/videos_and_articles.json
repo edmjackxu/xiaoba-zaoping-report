@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-17T11:06:32.687Z",
+  "checkTime": "2026-10-17T23:06:23.937Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "10-17号洪灏最新访谈：资本市场前景解读",
+      "url": "https://www.toutiao.com/video/7697629142400975407/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1629,18 +1636,34 @@
       "creator": "初心笔记"
     },
     {
-      "title": "9-7号中金宏观策略周论",
-      "url": "https://www.toutiao.com/video/7682649478561808919/",
+      "title": "操盘手拆解盘口——贵州茅台 #上市公司大追踪 #茅台股票 #白酒股",
+      "url": "https://www.toutiao.com/video/7697763042766880803/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——中信海直 #上市公司大追踪 #龙虎榜 #中信海直",
+      "url": "https://www.toutiao.com/video/7697761241086820352/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解盘口——天汽模 #上市公司大追踪 #股票分析讨论 #天汽模",
+      "url": "https://www.toutiao.com/video/7697632540223356991/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "操盘手拆解龙虎榜—宗申动力 #上市公司大追踪 #涨停 #龙虎榜 #宗申动力",
       "url": "https://www.toutiao.com/video/7697446979374481442/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1648,7 +1671,6 @@
       "url": "https://www.toutiao.com/video/7697422578641534991/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1656,7 +1678,6 @@
       "url": "https://www.toutiao.com/video/7697265621687353378/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3228,37 +3249,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "#财经",
-      "url": "https://www.toutiao.com/video/7686738871883759650/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪",
-      "doubaoReply": [
-        {
-          "askUser": "胖小宋s宋小胖",
-          "askText": "@豆包 ，帮我总结视频内容。同时如果提及具体股票，请列出股票名称和编码，如果不提及则只做总结",
-          "doubaoReply": "受海外光刻胶厂商涨价消息刺激，光刻胶板块迎来拉升。JSR、信乐化学宣布自2026年10月1日起光刻胶整体涨价15%，散单涨幅可达32%-38%；其中HBM配套浸没式ArF、3D NAND用KrF光刻胶涨幅领先，背后是AI芯片、HBM存储扩产带来的需求增长。行情深层逻辑为半导体“去日化”，日系厂商垄断高端光刻胶，叠加日本收紧相关产品出口管制，国产替代加速推进。目前国内g线光刻胶国产化率较高，但KrF、ArF等高阶产品国产化程度极低。\n本次提及的具体股票：\n1. 华软科技（002453）\n2. 西陇科学（002584）\n3. 聚石化学（688669）\n4. 久日新材（688199）\n5. 安集科技（688019）\n6. 肯特催化（无公开上市代码）\n视频提示投资风险：警惕纯题材炒作个股。华软科技光刻胶相关业务营收占比不足2%；西陇科学并不生产光刻胶，仅供应配套试剂，这类个股波动巨大。可以重点关注有产品落地的标的，包括推进9000吨光刻胶技改项目的聚石化学、多款光刻胶产品实现销售的久日新材、光刻相关产品批量生产的肯特催化。板块受消息驱动、波动剧烈，不宜盲目追涨；光刻胶国产替代是长期赛道，优先布局中高端产品取得进展的企业，逢回调布局更为稳妥。\n风险提示：内容仅为视频观点整理，不构成任何投资建议，股市有风险，投资需谨慎。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7686752374941614898"
-        }
-      ]
-    },
-    {
-      "title": "科创五零涨近四，存储缺到二八 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7686728087649730600/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "医保局进了规划桌，医院开始算经济账 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7686704307187367988/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -4266,8 +4256,8 @@
       "creator": "GNCapital产业研究"
     },
     {
-      "title": "10.17",
-      "url": "https://www.toutiao.com/video/7697563630192148499/",
+      "title": "10.18",
+      "url": "https://www.toutiao.com/video/7697758893937524776/",
       "publishTime": "",
       "type": "video",
       "summary": "",
