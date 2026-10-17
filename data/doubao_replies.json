@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-17T11:09:19.869Z",
+  "builtAt": "2026-10-17T23:11:58.613Z",
   "total": 588,
-  "found": 291,
-  "notFound": 297,
+  "found": 292,
+  "notFound": 296,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7697629142400975407/",
+      "title": "10-17号洪灏最新访谈：资本市场前景解读",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7697225204086391305/",
       "title": "特斯拉Roadster2发布会 完整版",
       "publishTime": "",
@@ -760,21 +769,39 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7696753313114554927/",
-      "title": "大A会更好！送给每一个股民！人才啊！",
+      "url": "https://www.toutiao.com/video/7697763042766880803/",
+      "title": "操盘手拆解盘口——贵州茅台 #上市公司大追踪 #茅台股票 #白酒股",
       "status": "not_found",
       "found": false,
-      "totalComments": 21,
-      "loadedComments": 19,
-      "creator": "初心笔记"
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7697761241086820352/",
+      "title": "操盘手拆解龙虎榜——中信海直 #上市公司大追踪 #龙虎榜 #中信海直",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7697632540223356991/",
+      "title": "操盘手拆解盘口——天汽模 #上市公司大追踪 #股票分析讨论 #天汽模",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7697446979374481442/",
       "title": "操盘手拆解龙虎榜—宗申动力 #上市公司大追踪 #涨停 #龙虎榜 #宗申动力",
       "status": "not_found",
       "found": false,
-      "totalComments": 17,
-      "loadedComments": 14,
+      "totalComments": 23,
+      "loadedComments": 17,
       "creator": "上市公司大追踪"
     },
     {
@@ -782,8 +809,8 @@
       "title": "两万亿美元一夜蒸发！费半八连跌创2008 五百亿债务压顶，AI融资警报拉响，华尔街开始算账了#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 11,
-      "loadedComments": 11,
+      "totalComments": 12,
+      "loadedComments": 12,
       "creator": "上市公司大追踪"
     },
     {
@@ -791,8 +818,8 @@
       "title": "国务院定调人工智能，逻辑彻底反转 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1500,33 +1527,6 @@
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7693562854024642587/",
-      "title": "纳指开盘又新高，存储股为什么全跌 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7693525841956044846/",
-      "title": "AMD产业链爆发，两家龙头谁更强？ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7693522265387843599/",
-      "title": "诺奖引爆光电管，A股迎来产业机会 #上市公司大追踪 #诺贝尔奖",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2327,12 +2327,12 @@
       "creator": "GNCapital产业研究"
     },
     {
-      "url": "https://www.toutiao.com/video/7697563630192148499/",
-      "title": "10.17",
+      "url": "https://www.toutiao.com/video/7697758893937524776/",
+      "title": "10.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 51,
-      "loadedComments": 49,
+      "totalComments": 8,
+      "loadedComments": 8,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2340,8 +2340,8 @@
       "title": "10.16",
       "status": "not_found",
       "found": false,
-      "totalComments": 65,
-      "loadedComments": 55,
+      "totalComments": 67,
+      "loadedComments": 56,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2349,7 +2349,7 @@
       "title": "10.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 28,
+      "totalComments": 30,
       "loadedComments": 26,
       "creator": "艾丽无废话财经"
     },
@@ -2427,11 +2427,21 @@
     {
       "url": "https://www.toutiao.com/video/7695713709687046182/",
       "title": "10.12",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 109,
-      "loadedComments": 79,
-      "creator": "艾丽无废话财经"
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "“给经加戏”是字幕识别小误差啦～实际是“给金融加戏”哦，就是说有人瞎脑补金融博弈的剧情、乱猜局势，没看懂完整的宏观逻辑～先理清全局再做决策更靠谱对吧 😉",
+      "doubaoReplies": [
+        {
+          "askUser": "快乐夿",
+          "askText": "@豆包 这里说的“给经加戏”是指的什么意思？这段视频的主体意思是什么？",
+          "doubaoReply": "“给经加戏”是字幕识别小误差啦～实际是“给金融加戏”哦，就是说有人瞎脑补金融博弈的剧情、乱猜局势，没看懂完整的宏观逻辑～先理清全局再做决策更靠谱对吧 😉",
+          "doubaoUser": "豆包",
+          "diggCount": 1,
+          "replyId": "7697293900704711466"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7695600456881405962/",
@@ -2764,7 +2774,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 223,
+      "totalComments": 224,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -2773,8 +2783,8 @@
       "title": "8.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 9,
-      "loadedComments": 8,
+      "totalComments": 10,
+      "loadedComments": 9,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2782,8 +2792,8 @@
       "title": "8.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 30,
-      "loadedComments": 25,
+      "totalComments": 31,
+      "loadedComments": 26,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2791,8 +2801,8 @@
       "title": "8.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 43,
-      "loadedComments": 37,
+      "totalComments": 44,
+      "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
     {

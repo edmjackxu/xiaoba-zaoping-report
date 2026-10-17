@@ -4346,7 +4346,17 @@
       "url": "https://www.toutiao.com/video/7695713709687046182/",
       "publishTime": "",
       "type": "video",
-      "creator": "艾丽无废话财经"
+      "creator": "艾丽无废话财经",
+      "doubaoReply": [
+        {
+          "askUser": "快乐夿",
+          "askText": "@豆包 这里说的“给经加戏”是指的什么意思？这段视频的主体意思是什么？",
+          "doubaoReply": "“给经加戏”是字幕识别小误差啦～实际是“给金融加戏”哦，就是说有人瞎脑补金融博弈的剧情、乱猜局势，没看懂完整的宏观逻辑～先理清全局再做决策更靠谱对吧 😉",
+          "doubaoUser": "豆包",
+          "diggCount": 1,
+          "replyId": "7697293900704711466"
+        }
+      ]
     },
     {
       "title": "10.12",
