@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-16T23:11:55.055Z",
+  "builtAt": "2026-10-17T04:11:24.993Z",
   "total": 588,
   "found": 291,
   "notFound": 297,
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这次发布会公布的技术都很硬核~有车底风扇抽吸系统可提供强下压力，还有10组冷气推进喷嘴能实现特技动作，同时配备线控转向制动、可调悬架赛道模式、多电机动力总成，还有优化的空气动力学设计。",
       "doubaoReplies": [
         {
@@ -707,6 +708,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "洪灏认为全球抛售潮已进入后半场，利空大多计入股价，年底大概率迎来大反弹，不过筑底尾声跌势可能加速。下跌主要因美国通胀、美债及半导体预期影响，相关政策事件预期已提前充分反应。港股负面预期消化充分，恒指24000附近再深度调整空间不大，本次是全球风险资产同步抛售，并非港股单独走弱。以上仅为嘉宾节目观点，不构成任何投资建议。",
       "doubaoReplies": [
         {
@@ -762,9 +764,27 @@
       "title": "大A会更好！送给每一个股民！人才啊！",
       "status": "not_found",
       "found": false,
-      "totalComments": 20,
-      "loadedComments": 18,
+      "totalComments": 21,
+      "loadedComments": 19,
       "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7697446979374481442/",
+      "title": "操盘手拆解龙虎榜—宗申动力 #上市公司大追踪 #涨停 #龙虎榜 #宗申动力",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7697422578641534991/",
+      "title": "两万亿美元一夜蒸发！费半八连跌创2008 五百亿债务压顶，AI融资警报拉响，华尔街开始算账了#上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 6,
+      "loadedComments": 6,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7697265621687353378/",
@@ -798,8 +818,8 @@
       "title": "四十项技术管制，医药光伏同样硬核 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 10,
+      "loadedComments": 9,
       "creator": "上市公司大追踪"
     },
     {
@@ -814,22 +834,28 @@
     {
       "url": "https://www.toutiao.com/video/7697115224150638632/",
       "title": "军工集体涨停，航展催化资金布局 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7697111598363574326/",
       "title": "操盘手拆解 #新华文轩#涨知识#上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7697034488206868480/",
       "title": "PPI爆表科技股却大涨？美股正在 CoreWeave违约概率超六成，英伟达却说不慌，信谁？#上市公司大追踪#涨知识",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1019,8 +1045,8 @@
       "title": "1. 43.79亿冻结！茶百道IPO被指 2. 散户不买，机构足额？茶百道暴跌77%背后的抽屉协议疑云#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 18,
-      "loadedComments": 18,
+      "totalComments": 19,
+      "loadedComments": 19,
       "creator": "上市公司大追踪"
     },
     {
@@ -1501,24 +1527,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7693501609283682319/",
-      "title": "谁在匿名捐出5.03亿？扒一扒财富搬运的 人大校友狂捐5亿！想到这钱也有我的贡献，心里啥滋味？#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7693320690519195711/",
-      "title": "英伟达又新高了，但这次我劝你盯紧美债 AI的“借来的繁荣”：2200亿美债背后藏着什么#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -2323,8 +2331,8 @@
       "title": "10.16",
       "status": "not_found",
       "found": false,
-      "totalComments": 58,
-      "loadedComments": 48,
+      "totalComments": 64,
+      "loadedComments": 54,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2421,8 +2429,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 71,
-      "loadedComments": 63,
+      "totalComments": 72,
+      "loadedComments": 64,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2711,8 +2719,8 @@
       "title": "9.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 48,
-      "loadedComments": 38,
+      "totalComments": 49,
+      "loadedComments": 39,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2720,8 +2728,8 @@
       "title": "9.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 40,
-      "loadedComments": 30,
+      "totalComments": 41,
+      "loadedComments": 31,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2729,8 +2737,8 @@
       "title": "9.5",
       "status": "not_found",
       "found": false,
-      "totalComments": 84,
-      "loadedComments": 70,
+      "totalComments": 85,
+      "loadedComments": 71,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2738,8 +2746,8 @@
       "title": "9.5 助力中国优质企业出海之泰国行 #企业出海 #东盟 #泰国 #产业链供应链",
       "status": "not_found",
       "found": false,
-      "totalComments": 9,
-      "loadedComments": 8,
+      "totalComments": 10,
+      "loadedComments": 9,
       "creator": "艾丽无废话财经"
     },
     {
