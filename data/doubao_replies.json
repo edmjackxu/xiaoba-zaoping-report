@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-18T04:09:41.003Z",
+  "builtAt": "2026-10-18T07:07:21.242Z",
   "total": 588,
   "found": 292,
   "notFound": 296,
@@ -769,12 +769,19 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7697857784357748751/",
+      "title": "别只盯直播，影院凌晨闲置时段才是金矿 #上市公司大追踪#电影院",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7697850107961540649/",
       "title": "飞行汽车近二十只涨停，为什么能飞的版本反 海外炫技只是引子，国内这三件事才是飞行汽车主线的底子#飞行汽车#低空经济#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -805,8 +812,10 @@
     {
       "url": "https://www.toutiao.com/video/7697818547422003200/",
       "title": "操盘手拆解龙虎榜——冰山冷热 #上市公司大追踪 #龙虎榜 #冰山冷热",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -1517,15 +1526,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7694148336618012723/",
-      "title": "三星利润大增八倍，市场却并不买账 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7696686760031289379/",
       "title": "击穿六十年天花板：长鑫科技4F²突破， 一场改写存储规则的架构革命 #长鑫科技 #存储",
       "status": "not_found",
@@ -2233,10 +2233,9 @@
     {
       "url": "https://www.toutiao.com/video/7588790382840643599/",
       "title": "2025年12月28日  低轨卫星产业链全景梳理 乾照光电 云南锗业 航天环宇 通宇通讯 航天电子 上海瀚讯 华力创通 铖昌科技 烽火通信 长光华芯 中国卫星北斗星通 海格通信 星图测控 航天驭星 震有科技 华测导航 中海达 中国移动 中国卫通 中国电信 中国联通 四维图新 #低轨卫星 #卫星制造 #商业航天",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_NETWORK_CHANGED at https://www.toutiao.com/video/7588790382840643599/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7588790382840643599/\", waiting until \"domcontentloaded\"\n",
       "creator": "GNCapital产业研究"
     },
     {
@@ -2327,8 +2326,8 @@
       "title": "10.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 40,
-      "loadedComments": 35,
+      "totalComments": 45,
+      "loadedComments": 39,
       "creator": "艾丽无废话财经"
     },
     {
