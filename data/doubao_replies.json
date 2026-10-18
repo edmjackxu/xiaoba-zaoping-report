@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-18T11:09:03.780Z",
+  "builtAt": "2026-10-18T23:12:00.985Z",
   "total": 588,
   "found": 293,
   "notFound": 295,
@@ -46,7 +46,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 126,
-      "loadedComments": 114,
+      "loadedComments": 83,
       "creator": "初心笔记"
     },
     {
@@ -673,6 +673,24 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7698002367207260699/",
+      "title": "10-18号长江证券：美债风暴来袭，何处是方舟？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698001440996049410/",
+      "title": "1018-美银证券-常见问题解答：AI建设热潮的经济学",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7697629142400975407/",
       "title": "10-17号洪灏最新访谈：资本市场前景解读",
       "status": "not_found",
@@ -751,30 +769,12 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7697039415855825435/",
-      "title": "10-16号第36届格雷厄姆与多德年度活动：李录最新访谈！全网首发！",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7697015801718653478/",
-      "title": "1015-摩根大通：境内资金流入依然低迷，但AI仍是杠铃策略成长端的核心支撑。",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
       "url": "https://www.toutiao.com/video/7697857784357748751/",
       "title": "别只盯直播，影院凌晨闲置时段才是金矿 #上市公司大追踪#电影院",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -784,6 +784,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "特斯拉的几款车型里，能飞的不能合法上路，能上路的呀不能飞～国内还没量产车型同时满足上路+飞行资质哦，相关法规还在完善中呢😉",
       "doubaoReplies": [
         {
@@ -817,8 +818,10 @@
     {
       "url": "https://www.toutiao.com/video/7697823950625062946/",
       "title": "操盘手拆解龙虎榜——吉大正元 #上市公司大追踪 #涨停 #龙虎榜 #吉大正元",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -826,8 +829,8 @@
       "title": "操盘手拆解龙虎榜——冰山冷热 #上市公司大追踪 #龙虎榜 #冰山冷热",
       "status": "not_found",
       "found": false,
-      "totalComments": 9,
-      "loadedComments": 7,
+      "totalComments": 11,
+      "loadedComments": 9,
       "creator": "上市公司大追踪"
     },
     {
@@ -889,8 +892,8 @@
       "title": "内幕交易罚五个亿，证监会这次下死手 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 77,
-      "loadedComments": 75,
+      "totalComments": 76,
+      "loadedComments": 74,
       "creator": "上市公司大追踪"
     },
     {
@@ -2339,8 +2342,8 @@
       "title": "10.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 52,
-      "loadedComments": 46,
+      "totalComments": 64,
+      "loadedComments": 57,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2348,8 +2351,8 @@
       "title": "10.16",
       "status": "not_found",
       "found": false,
-      "totalComments": 68,
-      "loadedComments": 57,
+      "totalComments": 69,
+      "loadedComments": 58,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2457,8 +2460,8 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 73,
-      "loadedComments": 65,
+      "totalComments": 72,
+      "loadedComments": 64,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2693,8 +2696,8 @@
       "title": "9.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 107,
-      "loadedComments": 90,
+      "totalComments": 106,
+      "loadedComments": 89,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2891,8 +2894,8 @@
       "title": "8.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 227,
-      "loadedComments": 175,
+      "totalComments": 228,
+      "loadedComments": 176,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2900,8 +2903,8 @@
       "title": "8.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 25,
-      "loadedComments": 23,
+      "totalComments": 26,
+      "loadedComments": 24,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2909,8 +2912,8 @@
       "title": "8.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 116,
-      "loadedComments": 102,
+      "totalComments": 117,
+      "loadedComments": 103,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2918,8 +2921,8 @@
       "title": "8.19",
       "status": "not_found",
       "found": false,
-      "totalComments": 47,
-      "loadedComments": 42,
+      "totalComments": 48,
+      "loadedComments": 43,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2927,8 +2930,8 @@
       "title": "8.17",
       "status": "not_found",
       "found": false,
-      "totalComments": 79,
-      "loadedComments": 76,
+      "totalComments": 80,
+      "loadedComments": 77,
       "creator": "艾丽无废话财经"
     },
     {
