@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-19T07:07:24.925Z",
-  "total": 589,
+  "builtAt": "2026-10-19T11:07:24.376Z",
+  "total": 590,
   "found": 294,
-  "notFound": 295,
+  "notFound": 296,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -684,8 +684,8 @@
       "title": "10-18号长江证券：美债风暴来袭，何处是方舟？",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "初心笔记"
     },
     {
@@ -756,12 +756,40 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7698318269299572776/",
+      "title": "央妈不是来放水的，是来修刹车的”——潘功 隔夜利率换锚，真正受益的不是券商，是这条被忽略的银行IT线#上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698317780713472042/",
+      "title": "金融街论坛后，A股资金正在重新排座次 短期券商、中期北证龙头、长期照持仓：三层策略怎么接#上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698293775781380159/",
+      "title": "北极视频电话后，为什么它们拉升？ #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698278412717244431/",
+      "title": "三千一百股回调，人形机器人集体涨停 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7698235419028422706/",
       "title": "三千八百股下挫，工行市值突破三万亿 #上市公司大追踪 #a股 #a股行情 #银行股",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 6,
+      "loadedComments": 6,
       "creator": "上市公司大追踪"
     },
     {
@@ -1488,40 +1516,11 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7694929618964824090/",
-      "title": "人社部文件藏五字就业逻辑已改写 #上市公司大追踪",
-      "status": "not_found",
+      "url": "https://www.toutiao.com/video/7698316581771673640/",
+      "title": "金盘科技三季报点评 #金盘科技 #财报解读 #GNCapital",
+      "status": "no_comments",
       "found": false,
-      "totalComments": 13,
-      "loadedComments": 12,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7694644523326504994/",
-      "title": "#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7694614240069926912/",
-      "title": "公募基金40万亿大修，三个变化影响你账户 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 92,
-      "loadedComments": 78,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7694559634992201768/",
-      "title": "早盘普跌午后翻红，市场情绪大逆转 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 8,
-      "loadedComments": 8,
-      "creator": "上市公司大追踪"
+      "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7696686760031289379/",
@@ -2312,13 +2311,13 @@
       "creator": "GNCapital产业研究"
     },
     {
-      "url": "https://www.toutiao.com/video/7583615239519354889/",
-      "title": "2025年12月14日  半导体材料国产替代全解析 南大光电 彤程新材 晶瑞电材 容大感光 上海新阳 安集科技 鼎龙股份 瑞华泰 时代新材 澳洋顺昌 生益科技 菲利华 石英股份 中瓷电子 安彩高科 三安光电 #半导体材料 #国产替代",
+      "url": "https://www.toutiao.com/video/7698310107437301801/",
+      "title": "10.19",
       "status": "not_found",
       "found": false,
-      "totalComments": 54,
-      "loadedComments": 53,
-      "creator": "GNCapital产业研究"
+      "totalComments": 13,
+      "loadedComments": 9,
+      "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7698215085067517990/",
@@ -2327,6 +2326,7 @@
       "creator": "艾丽无废话财经",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "宏观上要稳长期收入预期，完善教育、医疗、养老保障；个人建议留应急金，优先还高负债，消费先保刚需～这是视频观点，不构成理财建议哦",
       "doubaoReplies": [
         {
@@ -2368,7 +2368,7 @@
       "title": "10.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 65,
+      "totalComments": 66,
       "loadedComments": 58,
       "creator": "艾丽无废话财经"
     },
