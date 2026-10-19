@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-19T04:06:28.421Z",
+  "checkTime": "2026-10-19T07:06:26.979Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "10-19号高盛首席：东大出口数据亮眼",
+      "url": "https://www.toutiao.com/video/7698223407430648343/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1629,11 +1636,20 @@
       "creator": "初心笔记"
     },
     {
-      "title": "傅海棠最精彩的演讲！没有之一！",
-      "url": "https://www.toutiao.com/video/7683117059680551447/",
+      "title": "三千八百股下挫，工行市值突破三万亿 #上市公司大追踪 #a股 #a股行情 #银行股",
+      "url": "https://www.toutiao.com/video/7698235419028422706/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "A股突然拉升迎利好，99%没读懂这份文件 #上市公司大追踪 #a股",
+      "url": "https://www.toutiao.com/video/7698233148299034639/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "出口持续高增，政策在拆解什么逻辑 #上市公司大追踪 #中国企业出海 #国家统计局",
@@ -1648,7 +1664,6 @@
       "url": "https://www.toutiao.com/video/7697857784357748751/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1656,7 +1671,6 @@
       "url": "https://www.toutiao.com/video/7697850107961540649/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪",
       "doubaoReply": [
         {
@@ -3230,30 +3244,6 @@
     {
       "title": "爆！四家平台被查，酒店板块又要嗨？ #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7687129398030303284/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "四家OTA被立案，股价不跌反涨？ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7687096067971940393/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪",
-      "doubaoReply": [
-        {
-          "askUser": "番茄4028198412617934",
-          "askText": "@豆包 四家OTA具体是哪些？",
-          "doubaoReply": "这次被立案的四家OTA分别是：杭州淘美（运营飞猪）、同程网络（运营同程旅行）、途家在线（运营途家）、北京三快（负责美团酒旅业务）～携程不在这次名单里，之前相关案件已经完成处罚整改啦。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7687175280205136692"
-        }
-      ]
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7687019590807011362/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
