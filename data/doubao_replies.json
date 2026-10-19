@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-10-19T04:09:05.145Z",
-  "total": 588,
-  "found": 293,
+  "builtAt": "2026-10-19T07:07:24.925Z",
+  "total": 589,
+  "found": 294,
   "notFound": 295,
   "replies": [
     {
@@ -673,6 +673,13 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7698223407430648343/",
+      "title": "10-19号高盛首席：东大出口数据亮眼",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7698002367207260699/",
       "title": "10-18号长江证券：美债风暴来袭，何处是方舟？",
       "status": "not_found",
@@ -749,24 +756,20 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7697047011056566807/",
-      "title": "洪灏：美债收益率超卖",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这是Now财经台《Finterview》的财经访谈，嘉宾洪灏分析美国宏观经济与全球市场：美国9月CPI高于预期，整体同比3.7%、核心CPI同比2.6%，短期整体通胀仍会走高，通胀主要来自汽油、住房等波动品类，薪资增长乏力，通胀压力可控，美联储决策更看重PCE而非CPI。美国三季度经济增长韧性很强，实际利率抬升，尽管市场担心美国财政赤字，但海外资金持续买入美债、资本持续流入美国，美元走强，洪灏判断当前美债收益率属于超卖，市场存在过度反应。CPI数据引发市场拆仓抛售，AI、芯片板块大幅回调，日韩台股市显著下跌，港股恒生指数、恒生科技指数同步走低。访谈同时展示了国际油价与美债各期限收益率，洪灏认为AI赛道仍存在机会。以上仅为嘉宾个人观点，不构成投资建议。",
-      "doubaoReplies": [
-        {
-          "askUser": "史诗爸爸",
-          "askText": "@豆包 总结一下",
-          "doubaoReply": "这是Now财经台《Finterview》的财经访谈，嘉宾洪灏分析美国宏观经济与全球市场：美国9月CPI高于预期，整体同比3.7%、核心CPI同比2.6%，短期整体通胀仍会走高，通胀主要来自汽油、住房等波动品类，薪资增长乏力，通胀压力可控，美联储决策更看重PCE而非CPI。美国三季度经济增长韧性很强，实际利率抬升，尽管市场担心美国财政赤字，但海外资金持续买入美债、资本持续流入美国，美元走强，洪灏判断当前美债收益率属于超卖，市场存在过度反应。CPI数据引发市场拆仓抛售，AI、芯片板块大幅回调，日韩台股市显著下跌，港股恒生指数、恒生科技指数同步走低。访谈同时展示了国际油价与美债各期限收益率，洪灏认为AI赛道仍存在机会。以上仅为嘉宾个人观点，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7697053223177372458"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7698235419028422706/",
+      "title": "三千八百股下挫，工行市值突破三万亿 #上市公司大追踪 #a股 #a股行情 #银行股",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698233148299034639/",
+      "title": "A股突然拉升迎利好，99%没读懂这份文件 #上市公司大追踪 #a股",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7698209469817192458/",
@@ -1518,24 +1521,6 @@
       "found": false,
       "totalComments": 8,
       "loadedComments": 8,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7694556254206689299/",
-      "title": "ETF持续大额流入，本轮抄底与众不同 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 23,
-      "loadedComments": 17,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7694423452102426675/",
-      "title": "纳指新高两天后就变脸 AI的“信仰”被一张财务文件撕开了一道口子。OpenAI致投资者的内部文",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -2338,19 +2323,53 @@
     {
       "url": "https://www.toutiao.com/video/7698215085067517990/",
       "title": "10.19",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 17,
-      "loadedComments": 12,
-      "creator": "艾丽无废话财经"
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "宏观上要稳长期收入预期，完善教育、医疗、养老保障；个人建议留应急金，优先还高负债，消费先保刚需～这是视频观点，不构成理财建议哦",
+      "doubaoReplies": [
+        {
+          "askUser": "努力成就未来",
+          "askText": "@豆包 数据对应的建议是什么？",
+          "doubaoReply": "宏观上要稳长期收入预期，完善教育、医疗、养老保障；个人建议留应急金，优先还高负债，消费先保刚需～这是视频观点，不构成理财建议哦",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7698255354434159360"
+        },
+        {
+          "askUser": "用户7726396710886",
+          "askText": "@豆包 数据对应的建议是什么？",
+          "doubaoReply": "宏观层面短期消费刺激政策效果有限，核心要稳就业、完善医疗教育养老等社保、稳定资产价格，改善居民长期收入预期。个人建议控制负债、预留现金储备，消费保持审慎优先保障基础生活，本内容仅为视频观点，不构成投资理财建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7698237105012933439"
+        },
+        {
+          "askUser": "魔法星星PM",
+          "askText": "@豆包 这类视频有什么参考价值？",
+          "doubaoReply": "这类视频可以当宏观经济科普呀，能帮普通人看懂专业数据，理解大家存钱、紧着花钱的普遍行为，还能启发个人收支思考～不过它是简化解读，不能直接用来指导买房理财哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7698219024462660406"
+        },
+        {
+          "askUser": "执魔123",
+          "askText": "@豆包 数据对应的建议是什么？",
+          "doubaoReply": "宏观层面，短期消费刺激政策效果有限，提振消费核心是稳定就业与长期收入预期，完善医疗、教育、养老等社保保障，稳住资产价格。\n个人层面建议优先降低高息负债，留足应急储蓄，谨慎投入高波动资产，消费优先保障刚需，先稳固收入再规划资产配置。\n以上是博主的解读观点，仅作参考，不构成投资理财建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7698251062704882458"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7697758893937524776/",
       "title": "10.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 63,
-      "loadedComments": 56,
+      "totalComments": 65,
+      "loadedComments": 58,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2485,8 +2504,8 @@
       "title": "10.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 50,
-      "loadedComments": 39,
+      "totalComments": 49,
+      "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3194,6 +3213,26 @@
           "doubaoUser": "豆包",
           "diggCount": 0,
           "replyId": "7663235297782137609"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7697047011056566807/",
+      "title": "洪灏：美债收益率超卖",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这是Now财经台《Finterview》的财经访谈，嘉宾洪灏分析美国宏观经济与全球市场：美国9月CPI高于预期，整体同比3.7%、核心CPI同比2.6%，短期整体通胀仍会走高，通胀主要来自汽油、住房等波动品类，薪资增长乏力，通胀压力可控，美联储决策更看重PCE而非CPI。美国三季度经济增长韧性很强，实际利率抬升，尽管市场担心美国财政赤字，但海外资金持续买入美债、资本持续流入美国，美元走强，洪灏判断当前美债收益率属于超卖，市场存在过度反应。CPI数据引发市场拆仓抛售，AI、芯片板块大幅回调，日韩台股市显著下跌，港股恒生指数、恒生科技指数同步走低。访谈同时展示了国际油价与美债各期限收益率，洪灏认为AI赛道仍存在机会。以上仅为嘉宾个人观点，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "史诗爸爸",
+          "askText": "@豆包 总结一下",
+          "doubaoReply": "这是Now财经台《Finterview》的财经访谈，嘉宾洪灏分析美国宏观经济与全球市场：美国9月CPI高于预期，整体同比3.7%、核心CPI同比2.6%，短期整体通胀仍会走高，通胀主要来自汽油、住房等波动品类，薪资增长乏力，通胀压力可控，美联储决策更看重PCE而非CPI。美国三季度经济增长韧性很强，实际利率抬升，尽管市场担心美国财政赤字，但海外资金持续买入美债、资本持续流入美国，美元走强，洪灏判断当前美债收益率属于超卖，市场存在过度反应。CPI数据引发市场拆仓抛售，AI、芯片板块大幅回调，日韩台股市显著下跌，港股恒生指数、恒生科技指数同步走低。访谈同时展示了国际油价与美债各期限收益率，洪灏认为AI赛道仍存在机会。以上仅为嘉宾个人观点，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7697053223177372458"
         }
       ]
     },
