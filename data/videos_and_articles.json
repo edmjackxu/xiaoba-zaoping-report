@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-19T23:06:28.234Z",
+  "checkTime": "2026-10-20T04:06:26.442Z",
   "articles": [
     {
       "title": "",
@@ -3256,6 +3256,14 @@
       "creator": "上市公司大追踪"
     },
     {
+      "title": "海光信息 三季报点评 #海光信息 #CPU #AI算力",
+      "url": "https://www.toutiao.com/video/7698569118517067785/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "GNCapital产业研究"
+    },
+    {
       "title": "金盘科技三季报点评 #金盘科技 #财报解读 #GNCapital",
       "url": "https://www.toutiao.com/video/7698316581771673640/",
       "publishTime": "",
@@ -3276,7 +3284,6 @@
       "url": "https://www.toutiao.com/video/7694715472977395739/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "GNCapital产业研究"
     },
     {
@@ -5866,5 +5873,5 @@
       "creator": "艾丽无废话财经"
     }
   ],
-  "totalItems": 720
+  "totalItems": 721
 }
