@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-20T07:06:24.268Z",
+  "checkTime": "2026-10-20T11:06:30.685Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "1019-大中华区半导体：OCP总结-光互连崛起与AI基础设施替代方案",
+      "url": "https://www.toutiao.com/video/7698700048397255195/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1629,11 +1636,20 @@
       ]
     },
     {
-      "title": "9-9号大摩闭门会：金融、保险、交运、房地产行业解读",
-      "url": "https://www.toutiao.com/video/7683395580856533548/",
+      "title": "操盘手拆解盘口——宇树科技 #上市公司大追踪 #涨停 #宇树科技",
+      "url": "https://www.toutiao.com/video/7698699399903313960/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "ETF成交剧增 #赵博士聊财经#涨知识",
+      "url": "https://www.toutiao.com/video/7698642675443957800/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "万丰奥威 #操盘手#盘口#涨知识 #上市公司大追踪",
@@ -1648,7 +1664,6 @@
       "url": "https://www.toutiao.com/video/7698606987411505193/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1656,7 +1671,6 @@
       "url": "https://www.toutiao.com/video/7698386080688832547/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3230,20 +3244,6 @@
     {
       "title": "分享视频",
       "url": "https://www.toutiao.com/video/7687848386451472427/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "净流入五十四亿，钱在抢医药 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7687831912643362816/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "放量七百亿，钱在抢三个方向 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7687814633834758144/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
