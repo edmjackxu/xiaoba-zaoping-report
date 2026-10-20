@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-20T11:06:30.685Z",
+  "checkTime": "2026-10-20T23:06:24.487Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "李录：如何从一文不名到芒格唯一家族资产管理人，从负债穷学生到管理140亿美元？",
+      "url": "https://www.toutiao.com/video/7698701467330429491/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1629,28 +1636,55 @@
       ]
     },
     {
-      "title": "9-9号机构：AI新材料方向深度解读。",
-      "url": "https://www.toutiao.com/video/7683395795164430892/",
+      "title": "操盘手拆解龙虎榜——润建股份 #上市公司大追踪 #龙虎榜 #润建股份",
+      "url": "https://www.toutiao.com/video/7698733362562727946/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "Lumingsheng",
-          "askText": "@豆包 总结这段视频",
-          "doubaoReply": "这份视频是机构对于AI新材料赛道的深度解读，重点围绕AI PCB材料展开，同时提及MLCC材料、玻璃基板等方向。AI服务器与交换机推动PCB背板由低阶向7至10阶升级，带动铜箔、电子布、树脂、硅粉等上游材料迭代，产品等级越高，价格、毛利率越高，行业竞争格局越优。\n电子布存在两条发展逻辑：AI高端电子布需求旺盛，但受织布机、生产工艺限制供给持续紧张；普通电子布涨价主要源于供给收缩，厂商优先调配产能生产高盈利AI电子布，叠加新增产线建设门槛高，涨价具备延续性。视频提到4至6月市场炒作的涨价标的多为非AI类材料，直接供应头部AI产业链的高端材料涨价难度相对更大。\n英伟达硬件持续迭代，L2、L2 Auto新增背板以及PTAB新技术方案，或将带来树脂、铜膜、微硅粉等材料体系变革，当前技术方案尚未完全落地定型，值得持续跟踪。机构认为近期板块股价调整并非基本面恶化，更多是股价提前反应产业预期。\n⚠️内容仅为机构观点，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7683419562419110719"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——恒玄科技 #上市公司大追踪 #龙虎榜 #恒玄科技",
+      "url": "https://www.toutiao.com/video/7698729447138377766/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——迪安诊断 #上市公司大追踪 #龙虎榜 #迪安诊断",
+      "url": "https://www.toutiao.com/video/7698727149544407090/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解盘口——长盈精密 #上市公司大追踪 #长盈精密",
+      "url": "https://www.toutiao.com/video/7698706888942501907/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解盘口——新华传媒 #上市公司大追踪 #盘口 #新华传媒",
+      "url": "https://www.toutiao.com/video/7698704284376170531/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解盘口——亨通光电 #上市公司大追踪 #股票知识分享 #亨通光电",
+      "url": "https://www.toutiao.com/video/7698702160564879379/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "操盘手拆解盘口——宇树科技 #上市公司大追踪 #涨停 #宇树科技",
       "url": "https://www.toutiao.com/video/7698699399903313960/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1658,7 +1692,6 @@
       "url": "https://www.toutiao.com/video/7698642675443957800/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1666,7 +1699,6 @@
       "url": "https://www.toutiao.com/video/7698611015608434751/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3212,48 +3244,6 @@
     {
       "title": "万科两连板！首套房贴息？ #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7687982539763351586/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "特斯拉宁波审厂，三家企业待甄选 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7687907785029566491/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7687900148680097807/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "缩量普涨 钱是在换锚 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7687893416617148466/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7687850844418473993/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "六只“新华”集体涨停兄弟，卖出或者减仓！ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7687848761314033698/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7687848386451472427/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
