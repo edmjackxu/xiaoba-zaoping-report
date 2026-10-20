@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-19T23:12:15.853Z",
+  "builtAt": "2026-10-20T04:10:44.720Z",
   "total": 592,
   "found": 296,
   "notFound": 296,
@@ -782,6 +782,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "2026年10月19日央行等十一部门发文，要提升三大科创中心直接融资占比，重点提用好社保科创基金、支持并购基金发展。社保科创基金不是新设，浙苏闽鄂川六省首期共1700亿，三方出资能投贷联动，存续最长18年，投资优先保值增值，投向有订单的硬科技企业。三类资本接力：社保投早投小，大基金三期3440亿侧重半导体设备材料替代，并购基金帮创业公司退出不用都走IPO。并购别炒壳，要看有没有真资产注入和产业协同。选标的可以参考三层思路：优先产业资本控股的，看注入资产和原有业务合不合，并购完成头两年是资产整合密集窗口期。现在科创资本正从单靠IPO退出转向多元，也可多看看控股完成不到一年、主业干净、赛道在设备材料或AI算力缺口的A股平台。（以上是解读观点，不构成投资建议）",
       "doubaoReplies": [
         {
@@ -808,8 +809,8 @@
       "title": "十八条，四十天，证监会把大股东减持的账本 赚四百多万罚二十万？新规终于要堵这个口子”#上市公司大追踪#国家政策#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 23,
-      "loadedComments": 20,
+      "totalComments": 32,
+      "loadedComments": 28,
       "creator": "上市公司大追踪"
     },
     {
@@ -817,8 +818,8 @@
       "title": "操盘手拆解亨通光电 不是锁死是换手 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 13,
-      "loadedComments": 9,
+      "totalComments": 14,
+      "loadedComments": 10,
       "creator": "上市公司大追踪"
     },
     {
@@ -826,8 +827,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -837,6 +838,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "DR001是银行间真实交易形成的隔夜质押式回购利率，换锚就是央行把短端政策调控主基准切换成它，之后优质企业可自主选它或LPR当贷款基准，政策传导更顺畅，也会给银行IT厂商带来改造订单，这是利率市场化完善，不是简单降息哦，以上仅为概念解读，不构成投资建议。",
       "doubaoReplies": [
         {
@@ -890,15 +892,17 @@
       "title": "三千八百股下挫，工行市值突破三万亿 #上市公司大追踪 #a股 #a股行情 #银行股",
       "status": "not_found",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
+      "totalComments": 8,
+      "loadedComments": 8,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7698233148299034639/",
       "title": "A股突然拉升迎利好，99%没读懂这份文件 #上市公司大追踪 #a股",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -906,8 +910,8 @@
       "title": "出口持续高增，政策在拆解什么逻辑 #上市公司大追踪 #中国企业出海 #国家统计局",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1518,10 +1522,21 @@
       "creator": "上市公司大追踪"
     },
     {
+      "url": "https://www.toutiao.com/video/7698569118517067785/",
+      "title": "海光信息 三季报点评 #海光信息 #CPU #AI算力",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
+    },
+    {
       "url": "https://www.toutiao.com/video/7698316581771673640/",
       "title": "金盘科技三季报点评 #金盘科技 #财报解读 #GNCapital",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2304,21 +2319,12 @@
       "creator": "GNCapital产业研究"
     },
     {
-      "url": "https://www.toutiao.com/video/7583663121362141236/",
-      "title": "2025年12月14日  半导体设备国产替代全解析 中微公司 北方华创 屹唐股份 拓荆科技 微导纳米 科益虹源 华卓精科 国科精密 启尔机电 芯源微 盛美上海 至纯科技 华海清科 万业企业 长川科技 华峰测控 中科飞测 精测电子 精智达 #半导体设备 #国产替代",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 9,
-      "loadedComments": 7,
-      "creator": "GNCapital产业研究"
-    },
-    {
       "url": "https://www.toutiao.com/video/7698310107437301801/",
       "title": "10.19",
       "status": "not_found",
       "found": false,
-      "totalComments": 37,
-      "loadedComments": 31,
+      "totalComments": 39,
+      "loadedComments": 33,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2370,8 +2376,8 @@
       "title": "10.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 67,
-      "loadedComments": 59,
+      "totalComments": 68,
+      "loadedComments": 60,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3057,8 +3063,8 @@
       "title": "8.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 36,
-      "loadedComments": 32,
+      "totalComments": 37,
+      "loadedComments": 33,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3066,8 +3072,8 @@
       "title": "8.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 105,
-      "loadedComments": 79,
+      "totalComments": 107,
+      "loadedComments": 81,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3075,8 +3081,8 @@
       "title": "8.5",
       "status": "not_found",
       "found": false,
-      "totalComments": 150,
-      "loadedComments": 117,
+      "totalComments": 151,
+      "loadedComments": 118,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3111,7 +3117,7 @@
       "title": "7.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 475,
+      "totalComments": 474,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
