@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-20T04:06:26.442Z",
+  "checkTime": "2026-10-20T07:06:24.268Z",
   "articles": [
     {
       "title": "",
@@ -1636,6 +1636,22 @@
       "creator": "初心笔记"
     },
     {
+      "title": "万丰奥威 #操盘手#盘口#涨知识 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7698611015608434751/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "宇树科技 #操盘手#龙虎榜#盘口#上市公司大追踪#宇树科技",
+      "url": "https://www.toutiao.com/video/7698606987411505193/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
       "title": "操盘手拆解龙虎榜——四会富仕 #上市公司大追踪 #龙虎榜 #四会富仕",
       "url": "https://www.toutiao.com/video/7698386080688832547/",
       "publishTime": "",
@@ -1648,7 +1664,6 @@
       "url": "https://www.toutiao.com/video/7698380251910701099/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1656,7 +1671,6 @@
       "url": "https://www.toutiao.com/video/7698366675762364431/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪",
       "doubaoReply": [
         {
@@ -3235,25 +3249,27 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7687587894994993198/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "下周只交易四天，持币还是持股？ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7687585086493884459/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
+    },
+    {
+      "title": "中国巨石 三季报点评 #中国巨石 #财报解读 #电子布",
+      "url": "https://www.toutiao.com/video/7698635578367197193/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "GNCapital产业研究"
+    },
+    {
+      "title": "锐捷网络 三季报点评 #锐捷网络 #交换机 #ai算力",
+      "url": "https://www.toutiao.com/video/7698607877585371199/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "GNCapital产业研究"
     },
     {
       "title": "海光信息 三季报点评 #海光信息 #CPU #AI算力",
@@ -3268,7 +3284,6 @@
       "url": "https://www.toutiao.com/video/7698316581771673640/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "GNCapital产业研究"
     },
     {
@@ -3276,7 +3291,6 @@
       "url": "https://www.toutiao.com/video/7696686760031289379/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "GNCapital产业研究"
     },
     {
@@ -4270,6 +4284,14 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "title": "10.20",
+      "url": "https://www.toutiao.com/video/7698596058430980132/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "艾丽无废话财经"
+    },
+    {
       "title": "10.19",
       "url": "https://www.toutiao.com/video/7698310107437301801/",
       "publishTime": "",
@@ -4324,7 +4346,6 @@
       "url": "https://www.toutiao.com/video/7697758893937524776/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "艾丽无废话财经"
     },
     {
@@ -5852,13 +5873,6 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "title": "3.17",
-      "url": "https://www.toutiao.com/video/7618130056283750406/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "艾丽无废话财经"
-    },
-    {
       "title": "12.21  捋清她的真实意图",
       "url": "https://www.toutiao.com/video/7586214371588571698/",
       "publishTime": "",
@@ -5873,5 +5887,5 @@
       "creator": "艾丽无废话财经"
     }
   ],
-  "totalItems": 721
+  "totalItems": 723
 }
