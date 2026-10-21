@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-20T23:11:59.797Z",
-  "total": 594,
+  "builtAt": "2026-10-21T07:07:27.800Z",
+  "total": 595,
   "found": 297,
-  "notFound": 297,
+  "notFound": 298,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,22 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7698975077563400755/",
+      "title": "10-21号德邦证券：三季度经济企稳回升，预计全年走势“前高中低后稳”",
+      "status": "no_comments",
+      "found": false,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698910390729703964/",
+      "title": "宁德时代2026年三季报业绩解读会。",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7698701467330429491/",
       "title": "李录：如何从一文不名到芒格唯一家族资产管理人，从负债穷学生到管理140亿美元？",
       "status": "not_found",
@@ -729,33 +745,34 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7697629142400975407/",
-      "title": "10-17号洪灏最新访谈：资本市场前景解读",
-      "status": "not_found",
+      "url": "https://www.toutiao.com/video/7698979385319112714/",
+      "title": "操盘手拆解盘口——新华传媒 #上市公司大追踪",
+      "status": "no_comments",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7697225204086391305/",
-      "title": "特斯拉Roadster2发布会 完整版",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这次发布会公布的技术都很硬核~有车底风扇抽吸系统可提供强下压力，还有10组冷气推进喷嘴能实现特技动作，同时配备线控转向制动、可调悬架赛道模式、多电机动力总成，还有优化的空气动力学设计。",
-      "doubaoReplies": [
-        {
-          "askUser": "KK201916",
-          "askText": "@豆包 发布会有哪些技术？",
-          "doubaoReply": "这次发布会公布的技术都很硬核~有车底风扇抽吸系统可提供强下压力，还有10组冷气推进喷嘴能实现特技动作，同时配备线控转向制动、可调悬架赛道模式、多电机动力总成，还有优化的空气动力学设计。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7697242012567470884"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7698977518715420681/",
+      "title": "操盘手拆解盘口——九阳股份 #上市公司大追踪 #九阳股份",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698973668794761216/",
+      "title": "操盘手拆解盘口——宁德时代 #上市公司大追踪 #宁德时代",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698960773191565354/",
+      "title": "创业板收跌超1%，资金流向何处？ #上市公司大追踪 #a股行情 #创业板",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7698733362562727946/",
@@ -798,15 +815,17 @@
       "title": "操盘手拆解盘口——新华传媒 #上市公司大追踪 #盘口 #新华传媒",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7698702160564879379/",
       "title": "操盘手拆解盘口——亨通光电 #上市公司大追踪 #股票知识分享 #亨通光电",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -897,8 +916,8 @@
       "title": "十八条，四十天，证监会把大股东减持的账本 赚四百多万罚二十万？新规终于要堵这个口子”#上市公司大追踪#国家政策#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 40,
-      "loadedComments": 36,
+      "totalComments": 61,
+      "loadedComments": 53,
       "creator": "上市公司大追踪"
     },
     {
@@ -1484,42 +1503,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7695761813157199914/",
-      "title": "操盘手拆解龙虎榜—博纳影业 #上市公司大追踪 #龙虎榜 #博纳影业",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695759070397284386/",
-      "title": "操盘手拆解龙虎榜—莱美药业 #上市公司大追踪 #龙虎榜 #莱美药业",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695752249288425515/",
-      "title": "操盘手拆解龙虎榜—金健米业 #上市公司大追踪 #龙虎榜 #金健米业",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695681326553169970/",
-      "title": "单日蒸发三千亿成交资金为何大幅流出 #上市公司大追踪 #市场资金流向",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 11,
-      "loadedComments": 11,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7698635578367197193/",
       "title": "中国巨石 三季报点评 #中国巨石 #财报解读 #电子布",
       "status": "not_found",
@@ -1533,8 +1516,8 @@
       "title": "锐捷网络 三季报点评 #锐捷网络 #交换机 #ai算力",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2317,12 +2300,30 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7698969988492705855/",
+      "title": "10.21",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 7,
+      "loadedComments": 7,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698909182937792527/",
+      "title": "10.21",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 40,
+      "loadedComments": 38,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7698596058430980132/",
       "title": "10.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 161,
-      "loadedComments": 116,
+      "totalComments": 191,
+      "loadedComments": 137,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2330,8 +2331,8 @@
       "title": "10.19",
       "status": "not_found",
       "found": false,
-      "totalComments": 44,
-      "loadedComments": 37,
+      "totalComments": 46,
+      "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3088,8 +3089,8 @@
       "title": "8.5",
       "status": "not_found",
       "found": false,
-      "totalComments": 151,
-      "loadedComments": 118,
+      "totalComments": 152,
+      "loadedComments": 119,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3097,8 +3098,8 @@
       "title": "8.4",
       "status": "not_found",
       "found": false,
-      "totalComments": 86,
-      "loadedComments": 70,
+      "totalComments": 87,
+      "loadedComments": 71,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3106,8 +3107,8 @@
       "title": "8.2",
       "status": "not_found",
       "found": false,
-      "totalComments": 116,
-      "loadedComments": 95,
+      "totalComments": 117,
+      "loadedComments": 96,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3174,22 +3175,24 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7664158879722749961/",
-      "title": "7.19",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 63,
-      "loadedComments": 53,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7663809700194713610/",
-      "title": "7.18",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 127,
-      "loadedComments": 107,
-      "creator": "艾丽无废话财经"
+      "url": "https://www.toutiao.com/video/7697225204086391305/",
+      "title": "特斯拉Roadster2发布会 完整版",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这次发布会公布的技术都很硬核~有车底风扇抽吸系统可提供强下压力，还有10组冷气推进喷嘴能实现特技动作，同时配备线控转向制动、可调悬架赛道模式、多电机动力总成，还有优化的空气动力学设计。",
+      "doubaoReplies": [
+        {
+          "askUser": "KK201916",
+          "askText": "@豆包 发布会有哪些技术？",
+          "doubaoReply": "这次发布会公布的技术都很硬核~有车底风扇抽吸系统可提供强下压力，还有10组冷气推进喷嘴能实现特技动作，同时配备线控转向制动、可调悬架赛道模式、多电机动力总成，还有优化的空气动力学设计。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7697242012567470884"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7697056038385664522/",
