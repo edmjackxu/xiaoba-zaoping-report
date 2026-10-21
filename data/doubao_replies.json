@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-21T11:07:28.619Z",
+  "builtAt": "2026-10-21T23:13:40.799Z",
   "total": 595,
-  "found": 297,
-  "notFound": 298,
+  "found": 298,
+  "notFound": 297,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -345,7 +345,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 42,
-      "loadedComments": 37,
+      "loadedComments": 38,
       "creator": "初心笔记"
     },
     {
@@ -673,10 +673,30 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7699091193812091402/",
+      "title": "10-21号高盛首席闪辉：进出口数据分析、投资经济展望",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699089959277445660/",
+      "title": "10-21号大摩闭门会：工业、原材料和汽车行业最新动态解析",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7698975077563400755/",
       "title": "10-21号德邦证券：三季度经济企稳回升，预计全年走势“前高中低后稳”",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "初心笔记"
     },
     {
@@ -727,51 +747,80 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7698002367207260699/",
-      "title": "10-18号长江证券：美债风暴来袭，何处是方舟？",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698001440996049410/",
-      "title": "1018-美银证券-常见问题解答：AI建设热潮的经济学",
+      "url": "https://www.toutiao.com/video/7699099930715799552/",
+      "title": "操盘手拆解龙虎榜——宇通通讯 #上市公司大追踪 #龙虎榜 #宇通通讯",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699097686091235378/",
+      "title": "操盘手拆解龙虎榜——蔚蓝锂芯 #上市公司大追踪 #龙虎榜 #蔚蓝锂芯",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699095738323566634/",
+      "title": "冰箱大的核反应堆，为什么不是“缩小版核电 四川十亿核能公司揭牌，A股谁在“卖铲子”，谁只是在“站台”？#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699094730843373611/",
+      "title": "操盘手拆解龙虎榜——利亚德 #股票 上市公司大追踪#利亚德 #龙虎榜",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699063424482803766/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7699045982780669962/",
       "title": "操盘手拆解盘口——新华传媒 #上市公司大追踪 #传媒板块 #新华传媒",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7699041359857025034/",
       "title": "操盘手拆解盘口——雪人集团 #上市公司大追踪 #个股 #盘口 #雪人集团",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7699038579263864886/",
       "title": "操盘手拆解盘口——太极股份 #上市公司大追踪 #操盘手拆解盘口 #太极股份",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7699035362089238591/",
       "title": "操盘手拆解盘口——冰山冷热 #上市公司大追踪 #股票知识分享 #盘口 #冰山冷热",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -811,8 +860,8 @@
       "title": "创业板收跌超1%，资金流向何处？ #上市公司大追踪 #a股行情 #创业板",
       "status": "not_found",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "totalComments": 5,
+      "loadedComments": 5,
       "creator": "上市公司大追踪"
     },
     {
@@ -1451,51 +1500,6 @@
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696156693549285412/",
-      "title": "操盘手拆解盘口—天娱数科 #上市公司大追踪 #操盘手 #天娱数科 #盘口",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696153923376054282/",
-      "title": "操盘手拆解龙虎榜—雪人集团 #上市公司大追踪 #龙虎榜 #雪人集团",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696149302617178121/",
-      "title": "操盘手拆解龙虎榜—东百集团 #上市公司大追踪 #龙虎榜 #东百集团",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696125147611070491/",
-      "title": "浪潮利润大增176%，单季收益大幅回落 #上市公司大追踪 #浪潮信息",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696025287923073033/",
-      "title": "深V反转！科创50涨超1%，A股科 军工板块午后狂飙！珠海航展临近，是事件炒作还是价值重估？#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2300,8 +2304,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 17,
-      "loadedComments": 15,
+      "totalComments": 34,
+      "loadedComments": 24,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2309,18 +2313,28 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 46,
-      "loadedComments": 43,
+      "totalComments": 64,
+      "loadedComments": 56,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7698596058430980132/",
       "title": "10.20",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 228,
-      "loadedComments": 158,
-      "creator": "艾丽无废话财经"
+      "publishTime": "",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "这是以色列的议会大选啦～战时按期举行挺特殊的，法律规定不能随便推迟，军人还有专门投票渠道呢～",
+      "doubaoReplies": [
+        {
+          "askUser": "阿啊夏萨嘛哈",
+          "askText": "@豆包 战时还会进行中期选举？",
+          "doubaoReply": "这是以色列的议会大选啦～战时按期举行挺特殊的，法律规定不能随便推迟，军人还有专门投票渠道呢～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7698782606359937842"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7698310107437301801/",
@@ -2824,7 +2838,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 231,
+      "totalComments": 230,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -2986,8 +3000,8 @@
       "title": "8.16 亲眼见证Ijen火山的“蓝色火焰” #Ijen火山 #蓝色火焰 #印尼 再次夜里12点出发 再次爬又高又陡又滑的山体 终于 看到了Ijen火山上的“蓝紫色火焰” 全球仅少数地点如冰岛、埃塞俄比亚有类似现象 印尼的Ijen火山是南半球唯一稳定的观测点 没有想到这个过程是如此之不易 更没有想到第二次到印尼的旅程 竟是我这么多年去的这么多的国家里面 把自己弄得浑身上下最脏也是最辛苦的一次 双腿已然快觉得不是自己的了 鞋脏到应该已经洗不出来了 裤子也已经灰的认不出了 但 还是都坚持下来了 要为自己的坚持点个赞 🥂 看世界的美妙之一 就是总是充满着各种不确定性 美好的东西 总要付出多一些努力才能得到 其实 生活中也是如此 不管是更多的知识还是更优秀的人 印尼之后不久 将要开启第60个国家的旅程了 ——格鲁吉亚、阿塞拜疆、亚美尼亚 期待～😎🥂",
       "status": "not_found",
       "found": false,
-      "totalComments": 49,
-      "loadedComments": 42,
+      "totalComments": 50,
+      "loadedComments": 43,
       "creator": "艾丽无废话财经"
     },
     {

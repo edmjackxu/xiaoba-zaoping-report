@@ -4285,7 +4285,17 @@
       "publishTime": "",
       "type": "video",
       "summary": "",
-      "creator": "艾丽无废话财经"
+      "creator": "艾丽无废话财经",
+      "doubaoReply": [
+        {
+          "askUser": "阿啊夏萨嘛哈",
+          "askText": "@豆包 战时还会进行中期选举？",
+          "doubaoReply": "这是以色列的议会大选啦～战时按期举行挺特殊的，法律规定不能随便推迟，军人还有专门投票渠道呢～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7698782606359937842"
+        }
+      ]
     },
     {
       "title": "10.19",
