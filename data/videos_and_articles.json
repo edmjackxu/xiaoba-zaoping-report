@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-21T04:06:28.125Z",
+  "checkTime": "2026-10-21T07:06:27.530Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "10-21号德邦证券：三季度经济企稳回升，预计全年走势“前高中低后稳”",
+      "url": "https://www.toutiao.com/video/7698975077563400755/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1609,28 +1616,34 @@
       "creator": "初心笔记"
     },
     {
-      "title": "0-10号长江：太空视角下的半导体大厂资本开支",
-      "url": "https://www.toutiao.com/video/7683744963301016121/",
+      "title": "操盘手拆解盘口——新华传媒 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7698979385319112714/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "黄金匪徒",
-          "askText": "@豆包 总结视频内容",
-          "doubaoReply": "这段是长江证券首席张弛的行业分享，创新用卫星遥感影像跟踪海外半导体晶圆厂真实施工进度，弥补仅靠企业公告判断进度的不足。报告重点分析美光、台积电海外建厂情况：美光爱达荷州博伊西晶圆厂虽计划2027年年中投产，但2026年7月卫星显示尚未封顶，投产大概率延后；新加坡厂区稳步施工，纽约地块仅完成前期平整。台积电亚利桑那州工厂持续扩建，多代制程产线分阶段落地。同时梳理洁净室产业链，指出洁净室建设具备刚性，本轮半导体资本开支持缓存在结构性分化，已开工项目受冲击有限，看好相关企业业绩兑现，所有观点仅作行业参考，不作为投资依据。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7683750054561710875"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解盘口——九阳股份 #上市公司大追踪 #九阳股份",
+      "url": "https://www.toutiao.com/video/7698977518715420681/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解盘口——宁德时代 #上市公司大追踪 #宁德时代",
+      "url": "https://www.toutiao.com/video/7698973668794761216/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "创业板收跌超1%，资金流向何处？ #上市公司大追踪 #a股行情 #创业板",
       "url": "https://www.toutiao.com/video/7698960773191565354/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1638,7 +1651,6 @@
       "url": "https://www.toutiao.com/video/7698733362562727946/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1646,7 +1658,6 @@
       "url": "https://www.toutiao.com/video/7698729447138377766/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3218,27 +3229,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7688115206636175402/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "人民日报定调房地产，“绝非行业退潮！” #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7687997048381472822/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "美股集体高开，英特尔暴涨9% #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7687988922458554422/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "",
@@ -4275,6 +4265,14 @@
     },
     {
       "title": "10.21",
+      "url": "https://www.toutiao.com/video/7698969988492705855/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "title": "10.21",
       "url": "https://www.toutiao.com/video/7698909182937792527/",
       "publishTime": "",
       "type": "video",
@@ -4294,7 +4292,6 @@
       "url": "https://www.toutiao.com/video/7698310107437301801/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "艾丽无废话财经"
     },
     {
@@ -5851,13 +5848,6 @@
     {
       "title": "3.20",
       "url": "https://www.toutiao.com/video/7619248367771582491/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "title": "3.19",
-      "url": "https://www.toutiao.com/video/7618905452553699334/",
       "publishTime": "",
       "type": "video",
       "creator": "艾丽无废话财经"
