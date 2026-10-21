@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-21T07:07:27.800Z",
+  "builtAt": "2026-10-21T11:07:28.619Z",
   "total": 595,
   "found": 297,
   "notFound": 298,
@@ -745,6 +745,45 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7699045982780669962/",
+      "title": "操盘手拆解盘口——新华传媒 #上市公司大追踪 #传媒板块 #新华传媒",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699041359857025034/",
+      "title": "操盘手拆解盘口——雪人集团 #上市公司大追踪 #个股 #盘口 #雪人集团",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699038579263864886/",
+      "title": "操盘手拆解盘口——太极股份 #上市公司大追踪 #操盘手拆解盘口 #太极股份",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699035362089238591/",
+      "title": "操盘手拆解盘口——冰山冷热 #上市公司大追踪 #股票知识分享 #盘口 #冰山冷热",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699018530758328374/",
+      "title": "国家队连续十一天买入，指数却还创新低？ #上市公司大追踪 #a股行情 #盘面 #收评",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7698979385319112714/",
       "title": "操盘手拆解盘口——新华传媒 #上市公司大追踪",
       "status": "no_comments",
@@ -754,8 +793,10 @@
     {
       "url": "https://www.toutiao.com/video/7698977518715420681/",
       "title": "操盘手拆解盘口——九阳股份 #上市公司大追踪 #九阳股份",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -770,8 +811,8 @@
       "title": "创业板收跌超1%，资金流向何处？ #上市公司大追踪 #a股行情 #创业板",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -916,8 +957,8 @@
       "title": "十八条，四十天，证监会把大股东减持的账本 赚四百多万罚二十万？新规终于要堵这个口子”#上市公司大追踪#国家政策#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 61,
-      "loadedComments": 53,
+      "totalComments": 63,
+      "loadedComments": 55,
       "creator": "上市公司大追踪"
     },
     {
@@ -1118,8 +1159,8 @@
       "title": "操盘手拆解龙虎榜—宗申动力 #上市公司大追踪 #涨停 #龙虎榜 #宗申动力",
       "status": "not_found",
       "found": false,
-      "totalComments": 23,
-      "loadedComments": 17,
+      "totalComments": 22,
+      "loadedComments": 16,
       "creator": "上市公司大追踪"
     },
     {
@@ -1458,57 +1499,12 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7695810160682647593/",
-      "title": "操盘手拆解盘口——赛力斯 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695796888083611648/",
-      "title": "提出突破的那家，自己跌得最狠 #上市公司大追踪 #美股",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695793805303218212/",
-      "title": "提出突破的那家，自己跌得最狠 #上市公司大追踪 #美股",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695791662836940842/",
-      "title": "出口退税砍4个点：新能源车和电子烟 #上市公司大追踪 #出口退税",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7695768149752610852/",
-      "title": "操盘手拆解龙虎榜—金安国纪 #上市公司大追踪 #龙虎榜 #金安国纪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7698635578367197193/",
       "title": "中国巨石 三季报点评 #中国巨石 #财报解读 #电子布",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2304,8 +2300,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
+      "totalComments": 17,
+      "loadedComments": 15,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2313,8 +2309,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 40,
-      "loadedComments": 38,
+      "totalComments": 46,
+      "loadedComments": 43,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2322,8 +2318,8 @@
       "title": "10.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 191,
-      "loadedComments": 137,
+      "totalComments": 228,
+      "loadedComments": 158,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2331,8 +2327,8 @@
       "title": "10.19",
       "status": "not_found",
       "found": false,
-      "totalComments": 46,
-      "loadedComments": 38,
+      "totalComments": 45,
+      "loadedComments": 37,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2384,8 +2380,8 @@
       "title": "10.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 68,
-      "loadedComments": 60,
+      "totalComments": 69,
+      "loadedComments": 61,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2393,8 +2389,8 @@
       "title": "10.16",
       "status": "not_found",
       "found": false,
-      "totalComments": 69,
-      "loadedComments": 58,
+      "totalComments": 70,
+      "loadedComments": 59,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2558,8 +2554,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 89,
-      "loadedComments": 72,
+      "totalComments": 93,
+      "loadedComments": 73,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2828,7 +2824,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 229,
+      "totalComments": 231,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
