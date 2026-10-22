@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-21T23:13:40.799Z",
+  "builtAt": "2026-10-22T04:08:45.714Z",
   "total": 595,
-  "found": 298,
-  "notFound": 297,
+  "found": 301,
+  "notFound": 294,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -675,11 +675,21 @@
     {
       "url": "https://www.toutiao.com/video/7699091193812091402/",
       "title": "10-21号高盛首席闪辉：进出口数据分析、投资经济展望",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "初心笔记"
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "这是2025年10月21日的中国宏观经济论坛CMF月度线上分析会，被B站UP主“初心笔记”剪成了投资私享会片段，主讲是高盛首席中国经济学家闪辉。\n她的核心分析思路是：看进出口要区分价格和实物量，出口对GDP的实际拉动比官方统计的更高，未来3-5年出口实物量大概率保持5%-10%年增长，同时也提到当前内需偏弱，四季度完成增长目标有压力。\n以上仅为经济学家研讨观点，不构成投资建议😊",
+      "doubaoReplies": [
+        {
+          "askUser": "爱生活的小猫mnO",
+          "askText": "@豆包 这是什么时候讲的，什么场合\n具体思路是什么",
+          "doubaoReply": "这是2025年10月21日的中国宏观经济论坛CMF月度线上分析会，被B站UP主“初心笔记”剪成了投资私享会片段，主讲是高盛首席中国经济学家闪辉。\n她的核心分析思路是：看进出口要区分价格和实物量，出口对GDP的实际拉动比官方统计的更高，未来3-5年出口实物量大概率保持5%-10%年增长，同时也提到当前内需偏弱，四季度完成增长目标有压力。\n以上仅为经济学家研讨观点，不构成投资建议😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7699254674180145970"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7699089959277445660/",
@@ -740,11 +750,21 @@
     {
       "url": "https://www.toutiao.com/video/7698223407430648343/",
       "title": "10-19号高盛首席：东大出口数据亮眼",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "这是彭博《The China Show》节目哦～大概率是2026年10月19日的，也有二次分发版本标注9月18日哒😊",
+      "doubaoReplies": [
+        {
+          "askUser": "wangrun331",
+          "askText": "@豆包 这是什么时间的节目",
+          "doubaoReply": "这是彭博《The China Show》节目哦～大概率是2026年10月19日的，也有二次分发版本标注9月18日哒😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7699264255865979658"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7699099930715799552/",
@@ -776,16 +796,30 @@
     {
       "url": "https://www.toutiao.com/video/7699094730843373611/",
       "title": "操盘手拆解龙虎榜——利亚德 #股票 上市公司大追踪#利亚德 #龙虎榜",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7699063424482803766/",
       "title": "分享视频",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "国家队这次没追热门芯片设计股，重点布局玻纤、电子特气等硬科技上游产业链～中国国新、中国诚通合计斥资600亿元增持A股，其中国新相关专项再贷款配套资金超500亿元。国新投资持续加仓有研新材、海光信息；国新宏盛首次进入中国巨石、中船特气前十大流通股东。这笔资金属于逆周期财务投资，不谋求控制权，核心是阻断资产价格下跌和流动性收缩的负反馈，上游赛道认证门槛高、客户粘性强，确定性更强。视频提醒，国家队增持不等于股价马上涨哦，普通投资者可分三类策略：防守型等回撤分批布局央企科技ETF、半导体材料ETF；进攻型跟踪持续加仓龙头的基本面指标；事件型等股价缩量回踩关键均线再考虑介入，没有基本面改善别跟风～以上仅为视频内容总结，不构成任何投资建议，股市有风险哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "非凡百香果hZ",
+          "askText": "@豆包 总结",
+          "doubaoReply": "国家队这次没追热门芯片设计股，重点布局玻纤、电子特气等硬科技上游产业链～中国国新、中国诚通合计斥资600亿元增持A股，其中国新相关专项再贷款配套资金超500亿元。国新投资持续加仓有研新材、海光信息；国新宏盛首次进入中国巨石、中船特气前十大流通股东。这笔资金属于逆周期财务投资，不谋求控制权，核心是阻断资产价格下跌和流动性收缩的负反馈，上游赛道认证门槛高、客户粘性强，确定性更强。视频提醒，国家队增持不等于股价马上涨哦，普通投资者可分三类策略：防守型等回撤分批布局央企科技ETF、半导体材料ETF；进攻型跟踪持续加仓龙头的基本面指标；事件型等股价缩量回踩关键均线再考虑介入，没有基本面改善别跟风～以上仅为视频内容总结，不构成任何投资建议，股市有风险哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7699277678939194121"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7699045982780669962/",
@@ -828,20 +862,13 @@
       "title": "国家队连续十一天买入，指数却还创新低？ #上市公司大追踪 #a股行情 #盘面 #收评",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7698979385319112714/",
       "title": "操盘手拆解盘口——新华传媒 #上市公司大追踪",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698977518715420681/",
-      "title": "操盘手拆解盘口——九阳股份 #上市公司大追踪 #九阳股份",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -849,10 +876,21 @@
       "creator": "上市公司大追踪"
     },
     {
+      "url": "https://www.toutiao.com/video/7698977518715420681/",
+      "title": "操盘手拆解盘口——九阳股份 #上市公司大追踪 #九阳股份",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7698973668794761216/",
       "title": "操盘手拆解盘口——宁德时代 #上市公司大追踪 #宁德时代",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2300,12 +2338,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7699328243127599139/",
+      "title": "10.22",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 15,
+      "loadedComments": 13,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7698969988492705855/",
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 34,
-      "loadedComments": 24,
+      "totalComments": 41,
+      "loadedComments": 26,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2313,8 +2360,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 64,
-      "loadedComments": 56,
+      "totalComments": 67,
+      "loadedComments": 61,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2324,6 +2371,7 @@
       "creator": "艾丽无废话财经",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这是以色列的议会大选啦～战时按期举行挺特殊的，法律规定不能随便推迟，军人还有专门投票渠道呢～",
       "doubaoReplies": [
         {
@@ -2341,8 +2389,8 @@
       "title": "10.19",
       "status": "not_found",
       "found": false,
-      "totalComments": 45,
-      "loadedComments": 37,
+      "totalComments": 46,
+      "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3126,8 +3174,8 @@
       "title": "8.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 86,
-      "loadedComments": 59,
+      "totalComments": 87,
+      "loadedComments": 60,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3135,7 +3183,7 @@
       "title": "7.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 474,
+      "totalComments": 476,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3173,15 +3221,6 @@
       "found": false,
       "totalComments": 73,
       "loadedComments": 45,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7664918750857592847/",
-      "title": "7.21",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 46,
-      "loadedComments": 44,
       "creator": "艾丽无废话财经"
     },
     {
