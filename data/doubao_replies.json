@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-22T11:09:44.189Z",
-  "total": 595,
+  "builtAt": "2026-10-22T23:13:47.125Z",
+  "total": 596,
   "found": 302,
-  "notFound": 293,
+  "notFound": 294,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -335,7 +335,7 @@
       "title": "《天道》中最精彩的一段：五台山论道未删减版！看懂的都是神人！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1431,
+      "totalComments": 1430,
       "loadedComments": 189,
       "creator": "初心笔记"
     },
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7699467068630270474/",
+      "title": "王文最新访谈：为什么大多数投资者都赔钱？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 4,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7699091193812091402/",
       "title": "10-21号高盛首席闪辉：进出口数据分析、投资经济展望",
       "publishTime": "",
@@ -749,30 +758,55 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7698223407430648343/",
-      "title": "10-19号高盛首席：东大出口数据亮眼",
-      "publishTime": "",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这是彭博《The China Show》节目哦～大概率是2026年10月19日的，也有二次分发版本标注9月18日哒😊",
-      "doubaoReplies": [
-        {
-          "askUser": "wangrun331",
-          "askText": "@豆包 这是什么时间的节目",
-          "doubaoReply": "这是彭博《The China Show》节目哦～大概率是2026年10月19日的，也有二次分发版本标注9月18日哒😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7699264255865979658"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7699473216514818067/",
+      "title": "操盘手拆解龙虎榜——博汇股份 #上市公司大追踪 #龙虎榜 #博汇股份",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699471846449643529/",
+      "title": "操盘手拆解龙虎榜——北洋新材 #上市公司大追踪 #龙虎榜 #天洋新材",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699465146606813226/",
+      "title": "操盘手拆解龙虎榜——北新路桥 #上市公司大追踪 #龙虎榜 #涨停 #北新路桥",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699462736333258795/",
+      "title": "操盘手拆解龙虎榜——华盛昌 #上市公司大追踪 #龙虎榜 #华盛昌",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699460838939164672/",
+      "title": "操盘手拆解龙虎榜——通则康威 #上市公司大追踪 #股票知识分享 #龙虎榜 #涨停",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7699406380926533658/",
       "title": "操盘手拆解盘口——沈鼓集团 #上市公司大追踪 #股票知识分享 #涨停 #沈鼓集团",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -780,8 +814,8 @@
       "title": "操盘手拆解盘口——冰山冷热 #上市公司大追踪 #股票知识分享 #盘口 #冰山冷热",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -791,6 +825,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "明日盯盘重点看开盘啦～高开站稳22.62是多头信号，平开在21.7附近盯均价线，跌破20.5/20.36要谨慎～日内分三段盯盘，别忘了关注小家电板块催化哦😊（技术推测不构成投资建议，股市有风险）",
       "doubaoReplies": [
         {
@@ -806,8 +841,10 @@
     {
       "url": "https://www.toutiao.com/video/7699397841176756275/",
       "title": "操盘手拆解盘口——宁德时代 #上市公司大追踪 #盘口 #宁德时代",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -833,8 +870,8 @@
       "title": "操盘手拆解龙虎榜——蔚蓝锂芯 #上市公司大追踪 #龙虎榜 #蔚蓝锂芯",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -1098,8 +1135,8 @@
       "title": "十八条，四十天，证监会把大股东减持的账本 赚四百多万罚二十万？新规终于要堵这个口子”#上市公司大追踪#国家政策#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 63,
-      "loadedComments": 55,
+      "totalComments": 65,
+      "loadedComments": 56,
       "creator": "上市公司大追踪"
     },
     {
@@ -1327,8 +1364,8 @@
       "title": "内幕交易罚五个亿，证监会这次下死手 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 76,
-      "loadedComments": 74,
+      "totalComments": 75,
+      "loadedComments": 73,
       "creator": "上市公司大追踪"
     },
     {
@@ -1502,51 +1539,6 @@
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696506119426392106/",
-      "title": "操盘手拆解龙虎榜——新华文轩 #上市公司大追踪 #龙虎榜 #涨停 #新华文轩",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696497529768116234/",
-      "title": "操盘手拆解龙虎榜——大金重工 #上市公司大追踪 #龙虎榜 #股票 #大金重工",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696495050356965416/",
-      "title": "操盘手拆解龙虎榜——韶能股份 #上市公司大追踪 #龙虎榜 #涨停 #韶能股份",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696491339223711780/",
-      "title": "操盘手拆解龙虎榜—果麦文化 #上市公司大追踪 #龙虎榜 #果麦文化",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696488531774701583/",
-      "title": "操盘手拆解龙虎榜——果麦文化 #上市公司大追踪 #龙虎榜 #果麦文化",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2351,8 +2343,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 106,
-      "loadedComments": 76,
+      "totalComments": 126,
+      "loadedComments": 101,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2360,8 +2352,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 44,
-      "loadedComments": 26,
+      "totalComments": 51,
+      "loadedComments": 31,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2369,8 +2361,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 74,
-      "loadedComments": 66,
+      "totalComments": 83,
+      "loadedComments": 73,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2398,7 +2390,7 @@
       "title": "10.19",
       "status": "not_found",
       "found": false,
-      "totalComments": 46,
+      "totalComments": 47,
       "loadedComments": 37,
       "creator": "艾丽无废话财经"
     },
@@ -2895,8 +2887,8 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 230,
-      "loadedComments": 188,
+      "totalComments": 232,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3192,7 +3184,7 @@
       "title": "7.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 478,
+      "totalComments": 479,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3201,8 +3193,8 @@
       "title": "7.29",
       "status": "not_found",
       "found": false,
-      "totalComments": 50,
-      "loadedComments": 36,
+      "totalComments": 51,
+      "loadedComments": 37,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3231,6 +3223,26 @@
       "totalComments": 73,
       "loadedComments": 45,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698223407430648343/",
+      "title": "10-19号高盛首席：东大出口数据亮眼",
+      "publishTime": "",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这是彭博《The China Show》节目哦～大概率是2026年10月19日的，也有二次分发版本标注9月18日哒😊",
+      "doubaoReplies": [
+        {
+          "askUser": "wangrun331",
+          "askText": "@豆包 这是什么时间的节目",
+          "doubaoReply": "这是彭博《The China Show》节目哦～大概率是2026年10月19日的，也有二次分发版本标注9月18日哒😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7699264255865979658"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7697225204086391305/",
