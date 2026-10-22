@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-22T04:08:45.714Z",
+  "builtAt": "2026-10-22T07:07:53.517Z",
   "total": 595,
   "found": 301,
   "notFound": 294,
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这是2025年10月21日的中国宏观经济论坛CMF月度线上分析会，被B站UP主“初心笔记”剪成了投资私享会片段，主讲是高盛首席中国经济学家闪辉。\n她的核心分析思路是：看进出口要区分价格和实物量，出口对GDP的实际拉动比官方统计的更高，未来3-5年出口实物量大概率保持5%-10%年增长，同时也提到当前内需偏弱，四季度完成增长目标有压力。\n以上仅为经济学家研讨观点，不构成投资建议😊",
       "doubaoReplies": [
         {
@@ -754,6 +755,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这是彭博《The China Show》节目哦～大概率是2026年10月19日的，也有二次分发版本标注9月18日哒😊",
       "doubaoReplies": [
         {
@@ -765,6 +767,15 @@
           "replyId": "7699264255865979658"
         }
       ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699339890588139560/",
+      "title": "四千只票齐跌，创业板走弱 #上市公司大追踪 #a股行情",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7699099930715799552/",
@@ -809,6 +820,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "国家队这次没追热门芯片设计股，重点布局玻纤、电子特气等硬科技上游产业链～中国国新、中国诚通合计斥资600亿元增持A股，其中国新相关专项再贷款配套资金超500亿元。国新投资持续加仓有研新材、海光信息；国新宏盛首次进入中国巨石、中船特气前十大流通股东。这笔资金属于逆周期财务投资，不谋求控制权，核心是阻断资产价格下跌和流动性收缩的负反馈，上游赛道认证门槛高、客户粘性强，确定性更强。视频提醒，国家队增持不等于股价马上涨哦，普通投资者可分三类策略：防守型等回撤分批布局央企科技ETF、半导体材料ETF；进攻型跟踪持续加仓龙头的基本面指标；事件型等股价缩量回踩关键均线再考虑介入，没有基本面改善别跟风～以上仅为视频内容总结，不构成任何投资建议，股市有风险哦😊",
       "doubaoReplies": [
         {
@@ -1525,15 +1537,6 @@
     {
       "url": "https://www.toutiao.com/video/7696164720340336703/",
       "title": "操盘手拆解龙虎榜—粤芯半导体 #上市公司大追踪 #龙虎榜 #粤芯半导体",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696161380025991211/",
-      "title": "操盘手拆解龙虎榜—九阳股份 #上市公司大追踪 #龙虎榜 #九阳股份",
       "status": "not_found",
       "found": false,
       "totalComments": 2,
@@ -2342,8 +2345,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 15,
-      "loadedComments": 13,
+      "totalComments": 49,
+      "loadedComments": 39,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2351,7 +2354,7 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 41,
+      "totalComments": 42,
       "loadedComments": 26,
       "creator": "艾丽无废话财经"
     },
@@ -2390,7 +2393,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 46,
-      "loadedComments": 38,
+      "loadedComments": 37,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2931,8 +2934,8 @@
       "title": "8.28",
       "status": "not_found",
       "found": false,
-      "totalComments": 37,
-      "loadedComments": 28,
+      "totalComments": 36,
+      "loadedComments": 27,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3012,8 +3015,8 @@
       "title": "8.20",
       "status": "not_found",
       "found": false,
-      "totalComments": 117,
-      "loadedComments": 103,
+      "totalComments": 116,
+      "loadedComments": 102,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3021,7 +3024,7 @@
       "title": "8.19",
       "status": "not_found",
       "found": false,
-      "totalComments": 48,
+      "totalComments": 47,
       "loadedComments": 43,
       "creator": "艾丽无废话财经"
     },
@@ -3120,8 +3123,8 @@
       "title": "8.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 116,
-      "loadedComments": 101,
+      "totalComments": 115,
+      "loadedComments": 100,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3156,8 +3159,8 @@
       "title": "8.4",
       "status": "not_found",
       "found": false,
-      "totalComments": 87,
-      "loadedComments": 71,
+      "totalComments": 86,
+      "loadedComments": 70,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3183,7 +3186,7 @@
       "title": "7.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 476,
+      "totalComments": 478,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
