@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-22T07:07:53.517Z",
+  "builtAt": "2026-10-22T11:09:44.189Z",
   "total": 595,
-  "found": 301,
-  "notFound": 294,
+  "found": 302,
+  "notFound": 293,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -769,6 +769,48 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7699406380926533658/",
+      "title": "操盘手拆解盘口——沈鼓集团 #上市公司大追踪 #股票知识分享 #涨停 #沈鼓集团",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699403931499102250/",
+      "title": "操盘手拆解盘口——冰山冷热 #上市公司大追踪 #股票知识分享 #盘口 #冰山冷热",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699401668169924635/",
+      "title": "操盘手拆解盘口——九阳股份 #上市公司大追踪 #九阳股份 #股票知识分享",
+      "publishTime": "",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "明日盯盘重点看开盘啦～高开站稳22.62是多头信号，平开在21.7附近盯均价线，跌破20.5/20.36要谨慎～日内分三段盯盘，别忘了关注小家电板块催化哦😊（技术推测不构成投资建议，股市有风险）",
+      "doubaoReplies": [
+        {
+          "askUser": "风行天下",
+          "askText": "@豆包 明日该怎么盯盘呢？",
+          "doubaoReply": "明日盯盘重点看开盘啦～高开站稳22.62是多头信号，平开在21.7附近盯均价线，跌破20.5/20.36要谨慎～日内分三段盯盘，别忘了关注小家电板块催化哦😊（技术推测不构成投资建议，股市有风险）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7699436151932764938"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699397841176756275/",
+      "title": "操盘手拆解盘口——宁德时代 #上市公司大追踪 #盘口 #宁德时代",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7699339890588139560/",
       "title": "四千只票齐跌，创业板走弱 #上市公司大追踪 #a股行情",
       "status": "not_found",
@@ -1508,42 +1550,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7696485492438597651/",
-      "title": "操盘手拆解龙虎榜——富春股份 #上市公司大追踪 #龙虎榜 #涨停 #富春股份",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696363219764199465/",
-      "title": "市场缩量磨底资金扎堆AI与PCB #上市公司大追踪 #盘面",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696306406337314858/",
-      "title": "1. 43.79亿冻结！茶百道IPO被指 2. 散户不买，机构足额？茶百道暴跌77%背后的抽屉协议疑云#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 19,
-      "loadedComments": 19,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696164720340336703/",
-      "title": "操盘手拆解龙虎榜—粤芯半导体 #上市公司大追踪 #龙虎榜 #粤芯半导体",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7698635578367197193/",
       "title": "中国巨石 三季报点评 #中国巨石 #财报解读 #电子布",
       "status": "not_found",
@@ -2033,8 +2039,8 @@
       "title": "2026年3月8日 算电协同七家核心企业梳理 协鑫能科 豫能控股 三峡能源 国电南瑞 国网信通 科华数据 南网储能 #算力 #电力 #算电协同",
       "status": "not_found",
       "found": false,
-      "totalComments": 46,
-      "loadedComments": 41,
+      "totalComments": 45,
+      "loadedComments": 40,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2208,8 +2214,8 @@
       "title": "2026年1月20日 新型电力系统核心赛道全解析 保变电气、国电南瑞、特变电工、中国西电、平高电气、许继电气、思源电气、四方股份、国网信通、涪陵电力、南网科技、国能日新、恒实科技、东方电子、朗新科技、金智科技、金智科技、科陆电子、科华数据、万胜智能、国电南自、阳光电源、南都电源、比亚迪、宁德时代、海博思创、新风光、派能科技、科士达、固德威、安科瑞 #新型电力系统 #国家电网 #特高压 #储能",
       "status": "not_found",
       "found": false,
-      "totalComments": 67,
-      "loadedComments": 59,
+      "totalComments": 55,
+      "loadedComments": 47,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2226,8 +2232,8 @@
       "title": "2026年1月18日 高盛：AI电力 六家核心企业梳理 应流股份、思源电气、宏发股份、江海股份、科士达、英维克 #AIDC #AI服务器 #电力设备",
       "status": "not_found",
       "found": false,
-      "totalComments": 64,
-      "loadedComments": 53,
+      "totalComments": 62,
+      "loadedComments": 51,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2345,8 +2351,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 49,
-      "loadedComments": 39,
+      "totalComments": 106,
+      "loadedComments": 76,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2354,7 +2360,7 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 42,
+      "totalComments": 44,
       "loadedComments": 26,
       "creator": "艾丽无废话财经"
     },
@@ -2363,8 +2369,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 67,
-      "loadedComments": 61,
+      "totalComments": 74,
+      "loadedComments": 66,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2890,7 +2896,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 230,
-      "loadedComments": 189,
+      "loadedComments": 188,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3025,7 +3031,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 47,
-      "loadedComments": 43,
+      "loadedComments": 42,
       "creator": "艾丽无废话财经"
     },
     {
