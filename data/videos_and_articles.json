@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-22T11:06:35.289Z",
+  "checkTime": "2026-10-22T23:06:29.031Z",
   "articles": [
     {
       "title": "",
@@ -663,6 +663,13 @@
     {
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "王文最新访谈：为什么大多数投资者都赔钱？",
+      "url": "https://www.toutiao.com/video/7699467068630270474/",
       "publishTime": "",
       "type": "video",
       "creator": "初心笔记"
@@ -1629,18 +1636,48 @@
       "creator": "初心笔记"
     },
     {
-      "title": "9-10号摩根大通：中国PCB与CCL三季度业绩可见度提升",
-      "url": "https://www.toutiao.com/video/7684064481357349399/",
+      "title": "操盘手拆解龙虎榜——博汇股份 #上市公司大追踪 #龙虎榜 #博汇股份",
+      "url": "https://www.toutiao.com/video/7699473216514818067/",
       "publishTime": "",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——北洋新材 #上市公司大追踪 #龙虎榜 #天洋新材",
+      "url": "https://www.toutiao.com/video/7699471846449643529/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——北新路桥 #上市公司大追踪 #龙虎榜 #涨停 #北新路桥",
+      "url": "https://www.toutiao.com/video/7699465146606813226/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——华盛昌 #上市公司大追踪 #龙虎榜 #华盛昌",
+      "url": "https://www.toutiao.com/video/7699462736333258795/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——通则康威 #上市公司大追踪 #股票知识分享 #龙虎榜 #涨停",
+      "url": "https://www.toutiao.com/video/7699460838939164672/",
+      "publishTime": "",
+      "type": "video",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "操盘手拆解盘口——沈鼓集团 #上市公司大追踪 #股票知识分享 #涨停 #沈鼓集团",
       "url": "https://www.toutiao.com/video/7699406380926533658/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1648,7 +1685,6 @@
       "url": "https://www.toutiao.com/video/7699403931499102250/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1656,7 +1692,6 @@
       "url": "https://www.toutiao.com/video/7699401668169924635/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪",
       "doubaoReply": [
         {
@@ -3190,51 +3225,6 @@
           "doubaoUser": "豆包",
           "diggCount": 0,
           "replyId": "7689180088922997545"
-        }
-      ]
-    },
-    {
-      "title": "爆！三安光电实控人被刑拘！ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7689044940285820974/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "突发！美光被告了说它侵权！ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7689042561851195392/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "日债收益率再创新高，廉价资金快速枯竭 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7688982960971710498/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "缩量阴跌，钱在往哪躲 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7688943603896451087/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7688862008585748521/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪",
-      "doubaoReply": [
-        {
-          "askUser": "菊花古剑和酒104",
-          "askText": "@豆包 钱贵了，房价也该降了？",
-          "doubaoReply": "钱变贵理论上会压制房价，但不一定会直接降哦～买房贷款利率主要看国内政策，本地供需、调控这些影响更大哒～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7688860949163918143"
         }
       ]
     },
