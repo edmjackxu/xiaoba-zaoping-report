@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-23T04:07:47.184Z",
+  "builtAt": "2026-10-23T07:10:01.176Z",
   "total": 596,
   "found": 302,
   "notFound": 294,
@@ -677,8 +677,8 @@
       "title": "王文最新访谈：为什么大多数投资者都赔钱？",
       "status": "not_found",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
+      "totalComments": 9,
+      "loadedComments": 8,
       "creator": "初心笔记"
     },
     {
@@ -758,12 +758,39 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7699694828988137491/",
-      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7699719197567221801/",
+      "title": "大盘被权重股绑架，指数严重失真 #上市公司大追踪 #上证指数 #a股市场 #a股行情",
       "status": "not_found",
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699716718339620914/",
+      "title": "操盘手拆解盘口——宁德时代 #上市公司大追踪 #板块分析 #宁德时代 #股票干货",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699711567419768873/",
+      "title": "操盘手拆解盘口——华天科技 #上市公司大追踪 #人气榜 #华天科技",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699694828988137491/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 10,
+      "loadedComments": 9,
       "creator": "上市公司大追踪"
     },
     {
@@ -1514,33 +1541,6 @@
       "found": false,
       "totalComments": 22,
       "loadedComments": 19,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696738758481149986/",
-      "title": "五千余股集体下挫，少数题材逆势突围 #上市公司大追踪 #a股行情 #a股市场",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 39,
-      "loadedComments": 30,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696661042348179506/",
-      "title": "纳指大跌，A股算力链今天怎么走？ 1. CPI只是导火索？CoreWeave债券暴跌，AI信仰开始裂缝#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 35,
-      "loadedComments": 28,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696527659908431887/",
-      "title": "2. 美债收益率破五点三，全球资产定价锚 4. 美联储加息概率五成，A股怎么接招？#上市公司大追踪#美股",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -2345,8 +2345,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 138,
-      "loadedComments": 109,
+      "totalComments": 143,
+      "loadedComments": 114,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2354,7 +2354,7 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 55,
+      "totalComments": 59,
       "loadedComments": 34,
       "creator": "艾丽无废话财经"
     },
@@ -2363,8 +2363,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 82,
-      "loadedComments": 72,
+      "totalComments": 84,
+      "loadedComments": 74,
       "creator": "艾丽无废话财经"
     },
     {
