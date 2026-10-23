@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-22T23:06:29.031Z",
+  "checkTime": "2026-10-23T04:06:29.279Z",
   "articles": [
     {
       "title": "",
@@ -1636,6 +1636,14 @@
       "creator": "初心笔记"
     },
     {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7699694828988137491/",
+      "publishTime": "",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
       "title": "操盘手拆解龙虎榜——博汇股份 #上市公司大追踪 #龙虎榜 #博汇股份",
       "url": "https://www.toutiao.com/video/7699473216514818067/",
       "publishTime": "",
@@ -1656,7 +1664,6 @@
       "url": "https://www.toutiao.com/video/7699465146606813226/",
       "publishTime": "",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3210,23 +3217,6 @@
       "publishTime": "",
       "type": "video",
       "creator": "上市公司大追踪"
-    },
-    {
-      "title": "央行例会大定调，物价合理回升！ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7689047872842842122/",
-      "publishTime": "",
-      "type": "video",
-      "creator": "上市公司大追踪",
-      "doubaoReply": [
-        {
-          "askUser": "我是清清",
-          "askText": "@豆包 物价合理回升是啥意思？",
-          "doubaoReply": "就是不是让物价暴涨搞恶性通胀哈，是把偏低的物价拉回健康区间，温和可控地上涨，打破之前“越降价企业越不赚钱、大家越不敢花”的负循环，带动企业盈利、就业和居民收入，政策也不会大水漫灌，是定向滴灌相关领域的~",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7689180088922997545"
-        }
-      ]
     },
     {
       "title": "#涨知识 #上市公司大追踪",
