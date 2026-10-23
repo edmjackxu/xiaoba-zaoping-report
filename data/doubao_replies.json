@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-22T23:13:47.125Z",
+  "builtAt": "2026-10-23T04:07:47.184Z",
   "total": 596,
   "found": 302,
   "notFound": 294,
@@ -677,8 +677,8 @@
       "title": "王文最新访谈：为什么大多数投资者都赔钱？",
       "status": "not_found",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "totalComments": 7,
+      "loadedComments": 7,
       "creator": "初心笔记"
     },
     {
@@ -758,6 +758,15 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7699694828988137491/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7699473216514818067/",
       "title": "操盘手拆解龙虎榜——博汇股份 #上市公司大追踪 #龙虎榜 #博汇股份",
       "status": "not_found",
@@ -796,8 +805,10 @@
     {
       "url": "https://www.toutiao.com/video/7699460838939164672/",
       "title": "操盘手拆解龙虎榜——通则康威 #上市公司大追踪 #股票知识分享 #龙虎榜 #涨停",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1533,21 +1544,12 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7696507845344231434/",
-      "title": "操盘手拆解龙虎榜——雪人集团 #上市公司大追踪 #龙虎榜 #雪人集团",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7698635578367197193/",
       "title": "中国巨石 三季报点评 #中国巨石 #财报解读 #电子布",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "GNCapital产业研究"
     },
     {
@@ -1748,8 +1750,8 @@
       "title": "2026年6月10日 九大热门电子材料全解析：找准短线缺货与长期国产替代的投资机会 电子布、铜箔、陶瓷基板、ABF 载板、玻璃基板、PCB 钻针、MLCC 电容、锡焊膏、金刚石散热 #电子布 #玻璃基板 #PCB #MLCC",
       "status": "not_found",
       "found": false,
-      "totalComments": 14,
-      "loadedComments": 13,
+      "totalComments": 15,
+      "loadedComments": 14,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2343,8 +2345,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 126,
-      "loadedComments": 101,
+      "totalComments": 138,
+      "loadedComments": 109,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2352,8 +2354,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 51,
-      "loadedComments": 31,
+      "totalComments": 55,
+      "loadedComments": 34,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2361,8 +2363,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 83,
-      "loadedComments": 73,
+      "totalComments": 82,
+      "loadedComments": 72,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2887,7 +2889,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 232,
+      "totalComments": 233,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3184,7 +3186,7 @@
       "title": "7.31",
       "status": "not_found",
       "found": false,
-      "totalComments": 479,
+      "totalComments": 480,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
