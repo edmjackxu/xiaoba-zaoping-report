@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-23T07:10:01.176Z",
+  "builtAt": "2026-10-23T11:13:23.740Z",
   "total": 596,
   "found": 302,
   "notFound": 294,
@@ -335,7 +335,7 @@
       "title": "《天道》中最精彩的一段：五台山论道未删减版！看懂的都是神人！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1430,
+      "totalComments": 1429,
       "loadedComments": 189,
       "creator": "初心笔记"
     },
@@ -677,8 +677,8 @@
       "title": "王文最新访谈：为什么大多数投资者都赔钱？",
       "status": "not_found",
       "found": false,
-      "totalComments": 9,
-      "loadedComments": 8,
+      "totalComments": 11,
+      "loadedComments": 9,
       "creator": "初心笔记"
     },
     {
@@ -758,6 +758,67 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7699810303794102299/",
+      "title": "花旗苦等五年拿牌，放弃财富赛道 #上市公司大追踪 #花旗",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699777286488195106/",
+      "title": "操盘手拆解盘口——华天科技 #上市公司大追踪 #华天科技 #盘口",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699773747397427240/",
+      "title": "操盘手拆解盘口——中际旭创 #上市公司大追踪 #盘口 #中际旭创",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699771952436641807/",
+      "title": "操盘手拆解盘口——天娱数科 #上市公司大追踪 #天娱数科",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699765029746262051/",
+      "title": "午间四份公告搅动，A股走出深V行情 #上市公司大追踪 #a股 #a股行情",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699759428530110498/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699743189170995234/",
+      "title": "反转！创业板大涨！ #上市公司大追踪#涨知识#股市反转",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7699719197567221801/",
       "title": "大盘被权重股绑架，指数严重失真 #上市公司大追踪 #上证指数 #a股市场 #a股行情",
       "status": "not_found",
@@ -771,7 +832,7 @@
       "title": "操盘手拆解盘口——宁德时代 #上市公司大追踪 #板块分析 #宁德时代 #股票干货",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
+      "totalComments": 3,
       "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
@@ -789,8 +850,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 10,
-      "loadedComments": 9,
+      "totalComments": 28,
+      "loadedComments": 22,
       "creator": "上市公司大追踪"
     },
     {
@@ -1479,69 +1540,6 @@
           "replyId": "7697153862998377243"
         }
       ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696903192991612963/",
-      "title": "PPI爆表科技股崩盘 A股明天慌不慌？ #上市公司大追踪 #a股",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696885163087233059/",
-      "title": "操盘手拆解龙虎榜——超声电子 #上市公司大追踪 #龙虎榜 #超声电子",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696880797249617930/",
-      "title": "操盘手拆解龙虎榜——掌阅科技 #上市公司大追踪 #龙虎榜 #掌阅科技",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696877754716799039/",
-      "title": "操盘手拆解龙虎榜——联亚药业 #上市公司大追踪 #龙虎榜 #联亚药业",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696874785476706330/",
-      "title": "操盘手拆解龙虎榜——远东股份 #上市公司大追踪 #龙虎榜 #远东股份",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696857257346072585/",
-      "title": "利好！多家公司回购，谁真心谁在演戏？ #上市公司大追踪 #a股",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 10,
-      "loadedComments": 10,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7696788989193224219/",
-      "title": "五千一百股下跌，ETF迎来天量成交 #上市公司大追踪 #a股行情 #etf",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 22,
-      "loadedComments": 19,
-      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7698635578367197193/",
@@ -2341,12 +2339,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7699799944575582249/",
+      "title": "10.23",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 10,
+      "loadedComments": 9,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7699328243127599139/",
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 143,
-      "loadedComments": 114,
+      "totalComments": 146,
+      "loadedComments": 115,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2354,8 +2361,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 59,
-      "loadedComments": 34,
+      "totalComments": 63,
+      "loadedComments": 36,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2889,7 +2896,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 233,
+      "totalComments": 234,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3215,15 +3222,6 @@
       "found": false,
       "totalComments": 107,
       "loadedComments": 93,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7665642406873563151/",
-      "title": "7.23",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 73,
-      "loadedComments": 45,
       "creator": "艾丽无废话财经"
     },
     {
