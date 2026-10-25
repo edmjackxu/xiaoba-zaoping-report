@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-24T23:06:28.171Z",
+  "checkTime": "2026-10-25T04:06:30.483Z",
   "articles": [
     {
       "title": "",
@@ -664,6 +664,13 @@
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "publishTime": "2024-11-28",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "1024-高盛-中国地产2027展望：迈向2035的四大关键拐点",
+      "url": "https://www.toutiao.com/video/7700359417287508507/",
+      "publishTime": "2026-10-25",
       "type": "video",
       "creator": "初心笔记"
     },
@@ -1629,11 +1636,12 @@
       "creator": "初心笔记"
     },
     {
-      "title": "高志凯：Ai中美生死博弈，决定未来",
-      "url": "https://www.toutiao.com/video/7684483948596183591/",
-      "publishTime": "2026-09-12",
+      "title": "打板战法不难，核心是情绪 #上市公司大追踪 #股票知识分享 #打板",
+      "url": "https://www.toutiao.com/video/7700435048368979995/",
+      "publishTime": "2026-10-25",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "三星堆 #上市公司大追踪#未来往事",
@@ -1666,7 +1674,6 @@
       "url": "https://www.toutiao.com/video/7700143709559455770/",
       "publishTime": "2026-10-24",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3201,13 +3208,6 @@
     {
       "title": "节前最后两天，钱在选方向 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7690808547046588416/",
-      "publishTime": "2026-09-29",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "OpenAI撤了Anthropic却冲了 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7690783901434069026/",
       "publishTime": "2026-09-29",
       "type": "video",
       "creator": "上市公司大追踪"
