@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-24T23:12:09.580Z",
+  "builtAt": "2026-10-25T04:09:02.760Z",
   "total": 598,
   "found": 304,
   "notFound": 294,
@@ -673,11 +673,20 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7700359417287508507/",
+      "title": "1024-高盛-中国地产2027展望：迈向2035的四大关键拐点",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7699988857252512284/",
       "title": "翟东升：美国AI泡沫什么时候会爆掉，伊朗战争如何重塑国际格局",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
+      "totalComments": 3,
       "loadedComments": 2,
       "creator": "初心笔记"
     },
@@ -738,21 +747,21 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7698910390729703964/",
-      "title": "宁德时代2026年三季报业绩解读会。",
+      "url": "https://www.toutiao.com/video/7700435048368979995/",
+      "title": "打板战法不难，核心是情绪 #上市公司大追踪 #股票知识分享 #打板",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "初心笔记"
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7700236682938826792/",
       "title": "三星堆 #上市公司大追踪#未来往事",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -762,6 +771,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "⚠️这是视频观点不构成投资建议哦～核心盯周一18.19元均价，守住结构偏强，跌破转弱势，上方18.66元放量突破才看延续，股市有风险哒！",
       "doubaoReplies": [
         {
@@ -804,8 +814,10 @@
     {
       "url": "https://www.toutiao.com/video/7700136571193786409/",
       "title": "操盘手拆解盘口——利亚德 #上市公司大追踪 #个股 #盘口 #利亚德",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -813,8 +825,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 11,
-      "loadedComments": 11,
+      "totalComments": 12,
+      "loadedComments": 12,
       "creator": "上市公司大追踪"
     },
     {
@@ -822,8 +834,8 @@
       "title": "财经大V #李一恩",
       "status": "not_found",
       "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
+      "totalComments": 6,
+      "loadedComments": 6,
       "creator": "上市公司大追踪"
     },
     {
@@ -831,8 +843,8 @@
       "title": "国办AI就业文件里，被大多数人翻过去的那 《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 37,
-      "loadedComments": 31,
+      "totalComments": 38,
+      "loadedComments": 32,
       "creator": "上市公司大追踪"
     },
     {
@@ -1525,15 +1537,6 @@
     {
       "url": "https://www.toutiao.com/video/7697836374203826214/",
       "title": "操盘手拆解龙虎榜——金盾股份 #上市公司大追踪 #龙虎榜 #金盾股份",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7697828541034922019/",
-      "title": "操盘手拆解盘口——上工贝申 #上市公司大追踪 #上工贝申",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -2342,8 +2345,8 @@
       "title": "10.24",
       "status": "not_found",
       "found": false,
-      "totalComments": 48,
-      "loadedComments": 41,
+      "totalComments": 53,
+      "loadedComments": 44,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2360,8 +2363,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 164,
-      "loadedComments": 126,
+      "totalComments": 165,
+      "loadedComments": 127,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3003,8 +3006,8 @@
       "title": "8.23",
       "status": "not_found",
       "found": false,
-      "totalComments": 266,
-      "loadedComments": 170,
+      "totalComments": 264,
+      "loadedComments": 169,
       "creator": "艾丽无废话财经"
     },
     {
