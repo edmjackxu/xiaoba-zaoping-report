@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-26T07:06:31.471Z",
+  "checkTime": "2026-10-26T11:06:27.544Z",
   "articles": [
     {
       "title": "",
@@ -664,6 +664,13 @@
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "publishTime": "2024-11-28",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "10-26号大摩股票首席Laura分享",
+      "url": "https://www.toutiao.com/video/7700868933578768934/",
+      "publishTime": "2026-10-26",
       "type": "video",
       "creator": "初心笔记"
     },
@@ -1675,18 +1682,55 @@
       "creator": "初心笔记"
     },
     {
-      "title": "李开复：国人创业方向：一人Ai公司出海，值得大家思考",
-      "url": "https://www.toutiao.com/video/7684907681806565911/",
-      "publishTime": "2026-09-13",
+      "title": "中石油创新高 #上市公司大追踪1. 沪指红了三千一百只股票在跌，中石油十八年新高和算力跌停同时出现，什么信号？ 2. 缩量三千四百七十五亿，宽基ETF午后突然放量六十亿，大资金在守还是在攻？ 3. 中石油创十八年新高，是“魔咒”还是“新逻辑”？一个被忽略的细节。 4. 算力硬件跌停潮，机器人数据要素连板，高低切换下普通投资者怎么跟？",
+      "url": "https://www.toutiao.com/video/7700899788153176098/",
+      "publishTime": "2026-10-26",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解盘口——万向钱潮 #上市公司大追踪 #股票知识分享 #盘口 #万向钱潮",
+      "url": "https://www.toutiao.com/video/7700892686470873098/",
+      "publishTime": "2026-10-26",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解盘口——埃斯顿 #上市公司大追踪 #股票知识分享 #盘口 #埃斯顿",
+      "url": "https://www.toutiao.com/video/7700890090385457193/",
+      "publishTime": "2026-10-26",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解盘口——大业股份 #上市公司大追踪 #股票知识分享 #盘口 #大业股份",
+      "url": "https://www.toutiao.com/video/7700887274669490202/",
+      "publishTime": "2026-10-26",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7700884537823854611/",
+      "publishTime": "2026-10-26",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解盘口——宇树科技 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7700875398292209664/",
+      "publishTime": "2026-10-26",
+      "type": "video",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "操盘手拆解盘口——埃斯顿 #上市公司大追踪 #股票知识分享 #盘口 #埃斯顿",
       "url": "https://www.toutiao.com/video/7700833797062787107/",
       "publishTime": "2026-10-26",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1694,7 +1738,6 @@
       "url": "https://www.toutiao.com/video/7700829791615713289/",
       "publishTime": "2026-10-26",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1702,7 +1745,6 @@
       "url": "https://www.toutiao.com/video/7700514253328875562/",
       "publishTime": "2026-10-25",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3235,58 +3277,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "科创50走弱 医药逆势掀起涨停潮 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7691169200940826659/",
-      "publishTime": "2026-09-30",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "地量却普涨，节前盘面暗藏分歧 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7691139238598803497/",
-      "publishTime": "2026-09-30",
-      "type": "video",
-      "creator": "上市公司大追踪",
-      "doubaoReply": [
-        {
-          "askUser": "反弹154",
-          "askText": "@豆包 地量普涨接下来咋走？",
-          "doubaoReply": "单日缩量反弹不算趋势反转啦～节前抛压阶段性衰竭，节后资金有望逐步回流，10月重点看三季报业绩，地产后周期、科技端这些方向可以留意哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691253066939237166"
-        }
-      ]
-    },
-    {
-      "title": "美股存储光纤，双线爆发 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7690955223929454618/",
-      "publishTime": "2026-09-29",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7690950007628791850/",
-      "publishTime": "2026-09-29",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "首套房贷贴息1%，置业成本下降 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7690936635382300710/",
-      "publishTime": "2026-09-29",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "“首套房贴息落地！省5万只是表面， “150万门槛、9：1分担、只搞1年——房贷贴息背后的三个隐藏信号，看懂少走三年弯路”",
-      "url": "https://www.toutiao.com/video/7690908158075600946/",
-      "publishTime": "2026-09-29",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "2026-02-07",
@@ -4323,7 +4313,7 @@
     },
     {
       "title": "10.26",
-      "url": "https://www.toutiao.com/video/7700780235952029722/",
+      "url": "https://www.toutiao.com/video/7700926607657009194/",
       "publishTime": "2026-10-26",
       "type": "video",
       "summary": "",
