@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-26T11:12:09.832Z",
-  "total": 601,
+  "builtAt": "2026-10-26T23:15:10.042Z",
+  "total": 602,
   "found": 309,
-  "notFound": 292,
+  "notFound": 293,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -677,8 +677,8 @@
       "title": "10-26号大摩股票首席Laura分享",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 17,
+      "loadedComments": 13,
       "creator": "初心笔记"
     },
     {
@@ -780,17 +780,76 @@
       "title": "小巴菲特 Bill Ackman含金量极高的访谈，13个精彩主题：AI泡沫 _普通人怎样投资等",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700999146542809122/",
+      "title": "乐奇AI眼镜发布会 #涨知识#上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700995290563608591/",
+      "title": "马斯克第一部AI电影 #传媒#涨知识#上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700951918109327402/",
+      "title": "央视曝光换脸大案，恐怖不在视频逼真 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700938367508480041/",
+      "title": "操盘手拆解龙虎榜——洛轴股份 #上市公司大追踪 #个股 #龙虎榜 #洛轴股份",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700936489018130441/",
+      "title": "操盘手拆解龙虎榜——达实智能 #上市公司大追踪 #龙虎榜 #个股行情 #达实智能",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700934670757675071/",
+      "title": "操盘手拆解龙虎榜——百洋股份 #上市公司大追踪 #龙虎榜 #百洋股份",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700930784097484800/",
+      "title": "操盘手拆解龙虎榜——上纬新材 #上市公司大追踪 #龙虎榜 #个股 #上纬新材",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7700899788153176098/",
       "title": "中石油创新高 #上市公司大追踪1. 沪指红了三千一百只股票在跌，中石油十八年新高和算力跌停同时出现，什么信号？ 2. 缩量三千四百七十五亿，宽基ETF午后突然放量六十亿，大资金在守还是在攻？ 3. 中石油创十八年新高，是“魔咒”还是“新逻辑”？一个被忽略的细节。 4. 算力硬件跌停潮，机器人数据要素连板，高低切换下普通投资者怎么跟？",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 7,
+      "loadedComments": 6,
       "creator": "上市公司大追踪"
     },
     {
@@ -798,8 +857,8 @@
       "title": "操盘手拆解盘口——万向钱潮 #上市公司大追踪 #股票知识分享 #盘口 #万向钱潮",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -807,8 +866,8 @@
       "title": "操盘手拆解盘口——埃斯顿 #上市公司大追踪 #股票知识分享 #盘口 #埃斯顿",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -816,8 +875,8 @@
       "title": "操盘手拆解盘口——大业股份 #上市公司大追踪 #股票知识分享 #盘口 #大业股份",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -825,15 +884,17 @@
       "title": "#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7700875398292209664/",
       "title": "操盘手拆解盘口——宇树科技 #上市公司大追踪",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1511,80 +1572,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698386080688832547/",
-      "title": "操盘手拆解龙虎榜——四会富仕 #上市公司大追踪 #龙虎榜 #四会富仕",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698380251910701099/",
-      "title": "操盘手拆解龙虎榜——宇树科技 #上市公司大追踪 #龙虎榜 #宇树科技",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698366675762364431/",
-      "title": "社保科创基金一千七百亿早就到位了，为什么 大基金管设备，社保管早期，并购基金管退出——三条钱在打接力#上市公司大追踪",
-      "publishTime": "2026-10-19",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "2026年10月19日央行等十一部门发文，要提升三大科创中心直接融资占比，重点提用好社保科创基金、支持并购基金发展。社保科创基金不是新设，浙苏闽鄂川六省首期共1700亿，三方出资能投贷联动，存续最长18年，投资优先保值增值，投向有订单的硬科技企业。三类资本接力：社保投早投小，大基金三期3440亿侧重半导体设备材料替代，并购基金帮创业公司退出不用都走IPO。并购别炒壳，要看有没有真资产注入和产业协同。选标的可以参考三层思路：优先产业资本控股的，看注入资产和原有业务合不合，并购完成头两年是资产整合密集窗口期。现在科创资本正从单靠IPO退出转向多元，也可多看看控股完成不到一年、主业干净、赛道在设备材料或AI算力缺口的A股平台。（以上是解读观点，不构成投资建议）",
-      "doubaoReplies": [
-        {
-          "askUser": "轻风吹细浪",
-          "askText": "@豆包 归纳一下",
-          "doubaoReply": "2026年10月19日央行等十一部门发文，要提升三大科创中心直接融资占比，重点提用好社保科创基金、支持并购基金发展。社保科创基金不是新设，浙苏闽鄂川六省首期共1700亿，三方出资能投贷联动，存续最长18年，投资优先保值增值，投向有订单的硬科技企业。三类资本接力：社保投早投小，大基金三期3440亿侧重半导体设备材料替代，并购基金帮创业公司退出不用都走IPO。并购别炒壳，要看有没有真资产注入和产业协同。选标的可以参考三层思路：优先产业资本控股的，看注入资产和原有业务合不合，并购完成头两年是资产整合密集窗口期。现在科创资本正从单靠IPO退出转向多元，也可多看看控股完成不到一年、主业干净、赛道在设备材料或AI算力缺口的A股平台。（以上是解读观点，不构成投资建议）",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7698361660390163236"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698366616156798995/",
-      "title": "操盘手拆解冰山冷热，主力边打边撤 #上市公司大追踪 #龙虎榜 #冰山冷热",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698364673187708928/",
-      "title": "十八条，四十天，证监会把大股东减持的账本 赚四百多万罚二十万？新规终于要堵这个口子”#上市公司大追踪#国家政策#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 66,
-      "loadedComments": 57,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698359949939703871/",
-      "title": "操盘手拆解亨通光电 不是锁死是换手 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 14,
-      "loadedComments": 10,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698356141591707684/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -2385,12 +2372,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7701105899334549531/",
+      "title": "10.27",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 18,
+      "loadedComments": 11,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7700926607657009194/",
       "title": "10.26",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 19,
+      "loadedComments": 18,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2398,8 +2394,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 87,
-      "loadedComments": 72,
+      "totalComments": 92,
+      "loadedComments": 76,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2407,8 +2403,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 44,
-      "loadedComments": 38,
+      "totalComments": 46,
+      "loadedComments": 40,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2434,7 +2430,7 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 171,
+      "totalComments": 173,
       "loadedComments": 132,
       "creator": "艾丽无废话财经"
     },
@@ -2978,7 +2974,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 234,
+      "totalComments": 235,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3262,13 +3258,24 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7668970370360426548/",
-      "title": "8.1",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 87,
-      "loadedComments": 60,
-      "creator": "艾丽无废话财经"
+      "url": "https://www.toutiao.com/video/7698366675762364431/",
+      "title": "社保科创基金一千七百亿早就到位了，为什么 大基金管设备，社保管早期，并购基金管退出——三条钱在打接力#上市公司大追踪",
+      "publishTime": "2026-10-19",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "2026年10月19日央行等十一部门发文，要提升三大科创中心直接融资占比，重点提用好社保科创基金、支持并购基金发展。社保科创基金不是新设，浙苏闽鄂川六省首期共1700亿，三方出资能投贷联动，存续最长18年，投资优先保值增值，投向有订单的硬科技企业。三类资本接力：社保投早投小，大基金三期3440亿侧重半导体设备材料替代，并购基金帮创业公司退出不用都走IPO。并购别炒壳，要看有没有真资产注入和产业协同。选标的可以参考三层思路：优先产业资本控股的，看注入资产和原有业务合不合，并购完成头两年是资产整合密集窗口期。现在科创资本正从单靠IPO退出转向多元，也可多看看控股完成不到一年、主业干净、赛道在设备材料或AI算力缺口的A股平台。（以上是解读观点，不构成投资建议）",
+      "doubaoReplies": [
+        {
+          "askUser": "轻风吹细浪",
+          "askText": "@豆包 归纳一下",
+          "doubaoReply": "2026年10月19日央行等十一部门发文，要提升三大科创中心直接融资占比，重点提用好社保科创基金、支持并购基金发展。社保科创基金不是新设，浙苏闽鄂川六省首期共1700亿，三方出资能投贷联动，存续最长18年，投资优先保值增值，投向有订单的硬科技企业。三类资本接力：社保投早投小，大基金三期3440亿侧重半导体设备材料替代，并购基金帮创业公司退出不用都走IPO。并购别炒壳，要看有没有真资产注入和产业协同。选标的可以参考三层思路：优先产业资本控股的，看注入资产和原有业务合不合，并购完成头两年是资产整合密集窗口期。现在科创资本正从单靠IPO退出转向多元，也可多看看控股完成不到一年、主业干净、赛道在设备材料或AI算力缺口的A股平台。（以上是解读观点，不构成投资建议）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7698361660390163236"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7698326260635992127/",
