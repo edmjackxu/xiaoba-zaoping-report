@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-26T07:10:20.284Z",
-  "total": 600,
+  "builtAt": "2026-10-26T11:12:09.832Z",
+  "total": 601,
   "found": 309,
-  "notFound": 291,
+  "notFound": 292,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,12 +673,22 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7700868933578768934/",
+      "title": "10-26号大摩股票首席Laura分享",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7700828544679363082/",
       "title": "10-26号大摩新闭门会：邢自强分享",
       "publishTime": "2026-10-26",
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这是10月26日摩根士丹利闭门分享会内容，主讲人邢自强，围绕两大核心疑问展开：一是近5%美债高利率下美国AI产业能否保持景气；二是国内GDP达标但股市低迷的分化原因。美国当前经济类似2005年，靠财政赤字、居民财富效应、AI大厂资本开支三大支柱支撑，但高利率已开始对弱势环节形成压力（数据中心地产商融资成本高企），叠加中期选举带来的地方审批阻力，存在尾部风险。国内市场呈现K型分化，根源在隐性顺周期紧缩，经济增长靠出口拉动，对居民收入和就业带动有限，通缩压力仍未消除；就业是政策底线，后续有望出台维稳政策，需通过活跃资本市场破局。以上仅为机构专家观点，不构成投资建议。",
       "doubaoReplies": [
         {
@@ -698,6 +708,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "瑞银资管的嘉宾在访谈里提到，区分信号和噪音可以从两点判断：一是时间维度，单日涨跌、短期热点这类只会扰动短期股价、没法改变企业长期盈利的是噪音，能持续影响数年基本面的才是信号；二是传导链条，看信息能不能最终影响企业长期现金流，像利率、油价、企业订单、盈利趋势都属于要重点跟踪的信号。要注意估值便宜不算买入信号，基本面切实改善才是，面对噪音别过度反应，没确认好转前别大举重仓。以上仅为市场观点科普，不构成投资建议。",
       "doubaoReplies": [
         {
@@ -774,13 +785,56 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7699467068630270474/",
-      "title": "王文最新访谈：为什么大多数投资者都赔钱？",
+      "url": "https://www.toutiao.com/video/7700899788153176098/",
+      "title": "中石油创新高 #上市公司大追踪1. 沪指红了三千一百只股票在跌，中石油十八年新高和算力跌停同时出现，什么信号？ 2. 缩量三千四百七十五亿，宽基ETF午后突然放量六十亿，大资金在守还是在攻？ 3. 中石油创十八年新高，是“魔咒”还是“新逻辑”？一个被忽略的细节。 4. 算力硬件跌停潮，机器人数据要素连板，高低切换下普通投资者怎么跟？",
       "status": "not_found",
       "found": false,
-      "totalComments": 18,
-      "loadedComments": 15,
-      "creator": "初心笔记"
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700892686470873098/",
+      "title": "操盘手拆解盘口——万向钱潮 #上市公司大追踪 #股票知识分享 #盘口 #万向钱潮",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700890090385457193/",
+      "title": "操盘手拆解盘口——埃斯顿 #上市公司大追踪 #股票知识分享 #盘口 #埃斯顿",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700887274669490202/",
+      "title": "操盘手拆解盘口——大业股份 #上市公司大追踪 #股票知识分享 #盘口 #大业股份",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700884537823854611/",
+      "title": "#上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700875398292209664/",
+      "title": "操盘手拆解盘口——宇树科技 #上市公司大追踪",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7700833797062787107/",
@@ -796,8 +850,8 @@
       "title": "操盘手拆解盘口——天娱数科 #上市公司大追踪 #个股 #天娱数科 #涨停",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -1531,71 +1585,6 @@
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698326260635992127/",
-      "title": "“央妈不是来放水的，是来修刹车的”——潘 隔夜利率换锚，真正受益的不是券商，是这条被忽略的银行IT线#上市公司大追踪#央行",
-      "publishTime": "2026-10-19",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "DR001是银行间真实交易形成的隔夜质押式回购利率，换锚就是央行把短端政策调控主基准切换成它，之后优质企业可自主选它或LPR当贷款基准，政策传导更顺畅，也会给银行IT厂商带来改造订单，这是利率市场化完善，不是简单降息哦，以上仅为概念解读，不构成投资建议。",
-      "doubaoReplies": [
-        {
-          "askUser": "塞外雪花",
-          "askText": "@豆包 什么是DR001换锚？",
-          "doubaoReply": "DR001是银行间真实交易形成的隔夜质押式回购利率，换锚就是央行把短端政策调控主基准切换成它，之后优质企业可自主选它或LPR当贷款基准，政策传导更顺畅，也会给银行IT厂商带来改造订单，这是利率市场化完善，不是简单降息哦，以上仅为概念解读，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7698350953778987814"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698318269299572776/",
-      "title": "央妈不是来放水的，是来修刹车的”——潘功 隔夜利率换锚，真正受益的不是券商，是这条被忽略的银行IT线#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 20,
-      "loadedComments": 19,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698317780713472042/",
-      "title": "金融街论坛后，A股资金正在重新排座次 短期券商、中期北证龙头、长期照持仓：三层策略怎么接#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 13,
-      "loadedComments": 12,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698293775781380159/",
-      "title": "北极视频电话后，为什么它们拉升？ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698278412717244431/",
-      "title": "三千一百股回调，人形机器人集体涨停 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698235419028422706/",
-      "title": "三千八百股下挫，工行市值突破三万亿 #上市公司大追踪 #a股 #a股行情 #银行股",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 8,
-      "loadedComments": 8,
       "creator": "上市公司大追踪"
     },
     {
@@ -2396,12 +2385,12 @@
       "creator": "GNCapital产业研究"
     },
     {
-      "url": "https://www.toutiao.com/video/7700780235952029722/",
+      "url": "https://www.toutiao.com/video/7700926607657009194/",
       "title": "10.26",
       "status": "not_found",
       "found": false,
-      "totalComments": 34,
-      "loadedComments": 26,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2409,8 +2398,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 85,
-      "loadedComments": 70,
+      "totalComments": 87,
+      "loadedComments": 72,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2445,8 +2434,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 170,
-      "loadedComments": 131,
+      "totalComments": 171,
+      "loadedComments": 132,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2463,8 +2452,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 84,
-      "loadedComments": 74,
+      "totalComments": 85,
+      "loadedComments": 75,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2719,8 +2708,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 93,
-      "loadedComments": 73,
+      "totalComments": 92,
+      "loadedComments": 72,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3280,6 +3269,26 @@
       "totalComments": 87,
       "loadedComments": 60,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7698326260635992127/",
+      "title": "“央妈不是来放水的，是来修刹车的”——潘 隔夜利率换锚，真正受益的不是券商，是这条被忽略的银行IT线#上市公司大追踪#央行",
+      "publishTime": "2026-10-19",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "DR001是银行间真实交易形成的隔夜质押式回购利率，换锚就是央行把短端政策调控主基准切换成它，之后优质企业可自主选它或LPR当贷款基准，政策传导更顺畅，也会给银行IT厂商带来改造订单，这是利率市场化完善，不是简单降息哦，以上仅为概念解读，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "塞外雪花",
+          "askText": "@豆包 什么是DR001换锚？",
+          "doubaoReply": "DR001是银行间真实交易形成的隔夜质押式回购利率，换锚就是央行把短端政策调控主基准切换成它，之后优质企业可自主选它或LPR当贷款基准，政策传导更顺畅，也会给银行IT厂商带来改造订单，这是利率市场化完善，不是简单降息哦，以上仅为概念解读，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7698350953778987814"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7699091193812091402/",
