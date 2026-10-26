@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-25T23:07:28.633Z",
+  "builtAt": "2026-10-26T04:10:00.713Z",
   "total": 599,
-  "found": 306,
-  "notFound": 293,
+  "found": 307,
+  "notFound": 292,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,34 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7700765677488996891/",
+      "title": "瑞银资管：亚洲人工智能为何低迷？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700761729608745522/",
+      "title": "但斌最新访谈：投资者需要具备哪些特质？为什么不看好白酒了？",
+      "publishTime": "2026-10-26",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "但斌不是完全不看好白酒啦，是觉得难复制之前的高增长咯～年轻人消费习惯变、人口老龄化，加上地产财富压力，这是他个人投资观点，不构成建议哦 😉",
+      "doubaoReplies": [
+        {
+          "askUser": "山谷里弥漫的烟雾",
+          "askText": "真不看好？为什么了？@豆包 你来回答吧",
+          "doubaoReply": "但斌不是完全不看好白酒啦，是觉得难复制之前的高增长咯～年轻人消费习惯变、人口老龄化，加上地产财富压力，这是他个人投资观点，不构成建议哦 😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7700759191778525952"
+        }
+      ]
+    },
+    {
       "url": "https://www.toutiao.com/video/7700359417287508507/",
       "title": "1024-高盛-中国地产2027展望：迈向2035的四大关键拐点",
       "status": "not_found",
@@ -729,24 +757,6 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7699089959277445660/",
-      "title": "10-21号大摩闭门会：工业、原材料和汽车行业最新动态解析",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "初心笔记"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698975077563400755/",
-      "title": "10-21号德邦证券：三季度经济企稳回升，预计全年走势“前高中低后稳”",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
       "url": "https://www.toutiao.com/video/7700514253328875562/",
       "title": "操盘手拆解盘口——襄阳轴承 #上市公司大追踪 #短线交易 #盘口 #襄阳轴承",
       "status": "not_found",
@@ -780,6 +790,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "⚠️不构成任何投资建议，股市有风险，投资需谨慎哦～相关标的整理如下：\n霍莱沃、东华测试：长光卫星研制/发射阶段的测量配套商\n奥普光电、雷科防务、航天电器：卫星结构/通用元器件配套\n中科星图、航天宏图：遥感数据服务相关企业\n其余还有第一创业、凌云光、尤洛卡等关联方向长光卫星2026年初重启科创板IPO，目前暂未上市哦～",
       "doubaoReplies": [
         {
@@ -1456,8 +1467,8 @@
       "title": "十八条，四十天，证监会把大股东减持的账本 赚四百多万罚二十万？新规终于要堵这个口子”#上市公司大追踪#国家政策#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 65,
-      "loadedComments": 56,
+      "totalComments": 66,
+      "loadedComments": 57,
       "creator": "上市公司大追踪"
     },
     {
@@ -2359,12 +2370,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7700780235952029722/",
+      "title": "10.26",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 17,
+      "loadedComments": 13,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7700470251590271011/",
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 62,
-      "loadedComments": 53,
+      "totalComments": 81,
+      "loadedComments": 66,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2372,8 +2392,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 33,
-      "loadedComments": 29,
+      "totalComments": 43,
+      "loadedComments": 37,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2381,8 +2401,8 @@
       "title": "10.24",
       "status": "not_found",
       "found": false,
-      "totalComments": 54,
-      "loadedComments": 45,
+      "totalComments": 55,
+      "loadedComments": 46,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2898,8 +2918,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 67,
-      "loadedComments": 55,
+      "totalComments": 68,
+      "loadedComments": 56,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3233,15 +3253,6 @@
       "found": false,
       "totalComments": 87,
       "loadedComments": 60,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7668488136917254198/",
-      "title": "7.31",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 480,
-      "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
     {
