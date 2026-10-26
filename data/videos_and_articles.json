@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-25T23:06:30.101Z",
+  "checkTime": "2026-10-26T04:06:30.157Z",
   "articles": [
     {
       "title": "",
@@ -664,6 +664,20 @@
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "publishTime": "2024-11-28",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "瑞银资管：亚洲人工智能为何低迷？",
+      "url": "https://www.toutiao.com/video/7700765677488996891/",
+      "publishTime": "2026-10-26",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "但斌最新访谈：投资者需要具备哪些特质？为什么不看好白酒了？",
+      "url": "https://www.toutiao.com/video/7700761729608745522/",
+      "publishTime": "2026-10-26",
       "type": "video",
       "creator": "初心笔记"
     },
@@ -1617,20 +1631,6 @@
     {
       "title": "9-12号中信建投：金属行业最新投资展望",
       "url": "https://www.toutiao.com/video/7684840893958095404/",
-      "publishTime": "2026-09-13",
-      "type": "video",
-      "creator": "初心笔记"
-    },
-    {
-      "title": "9-13号中信建投：医药行业最新投资展望。",
-      "url": "https://www.toutiao.com/video/7684840653381124647/",
-      "publishTime": "2026-09-13",
-      "type": "video",
-      "creator": "初心笔记"
-    },
-    {
-      "title": "9-12号机构：端侧SOC芯片机构观点更新：AI端侧算力爆发，产业链机遇梳理",
-      "url": "https://www.toutiao.com/video/7684785051594310146/",
       "publishTime": "2026-09-13",
       "type": "video",
       "creator": "初心笔记"
@@ -4276,6 +4276,14 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "title": "10.26",
+      "url": "https://www.toutiao.com/video/7700780235952029722/",
+      "publishTime": "2026-10-26",
+      "type": "video",
+      "summary": "",
+      "creator": "艾丽无废话财经"
+    },
+    {
       "title": "10.25",
       "url": "https://www.toutiao.com/video/7700470251590271011/",
       "publishTime": "2026-10-25",
@@ -4296,7 +4304,6 @@
       "url": "https://www.toutiao.com/video/7700037507638886434/",
       "publishTime": "2026-10-24",
       "type": "video",
-      "summary": "",
       "creator": "艾丽无废话财经"
     },
     {
@@ -5864,13 +5871,6 @@
       "title": "3.25",
       "url": "https://www.toutiao.com/video/7620996727634673691/",
       "publishTime": "2026-03-25",
-      "type": "video",
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "title": "3.24",
-      "url": "https://www.toutiao.com/video/7620640194620129326/",
-      "publishTime": "2026-03-24",
       "type": "video",
       "creator": "艾丽无废话财经"
     },
