@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-27T11:13:47.019Z",
+  "builtAt": "2026-10-27T23:12:11.132Z",
   "total": 602,
   "found": 310,
   "notFound": 292,
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7701309578935271987/",
+      "title": "这个厉害！赵家班扛把子跳杰克逊的舞蹈",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 73,
+      "loadedComments": 67,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7700868933578768934/",
       "title": "10-26号大摩股票首席Laura分享",
       "status": "not_found",
@@ -776,13 +785,49 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7699986550880338442/",
-      "title": "小巴菲特 Bill Ackman含金量极高的访谈，13个精彩主题：AI泡沫 _普通人怎样投资等",
+      "url": "https://www.toutiao.com/video/7701364604915433507/",
+      "title": "国新和诚通三季度扫货十几只A股📊 📉 光迅科技回撤三成六，国新反而加仓到百分之四点三一，背后原因挺值得琢磨。 🔍 福能股份和华能蒙电被两家国资分别新进，这条暗线很少有人提及。 ⚠️ 别把专项再贷款当救市钱，它的考核周期是三到五年。 💡 国资买什么就跟着买什么？建议先看懂它俩的分工再说。#上市公司大追踪#中国诚通",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "初心笔记"
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701360509945118729/",
+      "title": "监管蹊跷踩刹车，上海九百有猫腻？ #上市公司大追踪 #监管",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 10,
+      "loadedComments": 8,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701350537429549110/",
+      "title": "马斯克一句话，存储有了新转机 #上市公司大追踪 #马斯克",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701350370139701275/",
+      "title": "机器人大规模用内存 马斯克一句话，存储股火苗转向机器人？ 2. 台积电封装涨价，A股谁在“收费站”？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701342819083878426/",
+      "title": "微亿制造 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 6,
+      "loadedComments": 6,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7701269910982230054/",
@@ -807,8 +852,8 @@
       "title": "操盘手拆解盘口——海洋王 #上市公司大追踪 #盘口 #海洋王",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -825,8 +870,8 @@
       "title": "缩量普跌，钱到底挤去哪儿了 #上市公司大追踪 #a股市场 #a股行情",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -836,6 +881,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "温馨提示：不构成投资建议哦，股市有风险的～目前看大概率在12.1-12.6元区间震荡，11.9、12.15是支撑，12.63、13.03是压力位哈！",
       "doubaoReplies": [
         {
@@ -1557,51 +1603,6 @@
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698979385319112714/",
-      "title": "操盘手拆解盘口——新华传媒 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698977518715420681/",
-      "title": "操盘手拆解盘口——九阳股份 #上市公司大追踪 #九阳股份",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698973668794761216/",
-      "title": "操盘手拆解盘口——宁德时代 #上市公司大追踪 #宁德时代",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698960773191565354/",
-      "title": "创业板收跌超1%，资金流向何处？ #上市公司大追踪 #a股行情 #创业板",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7698733362562727946/",
-      "title": "操盘手拆解龙虎榜——润建股份 #上市公司大追踪 #龙虎榜 #润建股份",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2402,26 +2403,12 @@
       "creator": "GNCapital产业研究"
     },
     {
-      "url": "https://www.toutiao.com/video/7701294450332401704/",
-      "title": "10.27",
-      "status": "no_api",
-      "found": false,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7701230862167179307/",
-      "title": "10.27",
-      "status": "no_api",
-      "found": false,
-      "creator": "艾丽无废话财经"
-    },
-    {
       "url": "https://www.toutiao.com/video/7701105899334549531/",
       "title": "10.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 63,
-      "loadedComments": 43,
+      "totalComments": 76,
+      "loadedComments": 49,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2429,8 +2416,8 @@
       "title": "10.26",
       "status": "not_found",
       "found": false,
-      "totalComments": 24,
-      "loadedComments": 22,
+      "totalComments": 25,
+      "loadedComments": 23,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2465,8 +2452,8 @@
       "title": "10.23",
       "status": "not_found",
       "found": false,
-      "totalComments": 57,
-      "loadedComments": 41,
+      "totalComments": 59,
+      "loadedComments": 42,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2474,8 +2461,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 178,
-      "loadedComments": 136,
+      "totalComments": 180,
+      "loadedComments": 138,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2574,8 +2561,8 @@
       "title": "10.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 70,
-      "loadedComments": 62,
+      "totalComments": 69,
+      "loadedComments": 61,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3018,7 +3005,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 235,
+      "totalComments": 241,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3281,6 +3268,24 @@
       "found": false,
       "totalComments": 152,
       "loadedComments": 119,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7669939238380503055/",
+      "title": "8.4",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 86,
+      "loadedComments": 70,
+      "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7669615645588471849/",
+      "title": "8.2",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 117,
+      "loadedComments": 96,
       "creator": "艾丽无废话财经"
     },
     {
