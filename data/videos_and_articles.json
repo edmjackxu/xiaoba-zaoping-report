@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-28T11:06:25.203Z",
+  "checkTime": "2026-10-28T23:06:25.217Z",
   "articles": [
     {
       "title": "",
@@ -664,6 +664,13 @@
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "publishTime": "2024-11-28",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "10-28号银河：AI的下一战：巨头集体押注“机器人大脑”，具身智能迎来“ChatGP时刻？",
+      "url": "https://www.toutiao.com/video/7701735597223723546/",
+      "publishTime": "2026-10-29",
       "type": "video",
       "creator": "初心笔记"
     },
@@ -1675,18 +1682,118 @@
       "creator": "初心笔记"
     },
     {
-      "title": "9-14号大摩最新闭门会：邢自强分享",
-      "url": "https://www.toutiao.com/video/7685237499253457447/",
-      "publishTime": "2026-09-14",
+      "title": "美联储不加息，几个值得留意的市场话题 📌 联储按兵不动，市场加息押注为何反而冲到高位？ 📌 AI行业从讲故事转向看现金流，甲骨文给A股带来什么信号？ 📌 存储芯片利润暴增，A股存储产业链该怎么跟进？ 📌 油价再次破百，航空、化工和成长股谁先出现波动？ 📌 加息概率居高不下，普通投资者可以重点盯哪几个指标#上市公司大追踪#美股",
+      "url": "https://www.toutiao.com/video/7701856232541257757/",
+      "publishTime": "2026-10-29",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "业务毛利低迷，无HBM相关布局 #上市公司大追踪 #太极实业 #财报",
+      "url": "https://www.toutiao.com/video/7701840857401393180/",
+      "publishTime": "2026-10-29",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "美联储按兵不动 📌 几个核心要点整理好了： 1. 美联储“按兵不动”那晚，两张反对票才是真正的信号 2. 沃什拆掉的不是会议，是市场三十年的“导航仪” 3. 表面维持利率，暗线在抽流动性：A股该换哪套打法 4. 库克第一次投反对票，理由和AI基建有关 5. 十二月加息八成概率：暂停，从来不是温柔的暂停#美联储 #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7701801968326410240/",
+      "publishTime": "2026-10-29",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "你觉得能做出来吗？ 我整理了小米仿生手相关的几个核心观察，分享给大家👇 1. 小米仿生手最狠的一刀，砍向了“堆参数” 2. 二十一个自由度不是重点，重点是“二十三个以上不划算” 3. 灵巧手定价权，正从工程师手里转到工厂SOP手里 4. 腱绳五到六周换一次，小米凭什么用混合驱动破局 5. 一千八百个工厂数据背后，藏着一个九成五的缺口",
+      "url": "https://www.toutiao.com/video/7701724662657220635/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "小米切入机器人，仿生手与众不同 #上市公司大追踪 #小米科技 #ai机器人",
+      "url": "https://www.toutiao.com/video/7701725136474718227/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "同花顺新设AI制药板块 十月二十七到二十八日，Anthropic宣布跟六家机构合作，用Claude做药物发现，还收购了只有一名全职员工的罕见病公司Mithril Medicine，推进罕见儿童肌肉萎缩症治疗。我感觉这个信号真的不一般，大模型公司不再只用来聊天写代码，已经开始下场改变药企的组织形态了。  📍这事离我们一点都不远 过去做药，基本要靠几百上千人堆管线；现在AI把查文献、做设计、看实验结果串成一个完整的循环，药企的规模完全可以做得很小。 比如Generate公布的CAR-T设计成果，说通俗点，CAR就像T细胞头上的天线，原来天线长、笨重，AI重新设计之后短了一大截，信号反而更强，送药的用量也更少了。  ⚠️还是得保持清醒 目前相关的药物大多还在临床前阶段，最早也要到2028年底才有可能进人体临床，绝对不是明天就能直接买到成品药的程度。 #AI制药",
+      "url": "https://www.toutiao.com/video/7701719892302495782/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "市场调整的结果 我整理了几条近期关注到的行业相关动态： 1. 反噬来了！中国太保Q3净利暴跌68%，保险巨头怎么了？ 2. 高位追科技、9月割肉止损？保险资管被市场反噬 3. 净利骤降68%！太保财报背后，藏着两个“利润杀手” 4. 新会计准则放大波动：险企炒股亏损，为什么更疼了？ 5. 保险财报一个比一个差，市场再跌会引发踩踏吗？ 6. 从保险到券商：如果市场继续跌，戴维斯双杀要来了？ 7. 追高科技仓位去化70%—80%，险资为何也追涨杀跌？ 8. 太保Q3营收降45%、净利降68%，反噬才刚开始？ #上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7701710268632170523/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "白酒全绿、证券跌停，旧权重在给谁让路 #上市公司大追踪 #a股 #a股行情",
+      "url": "https://www.toutiao.com/video/7701702619437203475/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "央妈八千亿落地，要给市场打气？ #上市公司大追踪 #财经 #央行",
+      "url": "https://www.toutiao.com/video/7701700643597107240/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——世纪恒通 #上市公司大追踪 #龙虎榜 #世纪恒通",
+      "url": "https://www.toutiao.com/video/7701686984284045362/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——斯迪克 #上市公司大追踪 #龙虎榜 #斯迪克",
+      "url": "https://www.toutiao.com/video/7701684376551718931/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——莱美药业 #上市公司大追踪 #医药板块 #龙虎榜 #莱美药业",
+      "url": "https://www.toutiao.com/video/7701682919542095882/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "利润腰斩股价大涨，宇树三季报藏了什么？ #上市公司大追踪 #宇树科技",
+      "url": "https://www.toutiao.com/video/7701680129713373235/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——天娱数科 #上市公司大追踪 #龙虎榜 #个股行情 #天娱数科",
+      "url": "https://www.toutiao.com/video/7701678834877546522/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "操盘手拆解龙虎榜——西安奕材 #上市公司大追踪 #龙虎榜 #西安奕材",
+      "url": "https://www.toutiao.com/video/7701674652636348431/",
+      "publishTime": "2026-10-28",
+      "type": "video",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "操盘手拆解盘口——光洋股份 #上市公司大追踪 #股票知识分享 #盘口 #光洋股份",
       "url": "https://www.toutiao.com/video/7701635340238323712/",
       "publishTime": "2026-10-28",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1694,7 +1801,6 @@
       "url": "https://www.toutiao.com/video/7701628839360725043/",
       "publishTime": "2026-10-28",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1702,7 +1808,6 @@
       "url": "https://www.toutiao.com/video/7701624337639768064/",
       "publishTime": "2026-10-28",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3110,139 +3215,6 @@
       "title": "新规划定造车红线，速成车企面临洗牌 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7695311423014420514/",
       "publishTime": "2026-10-11",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "AI向警方报假案老特怒了！ #上市公司大追踪 #AI安全",
-      "url": "https://www.toutiao.com/video/7695257442510176256/",
-      "publishTime": "2026-10-11",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "美国突然出手！立讯、富士康被337 给GPU供电的技术，凭什么让美国企业全球追着告？#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7695210125589970994/",
-      "publishTime": "2026-10-11",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "操盘手拆解龙虎榜——吉林化纤 #上市公司大追踪 #龙虎榜 #吉林化纤",
-      "url": "https://www.toutiao.com/video/7695060435510231078/",
-      "publishTime": "2026-10-10",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "证监会紧急开会！透露三个关键信号 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7695023252111884298/",
-      "publishTime": "2026-10-10",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "刚刚！港股大改革延长交易时段！ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7695019536764338176/",
-      "publishTime": "2026-10-10",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "最严汽车设计监管对准隐藏门把手！ #上市公司大追踪 #汽车",
-      "url": "https://www.toutiao.com/video/7694992366649737242/",
-      "publishTime": "2026-10-10",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "操盘手拆解龙虎榜——九阳股份 #上市公司大追踪 #操盘手拆解龙虎榜 #龙虎榜",
-      "url": "https://www.toutiao.com/video/7694964498628624393/",
-      "publishTime": "2026-10-10",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "突发！337调查来了真正该盯的不是立讯 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7694960772657922083/",
-      "publishTime": "2026-10-10",
-      "type": "video",
-      "creator": "上市公司大追踪",
-      "doubaoReply": [
-        {
-          "askUser": "GoldenEggsGoose",
-          "askText": "对等反制他们存储芯片。。。[捂脸]@豆包",
-          "doubaoReply": "没法简单直接拿存储芯片做对等反制哦～这次争议是AI电源专利，和存储赛道不一样～咱们国产厂商在慢慢建专利护城河呢，这只是行业信息哈😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7694995021896024895"
-        }
-      ]
-    },
-    {
-      "title": "中欧磋商谈成了什么？这三个方向值得盯紧 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7694948713256943643/",
-      "publishTime": "2026-10-10",
-      "type": "video",
-      "creator": "上市公司大追踪",
-      "doubaoReply": [
-        {
-          "askUser": "草原帐篷惬意夜宿者",
-          "askText": "@豆包 混动发展前景如何？",
-          "doubaoReply": "混动短期2-3年前景不错哦～国内需求稳，是燃油车换代的好选择，吉利、比亚迪这些车企都在发力。刚和欧洲达成谅解，出口压力比纯电小～长期是过渡技术，企业分化挺明显哒 😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7695113138475451172"
-        },
-        {
-          "askUser": "明媚的春天",
-          "askText": "@豆包 混动发展前景如何？",
-          "doubaoReply": "国内混动短期需求稳，能解决里程焦虑，会和纯电共存～这次中欧磋商稳住了海外出口，比亚迪这类车企空间挺大～长期还是纯电方向，机会看企业布局哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7695151044502340387"
-        }
-      ]
-    },
-    {
-      "title": "人社部文件藏五字就业逻辑已改写 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7694929618964824090/",
-      "publishTime": "2026-10-10",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7694644523326504994/",
-      "publishTime": "2026-10-09",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "公募基金40万亿大修，三个变化影响你账户 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7694614240069926912/",
-      "publishTime": "2026-10-09",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "早盘普跌午后翻红，市场情绪大逆转 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7694559634992201768/",
-      "publishTime": "2026-10-09",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "ETF持续大额流入，本轮抄底与众不同 #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7694556254206689299/",
-      "publishTime": "2026-10-09",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "纳指新高两天后就变脸 AI的“信仰”被一张财务文件撕开了一道口子。OpenAI致投资者的内部文",
-      "url": "https://www.toutiao.com/video/7694423452102426675/",
-      "publishTime": "2026-10-09",
       "type": "video",
       "creator": "上市公司大追踪"
     },
