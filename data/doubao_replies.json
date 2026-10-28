@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-10-28T11:12:10.074Z",
-  "total": 603,
-  "found": 310,
+  "builtAt": "2026-10-28T23:11:59.194Z",
+  "total": 605,
+  "found": 312,
   "notFound": 293,
   "replies": [
     {
@@ -673,12 +673,21 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7701735597223723546/",
+      "title": "10-28号银河：AI的下一战：巨头集体押注“机器人大脑”，具身智能迎来“ChatGP时刻？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7701309578935271987/",
       "title": "这个厉害！赵家班扛把子跳杰克逊的舞蹈",
       "status": "not_found",
       "found": false,
-      "totalComments": 97,
-      "loadedComments": 86,
+      "totalComments": 99,
+      "loadedComments": 88,
       "creator": "初心笔记"
     },
     {
@@ -686,8 +695,8 @@
       "title": "10-26号大摩股票首席Laura分享",
       "status": "not_found",
       "found": false,
-      "totalComments": 30,
-      "loadedComments": 19,
+      "totalComments": 32,
+      "loadedComments": 20,
       "creator": "初心笔记"
     },
     {
@@ -776,13 +785,157 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7699988857252512284/",
-      "title": "翟东升：美国AI泡沫什么时候会爆掉，伊朗战争如何重塑国际格局",
+      "url": "https://www.toutiao.com/video/7701856232541257757/",
+      "title": "美联储不加息，几个值得留意的市场话题 📌 联储按兵不动，市场加息押注为何反而冲到高位？ 📌 AI行业从讲故事转向看现金流，甲骨文给A股带来什么信号？ 📌 存储芯片利润暴增，A股存储产业链该怎么跟进？ 📌 油价再次破百，航空、化工和成长股谁先出现波动？ 📌 加息概率居高不下，普通投资者可以重点盯哪几个指标#上市公司大追踪#美股",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701840857401393180/",
+      "title": "业务毛利低迷，无HBM相关布局 #上市公司大追踪 #太极实业 #财报",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701801968326410240/",
+      "title": "美联储按兵不动 📌 几个核心要点整理好了： 1. 美联储“按兵不动”那晚，两张反对票才是真正的信号 2. 沃什拆掉的不是会议，是市场三十年的“导航仪” 3. 表面维持利率，暗线在抽流动性：A股该换哪套打法 4. 库克第一次投反对票，理由和AI基建有关 5. 十二月加息八成概率：暂停，从来不是温柔的暂停#美联储 #上市公司大追踪",
+      "publishTime": "2026-10-29",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "反对票是鹰派信号哦！库克和哈马克都主张当场加息25个基点～库克担心AI基建带通胀，哈马克怕后续被迫硬出手。说明内部对通胀分歧不小，12月加息概率也到八成啦～",
+      "doubaoReplies": [
+        {
+          "askUser": "幸福海洋mu",
+          "askText": "@豆包 反对票意味着什么？",
+          "doubaoReply": "反对票是鹰派信号哦！库克和哈马克都主张当场加息25个基点～库克担心AI基建带通胀，哈马克怕后续被迫硬出手。说明内部对通胀分歧不小，12月加息概率也到八成啦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7701816447454004022"
+        },
+        {
+          "askUser": "淡定饭团yc",
+          "askText": "@豆包 反对票意味着什么？",
+          "doubaoReply": "这两张反对票是主张立刻加息25个基点，不是反对加息～说明美联储内部对通胀有分歧，12月加息概率还挺高，市场波动可能会变大哒",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7701835148592972595"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701724662657220635/",
+      "title": "你觉得能做出来吗？ 我整理了小米仿生手相关的几个核心观察，分享给大家👇 1. 小米仿生手最狠的一刀，砍向了“堆参数” 2. 二十一个自由度不是重点，重点是“二十三个以上不划算” 3. 灵巧手定价权，正从工程师手里转到工厂SOP手里 4. 腱绳五到六周换一次，小米凭什么用混合驱动破局 5. 一千八百个工厂数据背后，藏着一个九成五的缺口",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701725136474718227/",
+      "title": "小米切入机器人，仿生手与众不同 #上市公司大追踪 #小米科技 #ai机器人",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701719892302495782/",
+      "title": "同花顺新设AI制药板块 十月二十七到二十八日，Anthropic宣布跟六家机构合作，用Claude做药物发现，还收购了只有一名全职员工的罕见病公司Mithril Medicine，推进罕见儿童肌肉萎缩症治疗。我感觉这个信号真的不一般，大模型公司不再只用来聊天写代码，已经开始下场改变药企的组织形态了。  📍这事离我们一点都不远 过去做药，基本要靠几百上千人堆管线；现在AI把查文献、做设计、看实验结果串成一个完整的循环，药企的规模完全可以做得很小。 比如Generate公布的CAR-T设计成果，说通俗点，CAR就像T细胞头上的天线，原来天线长、笨重，AI重新设计之后短了一大截，信号反而更强，送药的用量也更少了。  ⚠️还是得保持清醒 目前相关的药物大多还在临床前阶段，最早也要到2028年底才有可能进人体临床，绝对不是明天就能直接买到成品药的程度。 #AI制药",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701710268632170523/",
+      "title": "市场调整的结果 我整理了几条近期关注到的行业相关动态： 1. 反噬来了！中国太保Q3净利暴跌68%，保险巨头怎么了？ 2. 高位追科技、9月割肉止损？保险资管被市场反噬 3. 净利骤降68%！太保财报背后，藏着两个“利润杀手” 4. 新会计准则放大波动：险企炒股亏损，为什么更疼了？ 5. 保险财报一个比一个差，市场再跌会引发踩踏吗？ 6. 从保险到券商：如果市场继续跌，戴维斯双杀要来了？ 7. 追高科技仓位去化70%—80%，险资为何也追涨杀跌？ 8. 太保Q3营收降45%、净利降68%，反噬才刚开始？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701702619437203475/",
+      "title": "白酒全绿、证券跌停，旧权重在给谁让路 #上市公司大追踪 #a股 #a股行情",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
       "loadedComments": 2,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701700643597107240/",
+      "title": "央妈八千亿落地，要给市场打气？ #上市公司大追踪 #财经 #央行",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701686984284045362/",
+      "title": "操盘手拆解龙虎榜——世纪恒通 #上市公司大追踪 #龙虎榜 #世纪恒通",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701684376551718931/",
+      "title": "操盘手拆解龙虎榜——斯迪克 #上市公司大追踪 #龙虎榜 #斯迪克",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701682919542095882/",
+      "title": "操盘手拆解龙虎榜——莱美药业 #上市公司大追踪 #医药板块 #龙虎榜 #莱美药业",
+      "publishTime": "2026-10-28",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "按视频里的思路，金石亚药今天涨6.54%，成交额3.45亿，换手率8.6%，没上龙虎榜看不着机构动向～有业绩支撑哦。不构成投资建议哦 😉",
+      "doubaoReplies": [
+        {
+          "askUser": "于庭院种植蔬菜香",
+          "askText": "@豆包  结合视频分析思路，帮我分析下今日金石亚药这只股票。",
+          "doubaoReply": "按视频里的思路，金石亚药今天涨6.54%，成交额3.45亿，换手率8.6%，没上龙虎榜看不着机构动向～有业绩支撑哦。不构成投资建议哦 😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7701700307592135464"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701680129713373235/",
+      "title": "利润腰斩股价大涨，宇树三季报藏了什么？ #上市公司大追踪 #宇树科技",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701678834877546522/",
+      "title": "操盘手拆解龙虎榜——天娱数科 #上市公司大追踪 #龙虎榜 #个股行情 #天娱数科",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701674652636348431/",
+      "title": "操盘手拆解龙虎榜——西安奕材 #上市公司大追踪 #龙虎榜 #西安奕材",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7701635340238323712/",
@@ -834,8 +987,8 @@
       "title": "市场由弱转强，资金加速迁移 #上市公司大追踪 #a股市场 #a股行情 #股市复盘",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 6,
+      "loadedComments": 6,
       "creator": "上市公司大追踪"
     },
     {
@@ -879,8 +1032,8 @@
       "title": "操盘手拆解盘口——大洋电机 #上市公司大追踪 #股票知识分享 #盘口拆解 #大洋电机",
       "status": "not_found",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 6,
+      "totalComments": 13,
+      "loadedComments": 10,
       "creator": "上市公司大追踪"
     },
     {
@@ -888,8 +1041,8 @@
       "title": "#上市公司大追踪 #盘面",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -906,7 +1059,7 @@
       "title": "监管蹊跷踩刹车，上海九百有猫腻？ #上市公司大追踪 #监管",
       "status": "not_found",
       "found": false,
-      "totalComments": 44,
+      "totalComments": 43,
       "loadedComments": 33,
       "creator": "上市公司大追踪"
     },
@@ -1436,163 +1589,6 @@
       "totalComments": 1,
       "loadedComments": 1,
       "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699765029746262051/",
-      "title": "午间四份公告搅动，A股走出深V行情 #上市公司大追踪 #a股 #a股行情",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699759428530110498/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 8,
-      "loadedComments": 7,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699743189170995234/",
-      "title": "反转！创业板大涨！ #上市公司大追踪#涨知识#股市反转",
-      "publishTime": "2026-10-23",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这条股市短视频分析了10月23日A股探底反转行情：早盘指数曾下探，午后创业板拉升超3%，沪深300、科创50同步走强，权重股发力。十点半指数ETF出现大额资金买入，资金从银行等红利股撤出属于换仓，转向抄底超跌个股；前期融资盘爆仓抛压减轻，下午两点半后指数不再回调，大资金进场信号明显。博主认为若周末没有重大利空，下周一场外资金有望入场；即便有利空，也可以观察周一资金动向，建议投资者不要在低位交出筹码，等待周一开盘验证行情。以上仅为博主个人观点，不构成任何投资建议，股市存在风险。",
-      "doubaoReplies": [
-        {
-          "askUser": "非凡百香果hZ",
-          "askText": "@豆包 总结",
-          "doubaoReply": "这条股市短视频分析了10月23日A股探底反转行情：早盘指数曾下探，午后创业板拉升超3%，沪深300、科创50同步走强，权重股发力。十点半指数ETF出现大额资金买入，资金从银行等红利股撤出属于换仓，转向抄底超跌个股；前期融资盘爆仓抛压减轻，下午两点半后指数不再回调，大资金进场信号明显。博主认为若周末没有重大利空，下周一场外资金有望入场；即便有利空，也可以观察周一资金动向，建议投资者不要在低位交出筹码，等待周一开盘验证行情。以上仅为博主个人观点，不构成任何投资建议，股市存在风险。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7699861060370973475"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699719197567221801/",
-      "title": "大盘被权重股绑架，指数严重失真 #上市公司大追踪 #上证指数 #a股市场 #a股行情",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699716718339620914/",
-      "title": "操盘手拆解盘口——宁德时代 #上市公司大追踪 #板块分析 #宁德时代 #股票干货",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699711567419768873/",
-      "title": "操盘手拆解盘口——华天科技 #上市公司大追踪 #人气榜 #华天科技",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699694828988137491/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 40,
-      "loadedComments": 30,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699473216514818067/",
-      "title": "操盘手拆解龙虎榜——博汇股份 #上市公司大追踪 #龙虎榜 #博汇股份",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699471846449643529/",
-      "title": "操盘手拆解龙虎榜——北洋新材 #上市公司大追踪 #龙虎榜 #天洋新材",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699465146606813226/",
-      "title": "操盘手拆解龙虎榜——北新路桥 #上市公司大追踪 #龙虎榜 #涨停 #北新路桥",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699462736333258795/",
-      "title": "操盘手拆解龙虎榜——华盛昌 #上市公司大追踪 #龙虎榜 #华盛昌",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699460838939164672/",
-      "title": "操盘手拆解龙虎榜——通则康威 #上市公司大追踪 #股票知识分享 #龙虎榜 #涨停",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699406380926533658/",
-      "title": "操盘手拆解盘口——沈鼓集团 #上市公司大追踪 #股票知识分享 #涨停 #沈鼓集团",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699403931499102250/",
-      "title": "操盘手拆解盘口——冰山冷热 #上市公司大追踪 #股票知识分享 #盘口 #冰山冷热",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699401668169924635/",
-      "title": "操盘手拆解盘口——九阳股份 #上市公司大追踪 #九阳股份 #股票知识分享",
-      "publishTime": "2026-10-22",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "明日盯盘重点看开盘啦～高开站稳22.62是多头信号，平开在21.7附近盯均价线，跌破20.5/20.36要谨慎～日内分三段盯盘，别忘了关注小家电板块催化哦😊（技术推测不构成投资建议，股市有风险）",
-      "doubaoReplies": [
-        {
-          "askUser": "风行天下",
-          "askText": "@豆包 明日该怎么盯盘呢？",
-          "doubaoReply": "明日盯盘重点看开盘啦～高开站稳22.62是多头信号，平开在21.7附近盯均价线，跌破20.5/20.36要谨慎～日内分三段盯盘，别忘了关注小家电板块催化哦😊（技术推测不构成投资建议，股市有风险）",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7699436151932764938"
-        }
-      ]
     },
     {
       "url": "https://www.toutiao.com/video/7698635578367197193/",
@@ -2396,7 +2392,7 @@
       "title": "10.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 87,
+      "totalComments": 88,
       "loadedComments": 58,
       "creator": "艾丽无废话财经"
     },
@@ -3201,8 +3197,8 @@
       "title": "8.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 42,
-      "loadedComments": 37,
+      "totalComments": 41,
+      "loadedComments": 36,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3276,6 +3272,46 @@
       "totalComments": 117,
       "loadedComments": 96,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699743189170995234/",
+      "title": "反转！创业板大涨！ #上市公司大追踪#涨知识#股市反转",
+      "publishTime": "2026-10-23",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这条股市短视频分析了10月23日A股探底反转行情：早盘指数曾下探，午后创业板拉升超3%，沪深300、科创50同步走强，权重股发力。十点半指数ETF出现大额资金买入，资金从银行等红利股撤出属于换仓，转向抄底超跌个股；前期融资盘爆仓抛压减轻，下午两点半后指数不再回调，大资金进场信号明显。博主认为若周末没有重大利空，下周一场外资金有望入场；即便有利空，也可以观察周一资金动向，建议投资者不要在低位交出筹码，等待周一开盘验证行情。以上仅为博主个人观点，不构成任何投资建议，股市存在风险。",
+      "doubaoReplies": [
+        {
+          "askUser": "非凡百香果hZ",
+          "askText": "@豆包 总结",
+          "doubaoReply": "这条股市短视频分析了10月23日A股探底反转行情：早盘指数曾下探，午后创业板拉升超3%，沪深300、科创50同步走强，权重股发力。十点半指数ETF出现大额资金买入，资金从银行等红利股撤出属于换仓，转向抄底超跌个股；前期融资盘爆仓抛压减轻，下午两点半后指数不再回调，大资金进场信号明显。博主认为若周末没有重大利空，下周一场外资金有望入场；即便有利空，也可以观察周一资金动向，建议投资者不要在低位交出筹码，等待周一开盘验证行情。以上仅为博主个人观点，不构成任何投资建议，股市存在风险。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7699861060370973475"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699401668169924635/",
+      "title": "操盘手拆解盘口——九阳股份 #上市公司大追踪 #九阳股份 #股票知识分享",
+      "publishTime": "2026-10-22",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "明日盯盘重点看开盘啦～高开站稳22.62是多头信号，平开在21.7附近盯均价线，跌破20.5/20.36要谨慎～日内分三段盯盘，别忘了关注小家电板块催化哦😊（技术推测不构成投资建议，股市有风险）",
+      "doubaoReplies": [
+        {
+          "askUser": "风行天下",
+          "askText": "@豆包 明日该怎么盯盘呢？",
+          "doubaoReply": "明日盯盘重点看开盘啦～高开站稳22.62是多头信号，平开在21.7附近盯均价线，跌破20.5/20.36要谨慎～日内分三段盯盘，别忘了关注小家电板块催化哦😊（技术推测不构成投资建议，股市有风险）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7699436151932764938"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7699063424482803766/",
