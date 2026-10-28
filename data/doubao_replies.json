@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-28T04:09:20.275Z",
-  "total": 602,
+  "builtAt": "2026-10-28T07:11:50.250Z",
+  "total": 603,
   "found": 310,
-  "notFound": 292,
+  "notFound": 293,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -686,8 +686,8 @@
       "title": "10-26号大摩股票首席Laura分享",
       "status": "not_found",
       "found": false,
-      "totalComments": 28,
-      "loadedComments": 18,
+      "totalComments": 30,
+      "loadedComments": 19,
       "creator": "初心笔记"
     },
     {
@@ -783,6 +783,58 @@
       "totalComments": 3,
       "loadedComments": 2,
       "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701590268323037193/",
+      "title": "信不信？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701587401474310154/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701582475306205211/",
+      "title": "信不信？ #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701577134166245414/",
+      "title": "操盘手拆解盘口——宇树科技 #上市公司大追踪 #短线交易 #宇树科技",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701567611951120435/",
+      "title": "操盘手拆解盘口——大洋电机 #上市公司大追踪 #股票知识分享 #盘口拆解 #大洋电机",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7701561246947999787/",
+      "title": "#上市公司大追踪 #盘面",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7701364604915433507/",
@@ -1538,71 +1590,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699063424482803766/",
-      "title": "分享视频",
-      "publishTime": "2026-10-21",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "国家队这次没追热门芯片设计股，重点布局玻纤、电子特气等硬科技上游产业链～中国国新、中国诚通合计斥资600亿元增持A股，其中国新相关专项再贷款配套资金超500亿元。国新投资持续加仓有研新材、海光信息；国新宏盛首次进入中国巨石、中船特气前十大流通股东。这笔资金属于逆周期财务投资，不谋求控制权，核心是阻断资产价格下跌和流动性收缩的负反馈，上游赛道认证门槛高、客户粘性强，确定性更强。视频提醒，国家队增持不等于股价马上涨哦，普通投资者可分三类策略：防守型等回撤分批布局央企科技ETF、半导体材料ETF；进攻型跟踪持续加仓龙头的基本面指标；事件型等股价缩量回踩关键均线再考虑介入，没有基本面改善别跟风～以上仅为视频内容总结，不构成任何投资建议，股市有风险哦😊",
-      "doubaoReplies": [
-        {
-          "askUser": "非凡百香果hZ",
-          "askText": "@豆包 总结",
-          "doubaoReply": "国家队这次没追热门芯片设计股，重点布局玻纤、电子特气等硬科技上游产业链～中国国新、中国诚通合计斥资600亿元增持A股，其中国新相关专项再贷款配套资金超500亿元。国新投资持续加仓有研新材、海光信息；国新宏盛首次进入中国巨石、中船特气前十大流通股东。这笔资金属于逆周期财务投资，不谋求控制权，核心是阻断资产价格下跌和流动性收缩的负反馈，上游赛道认证门槛高、客户粘性强，确定性更强。视频提醒，国家队增持不等于股价马上涨哦，普通投资者可分三类策略：防守型等回撤分批布局央企科技ETF、半导体材料ETF；进攻型跟踪持续加仓龙头的基本面指标；事件型等股价缩量回踩关键均线再考虑介入，没有基本面改善别跟风～以上仅为视频内容总结，不构成任何投资建议，股市有风险哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7699277678939194121"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699045982780669962/",
-      "title": "操盘手拆解盘口——新华传媒 #上市公司大追踪 #传媒板块 #新华传媒",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699041359857025034/",
-      "title": "操盘手拆解盘口——雪人集团 #上市公司大追踪 #个股 #盘口 #雪人集团",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699038579263864886/",
-      "title": "操盘手拆解盘口——太极股份 #上市公司大追踪 #操盘手拆解盘口 #太极股份",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699035362089238591/",
-      "title": "操盘手拆解盘口——冰山冷热 #上市公司大追踪 #股票知识分享 #盘口 #冰山冷热",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699018530758328374/",
-      "title": "国家队连续十一天买入，指数却还创新低？ #上市公司大追踪 #a股行情 #盘面 #收评",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -2407,8 +2394,8 @@
       "title": "10.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 82,
-      "loadedComments": 53,
+      "totalComments": 84,
+      "loadedComments": 55,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2434,8 +2421,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 48,
-      "loadedComments": 41,
+      "totalComments": 50,
+      "loadedComments": 43,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2461,8 +2448,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 185,
-      "loadedComments": 140,
+      "totalComments": 187,
+      "loadedComments": 141,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3287,6 +3274,26 @@
       "totalComments": 117,
       "loadedComments": 96,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7699063424482803766/",
+      "title": "分享视频",
+      "publishTime": "2026-10-21",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "国家队这次没追热门芯片设计股，重点布局玻纤、电子特气等硬科技上游产业链～中国国新、中国诚通合计斥资600亿元增持A股，其中国新相关专项再贷款配套资金超500亿元。国新投资持续加仓有研新材、海光信息；国新宏盛首次进入中国巨石、中船特气前十大流通股东。这笔资金属于逆周期财务投资，不谋求控制权，核心是阻断资产价格下跌和流动性收缩的负反馈，上游赛道认证门槛高、客户粘性强，确定性更强。视频提醒，国家队增持不等于股价马上涨哦，普通投资者可分三类策略：防守型等回撤分批布局央企科技ETF、半导体材料ETF；进攻型跟踪持续加仓龙头的基本面指标；事件型等股价缩量回踩关键均线再考虑介入，没有基本面改善别跟风～以上仅为视频内容总结，不构成任何投资建议，股市有风险哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "非凡百香果hZ",
+          "askText": "@豆包 总结",
+          "doubaoReply": "国家队这次没追热门芯片设计股，重点布局玻纤、电子特气等硬科技上游产业链～中国国新、中国诚通合计斥资600亿元增持A股，其中国新相关专项再贷款配套资金超500亿元。国新投资持续加仓有研新材、海光信息；国新宏盛首次进入中国巨石、中船特气前十大流通股东。这笔资金属于逆周期财务投资，不谋求控制权，核心是阻断资产价格下跌和流动性收缩的负反馈，上游赛道认证门槛高、客户粘性强，确定性更强。视频提醒，国家队增持不等于股价马上涨哦，普通投资者可分三类策略：防守型等回撤分批布局央企科技ETF、半导体材料ETF；进攻型跟踪持续加仓龙头的基本面指标；事件型等股价缩量回踩关键均线再考虑介入，没有基本面改善别跟风～以上仅为视频内容总结，不构成任何投资建议，股市有风险哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7699277678939194121"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7698366675762364431/",
