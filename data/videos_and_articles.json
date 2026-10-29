@@ -1759,7 +1759,17 @@
       "url": "https://www.toutiao.com/video/7701993559758471211/",
       "publishTime": "2026-10-29",
       "type": "video",
-      "creator": "上市公司大追踪"
+      "creator": "上市公司大追踪",
+      "doubaoReply": [
+        {
+          "askUser": "北方的天空495",
+          "askText": "@豆包 这视频是哪个博主讲的",
+          "doubaoReply": "这条视频原始发布账号大概率是“上市公司大追踪”哦，2026-10-29发的啦～口播是热门股市复盘内容，不少财经账号会二次转发哒～内容不构成投资建议哦😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7702090819649782591"
+        }
+      ]
     },
     {
       "title": "#上市公司大追踪 #午盘",
