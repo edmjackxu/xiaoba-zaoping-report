@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-28T23:11:59.194Z",
+  "builtAt": "2026-10-29T04:10:00.887Z",
   "total": 605,
   "found": 312,
   "notFound": 293,
@@ -785,6 +785,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7701912893142335522/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7701856232541257757/",
       "title": "美联储不加息，几个值得留意的市场话题 📌 联储按兵不动，市场加息押注为何反而冲到高位？ 📌 AI行业从讲故事转向看现金流，甲骨文给A股带来什么信号？ 📌 存储芯片利润暴增，A股存储产业链该怎么跟进？ 📌 油价再次破百，航空、化工和成长股谁先出现波动？ 📌 加息概率居高不下，普通投资者可以重点盯哪几个指标#上市公司大追踪#美股",
       "status": "not_found",
@@ -809,6 +818,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "反对票是鹰派信号哦！库克和哈马克都主张当场加息25个基点～库克担心AI基建带通胀，哈马克怕后续被迫硬出手。说明内部对通胀分歧不小，12月加息概率也到八成啦～",
       "doubaoReplies": [
         {
@@ -834,8 +844,8 @@
       "title": "你觉得能做出来吗？ 我整理了小米仿生手相关的几个核心观察，分享给大家👇 1. 小米仿生手最狠的一刀，砍向了“堆参数” 2. 二十一个自由度不是重点，重点是“二十三个以上不划算” 3. 灵巧手定价权，正从工程师手里转到工厂SOP手里 4. 腱绳五到六周换一次，小米凭什么用混合驱动破局 5. 一千八百个工厂数据背后，藏着一个九成五的缺口",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -843,15 +853,17 @@
       "title": "小米切入机器人，仿生手与众不同 #上市公司大追踪 #小米科技 #ai机器人",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7701719892302495782/",
       "title": "同花顺新设AI制药板块 十月二十七到二十八日，Anthropic宣布跟六家机构合作，用Claude做药物发现，还收购了只有一名全职员工的罕见病公司Mithril Medicine，推进罕见儿童肌肉萎缩症治疗。我感觉这个信号真的不一般，大模型公司不再只用来聊天写代码，已经开始下场改变药企的组织形态了。  📍这事离我们一点都不远 过去做药，基本要靠几百上千人堆管线；现在AI把查文献、做设计、看实验结果串成一个完整的循环，药企的规模完全可以做得很小。 比如Generate公布的CAR-T设计成果，说通俗点，CAR就像T细胞头上的天线，原来天线长、笨重，AI重新设计之后短了一大截，信号反而更强，送药的用量也更少了。  ⚠️还是得保持清醒 目前相关的药物大多还在临床前阶段，最早也要到2028年底才有可能进人体临床，绝对不是明天就能直接买到成品药的程度。 #AI制药",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -859,8 +871,8 @@
       "title": "市场调整的结果 我整理了几条近期关注到的行业相关动态： 1. 反噬来了！中国太保Q3净利暴跌68%，保险巨头怎么了？ 2. 高位追科技、9月割肉止损？保险资管被市场反噬 3. 净利骤降68%！太保财报背后，藏着两个“利润杀手” 4. 新会计准则放大波动：险企炒股亏损，为什么更疼了？ 5. 保险财报一个比一个差，市场再跌会引发踩踏吗？ 6. 从保险到券商：如果市场继续跌，戴维斯双杀要来了？ 7. 追高科技仓位去化70%—80%，险资为何也追涨杀跌？ 8. 太保Q3营收降45%、净利降68%，反噬才刚开始？ #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -868,22 +880,26 @@
       "title": "白酒全绿、证券跌停，旧权重在给谁让路 #上市公司大追踪 #a股 #a股行情",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7701700643597107240/",
       "title": "央妈八千亿落地，要给市场打气？ #上市公司大追踪 #财经 #央行",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7701686984284045362/",
       "title": "操盘手拆解龙虎榜——世纪恒通 #上市公司大追踪 #龙虎榜 #世纪恒通",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -891,8 +907,8 @@
       "title": "操盘手拆解龙虎榜——斯迪克 #上市公司大追踪 #龙虎榜 #斯迪克",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -902,6 +918,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "按视频里的思路，金石亚药今天涨6.54%，成交额3.45亿，换手率8.6%，没上龙虎榜看不着机构动向～有业绩支撑哦。不构成投资建议哦 😉",
       "doubaoReplies": [
         {
@@ -917,13 +934,6 @@
     {
       "url": "https://www.toutiao.com/video/7701680129713373235/",
       "title": "利润腰斩股价大涨，宇树三季报藏了什么？ #上市公司大追踪 #宇树科技",
-      "status": "no_comments",
-      "found": false,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7701678834877546522/",
-      "title": "操盘手拆解龙虎榜——天娱数科 #上市公司大追踪 #龙虎榜 #个股行情 #天娱数科",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -931,10 +941,21 @@
       "creator": "上市公司大追踪"
     },
     {
+      "url": "https://www.toutiao.com/video/7701678834877546522/",
+      "title": "操盘手拆解龙虎榜——天娱数科 #上市公司大追踪 #龙虎榜 #个股行情 #天娱数科",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7701674652636348431/",
       "title": "操盘手拆解龙虎榜——西安奕材 #上市公司大追踪 #龙虎榜 #西安奕材",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1579,15 +1600,6 @@
       "found": false,
       "totalComments": 19,
       "loadedComments": 16,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7699769679216132111/",
-      "title": "操盘手拆解盘口——宇树科技 #上市公司大追踪 #人气榜 #宇树科技",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2392,8 +2404,8 @@
       "title": "10.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 88,
-      "loadedComments": 58,
+      "totalComments": 90,
+      "loadedComments": 60,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2419,8 +2431,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 52,
-      "loadedComments": 44,
+      "totalComments": 53,
+      "loadedComments": 45,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2446,7 +2458,7 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 187,
+      "totalComments": 188,
       "loadedComments": 141,
       "creator": "艾丽无废话财经"
     },
