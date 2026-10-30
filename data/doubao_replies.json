@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-29T23:14:10.912Z",
+  "builtAt": "2026-10-30T07:07:41.081Z",
   "total": 605,
-  "found": 313,
-  "notFound": 292,
+  "found": 314,
+  "notFound": 291,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -686,8 +686,8 @@
       "title": "这个厉害！赵家班扛把子跳杰克逊的舞蹈",
       "status": "not_found",
       "found": false,
-      "totalComments": 99,
-      "loadedComments": 88,
+      "totalComments": 100,
+      "loadedComments": 89,
       "creator": "初心笔记"
     },
     {
@@ -798,8 +798,8 @@
       "title": "无人车的账单司机不认，出租车公司反而先笑 无人车的账单，司机都不买账，那谁来买单呢？#上市公司大追踪#自动驾驶",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -816,8 +816,8 @@
       "title": "谷歌暴跌微软借钱，AI牌桌玩法变了？ 🔍 卖铲子的先跌了：A股光模块在怕什么 💰 地主家也没余粮？微软发债背后的AI账本 🎴 谷歌流血、微软拿糖，同一张AI牌桌两种命运 📉 光模块大跌：产业趋势坏了还是筹码松了#美国科技巨头 #上市公司大追踪 #美股",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -834,8 +834,8 @@
       "title": "关于胜宏科技的几个疑问点 📊 业绩股价相关 净利腰斩、股价大跌，胜宏科技被错杀了吗？ 账面亏掉七亿，生产线其实没垮？胜宏三季报藏了什么  🔄 业务发展相关 旧灶火变小、新灶没烧旺：胜宏卡在英伟达换代窄缝里 扣非还是正的，资金为啥先跑？胜宏这一刀冤不冤  📈 板块对比相关 PCB板块都在加速，胜宏为什么跑输？四季度才是生死线#胜宏科技",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -870,8 +870,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 24,
-      "loadedComments": 23,
+      "totalComments": 27,
+      "loadedComments": 26,
       "creator": "上市公司大追踪"
     },
     {
@@ -881,6 +881,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这条视频原始发布账号大概率是“上市公司大追踪”哦，2026-10-29发的啦～口播是热门股市复盘内容，不少财经账号会二次转发哒～内容不构成投资建议哦😉",
       "doubaoReplies": [
         {
@@ -996,11 +997,21 @@
     {
       "url": "https://www.toutiao.com/video/7701710268632170523/",
       "title": "市场调整的结果 我整理了几条近期关注到的行业相关动态： 1. 反噬来了！中国太保Q3净利暴跌68%，保险巨头怎么了？ 2. 高位追科技、9月割肉止损？保险资管被市场反噬 3. 净利骤降68%！太保财报背后，藏着两个“利润杀手” 4. 新会计准则放大波动：险企炒股亏损，为什么更疼了？ 5. 保险财报一个比一个差，市场再跌会引发踩踏吗？ 6. 从保险到券商：如果市场继续跌，戴维斯双杀要来了？ 7. 追高科技仓位去化70%—80%，险资为何也追涨杀跌？ 8. 太保Q3营收降45%、净利降68%，反噬才刚开始？ #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
+      "publishTime": "2026-10-28",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "戴维斯双杀就是股价=盈利×估值，俩指标同步下跌时，跌幅会被成倍放大～像盈利下滑+市场调低估值，股价可能比利润跌得更狠哦～这是科普不含投资建议哒😉",
+      "doubaoReplies": [
+        {
+          "askUser": "海天云蒸",
+          "askText": "@豆包 什么是戴维斯双杀？",
+          "doubaoReply": "戴维斯双杀就是股价=盈利×估值，俩指标同步下跌时，跌幅会被成倍放大～像盈利下滑+市场调低估值，股价可能比利润跌得更狠哦～这是科普不含投资建议哒😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7702345246973657906"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7701702619437203475/",
@@ -1074,15 +1085,6 @@
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7701674652636348431/",
-      "title": "操盘手拆解龙虎榜——西安奕材 #上市公司大追踪 #龙虎榜 #西安奕材",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1606,6 +1608,15 @@
     {
       "url": "https://www.toutiao.com/video/7700138977147240484/",
       "title": "操盘手拆解盘口——凡拓数创 #上市公司大追踪 #盘口 #凡拓数创",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700136571193786409/",
+      "title": "操盘手拆解盘口——利亚德 #上市公司大追踪 #个股 #盘口 #利亚德",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -2414,8 +2425,8 @@
       "title": "10.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 95,
-      "loadedComments": 65,
+      "totalComments": 97,
+      "loadedComments": 66,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2432,8 +2443,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 95,
-      "loadedComments": 77,
+      "totalComments": 97,
+      "loadedComments": 79,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2441,8 +2452,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 54,
-      "loadedComments": 46,
+      "totalComments": 55,
+      "loadedComments": 47,
       "creator": "艾丽无废话财经"
     },
     {
