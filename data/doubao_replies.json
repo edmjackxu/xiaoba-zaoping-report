@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-10-30T23:12:36.401Z",
-  "total": 608,
+  "builtAt": "2026-10-31T04:11:40.860Z",
+  "total": 610,
   "found": 315,
-  "notFound": 293,
+  "notFound": 295,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,12 +673,30 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7702608098921415177/",
+      "title": "付鹏，谷歌财报敲响警钟，从自由现金流转负到核心利润坍塌",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7702315660759581212/",
       "title": "【硬核分析】付鹏——“台风冲击”在风险层的缩圈观察!",
       "status": "not_found",
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7702313858815672858/",
+      "title": "10-9号彭博：大摩股票首席Laura：估值未见底，国家队已进场。",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "初心笔记"
     },
     {
@@ -729,60 +747,31 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7700765677488996891/",
-      "title": "瑞银资管：亚洲人工智能为何低迷？",
-      "publishTime": "2026-10-26",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "瑞银资管的嘉宾在访谈里提到，区分信号和噪音可以从两点判断：一是时间维度，单日涨跌、短期热点这类只会扰动短期股价、没法改变企业长期盈利的是噪音，能持续影响数年基本面的才是信号；二是传导链条，看信息能不能最终影响企业长期现金流，像利率、油价、企业订单、盈利趋势都属于要重点跟踪的信号。要注意估值便宜不算买入信号，基本面切实改善才是，面对噪音别过度反应，没确认好转前别大举重仓。以上仅为市场观点科普，不构成投资建议。",
-      "doubaoReplies": [
-        {
-          "askUser": "用户363422635021",
-          "askText": "@豆包 怎么区分信号噪音？",
-          "doubaoReply": "瑞银资管的嘉宾在访谈里提到，区分信号和噪音可以从两点判断：一是时间维度，单日涨跌、短期热点这类只会扰动短期股价、没法改变企业长期盈利的是噪音，能持续影响数年基本面的才是信号；二是传导链条，看信息能不能最终影响企业长期现金流，像利率、油价、企业订单、盈利趋势都属于要重点跟踪的信号。要注意估值便宜不算买入信号，基本面切实改善才是，面对噪音别过度反应，没确认好转前别大举重仓。以上仅为市场观点科普，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7700830060366365467"
-        },
-        {
-          "askUser": "用户363422635021",
-          "askText": "@豆包 怎么区分信号噪音？",
-          "doubaoReply": "投资里的噪音是单日波动、临时热点消息这类不改变底层基本面的短期扰动，信号是能长期影响盈利、产业趋势的持续性基本面变化。可以从是否改基本面、长周期影响力、是否可验证可持续三个角度区分，瑞银嘉宾也说不用对日常盘面过度反应，只有基本面真的改善才是值得投入的信号哦。以上仅为嘉宾访谈观点，不构成任何投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7700829954992522024"
-        },
-        {
-          "askUser": "用户363422635021",
-          "askText": "@豆包 怎么区分信号噪音？",
-          "doubaoReply": "瑞银的Jade Fu认为，单日涨跌、短期新闻、单期财报带来的情绪化解读都是噪音，不用过度反应；能持续影响企业盈利、产业格局的中长期要素才是有效信号。当前市场噪音较多，适合选择性布局别重仓，耐心等基本面信号确认。以上仅为嘉宾观点，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7700829864936702783"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7702661617263886378/",
+      "title": "黄金急跌，背后原因是科技股爆仓吗？ 我最近一直在关注行情，发现原先被大家当成避险神话的黄金，这次居然直接成了提款机，走势完全出人意料。  🤔 相关现象梳理 金价这一波急跌之后，大量资金转头就跑去买美债了。白银直接跌破五十美元，连带着A股贵金属板块都受到不小的冲击。  💡 个人小提醒 黄金股低开的话先别急着抄底，先看看这两条线再说。#黄金大跌 #黄金走势 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7700761729608745522/",
-      "title": "但斌最新访谈：投资者需要具备哪些特质？为什么不看好白酒了？",
-      "publishTime": "2026-10-26",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "但斌不是完全不看好白酒啦，是觉得难复制之前的高增长咯～年轻人消费习惯变、人口老龄化，加上地产财富压力，这是他个人投资观点，不构成建议哦 😉",
-      "doubaoReplies": [
-        {
-          "askUser": "山谷里弥漫的烟雾",
-          "askText": "真不看好？为什么了？@豆包 你来回答吧",
-          "doubaoReply": "但斌不是完全不看好白酒啦，是觉得难复制之前的高增长咯～年轻人消费习惯变、人口老龄化，加上地产财富压力，这是他个人投资观点，不构成建议哦 😉",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7700759191778525952"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7702650722651357238/",
+      "title": "华发漏的是信托，市场怕的是连锁反应 📌 短债洪峰撞上熄火现金流 AAA不是护身符，反倒像麻醉剂 别人恐惧我贪婪，误判了谁来买单 理财没跑，债基先被集中抛售 越卖越跌，谁在助推负反馈 央行不出手，其实才是真信号 银行股逆势走强，是红利真香还是避险抱团 资产还在，现金没了，债务可不等人 低利率时代，“安全”这两个字该重定价了 华发这堂课，A股散户该听进哪句#华发 #珠海 #上市公司大追踪#债券",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7702620148783398947/",
+      "title": "聊三千颗卫星布局，先看上游还是下游 ✨梳理了几个相关的核心观察点和疑问： 1. 现在卫星开启量产了，相关利润到底流向哪里？ 2. 八百亿的规模不是讨论重点，实打实的订单才是关键 3. 上海已经明确押注卫星赛道，对应的资本通道也正式打开了 4. 激光通信方向，会是卫星组网最先受益的领域 5. 手机直连卫星的相关环节，后续的增长弹性更大 6. 太空算力这个方向，到底是有落地可能性的期权，还是还在概念阶段的故事？#航天发射 #卫星通信 #卫星互联网 #上市公司大追踪#上海",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7702571322366558251/",
@@ -791,6 +780,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "能翻身的可能性是有的，但难度不小～AI业务增长不错但产能、代工都是硬骨头，属于持久战，短期难看到明显反转哦😊",
       "doubaoReplies": [
         {
@@ -808,8 +798,8 @@
       "title": "索尔思才是底牌：东山精密被看漏的光芯片生 ✨ 核心相关疑问梳理： 1. 交易猿高位杠杆之后，东山精密的筹码先出现松动 2. 光模块缺货情况将持续到2027年，东山的扩产节奏能接得住吗？ 3. 光模块是矛、PCB是盾：东山精密当前为何还处在拉锯状态？#半导体芯片 #东山精密#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -862,8 +852,8 @@
       "title": "九阳真经练成了 资金方故意设局，借着相关传闻煽风点火，刻意制造出稳赚的氛围吸引跟风盘进场，一步步把股价推上去。等股价到了高位，大股东就借着现有规则的缝隙，从容完成撤退。#股票知识分享 #九阳股份#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 22,
-      "loadedComments": 19,
+      "totalComments": 31,
+      "loadedComments": 27,
       "creator": "上市公司大追踪"
     },
     {
@@ -880,8 +870,8 @@
       "title": "无人车的账单司机不认，出租车公司反而先笑 无人车的账单，司机都不买账，那谁来买单呢？#上市公司大追踪#自动驾驶",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -952,8 +942,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 27,
-      "loadedComments": 26,
+      "totalComments": 30,
+      "loadedComments": 28,
       "creator": "上市公司大追踪"
     },
     {
@@ -1564,33 +1554,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7700829791615713289/",
-      "title": "操盘手拆解盘口——天娱数科 #上市公司大追踪 #个股 #天娱数科 #涨停",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7700514253328875562/",
-      "title": "操盘手拆解盘口——襄阳轴承 #上市公司大追踪 #短线交易 #盘口 #襄阳轴承",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7700507872622297122/",
-      "title": "操盘手拆解盘口——多伦科技 #上市公司大追踪 #股票知识分享 #多伦科技",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -2395,8 +2358,8 @@
       "title": "10.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 31,
-      "loadedComments": 25,
+      "totalComments": 41,
+      "loadedComments": 29,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2404,8 +2367,8 @@
       "title": "10.27",
       "status": "not_found",
       "found": false,
-      "totalComments": 104,
-      "loadedComments": 69,
+      "totalComments": 106,
+      "loadedComments": 71,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2422,8 +2385,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 97,
-      "loadedComments": 79,
+      "totalComments": 98,
+      "loadedComments": 80,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3275,6 +3238,62 @@
       "totalComments": 86,
       "loadedComments": 70,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700765677488996891/",
+      "title": "瑞银资管：亚洲人工智能为何低迷？",
+      "publishTime": "2026-10-26",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "瑞银资管的嘉宾在访谈里提到，区分信号和噪音可以从两点判断：一是时间维度，单日涨跌、短期热点这类只会扰动短期股价、没法改变企业长期盈利的是噪音，能持续影响数年基本面的才是信号；二是传导链条，看信息能不能最终影响企业长期现金流，像利率、油价、企业订单、盈利趋势都属于要重点跟踪的信号。要注意估值便宜不算买入信号，基本面切实改善才是，面对噪音别过度反应，没确认好转前别大举重仓。以上仅为市场观点科普，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "用户363422635021",
+          "askText": "@豆包 怎么区分信号噪音？",
+          "doubaoReply": "瑞银资管的嘉宾在访谈里提到，区分信号和噪音可以从两点判断：一是时间维度，单日涨跌、短期热点这类只会扰动短期股价、没法改变企业长期盈利的是噪音，能持续影响数年基本面的才是信号；二是传导链条，看信息能不能最终影响企业长期现金流，像利率、油价、企业订单、盈利趋势都属于要重点跟踪的信号。要注意估值便宜不算买入信号，基本面切实改善才是，面对噪音别过度反应，没确认好转前别大举重仓。以上仅为市场观点科普，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7700830060366365467"
+        },
+        {
+          "askUser": "用户363422635021",
+          "askText": "@豆包 怎么区分信号噪音？",
+          "doubaoReply": "投资里的噪音是单日波动、临时热点消息这类不改变底层基本面的短期扰动，信号是能长期影响盈利、产业趋势的持续性基本面变化。可以从是否改基本面、长周期影响力、是否可验证可持续三个角度区分，瑞银嘉宾也说不用对日常盘面过度反应，只有基本面真的改善才是值得投入的信号哦。以上仅为嘉宾访谈观点，不构成任何投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7700829954992522024"
+        },
+        {
+          "askUser": "用户363422635021",
+          "askText": "@豆包 怎么区分信号噪音？",
+          "doubaoReply": "瑞银的Jade Fu认为，单日涨跌、短期新闻、单期财报带来的情绪化解读都是噪音，不用过度反应；能持续影响企业盈利、产业格局的中长期要素才是有效信号。当前市场噪音较多，适合选择性布局别重仓，耐心等基本面信号确认。以上仅为嘉宾观点，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7700829864936702783"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7700761729608745522/",
+      "title": "但斌最新访谈：投资者需要具备哪些特质？为什么不看好白酒了？",
+      "publishTime": "2026-10-26",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "但斌不是完全不看好白酒啦，是觉得难复制之前的高增长咯～年轻人消费习惯变、人口老龄化，加上地产财富压力，这是他个人投资观点，不构成建议哦 😉",
+      "doubaoReplies": [
+        {
+          "askUser": "山谷里弥漫的烟雾",
+          "askText": "真不看好？为什么了？@豆包 你来回答吧",
+          "doubaoReply": "但斌不是完全不看好白酒啦，是觉得难复制之前的高增长咯～年轻人消费习惯变、人口老龄化，加上地产财富压力，这是他个人投资观点，不构成建议哦 😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7700759191778525952"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7700476328113340466/",
