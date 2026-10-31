@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-10-31T11:06:26.767Z",
+  "checkTime": "2026-10-31T23:06:24.307Z",
   "articles": [
     {
       "title": "",
@@ -664,6 +664,13 @@
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "publishTime": "2024-11-28",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "1031-摩根大通-中国股票策略：风险回报从此更具吸引力",
+      "url": "https://www.toutiao.com/video/7702962297165201948/",
+      "publishTime": "2026-11-01",
       "type": "video",
       "creator": "初心笔记"
     },
@@ -1685,11 +1692,20 @@
       "creator": "初心笔记"
     },
     {
-      "title": "新手炒股必看！炒股养家心法大全分享！",
-      "url": "https://www.toutiao.com/video/7685915259483243031/",
-      "publishTime": "2026-09-16",
+      "title": "六百亿扫货，别只盯着标签看 📌 国家队买烽火，图什么 📌 利润跌四成，国新为何进场 📌 六百亿扫货，别只看标签 📌 船王订单排到二九年 📌 慢钱进场，A股定价变了 📌 四十家公司，别当买入名单 📌 国新诚通，两条腿走路#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7702821064749154319/",
+      "publishTime": "2026-10-31",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "上百家投资者扎堆调研麦格米特 我整理了几个很值得琢磨的核心疑问： ❓英伟达唯一大陆电源供应商，为什么股价先跌了？ ❓利润转负、存货堆高，麦格米特到底在赌什么？ ❓调研反馈说“明年很美”，盘面却显示“这个季度很疼”，到底该信谁？ ❓在AI电源的牌桌上，用利润换座位到底值不值？ ❓台达光宝把着行业入口，麦格米特挤进去之后又会怎样？#麦格米特#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7702813905231282230/",
+      "publishTime": "2026-10-31",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "黄金急跌，背后原因是科技股爆仓吗？ 我最近一直在关注行情，发现原先被大家当成避险神话的黄金，这次居然直接成了提款机，走势完全出人意料。  🤔 相关现象梳理 金价这一波急跌之后，大量资金转头就跑去买美债了。白银直接跌破五十美元，连带着A股贵金属板块都受到不小的冲击。  💡 个人小提醒 黄金股低开的话先别急着抄底，先看看这两条线再说。#黄金大跌 #黄金走势 #上市公司大追踪",
@@ -1704,7 +1720,6 @@
       "url": "https://www.toutiao.com/video/7702620148783398947/",
       "publishTime": "2026-10-31",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1712,7 +1727,6 @@
       "url": "https://www.toutiao.com/video/7702571322366558251/",
       "publishTime": "2026-10-31",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪",
       "doubaoReply": [
         {
@@ -3273,20 +3287,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "1. 43.79亿冻结！茶百道IPO被指 2. 散户不买，机构足额？茶百道暴跌77%背后的抽屉协议疑云#上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7696306406337314858/",
-      "publishTime": "2026-10-14",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "操盘手拆解龙虎榜—粤芯半导体 #上市公司大追踪 #龙虎榜 #粤芯半导体",
-      "url": "https://www.toutiao.com/video/7696164720340336703/",
-      "publishTime": "2026-10-13",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "2026-02-07",
@@ -4322,6 +4322,14 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "title": "10.30人生第一次现场看足球比赛：苏超 #苏超 #打卡苏式新图景 #江苏",
+      "url": "https://www.toutiao.com/video/7702804970722050074/",
+      "publishTime": "2026-10-31",
+      "type": "video",
+      "summary": "",
+      "creator": "艾丽无废话财经"
+    },
+    {
       "title": "10.30",
       "url": "https://www.toutiao.com/video/7702457709681262643/",
       "publishTime": "2026-10-30",
@@ -4342,7 +4350,6 @@
       "url": "https://www.toutiao.com/video/7700926607657009194/",
       "publishTime": "2026-10-26",
       "type": "video",
-      "summary": "",
       "creator": "艾丽无废话财经"
     },
     {
@@ -5903,13 +5910,6 @@
       "title": "3.30",
       "url": "https://www.toutiao.com/video/7622844564679688192/",
       "publishTime": "2026-03-30",
-      "type": "video",
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "title": "3.29",
-      "url": "https://www.toutiao.com/video/7622519959683498047/",
-      "publishTime": "2026-03-29",
       "type": "video",
       "creator": "艾丽无废话财经"
     },
