@@ -672,7 +672,17 @@
       "url": "https://www.toutiao.com/video/7702608098921415177/",
       "publishTime": "2026-10-31",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "不凡蜻蜓y3",
+          "askText": "@豆包 还有哪些潜在风险？",
+          "doubaoReply": "核心广告业务被AI冲击，自由现金流转负靠发债填坑，股权估值缩水、股票回购暂停，大概率会引发科技板块阶段性震荡哦📉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7702746795952587547"
+        }
+      ]
     },
     {
       "title": "【硬核分析】付鹏——“台风冲击”在风险层的缩圈观察!",
