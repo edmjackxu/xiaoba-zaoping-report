@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-02T07:09:00.628Z",
+  "builtAt": "2026-11-02T11:11:16.021Z",
   "total": 611,
-  "found": 321,
-  "notFound": 290,
+  "found": 322,
+  "notFound": 289,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这场闭门会里还没公布完整的28只股票名单哦～这是机构内部交流内容，完整清单没对外公开，网上自媒体流传的版本都是自行按条件拼凑的，不是大摩官方原版哒。能确定的筛选条件是：沪深300成分股、高股息、适配年化2%的低成本政策资金配置、现金流稳定，这类标的更容易跑赢大盘哦。温馨提示：以上仅为机构投研观点，不构成投资建议，股市存在风险～",
       "doubaoReplies": [
         {
@@ -698,6 +699,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "大摩的思路是分防御和成长哦～防御可以看高股息资产比如银行、煤炭，海外药业也挺稳；成长可关注AI应用、高端制造，不过AI短期在休整呢～*以上仅机构观点，不构成投资建议哦",
       "doubaoReplies": [
         {
@@ -778,12 +780,58 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7703421527534174248/",
-      "title": "人气回升 下午继续，接着奏乐接着舞##操盘手拆解盘口  #上市公司大追踪#人形机器人 #海洋经济 #医疗健康",
+      "url": "https://www.toutiao.com/video/7703482091970773019/",
+      "title": "这根大阳线是反转还是反抽？先别急着喊牛市 刚看到走势明显放量了，可融资余额还在往下走，今天到底是谁在抬轿？  ✨板块行情看点 AI视频板块直接涨疯了，真正迎来重估的不是工具赛道，而是版权板块。  📊盘面特殊信号 券商集体涨停，黄金却突然跳水，盘面  另外今天一百多只个股涨停，其中八十三只都开过板，这份热闹的背后  #a股行情 #上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7703479760504324105/",
+      "title": "券商搭台硬科技唱戏🤔 东方财富放量走得有点磨人，搞不清机构是在建仓，金融科技20厘米直接涨停，作为弹性先锋，它怎么跑得这么快？ 🤖 机器人板块的走势上下翻飞格外整齐，它算是当下的科技情绪温度计吧，这一根大阳线，既是市场信心回归的信号，也藏着不少分歧，想问问大家一开始是怎么看待这波行情的？#a股 #上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
       "totalComments": 3,
       "loadedComments": 3,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7703477153110720575/",
+      "title": "央行第三次吹哨，三十多家机构抢着申报✨ 央行悄悄开了个“资产当铺”，这次谁先闻到钱味？  第三次集结号吹响！机构急着把增量资金投进资本市场，信号不一般  别只盯着指数了！央行这条“输油管”正在给A股补弹药  超三十家机构抢名额，央行第三次出手，散户该看懂什么？#央行 #上市公司大追踪#互换便利",
+      "publishTime": "2026-11-02",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "前两次走势不太一样哦～第一次2024年10月后第二天涨0.54%、第三天涨0.52%，第二次2025年1月后第二天跌1.57%，第三天继续走弱～短期还受很多因素影响，投资要注意风险呀😊",
+      "doubaoReplies": [
+        {
+          "askUser": "无奈的店小七",
+          "askText": "@豆包 前两次互换后第二天第三天大盘怎么走的",
+          "doubaoReply": "前两次走势不太一样哦～第一次2024年10月后第二天涨0.54%、第三天涨0.52%，第二次2025年1月后第二天跌1.57%，第三天继续走弱～短期还受很多因素影响，投资要注意风险呀😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7703511223530226441"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7703476790227894312/",
+      "title": "央行第三次吹哨，三十多家机构抢着申报✨ 央行悄悄开了个“资产当铺”，这次谁先闻到钱味？  第三次集结号吹响！机构急着把增量资金投进资本市场，信号不一般  别只盯着指数了！央行这条“输油管”正在给A股补弹药  超三十家机构抢名额，央行第三次出手，散户该看懂什么？#央行 #上市公司大追踪#互换便利",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 31,
+      "loadedComments": 26,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7703421527534174248/",
+      "title": "人气回升 下午继续，接着奏乐接着舞##操盘手拆解盘口  #上市公司大追踪#人形机器人 #海洋经济 #医疗健康",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -958,8 +1006,8 @@
       "title": "九阳真经练成了 资金方故意设局，借着相关传闻煽风点火，刻意制造出稳赚的氛围吸引跟风盘进场，一步步把股价推上去。等股价到了高位，大股东就借着现有规则的缝隙，从容完成撤退。#股票知识分享 #九阳股份#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 51,
-      "loadedComments": 45,
+      "totalComments": 53,
+      "loadedComments": 47,
       "creator": "上市公司大追踪"
     },
     {
@@ -1021,8 +1069,8 @@
       "title": "高位科技退潮，资金抱团航天消费 #上市公司大追踪 #a股行情 #盘面点评",
       "status": "not_found",
       "found": false,
-      "totalComments": 6,
-      "loadedComments": 6,
+      "totalComments": 7,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -1397,8 +1445,8 @@
       "title": "监管蹊跷踩刹车，上海九百有猫腻？ #上市公司大追踪 #监管",
       "status": "not_found",
       "found": false,
-      "totalComments": 46,
-      "loadedComments": 37,
+      "totalComments": 47,
+      "loadedComments": 38,
       "creator": "上市公司大追踪"
     },
     {
@@ -1579,42 +1627,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7700934670757675071/",
-      "title": "操盘手拆解龙虎榜——百洋股份 #上市公司大追踪 #龙虎榜 #百洋股份",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7700930784097484800/",
-      "title": "操盘手拆解龙虎榜——上纬新材 #上市公司大追踪 #龙虎榜 #个股 #上纬新材",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7700899788153176098/",
-      "title": "中石油创新高 #上市公司大追踪1. 沪指红了三千一百只股票在跌，中石油十八年新高和算力跌停同时出现，什么信号？ 2. 缩量三千四百七十五亿，宽基ETF午后突然放量六十亿，大资金在守还是在攻？ 3. 中石油创十八年新高，是“魔咒”还是“新逻辑”？一个被忽略的细节。 4. 算力硬件跌停潮，机器人数据要素连板，高低切换下普通投资者怎么跟？",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 7,
-      "loadedComments": 6,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7700892686470873098/",
-      "title": "操盘手拆解盘口——万向钱潮 #上市公司大追踪 #股票知识分享 #盘口 #万向钱潮",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -2428,8 +2440,8 @@
       "title": "10.30人生第一次现场看足球比赛：苏超 #苏超 #打卡苏式新图景 #江苏",
       "status": "not_found",
       "found": false,
-      "totalComments": 34,
-      "loadedComments": 34,
+      "totalComments": 35,
+      "loadedComments": 35,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2437,8 +2449,8 @@
       "title": "10.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 56,
-      "loadedComments": 40,
+      "totalComments": 57,
+      "loadedComments": 41,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2500,8 +2512,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 188,
-      "loadedComments": 141,
+      "totalComments": 187,
+      "loadedComments": 140,
       "creator": "艾丽无废话财经"
     },
     {
