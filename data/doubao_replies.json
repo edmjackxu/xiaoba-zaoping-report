@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-01T23:11:37.412Z",
+  "builtAt": "2026-11-02T04:08:44.403Z",
   "total": 611,
   "found": 319,
   "notFound": 292,
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7703413887680414235/",
+      "title": "11-2号大摩最新闭门会：邢自强分享",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7703187253027160614/",
       "title": "11-1号长江戴清：底部的信号。！",
       "status": "not_found",
@@ -749,15 +758,6 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7701735597223723546/",
-      "title": "10-28号银河：AI的下一战：巨头集体押注“机器人大脑”，具身智能迎来“ChatGP时刻？",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
-    },
-    {
       "url": "https://www.toutiao.com/video/7703216586085105727/",
       "title": "社保国资同框，该参考什么方向？ ✨ 社保调仓暗线 ⚠️ 别只盯银行股 📍 国资增持真信号 📑 三季报隐藏路线#社保基金 #上市公司大追踪",
       "status": "not_found",
@@ -773,6 +773,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "上市中小市值企业融资会有边际改善，下周开会就是解决银行放贷卡点，优质企业更易贷款～非上市的暂时没直接利好哦，主要得靠专门的支小工具呢😊",
       "doubaoReplies": [
         {
@@ -2416,8 +2417,8 @@
       "title": "10.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 53,
-      "loadedComments": 39,
+      "totalComments": 56,
+      "loadedComments": 40,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3024,7 +3025,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 243,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
