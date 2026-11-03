@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-03T11:08:45.560Z",
-  "total": 612,
+  "builtAt": "2026-11-03T23:11:48.497Z",
+  "total": 613,
   "found": 323,
-  "notFound": 289,
+  "notFound": 290,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,12 +673,31 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7703936436394836489/",
+      "title": "倪海廈天纪第一集（02）",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7703930150118752818/",
+      "title": "倪海廈天纪第一集（01）",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7703565254671761970/",
       "title": "11-2号华创闭门会：张瑜：调整的深度与反弹的契机",
       "publishTime": "2026-11-03",
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "张瑜提到当前居民消费倾向低位，但消费板块供求出清加速，过去五年下行周期基本结束，建议关注消费龙头、科创50和创业板指，利率债也有配置价值哦～",
       "doubaoReplies": [
         {
@@ -761,41 +780,30 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7702608098921415177/",
-      "title": "付鹏，谷歌财报敲响警钟，从自由现金流转负到核心利润坍塌",
-      "publishTime": "2026-10-31",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "核心广告业务被AI冲击，自由现金流转负靠发债填坑，股权估值缩水、股票回购暂停，大概率会引发科技板块阶段性震荡哦📉",
-      "doubaoReplies": [
-        {
-          "askUser": "不凡蜻蜓y3",
-          "askText": "@豆包 还有哪些潜在风险？",
-          "doubaoReply": "核心广告业务被AI冲击，自由现金流转负靠发债填坑，股权估值缩水、股票回购暂停，大概率会引发科技板块阶段性震荡哦📉",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7702746795952587547"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7702315660759581212/",
-      "title": "【硬核分析】付鹏——“台风冲击”在风险层的缩圈观察!",
+      "url": "https://www.toutiao.com/video/7704078906315243530/",
+      "title": "苹果跌英伟达涨，AI到算账期了？ 📌 内存涨价咬苹果，A股存储链跟不跟？ 📌 AMD盘后飙七个点，算力链温度计怎么看？ 📌 Meta发债成本飙升，AI烧钱模式生变？ 📌 中期选举落地，美股最大不确定性走了吗？#美股 #上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "初心笔记"
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7703862964004061210/",
-      "title": "减持七千亿，IPO两千亿：谁在从A股抽水 1. IPO和减持同时被管控，A股的资金池子到底漏在哪？  2. 减持规模达七千亿，IPO规模达两千亿：谁在从A股抽水？  3. 监管“窗口指导”背后，A股正在更换资金传导的水管  4. 暂停IPO不是牛市发令枪，过往历史数据已经说明了实际情况  5. 长期资金在进场，资金泵也在调整，你的持仓股票属不属于长钱布局的池子？#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7703957992680472614/",
+      "title": "内存涨价相关行情，这些点可以留意一下 📈 相关行业动向看点 三星毛利率要超台积电？存储厂凭什么翻身？ A股存储午后逆转，三季报里藏着什么信号？ HBM挤爆通用内存，A股设备材料才是硬逻辑？#美股#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 70,
-      "loadedComments": 60,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7703957252046061611/",
+      "title": "“巩固完善”四个字，比“适度宽松”信号强 ✨ 一千亿 VS 一千零五十亿：央行稳市工具这次真升级了 📊 利率降到百分之一，但真正的变化不在利率 🔧 央行在修一条管子，很多人只看到了放水 ⚠️ 别再把稳市工具当“救市信号”了，逻辑已经变了#政策解读 #央行",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -803,8 +811,8 @@
       "title": "尾盘半小时八十八亿！宽基ETF天量背后 ✨科创50大跌三个多点，ETF却创天量——这根K线到底在说什么？ 📌韩系电池巨头七百亿锁单，为什么涨停的是龙蟠科技？ 📈AI漫剧九天五板，叙事跑在了业绩前面 🔄科技跌、消费起，年末风格再平衡才走到半路#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 49,
-      "loadedComments": 44,
+      "totalComments": 51,
+      "loadedComments": 46,
       "creator": "上市公司大追踪"
     },
     {
@@ -1593,24 +1601,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7701266740986052642/",
-      "title": "操盘手拆解盘口——华天科技 #上市公司大追踪 #个股 #盘口 #华天科技",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7701263881838034978/",
-      "title": "操盘手拆解盘口——海洋王 #上市公司大追踪 #盘口 #海洋王",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -2415,8 +2405,8 @@
       "title": "11.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 119,
-      "loadedComments": 102,
+      "totalComments": 147,
+      "loadedComments": 127,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2433,8 +2423,8 @@
       "title": "10.30人生第一次现场看足球比赛：苏超 #苏超 #打卡苏式新图景 #江苏",
       "status": "not_found",
       "found": false,
-      "totalComments": 36,
-      "loadedComments": 36,
+      "totalComments": 37,
+      "loadedComments": 37,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2442,8 +2432,8 @@
       "title": "10.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 58,
-      "loadedComments": 42,
+      "totalComments": 59,
+      "loadedComments": 43,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3049,7 +3039,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 243,
+      "totalComments": 242,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3295,6 +3285,26 @@
       "totalComments": 37,
       "loadedComments": 33,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7702608098921415177/",
+      "title": "付鹏，谷歌财报敲响警钟，从自由现金流转负到核心利润坍塌",
+      "publishTime": "2026-10-31",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "核心广告业务被AI冲击，自由现金流转负靠发债填坑，股权估值缩水、股票回购暂停，大概率会引发科技板块阶段性震荡哦📉",
+      "doubaoReplies": [
+        {
+          "askUser": "不凡蜻蜓y3",
+          "askText": "@豆包 还有哪些潜在风险？",
+          "doubaoReply": "核心广告业务被AI冲击，自由现金流转负靠发债填坑，股权估值缩水、股票回购暂停，大概率会引发科技板块阶段性震荡哦📉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7702746795952587547"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7701203632074702882/",
