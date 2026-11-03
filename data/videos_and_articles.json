@@ -672,7 +672,17 @@
       "url": "https://www.toutiao.com/video/7703565254671761970/",
       "publishTime": "2026-11-03",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "白桦林阿尔山111",
+          "askText": "@豆包 主要观点是什么",
+          "doubaoReply": "张瑜提到当前居民消费倾向低位，但消费板块供求出清加速，过去五年下行周期基本结束，建议关注消费龙头、科创50和创业板指，利率债也有配置价值哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7703857599678006067"
+        }
+      ]
     },
     {
       "title": "11-2号大摩最新闭门会：股票首席Laura分享",
