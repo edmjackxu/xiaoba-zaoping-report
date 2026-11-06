@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-05T23:12:14.584Z",
+  "builtAt": "2026-11-06T04:07:57.838Z",
   "total": 617,
   "found": 325,
   "notFound": 292,
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这期是澎湃新闻《首席连线》栏目访谈，主持人田忠方对话东方财富证券研究所副所长、首席策略官陈果，围绕政策利好落地后的A股修复行情展开讨论。陈果分析，7月至10月底A股出现大幅调整，双创板块跌幅尤为明显，这轮调整更多是流动性和市场情绪带来的超调，基本面并未出现剧烈恶化。近期随着互换便利、回购增持等政策陆续出台，市场流动性负反馈问题已得到化解，市场逐步企稳，前期超跌板块迎来修复。资金层面，今年A股增量资金以年金、保险、量化私募这类绝对收益类资金为主，10月市场调整阶段，这类资金为控制回撤大幅降低权益仓位，目前仓位处于偏低水平，进一步大规模减仓空间有限，部分私募已开始小幅加仓。他还提到，虽然科技成长板块前期跌幅较深，但产业中观数据并未同步走弱，年底双创板块存在反弹机会，建议做好资产结构再平衡，同时留意资金供求、海外因素带来的市场震荡。\n风险提示：以上仅为嘉宾观点，不构成任何投资建议。",
       "doubaoReplies": [
         {
@@ -788,8 +789,8 @@
       "title": "美国推出禁AI法案，看看A股哪些方向悄悄 民主党在中期选举拿下两院控制权之后，立刻把一份九月就埋下的草案推到了聚光灯下——《禁止人工超级智能法案》。  这份法案的惩处力度相当高✨ 违规个人最高可判二十年联邦监禁，量刑直接对标非法研发核武器；违规企业会被强制解散、没收资产，法案里自己将这一处罚称作“企业死刑”。#美股 #上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 10,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -797,8 +798,8 @@
       "title": "道指涨纳指跌，AI硬件被“算账”了？ 📌 苹果砍预算、微软拒扩容，A股算力链怎么看？ 📌 AI不是不投了，是从抢卡转向抢电 📌 失业不差、英国加息，高估值成长为何承压 📌 光通信高预期交卷，A股光模块跟不跟？#美股 #上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -806,22 +807,26 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7704689117879074835/",
       "title": "军工的真实逻辑不在新闻里📝 📌 相关思考点梳理 1. 日本军费翻倍，谁最受益？ 2. 七十万亿买不来战斗力 3. 军工的真实逻辑不在新闻里 4. 日本买导弹，排到七年后 5. 别将军费新闻当买入理由 6. 日本扩军，A股盯哪？ 7. 远程打击的隐形卡位 8. 无人作战，日本底子多薄#军工 #上市公司大追踪#涨知识",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7704686752862060563/",
       "title": "分享视频",
-      "status": "no_comments",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -829,8 +834,8 @@
       "title": "美国按下暂停键，谁在偷偷抢变压器？ 📌 45%相关项目要冻结，算力逻辑真的变了吗  📌 腾讯五百亿订单黄了，真正的信号其实不在芯片#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 90,
-      "loadedComments": 79,
+      "totalComments": 181,
+      "loadedComments": 163,
       "creator": "上市公司大追踪"
     },
     {
@@ -838,8 +843,8 @@
       "title": "民主党获胜，光储涨势逻辑各有不同 ✨ 储能比光伏多一口肉，差异究竟在哪？ ✨ 阿特斯踩线24.9%，这轮红利的真实门槛 ✨ 政策期权不是盈利反转，别误读这根阳线#上市公司大追踪#光伏#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 13,
-      "loadedComments": 11,
+      "totalComments": 15,
+      "loadedComments": 13,
       "creator": "上市公司大追踪"
     },
     {
@@ -1241,8 +1246,8 @@
       "title": "九阳真经练成了 资金方故意设局，借着相关传闻煽风点火，刻意制造出稳赚的氛围吸引跟风盘进场，一步步把股价推上去。等股价到了高位，大股东就借着现有规则的缝隙，从容完成撤退。#股票知识分享 #九阳股份#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 58,
-      "loadedComments": 51,
+      "totalComments": 59,
+      "loadedComments": 52,
       "creator": "上市公司大追踪"
     },
     {
@@ -1885,7 +1890,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 48,
-      "loadedComments": 43,
+      "loadedComments": 42,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2287,7 +2292,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 117,
-      "loadedComments": 110,
+      "loadedComments": 109,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2361,7 +2366,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 196,
-      "loadedComments": 30,
+      "loadedComments": 190,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2374,12 +2379,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7704852631688396809/",
+      "title": "11.6",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 30,
+      "loadedComments": 25,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7704505288782512166/",
       "title": "11.5",
       "status": "not_found",
       "found": false,
-      "totalComments": 97,
-      "loadedComments": 80,
+      "totalComments": 101,
+      "loadedComments": 83,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3030,7 +3044,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 242,
+      "totalComments": 243,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3248,15 +3262,6 @@
       "found": false,
       "totalComments": 64,
       "loadedComments": 48,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7672183383409033222/",
-      "title": "8.10",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 111,
-      "loadedComments": 98,
       "creator": "艾丽无废话财经"
     },
     {
