@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-11-06T07:06:26.956Z",
+  "checkTime": "2026-11-06T11:06:25.317Z",
   "articles": [
     {
       "title": "",
@@ -664,6 +664,13 @@
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "publishTime": "2024-11-28",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "11-6号大摩闭门会：存储/云计算/PC最新动态；AI电源及CCL、半导体业绩",
+      "url": "https://www.toutiao.com/video/7704960758941008394/",
+      "publishTime": "2026-11-06",
       "type": "video",
       "creator": "初心笔记"
     },
@@ -1731,18 +1738,34 @@
       ]
     },
     {
-      "title": "俞敏洪最深刻的一次访谈：人生本来就是苦的，你不吃这个苦就要吃那个苦，如何寻找幸福",
-      "url": "https://www.toutiao.com/video/7687775014053200386/",
-      "publishTime": "2026-09-21",
+      "title": "东方欲晓莫道君行早 踏遍青山人未老#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7704973177696288822/",
+      "publishTime": "2026-11-06",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "缩量普跌超4700股下跌，普通投资者别急 今天市场缩量普跌，超4700只个股收跌，作为普通投资者我觉得真的不用太着急。  📉 核心盘面数据 创业板跌幅接近4%，成交额收缩至不足4600亿，不少人都在问这背后真正的信号到底是什么。  🔄 板块分化动向 算力硬件出现跌停潮，AI漫剧方向却有标的走出5连板，很好奇AI板块内部的高低切换要怎么跟上节奏。  🛡️ 逆势资金去向 银行、电力板块逆势飘红，农业种业表现也很活跃，当前防守行情里资金到底躲在哪些方向？#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7704957559655890970/",
+      "publishTime": "2026-11-06",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "创业板跌最深还能封30个涨停：资金都在挤 📌 缩容抱团日 五板到三板梯队最齐的硬制造线到底是哪条？  📌 主线方向 机器人加光伏储能拧成一股绳，周一重点看闽发、永臻的承接情况。  📌 储能光伏首板潮 这次是新题材正式点火，还是走个一日游就结束？  📌 短剧板块 浙文五板独木撑住短剧赛道，老妖王回锅的时候别去接最后一棒。#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7704956159559794715/",
+      "publishTime": "2026-11-06",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "分享视频",
       "url": "https://www.toutiao.com/video/7704809962647584795/",
       "publishTime": "2026-11-06",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1750,7 +1773,6 @@
       "url": "https://www.toutiao.com/video/7704804732832841778/",
       "publishTime": "2026-11-06",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1758,7 +1780,6 @@
       "url": "https://www.toutiao.com/video/7704804532554825779/",
       "publishTime": "2026-11-06",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3326,27 +3347,6 @@
       "title": "三千八百股下挫，工行市值突破三万亿 #上市公司大追踪 #a股 #a股行情 #银行股",
       "url": "https://www.toutiao.com/video/7698235419028422706/",
       "publishTime": "2026-10-19",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "A股突然拉升迎利好，99%没读懂这份文件 #上市公司大追踪 #a股",
-      "url": "https://www.toutiao.com/video/7698233148299034639/",
-      "publishTime": "2026-10-19",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "出口持续高增，政策在拆解什么逻辑 #上市公司大追踪 #中国企业出海 #国家统计局",
-      "url": "https://www.toutiao.com/video/7698209469817192458/",
-      "publishTime": "2026-10-19",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "别只盯直播，影院凌晨闲置时段才是金矿 #上市公司大追踪#电影院",
-      "url": "https://www.toutiao.com/video/7697857784357748751/",
-      "publishTime": "2026-10-18",
       "type": "video",
       "creator": "上市公司大追踪"
     },
