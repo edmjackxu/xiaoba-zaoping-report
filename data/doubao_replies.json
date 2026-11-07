@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-06T23:10:37.218Z",
+  "builtAt": "2026-11-07T04:07:53.586Z",
   "total": 618,
   "found": 326,
   "notFound": 292,
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这是B站初心笔记投资私享会里洪灏关于美股暴跌后市的分析分享：\n昨夜标普跌4.36%、费城半导体指数大跌12.25%，日韩股市同步重挫，属于统计上的肥尾投降式抛售，VIX波动率单日大涨近70%创1996年第三大涨幅。\n洪灏早在6月就预判半导体价格泡沫会破裂，他提到算力真实需求存在，但大量云厂举债建设数据中心，叠加美国收紧数据中心审批、电力环保要求趋严，AI资本开支计划大概率要调整，相关板块压力会更大。\n从历史数据看，这类暴跌后标普中长期上涨概率不低，但半导体板块反弹力度偏弱，一次大跌未必就是底部，最终要看全球经济基本面。另外美国中期选举、中东局势都可能扰动市场，美联储加息空间有限，中美市场走势不一定同步，后续美股波动会明显放大，依赖新建电站的硬件和电力设备板块压力更大。\n以上仅为主讲人个人观点，不构成投资建议哦。",
       "doubaoReplies": [
         {
@@ -772,8 +773,8 @@
       "title": "稳市升级，这次感觉不太一样 ✨ 「内在」两个字，才是关键 国家队的新底牌，藏在这 ✨ 别只看「稳」，要看「机制」#上市公司大追踪#政策解读#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 10,
-      "loadedComments": 10,
+      "totalComments": 17,
+      "loadedComments": 17,
       "creator": "上市公司大追踪"
     },
     {
@@ -781,8 +782,8 @@
       "title": "俩司机抢方向盘，这辆车到底往哪开？ ✨ 美元信用现状 像积分一样，正在一点点被扣光  🤝 盟友态度变化 盟友开始留后路，美国信誉打折意味着什么？  ⏰ 关键节点预告 2027年上半年那声雷，跟A股钱包有什么关系？#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -871,7 +872,7 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
+      "totalComments": 4,
       "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
@@ -898,8 +899,8 @@
       "title": "美国按下暂停键，谁在偷偷抢变压器？ 📌 45%相关项目要冻结，算力逻辑真的变了吗  📌 腾讯五百亿订单黄了，真正的信号其实不在芯片#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 210,
-      "loadedComments": 186,
+      "totalComments": 220,
+      "loadedComments": 190,
       "creator": "上市公司大追踪"
     },
     {
@@ -907,8 +908,8 @@
       "title": "民主党获胜，光储涨势逻辑各有不同 ✨ 储能比光伏多一口肉，差异究竟在哪？ ✨ 阿特斯踩线24.9%，这轮红利的真实门槛 ✨ 政策期权不是盈利反转，别误读这根阳线#上市公司大追踪#光伏#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 15,
-      "loadedComments": 13,
+      "totalComments": 17,
+      "loadedComments": 14,
       "creator": "上市公司大追踪"
     },
     {
@@ -934,8 +935,8 @@
       "title": "道指狂飙一千五百点，数据中心却被砸盘📈 民主党大胜、油价暴跌，美股整体涨得很嗨，想知道A股算力链会不会跟进？  科技板块动态✨ 大型科技股普涨，芯片、IDC反而下跌，AI相关板块已经进入“算账阶段”  行业新动向📍 高通联手SpaceX布局地面5G，想了解A股通信链要怎么对应映射？ #美股 #上市公司大追踪 新趋势观察💡 苹果削减了AI预算，省钱逻辑说不定才是下一轮行情的暗线？",
       "status": "not_found",
       "found": false,
-      "totalComments": 8,
-      "loadedComments": 7,
+      "totalComments": 9,
+      "loadedComments": 8,
       "creator": "上市公司大追踪"
     },
     {
@@ -1051,8 +1052,8 @@
       "title": "《互动影游：AI下一个“印钞场景”》《从短剧到影游，一字之差差在哪》《字节出钱，谁在出力》#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -2378,12 +2379,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7705235761083842603/",
+      "title": "11.7",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 29,
+      "loadedComments": 23,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7704852631688396809/",
       "title": "11.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 85,
-      "loadedComments": 72,
+      "totalComments": 87,
+      "loadedComments": 74,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2679,8 +2689,8 @@
       "title": "10.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 42,
-      "loadedComments": 40,
+      "totalComments": 41,
+      "loadedComments": 39,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2962,8 +2972,8 @@
       "title": "9.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 78,
-      "loadedComments": 57,
+      "totalComments": 77,
+      "loadedComments": 56,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3252,15 +3262,6 @@
       "found": false,
       "totalComments": 41,
       "loadedComments": 36,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7672223668202569768/",
-      "title": "8.10",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 64,
-      "loadedComments": 48,
       "creator": "艾丽无废话财经"
     },
     {
