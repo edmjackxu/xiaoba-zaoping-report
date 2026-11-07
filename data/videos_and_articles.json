@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-11-07T07:06:28.199Z",
+  "checkTime": "2026-11-07T11:06:25.925Z",
   "articles": [
     {
       "title": "",
@@ -3358,6 +3358,14 @@
       "creator": "上市公司大追踪"
     },
     {
+      "title": "研究产业第一步，不是翻财报，而是先搞清楚钱被谁赚走了 #产业链 #产业研究",
+      "url": "https://www.toutiao.com/video/7705365050726285338/",
+      "publishTime": "2026-11-07",
+      "type": "video",
+      "summary": "",
+      "creator": "GNCapital产业研究"
+    },
+    {
       "title": "中国巨石 三季报点评 #中国巨石 #财报解读 #电子布",
       "url": "https://www.toutiao.com/video/7698635578367197193/",
       "publishTime": "2026-10-20",
@@ -3378,7 +3386,6 @@
       "url": "https://www.toutiao.com/video/7698569118517067785/",
       "publishTime": "2026-10-20",
       "type": "video",
-      "summary": "",
       "creator": "GNCapital产业研究"
     },
     {
@@ -5992,5 +5999,5 @@
       "creator": "艾丽无废话财经"
     }
   ],
-  "totalItems": 720
+  "totalItems": 721
 }
