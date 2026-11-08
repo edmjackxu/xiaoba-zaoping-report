@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-08T11:08:54.643Z",
+  "builtAt": "2026-11-08T23:07:22.510Z",
   "total": 621,
-  "found": 327,
-  "notFound": 294,
+  "found": 328,
+  "notFound": 293,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -773,8 +773,8 @@
       "title": "一车芯片连人带车消失，谁在给英伟达“黑色 食品车拉芯片，司机一起失联，这单货真的丢了吗？  是专门偷芯片，还是非正规物流出了问题？A股恐怕要重估“交付主权”了。  ✨确定性才是最珍贵的 英伟达失窃案的背后，全是A股的算力账本。  提醒大家别追脉冲，芯片被盗案里，藏着国产算力的定价锚。#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "totalComments": 8,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -782,8 +782,8 @@
       "title": "触觉传感器行情启动，先看清谁手里有订单 📌 苹果相关论文点破关键：机器人行业最大的软肋，A股哪些公司是真的在交货？ 📌 十万套订单对应单套万元级收入，触觉传感器这波行业分化已经藏不住了 📌 单台机器人“皮肤”成本达五千块，触觉产业链里谁在裸泳、谁在真出货一目了然 📌 苹果没明说的潜台词：机器人当下缺的不是“脑子”，是“手感”相关的生意#上市公司大追踪#机器人#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -798,11 +798,21 @@
     {
       "url": "https://www.toutiao.com/video/7705655541837611049/",
       "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
+      "publishTime": "2026-11-08",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "视频对比了中美算力投资的不同策略：硅谷科技企业收缩算力资本开支，微软下调资本预算、叫停扩建项目，美股算力板块随之下跌；国内三大运营商持续加码算力建设，中国移动计划2027年算力投资千亿以上，智算园区扩容，电信、联通算力投资也大幅增长。视频认为欧美算力项目以商业回本为核心，需求不确定就选择止损；国内算力依托东数西算国家工程，在内蒙古、甘肃利用绿电降低算力成本，新建算力设施强调底层技术国产化，资金更多流向国产算力产业链。市场方面，11月初A股算力板块跟随美股回调，下跌个股多是深度依赖北美云厂商订单的高速光模块企业；而运营商的算力投入利好国产AI服务器、液冷、网络设备相关标的。视频提出，海外算力产业链和国内国产算力链是两条不同赛道，短线资金关注海外大厂订单，中长期可关注运营商集采带来的国产算力订单机会。\n视频提及个股及对应代码：\n1. 中际旭创：300308\n2. 英维克：002837\n3. 浪潮信息：000977\n4. 紫光股份：000938\n5. 中兴通讯：000063\n⚠️以上仅为视频内观点整理，不构成任何投资建议，股市有风险，投资需谨慎。",
+      "doubaoReplies": [
+        {
+          "askUser": "edmxh0",
+          "askText": "@豆包，帮我总结视频内容。同时如果提及具体股票，请列出股票名称和编码，如果不提及则只做总结",
+          "doubaoReply": "视频对比了中美算力投资的不同策略：硅谷科技企业收缩算力资本开支，微软下调资本预算、叫停扩建项目，美股算力板块随之下跌；国内三大运营商持续加码算力建设，中国移动计划2027年算力投资千亿以上，智算园区扩容，电信、联通算力投资也大幅增长。视频认为欧美算力项目以商业回本为核心，需求不确定就选择止损；国内算力依托东数西算国家工程，在内蒙古、甘肃利用绿电降低算力成本，新建算力设施强调底层技术国产化，资金更多流向国产算力产业链。市场方面，11月初A股算力板块跟随美股回调，下跌个股多是深度依赖北美云厂商订单的高速光模块企业；而运营商的算力投入利好国产AI服务器、液冷、网络设备相关标的。视频提出，海外算力产业链和国内国产算力链是两条不同赛道，短线资金关注海外大厂订单，中长期可关注运营商集采带来的国产算力订单机会。\n视频提及个股及对应代码：\n1. 中际旭创：300308\n2. 英维克：002837\n3. 浪潮信息：000977\n4. 紫光股份：000938\n5. 中兴通讯：000063\n⚠️以上仅为视频内观点整理，不构成任何投资建议，股市有风险，投资需谨慎。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7705769774529676041"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7705648353501315115/",
@@ -883,8 +893,8 @@
       "title": "干式光刻机亮相，居然是个好消息🤔 进博会这台光刻机，藏着一个反直觉信号。光刻机刷屏，但真正的棋眼不在“先进”。#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 54,
-      "loadedComments": 48,
+      "totalComments": 131,
+      "loadedComments": 118,
       "creator": "上市公司大追踪"
     },
     {
@@ -901,8 +911,8 @@
       "title": "六G不只是网速，是雷达 运营商在省钱，谁在赚钱？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 44,
-      "loadedComments": 28,
+      "totalComments": 55,
+      "loadedComments": 36,
       "creator": "上市公司大追踪"
     },
     {
@@ -917,7 +927,7 @@
       "title": "稳市升级，这次感觉不太一样 ✨ 「内在」两个字，才是关键 国家队的新底牌，藏在这 ✨ 别只看「稳」，要看「机制」#上市公司大追踪#政策解读#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 24,
+      "totalComments": 25,
       "loadedComments": 22,
       "creator": "上市公司大追踪"
     },
@@ -926,8 +936,8 @@
       "title": "俩司机抢方向盘，这辆车到底往哪开？ ✨ 美元信用现状 像积分一样，正在一点点被扣光  🤝 盟友态度变化 盟友开始留后路，美国信誉打折意味着什么？  ⏰ 关键节点预告 2027年上半年那声雷，跟A股钱包有什么关系？#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 13,
-      "loadedComments": 13,
+      "totalComments": 14,
+      "loadedComments": 14,
       "creator": "上市公司大追踪"
     },
     {
@@ -1043,7 +1053,7 @@
       "title": "美国按下暂停键，谁在偷偷抢变压器？ 📌 45%相关项目要冻结，算力逻辑真的变了吗  📌 腾讯五百亿订单黄了，真正的信号其实不在芯片#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 354,
+      "totalComments": 362,
       "loadedComments": 190,
       "creator": "上市公司大追踪"
     },
@@ -2351,8 +2361,8 @@
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 115,
-      "loadedComments": 109,
+      "totalComments": 117,
+      "loadedComments": 111,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2360,8 +2370,8 @@
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 51,
-      "loadedComments": 42,
+      "totalComments": 53,
+      "loadedComments": 44,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2378,8 +2388,8 @@
       "title": "11.5",
       "status": "not_found",
       "found": false,
-      "totalComments": 106,
-      "loadedComments": 89,
+      "totalComments": 107,
+      "loadedComments": 90,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2396,8 +2406,8 @@
       "title": "11.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 151,
-      "loadedComments": 131,
+      "totalComments": 150,
+      "loadedComments": 130,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3031,7 +3041,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 244,
-      "loadedComments": 188,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
