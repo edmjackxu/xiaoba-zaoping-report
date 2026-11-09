@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-08T23:07:22.510Z",
+  "builtAt": "2026-11-09T04:07:25.420Z",
   "total": 621,
-  "found": 328,
-  "notFound": 293,
+  "found": 329,
+  "notFound": 292,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -780,11 +780,21 @@
     {
       "url": "https://www.toutiao.com/video/7705658739181027382/",
       "title": "触觉传感器行情启动，先看清谁手里有订单 📌 苹果相关论文点破关键：机器人行业最大的软肋，A股哪些公司是真的在交货？ 📌 十万套订单对应单套万元级收入，触觉传感器这波行业分化已经藏不住了 📌 单台机器人“皮肤”成本达五千块，触觉产业链里谁在裸泳、谁在真出货一目了然 📌 苹果没明说的潜台词：机器人当下缺的不是“脑子”，是“手感”相关的生意#上市公司大追踪#机器人#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
+      "publishTime": "2026-11-08",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "苹果布局人形机器人点明短板在触觉感知，单台需配6-8套电子皮肤，单机价值3000-5000元，触觉数据需真摸真采、缺口极大，数采手套和灵巧手是核心增量～涉及A股：福莱新材(605488)、汉威科技(300007)、安培龙(301413)、晶华新材(603683)、柯力传感(603662)、日盈电子(603286)。以上为产业信息整理，不构成投资建议哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "edmxh0",
+          "askText": "@豆包，帮我总结视频内容。同时如果提及具体股票，请列出股票名称和编码，如果不提及则只做总结",
+          "doubaoReply": "苹果布局人形机器人点明短板在触觉感知，单台需配6-8套电子皮肤，单机价值3000-5000元，触觉数据需真摸真采、缺口极大，数采手套和灵巧手是核心增量～涉及A股：福莱新材(605488)、汉威科技(300007)、安培龙(301413)、晶华新材(603683)、柯力传感(603662)、日盈电子(603286)。以上为产业信息整理，不构成投资建议哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7705977846182855450"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7705657536090734630/",
@@ -802,6 +812,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "视频对比了中美算力投资的不同策略：硅谷科技企业收缩算力资本开支，微软下调资本预算、叫停扩建项目，美股算力板块随之下跌；国内三大运营商持续加码算力建设，中国移动计划2027年算力投资千亿以上，智算园区扩容，电信、联通算力投资也大幅增长。视频认为欧美算力项目以商业回本为核心，需求不确定就选择止损；国内算力依托东数西算国家工程，在内蒙古、甘肃利用绿电降低算力成本，新建算力设施强调底层技术国产化，资金更多流向国产算力产业链。市场方面，11月初A股算力板块跟随美股回调，下跌个股多是深度依赖北美云厂商订单的高速光模块企业；而运营商的算力投入利好国产AI服务器、液冷、网络设备相关标的。视频提出，海外算力产业链和国内国产算力链是两条不同赛道，短线资金关注海外大厂订单，中长期可关注运营商集采带来的国产算力订单机会。\n视频提及个股及对应代码：\n1. 中际旭创：300308\n2. 英维克：002837\n3. 浪潮信息：000977\n4. 紫光股份：000938\n5. 中兴通讯：000063\n⚠️以上仅为视频内观点整理，不构成任何投资建议，股市有风险，投资需谨慎。",
       "doubaoReplies": [
         {
@@ -893,8 +904,8 @@
       "title": "干式光刻机亮相，居然是个好消息🤔 进博会这台光刻机，藏着一个反直觉信号。光刻机刷屏，但真正的棋眼不在“先进”。#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 131,
-      "loadedComments": 118,
+      "totalComments": 147,
+      "loadedComments": 130,
       "creator": "上市公司大追踪"
     },
     {
@@ -911,8 +922,8 @@
       "title": "六G不只是网速，是雷达 运营商在省钱，谁在赚钱？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 55,
-      "loadedComments": 36,
+      "totalComments": 58,
+      "loadedComments": 39,
       "creator": "上市公司大追踪"
     },
     {
@@ -2361,8 +2372,8 @@
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 117,
-      "loadedComments": 111,
+      "totalComments": 120,
+      "loadedComments": 114,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2370,8 +2381,8 @@
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 53,
-      "loadedComments": 44,
+      "totalComments": 54,
+      "loadedComments": 45,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2379,8 +2390,8 @@
       "title": "11.6",
       "status": "not_found",
       "found": false,
-      "totalComments": 90,
-      "loadedComments": 76,
+      "totalComments": 91,
+      "loadedComments": 77,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2469,8 +2480,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 58,
-      "loadedComments": 49,
+      "totalComments": 57,
+      "loadedComments": 48,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2995,8 +3006,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 70,
-      "loadedComments": 58,
+      "totalComments": 69,
+      "loadedComments": 57,
       "creator": "艾丽无废话财经"
     },
     {
