@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-09T04:07:25.420Z",
+  "builtAt": "2026-11-09T07:12:15.701Z",
   "total": 621,
   "found": 329,
   "notFound": 292,
@@ -769,6 +769,51 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7706061810541002761/",
+      "title": "1. 《一封道歉信，黄仁勋想切开的到底是什么？》 2. 《财报前、听证前：黄仁勋为什么主动引爆私德丑闻？》 3. 《从出轨瓜到国安审查：黄仁勋道歉信的时间线》 4. 《私德认错，国安切割：黄仁勋这封信不简单》 5. 《道歉信卡在财报与闭门听证之间，黄仁勋在赌什么？》#黄仁勋 #上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706030827473207339/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706030659089023016/",
+      "title": "聊老黄相关风波和英伟达市值这些事 我整理了几个相关的观点点，和大家捋捋： 1. 英伟达这次暴跌的锅，不能全甩到出轨事件上 2. 特朗普提到“还带他去深圳”，但A股算力链真正在等的是另一件事 3. 那一封公开道歉信，相当于给四万亿美元市值添了一道“折价”空间 4. 光模块这次跟着下跌了，但相关订单其实已经排到2028年了 5. 大家别只顾着盯着老黄的私生活，更该盯住11月17号发布的那份财报#黄仁勋 #上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706026157304446986/",
+      "title": "休战延期 美国对华关税反而悄悄多收了两成 📌 休战细节 只延两个月，10%死活不松，这份公告藏着一根“换过的绳子”  📌 关税动态 年底最大的“关税悬崖”被拆了，但拆弹的人只买了六十天的保险  📌 提醒出口链从业者 出口链老板别急着松气：真正要盯的不是11月10号，是明年1月10号#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706013996393988136/",
+      "title": "上午五十个涨停！风险偏好回来了 ✨ 闽发铝业六板一字焊死，底气来自机器人铝型材小批量供货 🚀 中国商业航天首个星座出海签约，这条线能成为第二主线吗 📈 福莱新材涨到八个点没封，属于机器人电子皮肤的补涨位 ⏰ 下午盯三只没涨停的强票#上市公司大追踪",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7705705568081543202/",
       "title": "一车芯片连人带车消失，谁在给英伟达“黑色 食品车拉芯片，司机一起失联，这单货真的丢了吗？  是专门偷芯片，还是非正规物流出了问题？A股恐怕要重估“交付主权”了。  ✨确定性才是最珍贵的 英伟达失窃案的背后，全是A股的算力账本。  提醒大家别追脉冲，芯片被盗案里，藏着国产算力的定价锚。#上市公司大追踪#涨知识",
       "status": "not_found",
@@ -784,6 +829,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "苹果布局人形机器人点明短板在触觉感知，单台需配6-8套电子皮肤，单机价值3000-5000元，触觉数据需真摸真采、缺口极大，数采手套和灵巧手是核心增量～涉及A股：福莱新材(605488)、汉威科技(300007)、安培龙(301413)、晶华新材(603683)、柯力传感(603662)、日盈电子(603286)。以上为产业信息整理，不构成投资建议哦😊",
       "doubaoReplies": [
         {
@@ -904,8 +950,8 @@
       "title": "干式光刻机亮相，居然是个好消息🤔 进博会这台光刻机，藏着一个反直觉信号。光刻机刷屏，但真正的棋眼不在“先进”。#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 147,
-      "loadedComments": 130,
+      "totalComments": 150,
+      "loadedComments": 133,
       "creator": "上市公司大追踪"
     },
     {
@@ -1523,51 +1569,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7702081281311391780/",
-      "title": "关于胜宏科技的几个疑问点 📊 业绩股价相关 净利腰斩、股价大跌，胜宏科技被错杀了吗？ 账面亏掉七亿，生产线其实没垮？胜宏三季报藏了什么  🔄 业务发展相关 旧灶火变小、新灶没烧旺：胜宏卡在英伟达换代窄缝里 扣非还是正的，资金为啥先跑？胜宏这一刀冤不冤  📈 板块对比相关 PCB板块都在加速，胜宏为什么跑输？四季度才是生死线#胜宏科技",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7702001260680970301/",
-      "title": "高位科技退潮，资金抱团航天消费 #上市公司大追踪 #a股行情 #盘面点评",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7701998955868979236/",
-      "title": "机器人全线发酵，高位分歧持续累积 #上市公司大追踪 #涨停板 #复盘",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7701996627581485098/",
-      "title": "算力退潮液冷逆势，卫星红利文旅守土 机器人链之外，今天人气榜剩下五只各打各的——天孚通信一根光模块把算力硬件退潮演给全场，冰山冷热却用反包涨停证明数据中心冷却线还在，一链冰火两重天；中国卫星、工商银行、文投控股各有各的逻辑，共同撑起指数大跌日里散而不乱的题材版图。#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7701995788070551602/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 34,
-      "loadedComments": 32,
       "creator": "上市公司大追踪"
     },
     {
@@ -2399,8 +2400,8 @@
       "title": "11.5",
       "status": "not_found",
       "found": false,
-      "totalComments": 107,
-      "loadedComments": 90,
+      "totalComments": 108,
+      "loadedComments": 91,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3087,8 +3088,8 @@
       "title": "8.29 他说了“该说的”，但却不需要马上做“该做的”... #沃什 #通胀 #美元指数 #黄金 #AI发展",
       "status": "not_found",
       "found": false,
-      "totalComments": 167,
-      "loadedComments": 125,
+      "totalComments": 166,
+      "loadedComments": 124,
       "creator": "艾丽无废话财经"
     },
     {
