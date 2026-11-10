@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-10T11:09:14.644Z",
-  "total": 624,
-  "found": 330,
-  "notFound": 294,
+  "builtAt": "2026-11-10T23:14:42.978Z",
+  "total": 626,
+  "found": 331,
+  "notFound": 295,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7706520745932898826/",
+      "title": "11-10号大摩邢自强：展望东大经济。",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7706216033148797466/",
       "title": "11-10号大摩股票首席Laura分享：投资中国的更为平衡的布局打开",
       "publishTime": "2026-11-10",
@@ -760,13 +769,59 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7704291527014580763/",
-      "title": "赵本山：《波西米亚狂想曲》。牛就一个字",
+      "url": "https://www.toutiao.com/video/7706566855787970569/",
+      "title": "PICO新机涨停链谁最硬，一万七的头显卖给谁 世界模型先跑一个月 5. 视涯屏幕藏了什么账 6. 歌尔吃两道价值量#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706557674653630473/",
+      "title": "✨ 几个值得关注的市场热点点梳理： 1. 美国CPI数据超预期，真正值得警惕的不是0.4这个数值，而是“缺了一块数据” 2. 没有同比支撑的CPI，居然直接搅动了大半夜的全球市场 3. 美联储理事把“信誉”摆到了台面上，12月加息50个基点的可能性确实存在 4. 美债收益率一夜跳升，A股不少相关方向的压力明显变大 5. 美国通胀再次升温，不过这次市场的定价可能已经过头了#上市公司大追踪#美联储 #涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706510466142765066/",
+      "title": "2. 鸽派翻脸，市场慌什么？ 3. 沃勒一句话，全球资产抖三抖 4. 一个数字，决定加不加五十点#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 4,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706502544654073899/",
+      "title": "1. 二十天跌掉四千块！华强北显卡崩了，抄底的人还好吗？ 2. 一万八到一万四，RTX 5080价格塌方，谁在裸泳？ 3. 显卡暴跌真相：跌的是泡沫，不是AI的底牌 4. 华强北踩踏出货，A股算力板块慌不慌？ 5. 别被四千块吓住！显卡降价背后藏着一条更硬的逻辑#上市公司大追踪#涨知识",
+      "publishTime": "2026-11-10",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "刚需自用的话，选官方自营带保修的可以入，别赌渠道最低价～暂时不急或想囤的话建议再等等，现在行情波动大呀😉",
+      "doubaoReplies": [
+        {
+          "askUser": "英明果断香瓜i",
+          "askText": "@豆包 现在能入手显卡吗？",
+          "doubaoReply": "刚需自用的话，选官方自营带保修的可以入，别赌渠道最低价～暂时不急或想囤的话建议再等等，现在行情波动大呀😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7706584259343074111"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706480620909641762/",
+      "title": "核心在托 舍弃了半导体#上市公司大追踪#资金动向 #涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7706468476080095241/",
@@ -917,8 +972,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 31,
-      "loadedComments": 30,
+      "totalComments": 36,
+      "loadedComments": 34,
       "creator": "上市公司大追踪"
     },
     {
@@ -1112,8 +1167,8 @@
       "title": "干式光刻机亮相，居然是个好消息🤔 进博会这台光刻机，藏着一个反直觉信号。光刻机刷屏，但真正的棋眼不在“先进”。#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 169,
-      "loadedComments": 149,
+      "totalComments": 170,
+      "loadedComments": 150,
       "creator": "上市公司大追踪"
     },
     {
@@ -1130,8 +1185,8 @@
       "title": "六G不只是网速，是雷达 运营商在省钱，谁在赚钱？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 57,
-      "loadedComments": 39,
+      "totalComments": 58,
+      "loadedComments": 40,
       "creator": "上市公司大追踪"
     },
     {
@@ -1473,81 +1528,6 @@
       "totalComments": 1,
       "loadedComments": 1,
       "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7703479760504324105/",
-      "title": "券商搭台硬科技唱戏🤔 东方财富放量走得有点磨人，搞不清机构是在建仓，金融科技20厘米直接涨停，作为弹性先锋，它怎么跑得这么快？ 🤖 机器人板块的走势上下翻飞格外整齐，它算是当下的科技情绪温度计吧，这一根大阳线，既是市场信心回归的信号，也藏着不少分歧，想问问大家一开始是怎么看待这波行情的？#a股 #上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7703477153110720575/",
-      "title": "央行第三次吹哨，三十多家机构抢着申报✨ 央行悄悄开了个“资产当铺”，这次谁先闻到钱味？  第三次集结号吹响！机构急着把增量资金投进资本市场，信号不一般  别只盯着指数了！央行这条“输油管”正在给A股补弹药  超三十家机构抢名额，央行第三次出手，散户该看懂什么？#央行 #上市公司大追踪#互换便利",
-      "publishTime": "2026-11-02",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "前两次走势不太一样哦～第一次2024年10月后第二天涨0.54%、第三天涨0.52%，第二次2025年1月后第二天跌1.57%，第三天继续走弱～短期还受很多因素影响，投资要注意风险呀😊",
-      "doubaoReplies": [
-        {
-          "askUser": "无奈的店小七",
-          "askText": "@豆包 前两次互换后第二天第三天大盘怎么走的",
-          "doubaoReply": "前两次走势不太一样哦～第一次2024年10月后第二天涨0.54%、第三天涨0.52%，第二次2025年1月后第二天跌1.57%，第三天继续走弱～短期还受很多因素影响，投资要注意风险呀😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7703511223530226441"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7703421527534174248/",
-      "title": "人气回升 下午继续，接着奏乐接着舞##操盘手拆解盘口  #上市公司大追踪#人形机器人 #海洋经济 #医疗健康",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7703216586085105727/",
-      "title": "社保国资同框，该参考什么方向？ ✨ 社保调仓暗线 ⚠️ 别只盯银行股 📍 国资增持真信号 📑 三季报隐藏路线#社保基金 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7703114155074519049/",
-      "title": "周一开会，但这次别只盯着券商 八千亿的“尴尬”：央行为何急着修管道#央行#证监会#上市公司大追踪",
-      "publishTime": "2026-11-01",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "上市中小市值企业融资会有边际改善，下周开会就是解决银行放贷卡点，优质企业更易贷款～非上市的暂时没直接利好哦，主要得靠专门的支小工具呢😊",
-      "doubaoReplies": [
-        {
-          "askUser": "元气晚风jInrb2",
-          "askText": "@豆包 中小企融资会好转吗？",
-          "doubaoReply": "上市中小市值企业融资会有边际改善，下周开会就是解决银行放贷卡点，优质企业更易贷款～非上市的暂时没直接利好哦，主要得靠专门的支小工具呢😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7703160618202972982"
-        },
-        {
-          "askUser": "沧海明月A",
-          "askText": "@豆包 这次会议利好股市吗？",
-          "doubaoReply": "这次会议属于中长期实质性政策利好～不过短期很难带动大涨哦，主要是疏通工具堵点引导长期资金，短期更多修复情绪，结构性机会更突出，投资有风险哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7703162583226057522"
-        }
-      ]
     },
     {
       "url": "https://www.toutiao.com/video/7705710452629897216/",
@@ -2351,8 +2331,8 @@
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 125,
-      "loadedComments": 118,
+      "totalComments": 126,
+      "loadedComments": 119,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2985,8 +2965,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 70,
-      "loadedComments": 58,
+      "totalComments": 72,
+      "loadedComments": 59,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3231,6 +3211,54 @@
       "totalComments": 14,
       "loadedComments": 14,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7703477153110720575/",
+      "title": "央行第三次吹哨，三十多家机构抢着申报✨ 央行悄悄开了个“资产当铺”，这次谁先闻到钱味？  第三次集结号吹响！机构急着把增量资金投进资本市场，信号不一般  别只盯着指数了！央行这条“输油管”正在给A股补弹药  超三十家机构抢名额，央行第三次出手，散户该看懂什么？#央行 #上市公司大追踪#互换便利",
+      "publishTime": "2026-11-02",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "前两次走势不太一样哦～第一次2024年10月后第二天涨0.54%、第三天涨0.52%，第二次2025年1月后第二天跌1.57%，第三天继续走弱～短期还受很多因素影响，投资要注意风险呀😊",
+      "doubaoReplies": [
+        {
+          "askUser": "无奈的店小七",
+          "askText": "@豆包 前两次互换后第二天第三天大盘怎么走的",
+          "doubaoReply": "前两次走势不太一样哦～第一次2024年10月后第二天涨0.54%、第三天涨0.52%，第二次2025年1月后第二天跌1.57%，第三天继续走弱～短期还受很多因素影响，投资要注意风险呀😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7703511223530226441"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7703114155074519049/",
+      "title": "周一开会，但这次别只盯着券商 八千亿的“尴尬”：央行为何急着修管道#央行#证监会#上市公司大追踪",
+      "publishTime": "2026-11-01",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "上市中小市值企业融资会有边际改善，下周开会就是解决银行放贷卡点，优质企业更易贷款～非上市的暂时没直接利好哦，主要得靠专门的支小工具呢😊",
+      "doubaoReplies": [
+        {
+          "askUser": "元气晚风jInrb2",
+          "askText": "@豆包 中小企融资会好转吗？",
+          "doubaoReply": "上市中小市值企业融资会有边际改善，下周开会就是解决银行放贷卡点，优质企业更易贷款～非上市的暂时没直接利好哦，主要得靠专门的支小工具呢😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7703160618202972982"
+        },
+        {
+          "askUser": "沧海明月A",
+          "askText": "@豆包 这次会议利好股市吗？",
+          "doubaoReply": "这次会议属于中长期实质性政策利好～不过短期很难带动大涨哦，主要是疏通工具堵点引导长期资金，短期更多修复情绪，结构性机会更突出，投资有风险哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7703162583226057522"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7702821064749154319/",
