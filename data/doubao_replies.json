@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-10T23:14:42.978Z",
+  "builtAt": "2026-11-11T04:09:44.971Z",
   "total": 626,
   "found": 331,
   "notFound": 295,
@@ -769,6 +769,24 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7706753737234055206/",
+      "title": "上午快五十只个股涨停，市场资金怎么就盯着这两条主线，创业板还在偷偷领涨。📍襄阳轴承一根轴承卡进机器人减速器赛道，不过板上的抛压已经露怯了。📍剑桥科技直接封板，封单都快十来亿了，之前微软替国产光模块说了句话。📍新易盛涨到九个点没封住，挺好奇光模块这条线下午会不会补涨封板。📍文投控股十六天走出九板，还开了十次板，真的搞不清它是旗杆还是温度计。#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706686158947745807/",
+      "title": "📊 热点1：通胀爆表！美联储连下狠手，英伟达大跌背后不简单！  📉 热点2：国债逼近五字头，美股高位跳水，A股哪些板块能扛住？  🤝 热点3：从卖芯片到抢饭碗，AI巨头互殴，微软也扛不住了？  🔍 热点4：揭秘美股分化真相：算力退潮，这个隐秘赛道却在狂飙！  🚢 热点5：出海订单暴增！SpaceX给中国光伏企业上了一堂什么课？#上市公司大追踪#美股#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 9,
+      "loadedComments": 7,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7706566855787970569/",
       "title": "PICO新机涨停链谁最硬，一万七的头显卖给谁 世界模型先跑一个月 5. 视涯屏幕藏了什么账 6. 歌尔吃两道价值量#上市公司大追踪#涨知识",
       "status": "not_found",
@@ -782,8 +800,8 @@
       "title": "✨ 几个值得关注的市场热点点梳理： 1. 美国CPI数据超预期，真正值得警惕的不是0.4这个数值，而是“缺了一块数据” 2. 没有同比支撑的CPI，居然直接搅动了大半夜的全球市场 3. 美联储理事把“信誉”摆到了台面上，12月加息50个基点的可能性确实存在 4. 美债收益率一夜跳升，A股不少相关方向的压力明显变大 5. 美国通胀再次升温，不过这次市场的定价可能已经过头了#上市公司大追踪#美联储 #涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 3,
+      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -791,8 +809,8 @@
       "title": "2. 鸽派翻脸，市场慌什么？ 3. 沃勒一句话，全球资产抖三抖 4. 一个数字，决定加不加五十点#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "totalComments": 7,
+      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -802,6 +820,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "刚需自用的话，选官方自营带保修的可以入，别赌渠道最低价～暂时不急或想囤的话建议再等等，现在行情波动大呀😉",
       "doubaoReplies": [
         {
@@ -819,8 +838,8 @@
       "title": "核心在托 舍弃了半导体#上市公司大追踪#资金动向 #涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -972,8 +991,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 36,
-      "loadedComments": 34,
+      "totalComments": 38,
+      "loadedComments": 36,
       "creator": "上市公司大追踪"
     },
     {
@@ -1185,8 +1204,8 @@
       "title": "六G不只是网速，是雷达 运营商在省钱，谁在赚钱？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 58,
-      "loadedComments": 40,
+      "totalComments": 57,
+      "loadedComments": 39,
       "creator": "上市公司大追踪"
     },
     {
@@ -1505,24 +1524,6 @@
     {
       "url": "https://www.toutiao.com/video/7703567010004779046/",
       "title": "证监会点名龙头打样，这批“光说不练”的公 📢 近期A股回购相关的监管动态关注度很高，几个值得关注的观察点： 1. 拿了对应贷款却一股没买？证监会催发的这张“零回购”名单，背后藏着什么信号 2. 回购公告写了几千万金额，实际只掏出几百万落实：A股的“画饼式回购”这回彻底藏不住了 3. 宁德时代四百亿回购方案至今悬空，兖矿能源九个月完全零动作——监管这边为什么急了 4. 证监会直接点名龙头做打样，这批“光说不练”的相关公司还能拖多久 5. 回购已经从早前的“公告竞赛”阶段，正式进入实打实的“执行考”环节，谁在裸泳看名单就一目了然#回购#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7703563294665424936/",
-      "title": "逆周期调节再出手，A股两融要回暖了？ 📌 证监会操作回顾 去年收杠杆，今年松油门，证监会这波操作你看懂了吗？ 💡 融资保证金提醒 融资保证金要松绑？先别急着加杠杆，听我说完。 🔍 政策核心信号 逆周期调节再出手，A股两融要回暖了？ ⚖️ 受益方向讨论 押金少收点，平仓线松一松，券商和散户谁更受益？ ✨ 重点政策表态 证监会最新表态，融资融券风控指标要优化，信号不一般。#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7703482091970773019/",
-      "title": "这根大阳线是反转还是反抽？先别急着喊牛市 刚看到走势明显放量了，可融资余额还在往下走，今天到底是谁在抬轿？  ✨板块行情看点 AI视频板块直接涨疯了，真正迎来重估的不是工具赛道，而是版权板块。  📊盘面特殊信号 券商集体涨停，黄金却突然跳水，盘面  另外今天一百多只个股涨停，其中八十三只都开过板，这份热闹的背后  #a股行情 #上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -2327,12 +2328,21 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7706743613132128290/",
+      "title": "11.11",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 43,
+      "loadedComments": 36,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7705307264424345600/",
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 126,
-      "loadedComments": 119,
+      "totalComments": 127,
+      "loadedComments": 120,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2358,8 +2368,8 @@
       "title": "11.5",
       "status": "not_found",
       "found": false,
-      "totalComments": 109,
-      "loadedComments": 92,
+      "totalComments": 112,
+      "loadedComments": 94,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2367,8 +2377,8 @@
       "title": "11.4",
       "status": "not_found",
       "found": false,
-      "totalComments": 28,
-      "loadedComments": 23,
+      "totalComments": 27,
+      "loadedComments": 22,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3010,7 +3020,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 244,
+      "totalComments": 245,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3201,15 +3211,6 @@
       "found": false,
       "totalComments": 106,
       "loadedComments": 98,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7673271698946261055/",
-      "title": "8.13 #印尼 #日惹 #中芭朗天坑 #丁达尔效应",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 14,
-      "loadedComments": 14,
       "creator": "艾丽无废话财经"
     },
     {
