@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-12T04:07:39.633Z",
-  "total": 626,
+  "builtAt": "2026-11-12T07:08:02.319Z",
+  "total": 627,
   "found": 331,
-  "notFound": 295,
+  "notFound": 296,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -335,7 +335,7 @@
       "title": "《天道》中最精彩的一段：五台山论道未删减版！看懂的都是神人！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1429,
+      "totalComments": 1428,
       "loadedComments": 189,
       "creator": "初心笔记"
     },
@@ -1027,7 +1027,7 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 49,
+      "totalComments": 50,
       "loadedComments": 47,
       "creator": "上市公司大追踪"
     },
@@ -1529,6 +1529,15 @@
       "totalComments": 4,
       "loadedComments": 4,
       "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7707131920505585704/",
+      "title": "学会止损的实战方法，选得再好，不会离场也是白搭 #止损 #止损技巧",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "GNCapital产业研究"
     },
     {
       "url": "https://www.toutiao.com/video/7705710452629897216/",
@@ -2308,31 +2317,11 @@
       "creator": "GNCapital产业研究"
     },
     {
-      "url": "https://www.toutiao.com/video/7587348300203425832/",
-      "title": "2025年12月24日 贵金属铜：产业链全景梳理 紫金矿业 江西铜业 洛阳钼业 西部矿业 五矿资源 金诚信 格林美 中再资源 启迪环境 江西铜业 铜陵有色 云南铜业 大冶有色 海亮股份 博威合金 金田股份 楚江新材 诺德股份 嘉元科技 铜冠铜箔 斯瑞新材",
-      "publishTime": "2025-12-24",
-      "creator": "GNCapital产业研究",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "视频中文字主要内容：2025年12月24日伦铜价触及12159美元/吨历史高位，沪铜、国际铜期货主力合约分别达95300元/吨、85910元/吨。铜价上涨因供应端黑天鹅（智利、印尼等铜矿停产减产，中国CSPT宣布2026年矿铜产能减产10%）、需求端AI与新能源爆发（国内AI数据中心年耗铜30万吨，新能源车、光伏等领域消费量预计380-400万吨）及库存失衡（LME库存锐减超60%）。产业链核心企业包括上游矿产铜企业紫金矿业（2024年产铜107万吨）、江西铜业等，再生铜相关企业格林美等。",
-      "doubaoReplies": [
-        {
-          "askUser": "不觉秋色浅",
-          "askText": "@豆包 提炼视频中的文字",
-          "doubaoReply": "视频中文字主要内容：2025年12月24日伦铜价触及12159美元/吨历史高位，沪铜、国际铜期货主力合约分别达95300元/吨、85910元/吨。铜价上涨因供应端黑天鹅（智利、印尼等铜矿停产减产，中国CSPT宣布2026年矿铜产能减产10%）、需求端AI与新能源爆发（国内AI数据中心年耗铜30万吨，新能源车、光伏等领域消费量预计380-400万吨）及库存失衡（LME库存锐减超60%）。产业链核心企业包括上游矿产铜企业紫金矿业（2024年产铜107万吨）、江西铜业等，再生铜相关企业格林美等。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7587159259562377999"
-        }
-      ]
-    },
-    {
       "url": "https://www.toutiao.com/video/7706743613132128290/",
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 249,
+      "totalComments": 260,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2341,8 +2330,8 @@
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 128,
-      "loadedComments": 121,
+      "totalComments": 129,
+      "loadedComments": 122,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3212,6 +3201,26 @@
       "totalComments": 106,
       "loadedComments": 98,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7587348300203425832/",
+      "title": "2025年12月24日 贵金属铜：产业链全景梳理 紫金矿业 江西铜业 洛阳钼业 西部矿业 五矿资源 金诚信 格林美 中再资源 启迪环境 江西铜业 铜陵有色 云南铜业 大冶有色 海亮股份 博威合金 金田股份 楚江新材 诺德股份 嘉元科技 铜冠铜箔 斯瑞新材",
+      "publishTime": "2025-12-24",
+      "creator": "GNCapital产业研究",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "视频中文字主要内容：2025年12月24日伦铜价触及12159美元/吨历史高位，沪铜、国际铜期货主力合约分别达95300元/吨、85910元/吨。铜价上涨因供应端黑天鹅（智利、印尼等铜矿停产减产，中国CSPT宣布2026年矿铜产能减产10%）、需求端AI与新能源爆发（国内AI数据中心年耗铜30万吨，新能源车、光伏等领域消费量预计380-400万吨）及库存失衡（LME库存锐减超60%）。产业链核心企业包括上游矿产铜企业紫金矿业（2024年产铜107万吨）、江西铜业等，再生铜相关企业格林美等。",
+      "doubaoReplies": [
+        {
+          "askUser": "不觉秋色浅",
+          "askText": "@豆包 提炼视频中的文字",
+          "doubaoReply": "视频中文字主要内容：2025年12月24日伦铜价触及12159美元/吨历史高位，沪铜、国际铜期货主力合约分别达95300元/吨、85910元/吨。铜价上涨因供应端黑天鹅（智利、印尼等铜矿停产减产，中国CSPT宣布2026年矿铜产能减产10%）、需求端AI与新能源爆发（国内AI数据中心年耗铜30万吨，新能源车、光伏等领域消费量预计380-400万吨）及库存失衡（LME库存锐减超60%）。产业链核心企业包括上游矿产铜企业紫金矿业（2024年产铜107万吨）、江西铜业等，再生铜相关企业格林美等。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7587159259562377999"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7703477153110720575/",
