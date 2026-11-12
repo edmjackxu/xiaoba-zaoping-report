@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-12T07:08:02.319Z",
+  "builtAt": "2026-11-12T11:09:03.195Z",
   "total": 627,
   "found": 331,
   "notFound": 296,
@@ -522,10 +522,8 @@
     {
       "url": "https://www.toutiao.com/video/7489826731843747875/",
       "title": "4-5号 卢麒元解读关税战3",
-      "status": "not_found",
+      "status": "no_api",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "初心笔记"
     },
     {
@@ -769,12 +767,19 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7707049346755199027/",
-      "title": "谁在“罢免”黄仁勋？——不是国有化，是一场制度性收权#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7707183262682054656/",
+      "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7707180812147359787/",
+      "title": "分享视频",
+      "status": "no_comments",
+      "found": false,
       "creator": "上市公司大追踪"
     },
     {
@@ -1027,8 +1032,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 50,
-      "loadedComments": 47,
+      "totalComments": 52,
+      "loadedComments": 49,
       "creator": "上市公司大追踪"
     },
     {
@@ -1240,8 +1245,8 @@
       "title": "六G不只是网速，是雷达 运营商在省钱，谁在赚钱？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 58,
-      "loadedComments": 40,
+      "totalComments": 62,
+      "loadedComments": 42,
       "creator": "上市公司大追踪"
     },
     {
@@ -1519,15 +1524,6 @@
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7703590927583215650/",
-      "title": "夺冠看速度，资本看交付🤔 整理了几个关于机器狗行业的观察点👇  1. 泰山三千级，机器狗跑的是台阶还是场景？ 2. 夺冠看速度，资本看交付 3. 爬上泰山是面子，常态部署是里子 4. 台阶跑得稳，订单才来得快 5. 别追赛事情绪，盯住招标信号#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -2321,7 +2317,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 260,
+      "totalComments": 266,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2964,8 +2960,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 72,
-      "loadedComments": 59,
+      "totalComments": 73,
+      "loadedComments": 60,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3189,8 +3185,8 @@
       "title": "8.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 152,
-      "loadedComments": 104,
+      "totalComments": 148,
+      "loadedComments": 102,
       "creator": "艾丽无废话财经"
     },
     {
