@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-11-12T04:06:32.942Z",
+  "checkTime": "2026-11-12T07:06:32.952Z",
   "articles": [
     {
       "title": "",
@@ -3348,6 +3348,14 @@
       "creator": "上市公司大追踪"
     },
     {
+      "title": "学会止损的实战方法，选得再好，不会离场也是白搭 #止损 #止损技巧",
+      "url": "https://www.toutiao.com/video/7707131920505585704/",
+      "publishTime": "2026-11-12",
+      "type": "video",
+      "summary": "",
+      "creator": "GNCapital产业研究"
+    },
+    {
       "title": "国产替代≠低价平替，真正的替代逻辑到底是什么 #产业研究 #国产替代",
       "url": "https://www.toutiao.com/video/7705710452629897216/",
       "publishTime": "2026-11-08",
@@ -3368,7 +3376,6 @@
       "url": "https://www.toutiao.com/video/7698635578367197193/",
       "publishTime": "2026-10-20",
       "type": "video",
-      "summary": "",
       "creator": "GNCapital产业研究"
     },
     {
@@ -6003,5 +6010,5 @@
       "creator": "艾丽无废话财经"
     }
   ],
-  "totalItems": 723
+  "totalItems": 724
 }
