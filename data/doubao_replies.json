@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-13T04:07:37.755Z",
+  "builtAt": "2026-11-13T07:08:04.403Z",
   "total": 627,
   "found": 332,
   "notFound": 295,
@@ -679,6 +679,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "本次是11月11日摩根士丹利机构闭门会（《周期论剑》系列直播），仅面向机构客户/财务顾问，四位分析师覆盖金融、工业、公用事业及新能源、基础材料板块，参会者可页面左侧实时提问，会前团队发起分析师投票邀请。\n电力领域：今年前9个月需求增速3%-4%，低于5%-6%预期，主要因气温低致居民用电下滑，二、三产用电平稳；十五五预计年均增速4%-5%，增长来自电气化提升和AI数据中心，需求对GDP弹性大于1。当前煤电企业压力大，2025年底签的本年度长协电价下行，叠加煤价上涨，现货难对冲成本，后续电价或区域差异化，电力紧张省份更有支撑，发改委可能优化长协电价模式。\n电网投资：十五五国网4万亿目标确定，特高压、省内主干网是增量重点，数据中心配套需求拉动。储能今年装机约200GWh、招标400GWh，行业偏谨慎，电网接入紧张、融资等制约独立储能项目，收益承压，央企开发商观望多。\n海上风电国内开工低位，2027迎拐点，2028并网破10GW，深远海配套方案有望落地，海外机会可关注英国第八批竞标，海底电缆出海有机会。工业板块讨论人形机器人零部件供应链，出海是重要方向，整体投资主线上行是降速、控风险、提回报。金融板块分析师分享市场杠杆及相关数据。整体投资思路不再粗放刺激，转向减速提质，优先现金流稳定、确定性高的资产。\n以上仅为分析师观点整理，不构成任何投资建议。",
       "doubaoReplies": [
         {
@@ -777,6 +778,15 @@
       "totalComments": 2,
       "loadedComments": 2,
       "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7707516186967474230/",
+      "title": "影视院线爆发后背的真相。凌晨三点影院爆满真相六十九块票院线算啥账影院不靠电影赚钱了？闲置影厅如何变印钞机电竞直播救了电影院？院线第二增长曲线来了？#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7707288762635927602/",
@@ -1532,15 +1542,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7703841566917410831/",
-      "title": "尾盘半小时八十八亿！宽基ETF天量背后 ✨科创50大跌三个多点，ETF却创天量——这根K线到底在说什么？ 📌韩系电池巨头七百亿锁单，为什么涨停的是龙蟠科技？ 📈AI漫剧九天五板，叙事跑在了业绩前面 🔄科技跌、消费起，年末风格再平衡才走到半路#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 51,
-      "loadedComments": 46,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7707131920505585704/",
       "title": "学会止损的实战方法，选得再好，不会离场也是白搭 #止损 #止损技巧",
       "status": "not_found",
@@ -1939,7 +1940,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 82,
-      "loadedComments": 75,
+      "loadedComments": 76,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2331,8 +2332,8 @@
       "title": "11.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 213,
-      "loadedComments": 151,
+      "totalComments": 287,
+      "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2340,8 +2341,8 @@
       "title": "11.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 186,
-      "loadedComments": 140,
+      "totalComments": 196,
+      "loadedComments": 150,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2349,7 +2350,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 288,
+      "totalComments": 294,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2358,8 +2359,8 @@
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 129,
-      "loadedComments": 122,
+      "totalComments": 128,
+      "loadedComments": 121,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2367,7 +2368,7 @@
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 61,
+      "totalComments": 64,
       "loadedComments": 51,
       "creator": "艾丽无废话财经"
     },
