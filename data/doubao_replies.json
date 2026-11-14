@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-13T11:13:56.921Z",
+  "builtAt": "2026-11-14T04:11:04.961Z",
   "total": 627,
-  "found": 332,
-  "notFound": 295,
+  "found": 333,
+  "notFound": 294,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7707631753652961820/",
+      "title": "罗大佑痛骂赖清德没屁眼！牛",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7706855596570313225/",
       "title": "11-11号大摩闭门会：金融、工业、公用事业和新能源等行业更新",
       "publishTime": "2026-11-11",
@@ -771,13 +780,22 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7704540306359714354/",
-      "title": "11-5号长江首席：美国中期选举后的配置策略：科技还是红利？！",
+      "url": "https://www.toutiao.com/video/7707659008588382234/",
+      "title": "4. 一个裂口正在吃掉企业利润 5. 别盯PPI，盯这条传导链 6. 美债顶在哪，A股锚在哪 7. PPI低于预期，谁在说谎 8. 利率不松，成长股怎么选#上市公司大追踪#美联储#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "初心笔记"
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7707607026318180394/",
+      "title": "我整理了最近市场里接力退潮的几个典型信号👇 1. 龙虎榜数据揭露出当前接力退潮的真相，不少个股前一天涨停第二天就直接跌停 2. 文投控股净买入额排在首位，明显的对倒重仓操作里藏着隔日出货的风险 3. 沪电股份放出天量跌停，北向资金大幅出逃，此前的PCB行情本质上只是接力炒作 4. 市场的高低切换已经在悄悄发生，传媒、计算机板块逆势接棒成为新的热点方向 5. 襄阳轴承出现机构集中砸盘的情况，是退潮阶段散户盲目接盘的典型样本#上市公司大追踪#涨知识#龙虎榜",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7707565720103567375/",
@@ -991,11 +1009,21 @@
     {
       "url": "https://www.toutiao.com/video/7706433912347557951/",
       "title": "1. 英伟达传出砍单消息，实际行业供需缺口反而更大 2. 台积电被砍单，到底是谁在暗中受益偷笑 3. 大家千万别被表面的「砍单」两个字给骗了 4. 眼下砍单只是表象，实际上行业核心是换轨 5. ASIC开始接盘后续需求，A股哪些板块会受益#上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
+      "publishTime": "2026-11-10",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "视频拆解英伟达砍单实质是产线换轨（旧CoWoS产能砍单，新CoWSL产能加码），总需求未缩反增，2027年需求将从70万片涨至120多万片，释放的产能被AMD、博通、联发科等ASIC厂商承接。A股受益标的分三类：1. ASIC设计服务：芯原股份（688521）、翱捷科技（688220）；2. 光模块：中际旭创（300308）、新易盛（300502）；3. 国产算力：寒武纪（688256）、海光信息（688041）。同时提示台积电扩产未停，勿将产业结构调整误判为周期见顶，以上仅为观点整理，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "edmxh0",
+          "askText": "@豆包，帮我总结视频内容。同时如果提及具体股票，请列出股票名称和编码，如果不提及则只做总结",
+          "doubaoReply": "视频拆解英伟达砍单实质是产线换轨（旧CoWoS产能砍单，新CoWSL产能加码），总需求未缩反增，2027年需求将从70万片涨至120多万片，释放的产能被AMD、博通、联发科等ASIC厂商承接。A股受益标的分三类：1. ASIC设计服务：芯原股份（688521）、翱捷科技（688220）；2. 光模块：中际旭创（300308）、新易盛（300502）；3. 国产算力：寒武纪（688256）、海光信息（688041）。同时提示台积电扩产未停，勿将产业结构调整误判为周期见顶，以上仅为观点整理，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7707634590076257062"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7706382541376520230/",
@@ -1323,8 +1351,8 @@
       "title": "六G不只是网速，是雷达 运营商在省钱，谁在赚钱？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 62,
-      "loadedComments": 42,
+      "totalComments": 63,
+      "loadedComments": 43,
       "creator": "上市公司大追踪"
     },
     {
@@ -1521,24 +1549,6 @@
       "found": false,
       "totalComments": 5,
       "loadedComments": 5,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704177567909019682/",
-      "title": "民主党赢麻了，AI股真正怕的不是国会，是 📊 相关观察点整理 11. 北美数据中心朝令夕改，东数西算的监管底色差在哪 12. 别盯民调做AI股了，盯这两个信号比盯议长有用 13. 民主党横扫两院概率九十九趴，为什么说这不是AI股的死刑判决 14. 真正卡AI脖子的不是算法，是审批和绿电匹配的节奏 15. 中期选举开票后，算力硬件先回调——传导链条到底有多短#美股 #中期选举#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 25,
-      "loadedComments": 16,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704151821174259727/",
-      "title": "股价一块一毛七，董事长被立案的山鹰国际 刚扭亏就出事！实控人涉嫌内幕交易，十八万股东等来的是一把悬剑？ 公司刚喘过气，一把手先踩雷！山鹰国际这块“便宜货”，还敢碰吗？ 离退市线就差一层窗户纸，实控人却因内幕交易被查！巧合还是必然？ 造纸行业在回暖，山鹰却在爆雷？董事长被立案背后，最怕的是什么？#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
       "creator": "上市公司大追踪"
     },
     {
@@ -2014,7 +2024,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 74,
-      "loadedComments": 58,
+      "loadedComments": 57,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2328,11 +2338,20 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7707862062680326171/",
+      "title": "11.14",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 6,
+      "loadedComments": 6,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7707414420015546402/",
       "title": "11.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 354,
+      "totalComments": 401,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2341,8 +2360,8 @@
       "title": "11.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 206,
-      "loadedComments": 158,
+      "totalComments": 220,
+      "loadedComments": 168,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2350,7 +2369,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 304,
+      "totalComments": 328,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2368,8 +2387,8 @@
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 64,
-      "loadedComments": 51,
+      "totalComments": 45,
+      "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2467,8 +2486,8 @@
       "title": "10.25",
       "status": "not_found",
       "found": false,
-      "totalComments": 57,
-      "loadedComments": 48,
+      "totalComments": 56,
+      "loadedComments": 47,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2712,7 +2731,7 @@
       "title": "10.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 72,
+      "totalComments": 71,
       "loadedComments": 64,
       "creator": "艾丽无废话财经"
     },
@@ -2955,8 +2974,10 @@
     {
       "url": "https://www.toutiao.com/video/7686723001504825379/",
       "title": "9.18",
-      "status": "no_api",
+      "status": "not_found",
       "found": false,
+      "totalComments": 77,
+      "loadedComments": 56,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3200,15 +3221,6 @@
       "found": false,
       "totalComments": 49,
       "loadedComments": 42,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7674109830793986082/",
-      "title": "8.15 Bromo活火山 🌋 #Bromo火山  夜里1点出发 黑咕隆咚开始上山 乌漆嘛黑开始爬很高很崎岖很土的山路 多少有点害怕的 中间有很多可以停下来不再爬也可以观看日出的地方 但我们每次停下来歇了歇想了想后依旧选择继续向上 经过了2个小时 登上了最高最好的视野区 身上脸上已然全是灰尘 但心情确实无比兴奋 终于 终于～ 历尽千辛万苦 见到了这次旅程的倒数第二个重要目的地 ——Bromo活火山 也是人生第一次如此近距离的注视着活火山 火山口正在冒着滚滚浓烟 日出升起之时 火山顶被染成了金黄色 与周围一起 一个五彩斑斓的世界映入眼帘 旅行的意义 就是在克服各种困难之后的这种获得感吧❤️ 满足了～🥂 旅途中碰到一对河南的父子 儿子15岁 即将上高中 是儿子选的暑假国外旅行的目的地——印尼 一问才知道 儿子是他们当地县10000多个学生里的前50名 初中开始自己学习高一高二的课程 这次来火山还拿了地理课本 里面讲地质结构用的就是“Bromo火山”的照片 特意拿到现场对比 父子俩很亲切也很谦虚 爸爸说 他自己是第一次出国 而希望儿子从小就能多出去走走看看 打开眼界 打开心胸  了解世界的大 更了解自己的渺小 永远用学习的心态去认识世界 明年他成年了 以后再出国应该可以独立去了 这也是一种锻炼 和他们聊之后就想着把这段话在视频里记录下来 或许可以分享给更多的父母 当我们越多的出去走走看看 就会越来越关注值得关注的人和事 用自己的眼睛去看世界、用双脚去行世界 这件事情别人永远替代不了你 而你的收获只有你自己知道 与此同时会让你愿意去看更多的真实的世界 而这就是旅行这件事情的无限魅力❤️ 另 看到很多朋友问印尼地震的事情 我是下山后看到朋友们问才知道的 其实印尼人很多自己都不知道 因为离我们在的地方很远很远 所以没有任何震感和影响 一切顺利平安 谢谢大家的关心 🙆‍♀️ 未完待续....",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 21,
-      "loadedComments": 20,
       "creator": "艾丽无废话财经"
     },
     {

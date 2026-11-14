@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-11-13T23:06:23.409Z",
+  "checkTime": "2026-11-14T07:06:26.830Z",
   "articles": [
     {
       "title": "",
@@ -1748,6 +1748,14 @@
       "creator": "初心笔记"
     },
     {
+      "title": "讲话藏了一个词 ② 别只盯着AI利好 ③ 分红回购的真信号",
+      "url": "https://www.toutiao.com/video/7707899018059513894/",
+      "publishTime": "2026-11-14",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
       "title": "4. 一个裂口正在吃掉企业利润 5. 别盯PPI，盯这条传导链 6. 美债顶在哪，A股锚在哪 7. PPI低于预期，谁在说谎 8. 利率不松，成长股怎么选#上市公司大追踪#美联储#涨知识",
       "url": "https://www.toutiao.com/video/7707659008588382234/",
       "publishTime": "2026-11-13",
@@ -1768,7 +1776,6 @@
       "url": "https://www.toutiao.com/video/7707565720103567375/",
       "publishTime": "2026-11-13",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1933,7 +1940,17 @@
       "url": "https://www.toutiao.com/video/7706433912347557951/",
       "publishTime": "2026-11-10",
       "type": "video",
-      "creator": "上市公司大追踪"
+      "creator": "上市公司大追踪",
+      "doubaoReply": [
+        {
+          "askUser": "edmxh0",
+          "askText": "@豆包，帮我总结视频内容。同时如果提及具体股票，请列出股票名称和编码，如果不提及则只做总结",
+          "doubaoReply": "视频拆解英伟达砍单实质是产线换轨（旧CoWoS产能砍单，新CoWSL产能加码），总需求未缩反增，2027年需求将从70万片涨至120多万片，释放的产能被AMD、博通、联发科等ASIC厂商承接。A股受益标的分三类：1. ASIC设计服务：芯原股份（688521）、翱捷科技（688220）；2. 光模块：中际旭创（300308）、新易盛（300502）；3. 国产算力：寒武纪（688256）、海光信息（688041）。同时提示台积电扩产未停，勿将产业结构调整误判为周期见顶，以上仅为观点整理，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7707634590076257062"
+        }
+      ]
     },
     {
       "title": "上午54只涨停！创业板飙涨1.6个点✨ 今天盘面热点看得人有点眼花缭乱，几个方向的疑问我也捋了下👇 📍襄阳轴承 一根轴承卡进机器人减速器，送样的到底是不是真订单 📍文投控股 十五天拿下八板，AI短剧出海这一波到底能走多远 📍福莱新材 给灵巧手交了三万套传感器，机器人电子皮肤谁是真龙头 📍宇树科技 涨到九个点没封住，人形机器人本体厂下午会不会补涨#上市公司大追踪#涨知识",
@@ -3344,13 +3361,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "title": "操盘手拆解龙虎榜——索辰科技 #上市公司大追踪 #龙虎榜 #索辰科技",
-      "url": "https://www.toutiao.com/video/7699836206091075584/",
-      "publishTime": "2026-10-23",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
       "title": "#涨知识 #上市公司大追踪",
       "url": "https://www.toutiao.com/video/7603859937194443300/",
       "publishTime": "2026-02-07",
@@ -4407,6 +4417,14 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "title": "11.14",
+      "url": "https://www.toutiao.com/video/7707862062680326171/",
+      "publishTime": "2026-11-14",
+      "type": "video",
+      "summary": "",
+      "creator": "艾丽无废话财经"
+    },
+    {
       "title": "11.13",
       "url": "https://www.toutiao.com/video/7707414420015546402/",
       "publishTime": "2026-11-13",
@@ -4427,7 +4445,6 @@
       "url": "https://www.toutiao.com/video/7706743613132128290/",
       "publishTime": "2026-11-11",
       "type": "video",
-      "summary": "",
       "creator": "艾丽无废话财经"
     },
     {
@@ -5988,13 +6005,6 @@
       "title": "4.9",
       "url": "https://www.toutiao.com/video/7626707504675700788/",
       "publishTime": "2026-04-09",
-      "type": "video",
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "title": "4.8",
-      "url": "https://www.toutiao.com/video/7626193988269604898/",
-      "publishTime": "2026-04-08",
       "type": "video",
       "creator": "艾丽无废话财经"
     },
