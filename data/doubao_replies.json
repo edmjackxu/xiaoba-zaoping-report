@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-14T04:11:04.961Z",
+  "builtAt": "2026-11-14T07:07:52.328Z",
   "total": 627,
-  "found": 333,
-  "notFound": 294,
+  "found": 334,
+  "notFound": 293,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -780,6 +780,25 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7707899018059513894/",
+      "title": "讲话藏了一个词 ② 别只盯着AI利好 ③ 分红回购的真信号",
+      "publishTime": "2026-11-14",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "三个信号是：①市场改革走稳进平衡路线，不照搬海外经验；②强化券商风控和金融IT合规；③科技企业上市更便利，现金流稳的传统股有望重估哦～",
+      "doubaoReplies": [
+        {
+          "askUser": "用户1872180965537",
+          "askText": "@豆包 三个信号具体是啥？",
+          "doubaoReply": "三个信号是：①市场改革走稳进平衡路线，不照搬海外经验；②强化券商风控和金融IT合规；③科技企业上市更便利，现金流稳的传统股有望重估哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7707910244403659530"
+        }
+      ]
+    },
+    {
       "url": "https://www.toutiao.com/video/7707659008588382234/",
       "title": "4. 一个裂口正在吃掉企业利润 5. 别盯PPI，盯这条传导链 6. 美债顶在哪，A股锚在哪 7. PPI低于预期，谁在说谎 8. 利率不松，成长股怎么选#上市公司大追踪#美联储#涨知识",
       "status": "not_found",
@@ -1013,6 +1032,7 @@
       "creator": "上市公司大追踪",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "视频拆解英伟达砍单实质是产线换轨（旧CoWoS产能砍单，新CoWSL产能加码），总需求未缩反增，2027年需求将从70万片涨至120多万片，释放的产能被AMD、博通、联发科等ASIC厂商承接。A股受益标的分三类：1. ASIC设计服务：芯原股份（688521）、翱捷科技（688220）；2. 光模块：中际旭创（300308）、新易盛（300502）；3. 国产算力：寒武纪（688256）、海光信息（688041）。同时提示台积电扩产未停，勿将产业结构调整误判为周期见顶，以上仅为观点整理，不构成投资建议。",
       "doubaoReplies": [
         {
@@ -1540,15 +1560,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704196845333184546/",
-      "title": "1. 科创50飙9%，半导体ETF集体涨 最近半导体板块的热度直接拉满，几个动向特别值得关注： ✨ 大额资金进场 七百六十七亿资金直接砸进ETF，半导体成了最先被点燃的方向。 ✨ 行业动态接连落地 苹果接入通义千问，长鑫拿出五十亿推进回购，不少人都在讨论芯片这波上涨，靠的到底是情绪还是实打实的业绩账本。 ✨ 基本面支撑充足 不少设备公司利润同比涨了六成，订单已经排到2027年，也让人好奇半导体这轮反弹的底牌到底在哪。#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
       "creator": "上市公司大追踪"
     },
     {
@@ -2342,8 +2353,8 @@
       "title": "11.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 6,
-      "loadedComments": 6,
+      "totalComments": 51,
+      "loadedComments": 35,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2351,7 +2362,7 @@
       "title": "11.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 401,
+      "totalComments": 409,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2360,8 +2371,8 @@
       "title": "11.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 220,
-      "loadedComments": 168,
+      "totalComments": 223,
+      "loadedComments": 170,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2369,7 +2380,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 328,
+      "totalComments": 335,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3012,8 +3023,8 @@
       "title": "9.8",
       "status": "not_found",
       "found": false,
-      "totalComments": 73,
-      "loadedComments": 60,
+      "totalComments": 74,
+      "loadedComments": 61,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3057,7 +3068,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 245,
+      "totalComments": 247,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },

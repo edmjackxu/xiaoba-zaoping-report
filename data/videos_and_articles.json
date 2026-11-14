@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-11-14T07:06:26.830Z",
+  "checkTime": "2026-11-14T11:06:27.728Z",
   "articles": [
     {
       "title": "",
@@ -664,6 +664,13 @@
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "publishTime": "2024-11-28",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "翟东升最新访谈：中期选举后资本走势。",
+      "url": "https://www.toutiao.com/video/7707961439398494758/",
+      "publishTime": "2026-11-14",
       "type": "video",
       "creator": "初心笔记"
     },
@@ -1741,26 +1748,51 @@
       "creator": "初心笔记"
     },
     {
-      "title": "投资高手霍华德·马克斯：为什么大多数投资者表现平庸",
-      "url": "https://www.toutiao.com/video/7688953817672466967/",
-      "publishTime": "2026-09-24",
-      "type": "video",
-      "creator": "初心笔记"
-    },
-    {
-      "title": "讲话藏了一个词 ② 别只盯着AI利好 ③ 分红回购的真信号",
-      "url": "https://www.toutiao.com/video/7707899018059513894/",
+      "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7707958707271057423/",
       "publishTime": "2026-11-14",
       "type": "video",
       "summary": "",
       "creator": "上市公司大追踪"
     },
     {
+      "title": "我整理了几个和今年医保调整相关的关注点： 1. 五十一款新药进医保，信号在哪 2. 医保目录背后，还藏了个大动作 3. 今年医保调整，先修路再发车 4. 双目录落地，药企账本要变了#上市公司大追踪",
+      "url": "https://www.toutiao.com/video/7707941537195245611/",
+      "publishTime": "2026-11-14",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "1. 罕见承认“传导共振”，九百亿同一天撤退，谁在提前跑？ 2. 讲话里最扎心的一句，不是“稳”，是“从未像今天这样” 3. 英伟达咳嗽，A股算力发烧：谁在替你承担“联动”的代价？#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7707932078553202715/",
+      "publishTime": "2026-11-14",
+      "type": "video",
+      "summary": "",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "讲话藏了一个词 ② 别只盯着AI利好 ③ 分红回购的真信号",
+      "url": "https://www.toutiao.com/video/7707899018059513894/",
+      "publishTime": "2026-11-14",
+      "type": "video",
+      "creator": "上市公司大追踪",
+      "doubaoReply": [
+        {
+          "askUser": "用户1872180965537",
+          "askText": "@豆包 三个信号具体是啥？",
+          "doubaoReply": "三个信号是：①市场改革走稳进平衡路线，不照搬海外经验；②强化券商风控和金融IT合规；③科技企业上市更便利，现金流稳的传统股有望重估哦～",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7707910244403659530"
+        }
+      ]
+    },
+    {
       "title": "4. 一个裂口正在吃掉企业利润 5. 别盯PPI，盯这条传导链 6. 美债顶在哪，A股锚在哪 7. PPI低于预期，谁在说谎 8. 利率不松，成长股怎么选#上市公司大追踪#美联储#涨知识",
       "url": "https://www.toutiao.com/video/7707659008588382234/",
       "publishTime": "2026-11-13",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1768,7 +1800,6 @@
       "url": "https://www.toutiao.com/video/7707607026318180394/",
       "publishTime": "2026-11-13",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3336,27 +3367,6 @@
       "title": "分享视频",
       "url": "https://www.toutiao.com/video/7700093346576973875/",
       "publishTime": "2026-10-24",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "国办AI就业文件里，被大多数人翻过去的那 《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》#上市公司大追踪#涨知识",
-      "url": "https://www.toutiao.com/video/7700008745366994982/",
-      "publishTime": "2026-10-24",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "王兴兴央视受访，千万产能受益非宇树 #上市公司大追踪 #宇树科技 #机器人",
-      "url": "https://www.toutiao.com/video/7699970743299211283/",
-      "publishTime": "2026-10-24",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "操盘手拆解龙虎榜——兆威机电 #上市公司大追踪 #龙虎榜 #涨停 #兆威机电",
-      "url": "https://www.toutiao.com/video/7699838441747382326/",
-      "publishTime": "2026-10-23",
       "type": "video",
       "creator": "上市公司大追踪"
     },
