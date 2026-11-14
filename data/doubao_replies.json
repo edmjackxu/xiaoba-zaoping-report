@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-14T11:10:56.677Z",
+  "builtAt": "2026-11-14T23:07:50.794Z",
   "total": 628,
   "found": 334,
   "notFound": 294,
@@ -677,8 +677,8 @@
       "title": "翟东升最新访谈：中期选举后资本走势。",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "初心笔记"
     },
     {
@@ -769,12 +769,21 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7708148013914390569/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7707958707271057423/",
       "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
+      "totalComments": 39,
+      "loadedComments": 36,
       "creator": "上市公司大追踪"
     },
     {
@@ -1155,10 +1164,8 @@
     {
       "url": "https://www.toutiao.com/video/7706150978461892642/",
       "title": "上海国资五股同上榜 超声净买两亿五 东方系#上市公司大追踪#涨知识",
-      "status": "not_found",
+      "status": "no_api",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1175,8 +1182,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 52,
-      "loadedComments": 49,
+      "totalComments": 50,
+      "loadedComments": 47,
       "creator": "上市公司大追踪"
     },
     {
@@ -1541,15 +1548,6 @@
       "found": false,
       "totalComments": 22,
       "loadedComments": 17,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704583559620591650/",
-      "title": "中国石油跌8%，4800只个股却上涨！今 📈 光伏迎来涨停潮，之前一直传产能过剩的行业，怎么突然就“活”过来了？  🤖 AI漫剧走出四连板，AI开始下场“做内容”了，这条赛道大家看明白了吗？  💰 高股息板块栽了跟头，换成成长股出来唱戏，这是资金真的搬家，还是只是虚晃一枪？  📊 两市放量到2.1万亿，指数没涨反而个股普涨，普通投资者到底该怎么站队？#今日股票 #上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2108,7 +2106,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 37,
-      "loadedComments": 23,
+      "loadedComments": 22,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2343,8 +2341,8 @@
       "title": "11.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 59,
-      "loadedComments": 40,
+      "totalComments": 66,
+      "loadedComments": 45,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2352,7 +2350,7 @@
       "title": "11.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 411,
+      "totalComments": 413,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2361,8 +2359,8 @@
       "title": "11.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 225,
-      "loadedComments": 170,
+      "totalComments": 232,
+      "loadedComments": 175,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2370,7 +2368,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 336,
+      "totalComments": 346,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2424,8 +2422,8 @@
       "title": "11.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 150,
-      "loadedComments": 130,
+      "totalComments": 149,
+      "loadedComments": 129,
       "creator": "艾丽无废话财经"
     },
     {
