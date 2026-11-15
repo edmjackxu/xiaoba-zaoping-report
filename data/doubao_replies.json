@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-14T23:07:50.794Z",
+  "builtAt": "2026-11-15T04:12:42.123Z",
   "total": 628,
-  "found": 334,
-  "notFound": 294,
+  "found": 335,
+  "notFound": 293,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -675,11 +675,21 @@
     {
       "url": "https://www.toutiao.com/video/7707961439398494758/",
       "title": "翟东升最新访谈：中期选举后资本走势。",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "初心笔记"
+      "publishTime": "2026-11-14",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "这期翟东升和胡一虎的对谈聊了不少硬核观点呢～核心的几个预判挺受关注：美国中期选举后，2027年2月前后美股可能因AI泡沫迎来中等调整；2027-2030年国内一线、强二线这类人口流入城市，楼市会阶段性反弹，源于年轻人换大房子、父母来买养老房的需求；现在人民币有明显升值压力，得主动平衡外部冲击稳住汇率～他还说逆全球化周期会持续三十多年哦～（以上仅嘉宾观点，不构成投资建议哈）",
+      "doubaoReplies": [
+        {
+          "askUser": "大鳄鱼34693290",
+          "askText": "@豆包 总结一下",
+          "doubaoReply": "这期翟东升和胡一虎的对谈聊了不少硬核观点呢～核心的几个预判挺受关注：美国中期选举后，2027年2月前后美股可能因AI泡沫迎来中等调整；2027-2030年国内一线、强二线这类人口流入城市，楼市会阶段性反弹，源于年轻人换大房子、父母来买养老房的需求；现在人民币有明显升值压力，得主动平衡外部冲击稳住汇率～他还说逆全球化周期会持续三十多年哦～（以上仅嘉宾观点，不构成投资建议哈）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7708232891444314920"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7707631753652961820/",
@@ -713,10 +723,8 @@
     {
       "url": "https://www.toutiao.com/video/7706520745932898826/",
       "title": "11-10号大摩邢自强：展望东大经济。",
-      "status": "not_found",
+      "status": "no_api",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "初心笔记"
     },
     {
@@ -769,7 +777,7 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7708148013914390569/",
+      "url": "https://www.toutiao.com/video/7708242017235107849/",
       "title": "分享视频",
       "status": "not_found",
       "found": false,
@@ -778,12 +786,57 @@
       "creator": "上市公司大追踪"
     },
     {
+      "url": "https://www.toutiao.com/video/7708227035235123215/",
+      "title": "🤖 不只是看发布会 大家看机器人相关行情，别只盯着各种发布会的噱头。  📍 签约桌是核心信号 实际的签约落地情况，才是判断真实走向的关键信号。  💡 两条路线怎么选 华为、特斯拉走的两条不同发展路线，该怎么选参考方向。  ✋ 量产的卡点在哪 目前灵巧手的量产环节，到底卡在了什么地方。  🏭 下半场看点 机器人行情的下半场，核心关注点要转到实体产线上#上市公司大追踪#机器人#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7708215954848628755/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7708215559242186761/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7708205089533460518/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7708148013914390569/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 4,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7707958707271057423/",
       "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 39,
-      "loadedComments": 36,
+      "totalComments": 48,
+      "loadedComments": 42,
       "creator": "上市公司大追踪"
     },
     {
@@ -1164,8 +1217,10 @@
     {
       "url": "https://www.toutiao.com/video/7706150978461892642/",
       "title": "上海国资五股同上榜 超声净买两亿五 东方系#上市公司大追踪#涨知识",
-      "status": "no_api",
+      "status": "not_found",
       "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1503,51 +1558,6 @@
       "found": false,
       "totalComments": 2,
       "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704689397744828416/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704689117879074835/",
-      "title": "军工的真实逻辑不在新闻里📝 📌 相关思考点梳理 1. 日本军费翻倍，谁最受益？ 2. 七十万亿买不来战斗力 3. 军工的真实逻辑不在新闻里 4. 日本买导弹，排到七年后 5. 别将军费新闻当买入理由 6. 日本扩军，A股盯哪？ 7. 远程打击的隐形卡位 8. 无人作战，日本底子多薄#军工 #上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704686752862060563/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704679414029680650/",
-      "title": "美国按下暂停键，谁在偷偷抢变压器？ 📌 45%相关项目要冻结，算力逻辑真的变了吗  📌 腾讯五百亿订单黄了，真正的信号其实不在芯片#上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 358,
-      "loadedComments": 190,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704593475647307811/",
-      "title": "民主党获胜，光储涨势逻辑各有不同 ✨ 储能比光伏多一口肉，差异究竟在哪？ ✨ 阿特斯踩线24.9%，这轮红利的真实门槛 ✨ 政策期权不是盈利反转，别误读这根阳线#上市公司大追踪#光伏#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 22,
-      "loadedComments": 17,
       "creator": "上市公司大追踪"
     },
     {
@@ -2341,8 +2351,8 @@
       "title": "11.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 66,
-      "loadedComments": 45,
+      "totalComments": 68,
+      "loadedComments": 47,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2350,7 +2360,7 @@
       "title": "11.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 413,
+      "totalComments": 414,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2368,7 +2378,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 346,
+      "totalComments": 351,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
