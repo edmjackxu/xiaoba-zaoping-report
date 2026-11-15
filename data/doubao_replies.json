@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-15T04:12:42.123Z",
+  "builtAt": "2026-11-15T11:09:32.018Z",
   "total": 628,
   "found": 335,
   "notFound": 293,
@@ -673,12 +673,22 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7708295166947246619/",
+      "title": "李开复最新访谈：聊ai",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7707961439398494758/",
       "title": "翟东升最新访谈：中期选举后资本走势。",
       "publishTime": "2026-11-14",
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这期翟东升和胡一虎的对谈聊了不少硬核观点呢～核心的几个预判挺受关注：美国中期选举后，2027年2月前后美股可能因AI泡沫迎来中等调整；2027-2030年国内一线、强二线这类人口流入城市，楼市会阶段性反弹，源于年轻人换大房子、父母来买养老房的需求；现在人民币有明显升值压力，得主动平衡外部冲击稳住汇率～他还说逆全球化周期会持续三十多年哦～（以上仅嘉宾观点，不构成投资建议哈）",
       "doubaoReplies": [
         {
@@ -723,8 +733,10 @@
     {
       "url": "https://www.toutiao.com/video/7706520745932898826/",
       "title": "11-10号大摩邢自强：展望东大经济。",
-      "status": "no_api",
+      "status": "not_found",
       "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "初心笔记"
     },
     {
@@ -766,15 +778,6 @@
           "replyId": "7705175996433400585"
         }
       ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704960758941008394/",
-      "title": "11-6号大摩闭门会：存储/云计算/PC最新动态；AI电源及CCL、半导体业绩",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7708242017235107849/",
@@ -835,8 +838,8 @@
       "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 48,
-      "loadedComments": 42,
+      "totalComments": 51,
+      "loadedComments": 45,
       "creator": "上市公司大追踪"
     },
     {
@@ -918,8 +921,8 @@
       "title": "影视院线爆发后背的真相。凌晨三点影院爆满真相六十九块票院线算啥账影院不靠电影赚钱了？闲置影厅如何变印钞机电竞直播救了电影院？院线第二增长曲线来了？#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1237,8 +1240,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 50,
-      "loadedComments": 47,
+      "totalComments": 49,
+      "loadedComments": 46,
       "creator": "上市公司大追踪"
     },
     {
@@ -2271,7 +2274,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 62,
-      "loadedComments": 49,
+      "loadedComments": 30,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2347,12 +2350,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7708315722446831650/",
+      "title": "11.15",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 38,
+      "loadedComments": 29,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7707862062680326171/",
       "title": "11.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 68,
-      "loadedComments": 47,
+      "totalComments": 70,
+      "loadedComments": 48,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2360,7 +2372,7 @@
       "title": "11.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 414,
+      "totalComments": 417,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3013,16 +3025,14 @@
       "status": "not_found",
       "found": false,
       "totalComments": 342,
-      "loadedComments": 190,
+      "loadedComments": 191,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7683028401792811049/",
       "title": "9.8",
-      "status": "not_found",
+      "status": "no_api",
       "found": false,
-      "totalComments": 74,
-      "loadedComments": 61,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3066,7 +3076,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 248,
+      "totalComments": 249,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3221,15 +3231,6 @@
       "found": false,
       "totalComments": 58,
       "loadedComments": 44,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7674423190508830755/",
-      "title": "8.16 亲眼见证Ijen火山的“蓝色火焰” #Ijen火山 #蓝色火焰 #印尼 再次夜里12点出发 再次爬又高又陡又滑的山体 终于 看到了Ijen火山上的“蓝紫色火焰” 全球仅少数地点如冰岛、埃塞俄比亚有类似现象 印尼的Ijen火山是南半球唯一稳定的观测点 没有想到这个过程是如此之不易 更没有想到第二次到印尼的旅程 竟是我这么多年去的这么多的国家里面 把自己弄得浑身上下最脏也是最辛苦的一次 双腿已然快觉得不是自己的了 鞋脏到应该已经洗不出来了 裤子也已经灰的认不出了 但 还是都坚持下来了 要为自己的坚持点个赞 🥂 看世界的美妙之一 就是总是充满着各种不确定性 美好的东西 总要付出多一些努力才能得到 其实 生活中也是如此 不管是更多的知识还是更优秀的人 印尼之后不久 将要开启第60个国家的旅程了 ——格鲁吉亚、阿塞拜疆、亚美尼亚 期待～😎🥂",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 49,
-      "loadedComments": 42,
       "creator": "艾丽无废话财经"
     },
     {

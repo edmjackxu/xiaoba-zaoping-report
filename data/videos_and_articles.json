@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-11-15T04:06:37.215Z",
+  "checkTime": "2026-11-15T11:07:04.219Z",
   "articles": [
     {
       "title": "",
@@ -664,6 +664,13 @@
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "publishTime": "2024-11-28",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "李开复最新访谈：聊ai",
+      "url": "https://www.toutiao.com/video/7708295166947246619/",
+      "publishTime": "2026-11-15",
       "type": "video",
       "creator": "初心笔记"
     },
@@ -4420,6 +4427,14 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "title": "11.15",
+      "url": "https://www.toutiao.com/video/7708315722446831650/",
+      "publishTime": "2026-11-15",
+      "type": "video",
+      "summary": "",
+      "creator": "艾丽无废话财经"
+    },
+    {
       "title": "11.14",
       "url": "https://www.toutiao.com/video/7707862062680326171/",
       "publishTime": "2026-11-14",
@@ -4440,7 +4455,6 @@
       "url": "https://www.toutiao.com/video/7707263414149578787/",
       "publishTime": "2026-11-12",
       "type": "video",
-      "summary": "",
       "creator": "艾丽无废话财经"
     },
     {
@@ -6005,13 +6019,6 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "title": "4.9",
-      "url": "https://www.toutiao.com/video/7626707504675700788/",
-      "publishTime": "2026-04-09",
-      "type": "video",
-      "creator": "艾丽无废话财经"
-    },
-    {
       "title": "12.21  捋清她的真实意图",
       "url": "https://www.toutiao.com/video/7586214371588571698/",
       "publishTime": "2025-12-21",
@@ -6033,5 +6040,5 @@
       "creator": "艾丽无废话财经"
     }
   ],
-  "totalItems": 723
+  "totalItems": 724
 }
