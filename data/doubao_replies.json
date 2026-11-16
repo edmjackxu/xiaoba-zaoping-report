@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-15T11:09:32.018Z",
-  "total": 628,
+  "builtAt": "2026-11-15T23:09:51.686Z",
+  "total": 629,
   "found": 335,
-  "notFound": 293,
+  "notFound": 294,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -495,10 +495,8 @@
     {
       "url": "https://www.toutiao.com/video/7489827183024832547/",
       "title": "4-5号 卢麒元解读关税战6",
-      "status": "not_found",
+      "status": "no_api",
       "found": false,
-      "totalComments": 12,
-      "loadedComments": 12,
       "creator": "初心笔记"
     },
     {
@@ -673,6 +671,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7708388705547715098/",
+      "title": "11-15号长江戴清：基于三季报，寻找低位的景气修复方向",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7708295166947246619/",
       "title": "李开复最新访谈：聊ai",
       "status": "not_found",
@@ -760,24 +767,22 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7705024436272955954/",
-      "title": "11-6号洪灏最新收费文章：美股暴跌，后市如何操作？",
-      "publishTime": "2026-11-06",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "这是B站初心笔记投资私享会里洪灏关于美股暴跌后市的分析分享：\n昨夜标普跌4.36%、费城半导体指数大跌12.25%，日韩股市同步重挫，属于统计上的肥尾投降式抛售，VIX波动率单日大涨近70%创1996年第三大涨幅。\n洪灏早在6月就预判半导体价格泡沫会破裂，他提到算力真实需求存在，但大量云厂举债建设数据中心，叠加美国收紧数据中心审批、电力环保要求趋严，AI资本开支计划大概率要调整，相关板块压力会更大。\n从历史数据看，这类暴跌后标普中长期上涨概率不低，但半导体板块反弹力度偏弱，一次大跌未必就是底部，最终要看全球经济基本面。另外美国中期选举、中东局势都可能扰动市场，美联储加息空间有限，中美市场走势不一定同步，后续美股波动会明显放大，依赖新建电站的硬件和电力设备板块压力更大。\n以上仅为主讲人个人观点，不构成投资建议哦。",
-      "doubaoReplies": [
-        {
-          "askUser": "兆彤2027",
-          "askText": "@豆包 总结视频内容",
-          "doubaoReply": "这是B站初心笔记投资私享会里洪灏关于美股暴跌后市的分析分享：\n昨夜标普跌4.36%、费城半导体指数大跌12.25%，日韩股市同步重挫，属于统计上的肥尾投降式抛售，VIX波动率单日大涨近70%创1996年第三大涨幅。\n洪灏早在6月就预判半导体价格泡沫会破裂，他提到算力真实需求存在，但大量云厂举债建设数据中心，叠加美国收紧数据中心审批、电力环保要求趋严，AI资本开支计划大概率要调整，相关板块压力会更大。\n从历史数据看，这类暴跌后标普中长期上涨概率不低，但半导体板块反弹力度偏弱，一次大跌未必就是底部，最终要看全球经济基本面。另外美国中期选举、中东局势都可能扰动市场，美联储加息空间有限，中美市场走势不一定同步，后续美股波动会明显放大，依赖新建电站的硬件和电力设备板块压力更大。\n以上仅为主讲人个人观点，不构成投资建议哦。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7705175996433400585"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7708410999052697610/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7708410582935797801/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7708242017235107849/",
@@ -820,8 +825,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -838,8 +843,8 @@
       "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 51,
-      "loadedComments": 45,
+      "totalComments": 56,
+      "loadedComments": 49,
       "creator": "上市公司大追踪"
     },
     {
@@ -1543,24 +1548,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704800543239061504/",
-      "title": "美国推出禁AI法案，看看A股哪些方向悄悄 民主党在中期选举拿下两院控制权之后，立刻把一份九月就埋下的草案推到了聚光灯下——《禁止人工超级智能法案》。  这份法案的惩处力度相当高✨ 违规个人最高可判二十年联邦监禁，量刑直接对标非法研发核武器；违规企业会被强制解散、没收资产，法案里自己将这一处罚称作“企业死刑”。#美股 #上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 12,
-      "loadedComments": 9,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704698379942854694/",
-      "title": "道指涨纳指跌，AI硬件被“算账”了？ 📌 苹果砍预算、微软拒扩容，A股算力链怎么看？ 📌 AI不是不投了，是从抢卡转向抢电 📌 失业不差、英国加息，高估值成长为何承压 📌 光通信高预期交卷，A股光模块跟不跟？#美股 #上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -2354,8 +2341,8 @@
       "title": "11.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 38,
-      "loadedComments": 29,
+      "totalComments": 115,
+      "loadedComments": 86,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2363,8 +2350,8 @@
       "title": "11.14",
       "status": "not_found",
       "found": false,
-      "totalComments": 70,
-      "loadedComments": 48,
+      "totalComments": 71,
+      "loadedComments": 49,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2372,7 +2359,7 @@
       "title": "11.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 417,
+      "totalComments": 418,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2381,8 +2368,8 @@
       "title": "11.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 232,
-      "loadedComments": 175,
+      "totalComments": 233,
+      "loadedComments": 176,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2390,7 +2377,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 351,
+      "totalComments": 362,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2453,8 +2440,8 @@
       "title": "11.1 市场逻辑在开始发生变化",
       "status": "not_found",
       "found": false,
-      "totalComments": 61,
-      "loadedComments": 50,
+      "totalComments": 60,
+      "loadedComments": 49,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3025,14 +3012,16 @@
       "status": "not_found",
       "found": false,
       "totalComments": 342,
-      "loadedComments": 191,
+      "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7683028401792811049/",
       "title": "9.8",
-      "status": "no_api",
+      "status": "not_found",
       "found": false,
+      "totalComments": 74,
+      "loadedComments": 61,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3232,6 +3221,26 @@
       "totalComments": 58,
       "loadedComments": 44,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7705024436272955954/",
+      "title": "11-6号洪灏最新收费文章：美股暴跌，后市如何操作？",
+      "publishTime": "2026-11-06",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "这是B站初心笔记投资私享会里洪灏关于美股暴跌后市的分析分享：\n昨夜标普跌4.36%、费城半导体指数大跌12.25%，日韩股市同步重挫，属于统计上的肥尾投降式抛售，VIX波动率单日大涨近70%创1996年第三大涨幅。\n洪灏早在6月就预判半导体价格泡沫会破裂，他提到算力真实需求存在，但大量云厂举债建设数据中心，叠加美国收紧数据中心审批、电力环保要求趋严，AI资本开支计划大概率要调整，相关板块压力会更大。\n从历史数据看，这类暴跌后标普中长期上涨概率不低，但半导体板块反弹力度偏弱，一次大跌未必就是底部，最终要看全球经济基本面。另外美国中期选举、中东局势都可能扰动市场，美联储加息空间有限，中美市场走势不一定同步，后续美股波动会明显放大，依赖新建电站的硬件和电力设备板块压力更大。\n以上仅为主讲人个人观点，不构成投资建议哦。",
+      "doubaoReplies": [
+        {
+          "askUser": "兆彤2027",
+          "askText": "@豆包 总结视频内容",
+          "doubaoReply": "这是B站初心笔记投资私享会里洪灏关于美股暴跌后市的分析分享：\n昨夜标普跌4.36%、费城半导体指数大跌12.25%，日韩股市同步重挫，属于统计上的肥尾投降式抛售，VIX波动率单日大涨近70%创1996年第三大涨幅。\n洪灏早在6月就预判半导体价格泡沫会破裂，他提到算力真实需求存在，但大量云厂举债建设数据中心，叠加美国收紧数据中心审批、电力环保要求趋严，AI资本开支计划大概率要调整，相关板块压力会更大。\n从历史数据看，这类暴跌后标普中长期上涨概率不低，但半导体板块反弹力度偏弱，一次大跌未必就是底部，最终要看全球经济基本面。另外美国中期选举、中东局势都可能扰动市场，美联储加息空间有限，中美市场走势不一定同步，后续美股波动会明显放大，依赖新建电站的硬件和电力设备板块压力更大。\n以上仅为主讲人个人观点，不构成投资建议哦。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7705175996433400585"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7704648015620997642/",
