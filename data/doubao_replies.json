@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-16T04:07:31.719Z",
+  "builtAt": "2026-11-16T07:08:58.122Z",
   "total": 629,
   "found": 335,
   "notFound": 294,
@@ -769,6 +769,15 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7708615525022040099/",
+      "title": "上午只剩三十三个涨停，指数全线飘绿，钱为什么全躲进家电和超市 二、文投控股十九天十一板今天炸了，短剧这条线到底走到哪一步 三、顺钠股份封成比全场第一，储能凭什么在弱市里封得这么死 四、广百股份三连板，一家广州百货凭什么当消费这条线的龙头 五、弱市里三只没涨停的强票，许继电气阿石创新媒股份下午先盯谁",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7708410999052697610/",
       "title": "分享视频",
       "status": "not_found",
@@ -845,8 +854,8 @@
       "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 58,
-      "loadedComments": 51,
+      "totalComments": 63,
+      "loadedComments": 56,
       "creator": "上市公司大追踪"
     },
     {
@@ -1200,8 +1209,10 @@
     {
       "url": "https://www.toutiao.com/video/7706189273887686707/",
       "title": "玄龙亮相，真正的底牌不在飞机本身✨ 乍一看，这就是一次普通的装备展示。但真正值得琢磨的点，恰恰不在这架飞机飞得多快、隐身性能多好，而在于“大大方方”这四个字本身。一款已经入列的隐身无人作战平台，从“公布入列”走到“细节公开”，中间跨过的那一步，往往比飞机本身的信息量还要大。#中国航展抢先看 #国产战机 #上市公司大追踪#涨知识",
-      "status": "no_api",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1542,15 +1553,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7704804532554825779/",
-      "title": "数据中心被冻 居然冻在变压器厂 📜 法案推进情况 桑德斯和AOC今年三月就提了《人工智能数据中心暂停令法案》，要全国停建，直到监管到位。 可这法案在国会联署的才十一个人，连委员会的门都没摸到。  🔍 实际落地逻辑 地方投票确实赢了，但美国的土地审批权在县市一级，联邦暂停令是姿态，地方逐个项目卡脖子才是实打实的冻结。#电力行业 #上市公司大追踪#变压器#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7707131920505585704/",
       "title": "学会止损的实战方法，选得再好，不会离场也是白搭 #止损 #止损技巧",
       "status": "not_found",
@@ -1764,8 +1766,10 @@
     {
       "url": "https://www.toutiao.com/video/7669403908193681450/",
       "title": "史诗级围猎！华尔街 36 小时猎杀 AI 神童全记录： 25 岁 OpenAI 天才，8 人基金 450 亿帝国一夜崩塌 #华尔街 #华尔街AI股神爆仓 #Leopold #美股",
-      "status": "no_api",
+      "status": "not_found",
       "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2027,8 +2031,10 @@
     {
       "url": "https://www.toutiao.com/video/7618891298459615272/",
       "title": "2026年3月19日 存储芯片巨头美光科技财报大超预期，预示着什么样的未来？#美光 #token #存储芯片",
-      "status": "no_api",
+      "status": "not_found",
       "found": false,
+      "totalComments": 8,
+      "loadedComments": 8,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2333,12 +2339,21 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7708614732336660520/",
+      "title": "11.16",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 28,
+      "loadedComments": 23,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7708315722446831650/",
       "title": "11.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 147,
-      "loadedComments": 106,
+      "totalComments": 152,
+      "loadedComments": 109,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2373,7 +2388,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 367,
+      "totalComments": 368,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3207,15 +3222,6 @@
       "found": false,
       "totalComments": 80,
       "loadedComments": 77,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7674833869304627210/",
-      "title": "8.17",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 57,
-      "loadedComments": 43,
       "creator": "艾丽无废话财经"
     },
     {
