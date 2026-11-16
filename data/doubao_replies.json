@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-15T23:09:51.686Z",
+  "builtAt": "2026-11-16T04:07:31.719Z",
   "total": 629,
   "found": 335,
   "notFound": 294,
@@ -495,8 +495,10 @@
     {
       "url": "https://www.toutiao.com/video/7489827183024832547/",
       "title": "4-5号 卢麒元解读关税战6",
-      "status": "no_api",
+      "status": "not_found",
       "found": false,
+      "totalComments": 12,
+      "loadedComments": 12,
       "creator": "初心笔记"
     },
     {
@@ -780,8 +782,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -834,8 +836,8 @@
       "title": "分享视频",
       "status": "not_found",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "totalComments": 5,
+      "loadedComments": 5,
       "creator": "上市公司大追踪"
     },
     {
@@ -843,8 +845,8 @@
       "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 56,
-      "loadedComments": 49,
+      "totalComments": 58,
+      "loadedComments": 51,
       "creator": "上市公司大追踪"
     },
     {
@@ -1198,10 +1200,8 @@
     {
       "url": "https://www.toutiao.com/video/7706189273887686707/",
       "title": "玄龙亮相，真正的底牌不在飞机本身✨ 乍一看，这就是一次普通的装备展示。但真正值得琢磨的点，恰恰不在这架飞机飞得多快、隐身性能多好，而在于“大大方方”这四个字本身。一款已经入列的隐身无人作战平台，从“公布入列”走到“细节公开”，中间跨过的那一步，往往比飞机本身的信息量还要大。#中国航展抢先看 #国产战机 #上市公司大追踪#涨知识",
-      "status": "not_found",
+      "status": "no_api",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -1299,8 +1299,8 @@
       "title": "上午五十个涨停！风险偏好回来了 ✨ 闽发铝业六板一字焊死，底气来自机器人铝型材小批量供货 🚀 中国商业航天首个星座出海签约，这条线能成为第二主线吗 📈 福莱新材涨到八个点没封，属于机器人电子皮肤的补涨位 ⏰ 下午盯三只没涨停的强票#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "上市公司大追踪"
     },
     {
@@ -1764,10 +1764,8 @@
     {
       "url": "https://www.toutiao.com/video/7669403908193681450/",
       "title": "史诗级围猎！华尔街 36 小时猎杀 AI 神童全记录： 25 岁 OpenAI 天才，8 人基金 450 亿帝国一夜崩塌 #华尔街 #华尔街AI股神爆仓 #Leopold #美股",
-      "status": "not_found",
+      "status": "no_api",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2029,10 +2027,8 @@
     {
       "url": "https://www.toutiao.com/video/7618891298459615272/",
       "title": "2026年3月19日 存储芯片巨头美光科技财报大超预期，预示着什么样的未来？#美光 #token #存储芯片",
-      "status": "not_found",
+      "status": "no_api",
       "found": false,
-      "totalComments": 8,
-      "loadedComments": 8,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2341,8 +2337,8 @@
       "title": "11.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 115,
-      "loadedComments": 86,
+      "totalComments": 147,
+      "loadedComments": 106,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2368,8 +2364,8 @@
       "title": "11.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 233,
-      "loadedComments": 176,
+      "totalComments": 234,
+      "loadedComments": 177,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2377,7 +2373,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 362,
+      "totalComments": 367,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2386,8 +2382,8 @@
       "title": "11.7",
       "status": "not_found",
       "found": false,
-      "totalComments": 128,
-      "loadedComments": 121,
+      "totalComments": 130,
+      "loadedComments": 123,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2539,8 +2535,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 84,
-      "loadedComments": 75,
+      "totalComments": 83,
+      "loadedComments": 74,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2804,8 +2800,8 @@
       "title": "10.3",
       "status": "not_found",
       "found": false,
-      "totalComments": 86,
-      "loadedComments": 80,
+      "totalComments": 85,
+      "loadedComments": 79,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3011,7 +3007,7 @@
       "title": "9.9",
       "status": "not_found",
       "found": false,
-      "totalComments": 342,
+      "totalComments": 341,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3092,8 +3088,8 @@
       "title": "8.30",
       "status": "not_found",
       "found": false,
-      "totalComments": 42,
-      "loadedComments": 36,
+      "totalComments": 41,
+      "loadedComments": 35,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3218,8 +3214,8 @@
       "title": "8.17",
       "status": "not_found",
       "found": false,
-      "totalComments": 58,
-      "loadedComments": 44,
+      "totalComments": 57,
+      "loadedComments": 43,
       "creator": "艾丽无废话财经"
     },
     {
