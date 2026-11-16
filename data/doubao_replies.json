@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-11-16T07:08:58.122Z",
-  "total": 629,
-  "found": 335,
+  "builtAt": "2026-11-16T11:11:22.262Z",
+  "total": 630,
+  "found": 336,
   "notFound": 294,
   "replies": [
     {
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7708622811425718812/",
+      "title": "11-16号大摩最新闭门会：邢自强分享。",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7708388705547715098/",
       "title": "11-15号长江戴清：基于三季报，寻找低位的景气修复方向",
       "status": "not_found",
@@ -715,8 +724,8 @@
       "title": "罗大佑痛骂赖清德没屁眼！牛",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "初心笔记"
     },
     {
@@ -749,24 +758,31 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7706216033148797466/",
-      "title": "11-10号大摩股票首席Laura分享：投资中国的更为平衡的布局打开",
-      "publishTime": "2026-11-10",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "Laura的核心观点整理好啦～中期选举后投资中国的均衡布局空间打开：\n1. 上半年A股主线紧跟全球AI，推荐国产替代、绑定全球供应链的出口方向，看重基本面确定性，7月波动后配置重心转港股；\n2. 明确不用幻想中美关系缓和，长期竞争性不变，现阶段建议多聚焦国产替代，高股息板块（如电信、银行）、消费板块也值得关注，多板块配置更稳妥；\n3. 提醒标普500估值18倍需警惕，2027年若基本面无大问题，市场可预见性将提升～\n（以上仅为分析师观点，不构成投资建议）",
-      "doubaoReplies": [
-        {
-          "askUser": "庭前云舒",
-          "askText": "@豆包 总结主要观点，特别是laura的观点",
-          "doubaoReply": "Laura的核心观点整理好啦～中期选举后投资中国的均衡布局空间打开：\n1. 上半年A股主线紧跟全球AI，推荐国产替代、绑定全球供应链的出口方向，看重基本面确定性，7月波动后配置重心转港股；\n2. 明确不用幻想中美关系缓和，长期竞争性不变，现阶段建议多聚焦国产替代，高股息板块（如电信、银行）、消费板块也值得关注，多板块配置更稳妥；\n3. 提醒标普500估值18倍需警惕，2027年若基本面无大问题，市场可预见性将提升～\n（以上仅为分析师观点，不构成投资建议）",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7706371044248093491"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7708668870017417267/",
+      "title": "科创50暴跌五个点，涨停板却还有三十多只，钱到底躲去哪了？2.全场最高才四连板，一只票炸板十次，今天的涨停还能追吗？3.海外短剧榜中国占九席，文投连续封板，这条线走到哪一步了？4.华为具身智能大会今天开，北纬科技四板却炸了七次，机器人怎么了？5.弱市里封单最硬的不是短剧，是这家做干式变压器的公司#上市公司大追踪#涨知识#涨停",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7708668094692261923/",
+      "title": "护盘的钱也要看清。证金持股今天净流入8.9亿，红利股7.8亿，汇金持股7.3亿，看着挺猛，可拉长到近20日，证金持股还是净流出33.7亿，红利股流出83.5亿，汇金持股流出9亿。这说明什么？今天国家的手在托，但托的是指数不是趋势，是给市场递台阶，不是重新抱团。把护盘当牛市起点，是最容易吃亏的误判。#上市公司大追踪#涨知识#资金",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 4,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7708664919906156607/",
+      "title": "1. 指数大跌，银行新高！尾盘ETF神秘放量，A股到底在玩什么局？ 2. 冰火两重天！4300股下跌背后，资金正在疯狂“高低切”！ 3. 算力龙头重挫，家电固态电池崛起，谁在主导接下来的行情？ 4. A股险守3600点！一亿操盘手教你如何看待当下的“避险逻辑”#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 4,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7708615525022040099/",
@@ -854,8 +870,8 @@
       "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 63,
-      "loadedComments": 56,
+      "totalComments": 64,
+      "loadedComments": 57,
       "creator": "上市公司大追踪"
     },
     {
@@ -1469,8 +1485,8 @@
       "title": "六G不只是网速，是雷达 运营商在省钱，谁在赚钱？#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 63,
-      "loadedComments": 43,
+      "totalComments": 64,
+      "loadedComments": 44,
       "creator": "上市公司大追踪"
     },
     {
@@ -1523,33 +1539,6 @@
       "found": false,
       "totalComments": 3,
       "loadedComments": 3,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704956159559794715/",
-      "title": "创业板跌最深还能封30个涨停：资金都在挤 📌 缩容抱团日 五板到三板梯队最齐的硬制造线到底是哪条？  📌 主线方向 机器人加光伏储能拧成一股绳，周一重点看闽发、永臻的承接情况。  📌 储能光伏首板潮 这次是新题材正式点火，还是走个一日游就结束？  📌 短剧板块 浙文五板独木撑住短剧赛道，老妖王回锅的时候别去接最后一棒。#上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704809962647584795/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7704804732832841778/",
-      "title": "分享视频",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
       "creator": "上市公司大追踪"
     },
     {
@@ -2341,19 +2330,29 @@
     {
       "url": "https://www.toutiao.com/video/7708614732336660520/",
       "title": "11.16",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 28,
-      "loadedComments": 23,
-      "creator": "艾丽无废话财经"
+      "publishTime": "2026-11-16",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "可在国家统计局官网下载哦～10月社零、地产、固投的新闻稿附表就能导出，国家数据库注册后还支持Excel格式呢😊",
+      "doubaoReplies": [
+        {
+          "askUser": "Michael32514873",
+          "askText": "这些数据哪里可以下载@豆包",
+          "doubaoReply": "可在国家统计局官网下载哦～10月社零、地产、固投的新闻稿附表就能导出，国家数据库注册后还支持Excel格式呢😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7708687108172415784"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7708315722446831650/",
       "title": "11.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 152,
-      "loadedComments": 109,
+      "totalComments": 163,
+      "loadedComments": 115,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2388,7 +2387,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 368,
+      "totalComments": 381,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3076,7 +3075,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 249,
+      "totalComments": 251,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3223,6 +3222,26 @@
       "totalComments": 80,
       "loadedComments": 77,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706216033148797466/",
+      "title": "11-10号大摩股票首席Laura分享：投资中国的更为平衡的布局打开",
+      "publishTime": "2026-11-10",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "Laura的核心观点整理好啦～中期选举后投资中国的均衡布局空间打开：\n1. 上半年A股主线紧跟全球AI，推荐国产替代、绑定全球供应链的出口方向，看重基本面确定性，7月波动后配置重心转港股；\n2. 明确不用幻想中美关系缓和，长期竞争性不变，现阶段建议多聚焦国产替代，高股息板块（如电信、银行）、消费板块也值得关注，多板块配置更稳妥；\n3. 提醒标普500估值18倍需警惕，2027年若基本面无大问题，市场可预见性将提升～\n（以上仅为分析师观点，不构成投资建议）",
+      "doubaoReplies": [
+        {
+          "askUser": "庭前云舒",
+          "askText": "@豆包 总结主要观点，特别是laura的观点",
+          "doubaoReply": "Laura的核心观点整理好啦～中期选举后投资中国的均衡布局空间打开：\n1. 上半年A股主线紧跟全球AI，推荐国产替代、绑定全球供应链的出口方向，看重基本面确定性，7月波动后配置重心转港股；\n2. 明确不用幻想中美关系缓和，长期竞争性不变，现阶段建议多聚焦国产替代，高股息板块（如电信、银行）、消费板块也值得关注，多板块配置更稳妥；\n3. 提醒标普500估值18倍需警惕，2027年若基本面无大问题，市场可预见性将提升～\n（以上仅为分析师观点，不构成投资建议）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7706371044248093491"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7705024436272955954/",
