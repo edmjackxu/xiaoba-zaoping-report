@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-17T07:09:09.625Z",
+  "builtAt": "2026-11-17T11:08:59.600Z",
   "total": 630,
-  "found": 336,
-  "notFound": 294,
+  "found": 337,
+  "notFound": 293,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -675,11 +675,21 @@
     {
       "url": "https://www.toutiao.com/video/7708997997392069148/",
       "title": "11-17号西部首席：美股Ai调整结束了吗？",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
+      "publishTime": "2026-11-17",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "西部证券曹柳龙在报告《美股AI：调整到位了吗？》中提出，中长期A股受人民币升值驱动可积极乐观，当前美股AI反弹依托美伊冲突缓和预期根基脆弱，调整幅度和时长均未到位，仍需警惕输入性风险。美伊冲突压制美债需求，无论AI资本开支加速还是放缓，美国都可能面临流动性风险；民主党对AI数据中心的严格要求，会进一步加剧美国AI企业自由现金流不足的核心矛盾。参考2000年科网泡沫等历史规律，硬件股调整通常幅度超50%、时长超1年，当前美股AI硬件调整尚未到位。报告提示长期可关注流动性拐点相关的地产、消费、港股互联网等领域，以上仅为分析师观点，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "风雨无阻DD",
+          "askText": "@豆包 请总结",
+          "doubaoReply": "西部证券曹柳龙在报告《美股AI：调整到位了吗？》中提出，中长期A股受人民币升值驱动可积极乐观，当前美股AI反弹依托美伊冲突缓和预期根基脆弱，调整幅度和时长均未到位，仍需警惕输入性风险。美伊冲突压制美债需求，无论AI资本开支加速还是放缓，美国都可能面临流动性风险；民主党对AI数据中心的严格要求，会进一步加剧美国AI企业自由现金流不足的核心矛盾。参考2000年科网泡沫等历史规律，硬件股调整通常幅度超50%、时长超1年，当前美股AI硬件调整尚未到位。报告提示长期可关注流动性拐点相关的地产、消费、港股互联网等领域，以上仅为分析师观点，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7709082041476006694"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7708622811425718812/",
@@ -756,6 +766,24 @@
           "replyId": "7707416696613061385"
         }
       ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7709040259107192874/",
+      "title": "大盘一片绿，涨停的反而多了一只，钱到底躲哪去了？2.一天三十多家涨停，一大半名字里都藏着\"芯片\"，这是尾声还是起点？3.有研新材封单三个多亿，一块小小的靶材凭什么成了香饽饽？4.同样是一个涨停，为什么有的焊得死死的，有的开了十几次板？5.一家做集装箱装卸的公司，凭什么三连板一字捂着不松手？#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7709035488174506038/",
+      "title": "1. 四千股下跌八十股跌停，尾盘ETF为何狂买五十亿？ 2. 芯片家电逆势涨停，撕裂行情下如何寻找诺亚方舟？ 3. 成交额萎缩，揭秘今天市场“假摔”与“真涨”的底层逻辑。 4. 个股跌停潮涌现，聪明资金到底在害怕什么？ 5. 别被指数骗了，今天A股这两个细节才是决定性关键！#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 10,
+      "loadedComments": 10,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7709027147750326312/",
@@ -1526,24 +1554,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7705422836625588234/",
-      "title": "马斯克项目被叫停 要不要来中国？#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7705420038114967586/",
-      "title": "六G不只是网速，是雷达 运营商在省钱，谁在赚钱？#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 64,
-      "loadedComments": 44,
-      "creator": "上市公司大追踪"
-    },
-    {
       "url": "https://www.toutiao.com/video/7707131920505585704/",
       "title": "学会止损的实战方法，选得再好，不会离场也是白搭 #止损 #止损技巧",
       "status": "not_found",
@@ -2236,7 +2246,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 55,
-      "loadedComments": 46,
+      "loadedComments": 30,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2354,8 +2364,8 @@
       "title": "11.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 209,
-      "loadedComments": 144,
+      "totalComments": 210,
+      "loadedComments": 143,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2372,7 +2382,7 @@
       "title": "11.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 418,
+      "totalComments": 417,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2381,7 +2391,7 @@
       "title": "11.12",
       "status": "not_found",
       "found": false,
-      "totalComments": 235,
+      "totalComments": 236,
       "loadedComments": 178,
       "creator": "艾丽无废话财经"
     },
@@ -2390,7 +2400,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 409,
+      "totalComments": 413,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
