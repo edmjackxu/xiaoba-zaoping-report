@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-17T04:07:55.260Z",
+  "builtAt": "2026-11-17T07:09:09.625Z",
   "total": 630,
   "found": 336,
   "notFound": 294,
@@ -673,6 +673,15 @@
       "creator": "初心笔记"
     },
     {
+      "url": "https://www.toutiao.com/video/7708997997392069148/",
+      "title": "11-17号西部首席：美股Ai调整结束了吗？",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "初心笔记"
+    },
+    {
       "url": "https://www.toutiao.com/video/7708622811425718812/",
       "title": "11-16号大摩最新闭门会：邢自强分享。",
       "status": "not_found",
@@ -749,13 +758,13 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7706520745932898826/",
-      "title": "11-10号大摩邢自强：展望东大经济。",
+      "url": "https://www.toutiao.com/video/7709027147750326312/",
+      "title": "车电必须一起报废，谁先受益？ • 回收老板的苦日子，到头了？ • 一块电池的“身份证”，改变了什么#上市公司大追踪#涨知识#车电报费",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7708907961220874303/",
@@ -1532,13 +1541,6 @@
       "found": false,
       "totalComments": 64,
       "loadedComments": 44,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7705418042146045988/",
-      "title": "别盯执行器了，苹果论文藏了另一条线 #上市公司大追踪#涨知识",
-      "status": "no_comments",
-      "found": false,
       "creator": "上市公司大追踪"
     },
     {
@@ -2352,7 +2354,7 @@
       "title": "11.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 207,
+      "totalComments": 209,
       "loadedComments": 144,
       "creator": "艾丽无废话财经"
     },
@@ -2388,7 +2390,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 407,
+      "totalComments": 409,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2550,8 +2552,8 @@
       "title": "10.21",
       "status": "not_found",
       "found": false,
-      "totalComments": 83,
-      "loadedComments": 74,
+      "totalComments": 82,
+      "loadedComments": 73,
       "creator": "艾丽无废话财经"
     },
     {
