@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-18T07:07:54.548Z",
+  "builtAt": "2026-11-18T11:09:57.611Z",
   "total": 631,
-  "found": 337,
-  "notFound": 294,
+  "found": 338,
+  "notFound": 293,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -576,10 +576,8 @@
     {
       "url": "https://www.toutiao.com/video/7484908073740894242/",
       "title": "马云最精彩演讲！没有之一",
-      "status": "not_found",
+      "status": "no_api",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
       "creator": "初心笔记"
     },
     {
@@ -769,8 +767,8 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7709388266583113754/",
-      "title": "十八只主动ETF底牌全亮！茅台登顶，背后藏着什么信号？  2. 机构第一次“天天裸奔”：这份重仓榜，散户别抄错  3. 银行占两成、寒武纪暗藏弹性，主动ETF在赌什么？  4. 别被共识仓骗了！七十五只独门股才是真锋芒  5. A股透明化时代来了：基金经理再也没法“装神”#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7709435306579066915/",
+      "title": "APEC暗藏A股新主线  2. 前海一声雷，资金往哪走  3. 别只炒AI，看懂这条链  4. 十五五机遇清单拆解  5. 湾区联盟埋了哪些金矿#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -778,12 +776,39 @@
       "creator": "上市公司大追踪"
     },
     {
+      "url": "https://www.toutiao.com/video/7709422402236923944/",
+      "title": "1. 惊天天地板！一天振幅20%，九阳股份收割全场散户！  2. 地天板变天地板！龙头彻底见顶，这根分时藏着致命信号  3. 高位妖股大退潮！九阳暴跌跌停，大资金跑路散户接盘  4. 利好落地成利空！九阳泡沫戳破，短线情绪彻底反转  5. 看懂这波天地板，读懂高位人气股最狠的收割套路#上市公司大追踪#涨知识#操盘手#人气股#九阳股份",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7709419507827081279/",
+      "title": "1. 惊天天地板！一天振幅20%，九阳股份收割全场散户！  2. 地天板变天地板！龙头彻底见顶，这根分时藏着致命信号  3. 高位妖股大退潮！九阳暴跌跌停，大资金跑路散户接盘  4. 利好落地成利空！九阳泡沫戳破，短线情绪彻底反转  5. 看懂这波天地板，读懂高位人气股最狠的收割套路#上市公司大追踪#涨知识#操盘手#人气股#九阳股份",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 4,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7709388266583113754/",
+      "title": "十八只主动ETF底牌全亮！茅台登顶，背后藏着什么信号？  2. 机构第一次“天天裸奔”：这份重仓榜，散户别抄错  3. 银行占两成、寒武纪暗藏弹性，主动ETF在赌什么？  4. 别被共识仓骗了！七十五只独门股才是真锋芒  5. A股透明化时代来了：基金经理再也没法“装神”#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 5,
+      "loadedComments": 5,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7709282456431820810/",
       "title": "黄仁勋缺席，英伟达交出千亿答卷  2. 拆了风扇的Rubin，带火A股一条暗线  3. 英伟达回购两千亿，达链谁在裸泳  4. AI进入结账期，三个锚定住机会  5. 一份财报，看懂液冷为啥突然变主角#上市公司大追踪#涨知识#英伟达财报",
       "status": "not_found",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "上市公司大追踪"
     },
     {
@@ -980,8 +1005,8 @@
       "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 66,
-      "loadedComments": 59,
+      "totalComments": 67,
+      "loadedComments": 60,
       "creator": "上市公司大追踪"
     },
     {
@@ -1510,33 +1535,6 @@
     {
       "url": "https://www.toutiao.com/video/7705644456011776026/",
       "title": "券商不再中标待用，这回真出手买了！ 第三批互换便利落地，A股的信号是不是变了？ 六家券商直接真金白银买入A股，散户先别急着追进去 中金带头增持，券商到手就买意味着什么 机构已经开始下单了，A股这回到底不一样在哪里#上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7705641155932749887/",
-      "title": "一百二十九亿发动机，钱到底去哪了？ ✨ 相关核心看点整理好了：  三桶油七百亿，别急着追原油股 东航两百台发动机，暗线在维修 进博会八百亿，“进口利好”骗了你？ 大单是面子，采购结构才是里子 买油还是买能力？进博会变局  #上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7705637872355082274/",
-      "title": "欧洲抗议建数据中心，A股哪些方向受益？ 💡 重点提醒 别只盯着抗议事件本身，多关注变压器的交付周期  📌 行业动态 欧洲民众上街抵制建数据中心，国内变压器已经迎来爆单#上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7705636468135297067/",
-      "title": "这周不看政策看数据——但数据的刀锋，比政 这周不看政策看数据——但数据的刀锋，比政策更利。#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
@@ -2334,8 +2332,8 @@
       "title": "11.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 20,
-      "loadedComments": 19,
+      "totalComments": 31,
+      "loadedComments": 28,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2451,10 +2449,8 @@
     {
       "url": "https://www.toutiao.com/video/7703762851734749238/",
       "title": "11.3",
-      "status": "not_found",
+      "status": "no_api",
       "found": false,
-      "totalComments": 149,
-      "loadedComments": 129,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2523,11 +2519,21 @@
     {
       "url": "https://www.toutiao.com/video/7700037507638886434/",
       "title": "10.24",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 57,
-      "loadedComments": 47,
-      "creator": "艾丽无废话财经"
+      "publishTime": "2026-10-24",
+      "creator": "艾丽无废话财经",
+      "status": "found",
+      "found": true,
+      "content": "这段讲了三部分内容哦：\n1. 中东局势分析：提到朋友问中东冲突会不会年底结束，曾预判美伊此前停火协议脆弱肯定会再打，事实也如此；认为冲突本质是被包装成战争的能源战+金融战，美正在推进改变全球能源格局、降低霍尔木兹海峡影响力、巩固石油美元体系，因此局势短期难结束，看待事件要从能源金融博弈出发～\n2. 国家能源局会议：10月21日开了油气增储上产推进会，要求企业未来长期提产能、把能源饭碗端自己手里，实施“十年行动计划”建国家级石油基地，推动“两深一非一老”领域增储上产，中国三大石油公司也说了后续安排～\n3. 一桶原油产出明细：1桶（约159升/137.4kg）能产汽油70升、柴油40升这些能源燃料，还有沥青、润滑油等工业化工品，日常能做24件T恤、411个塑料袋，医疗消费类能做2000片阿司匹林、40支口红等～",
+      "doubaoReplies": [
+        {
+          "askUser": "猎人inCity",
+          "askText": "@豆包 她说了些什么？",
+          "doubaoReply": "这段讲了三部分内容哦：\n1. 中东局势分析：提到朋友问中东冲突会不会年底结束，曾预判美伊此前停火协议脆弱肯定会再打，事实也如此；认为冲突本质是被包装成战争的能源战+金融战，美正在推进改变全球能源格局、降低霍尔木兹海峡影响力、巩固石油美元体系，因此局势短期难结束，看待事件要从能源金融博弈出发～\n2. 国家能源局会议：10月21日开了油气增储上产推进会，要求企业未来长期提产能、把能源饭碗端自己手里，实施“十年行动计划”建国家级石油基地，推动“两深一非一老”领域增储上产，中国三大石油公司也说了后续安排～\n3. 一桶原油产出明细：1桶（约159升/137.4kg）能产汽油70升、柴油40升这些能源燃料，还有沥青、润滑油等工业化工品，日常能做24件T恤、411个塑料袋，医疗消费类能做2000片阿司匹林、40支口红等～",
+          "doubaoUser": "豆包",
+          "diggCount": 1,
+          "replyId": "7700059987657884435"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7699799944575582249/",
@@ -3087,7 +3093,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 253,
+      "totalComments": 254,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
