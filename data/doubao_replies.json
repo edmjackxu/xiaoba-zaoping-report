@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-17T23:07:50.682Z",
+  "builtAt": "2026-11-18T04:09:08.754Z",
   "total": 630,
   "found": 337,
   "notFound": 293,
@@ -769,12 +769,21 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7709282456431820810/",
+      "title": "黄仁勋缺席，英伟达交出千亿答卷  2. 拆了风扇的Rubin，带火A股一条暗线  3. 英伟达回购两千亿，达链谁在裸泳  4. AI进入结账期，三个锚定住机会  5. 一份财报，看懂液冷为啥突然变主角#上市公司大追踪#涨知识#英伟达财报",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 3,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7709276678404440100/",
       "title": "📊 美股动向相关 1. 美股尾盘暗藏换仓信号：AI不是崩了，是换桌了  🔍 板块扫描相关 2. 英伟达一张发票，照出A股算力链谁在裸泳 3. 千亿营收背后：光模块、CPO接下来怎么看？  💡 投资参考相关 4. 基金经理二十年最大撤仓，普通投资者该怕还是该贪？  🤖 AI行情相关 5. Anthropic上市前夜，三个锚定住AI行情生死线#上市公司大追踪#涨知识#美股",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 19,
+      "loadedComments": 16,
       "creator": "上市公司大追踪"
     },
     {
@@ -962,8 +971,8 @@
       "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 64,
-      "loadedComments": 57,
+      "totalComments": 65,
+      "loadedComments": 58,
       "creator": "上市公司大追踪"
     },
     {
@@ -1544,15 +1553,6 @@
           "replyId": "7705656911022064384"
         }
       ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7705630404472291379/",
-      "title": "特朗普查政敌这出戏，还关联到A股？ 美国总统下令彻查民主党，市场最让人担心的其实是这件事。 海外政坛互撕升级，A股散户别光顾着看热闹。 司法变武器？特朗普这招一出来，全球资金都跟着打了个寒颤。 大洋彼岸又出状况，你的仓位检查了吗#上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7707131920505585704/",
@@ -2341,6 +2341,15 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7709305453393494035/",
+      "title": "11.18",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 9,
+      "loadedComments": 8,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7708614732336660520/",
       "title": "11.16",
       "publishTime": "2026-11-16",
@@ -2401,7 +2410,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 423,
+      "totalComments": 430,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -3089,7 +3098,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 252,
+      "totalComments": 253,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3226,15 +3235,6 @@
       "found": false,
       "totalComments": 47,
       "loadedComments": 42,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7675016920571887616/",
-      "title": "8.17",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 80,
-      "loadedComments": 77,
       "creator": "艾丽无废话财经"
     },
     {
