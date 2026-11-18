@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-18T04:09:08.754Z",
-  "total": 630,
+  "builtAt": "2026-11-18T07:07:54.548Z",
+  "total": 631,
   "found": 337,
-  "notFound": 293,
+  "notFound": 294,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -769,6 +769,15 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7709388266583113754/",
+      "title": "十八只主动ETF底牌全亮！茅台登顶，背后藏着什么信号？  2. 机构第一次“天天裸奔”：这份重仓榜，散户别抄错  3. 银行占两成、寒武纪暗藏弹性，主动ETF在赌什么？  4. 别被共识仓骗了！七十五只独门股才是真锋芒  5. A股透明化时代来了：基金经理再也没法“装神”#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7709282456431820810/",
       "title": "黄仁勋缺席，英伟达交出千亿答卷  2. 拆了风扇的Rubin，带火A股一条暗线  3. 英伟达回购两千亿，达链谁在裸泳  4. AI进入结账期，三个锚定住机会  5. 一份财报，看懂液冷为啥突然变主角#上市公司大追踪#涨知识#英伟达财报",
       "status": "not_found",
@@ -971,8 +980,8 @@
       "title": "1. 证监会罕见“抛六问”，A股两亿散户的市情被点透了 2. 分红七万亿是融资的三倍！A股这个拐点比四千点更重要 3. 最新讲话里，量化交易和减持被点名了 4. 社保保险年金扫货一点五万亿，长钱进场到底意味着什么 5. 八亿基金持有人全球独一份，A股不能照搬美股的药方#上市公司大追踪",
       "status": "not_found",
       "found": false,
-      "totalComments": 65,
-      "loadedComments": 58,
+      "totalComments": 66,
+      "loadedComments": 59,
       "creator": "上市公司大追踪"
     },
     {
@@ -1533,26 +1542,6 @@
       "totalComments": 1,
       "loadedComments": 1,
       "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7705633238119923752/",
-      "title": "秦皇岛暴雪里发现了关键线索✨ 整理了几个实用的观察小要点👇 1. 寒潮来袭的时候，别只盯着煤电气相关 2. 秦皇岛暴雪藏着关键线索 3. 遇到降温相关的行情，别追第一根急拉 4. 天气相关的炒作，要盯着库存和运输两个方向#上市公司大追踪#涨知识#暴雪",
-      "publishTime": "2026-11-08",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "普通投资者别追第一根急拉哈，轻仓快进快出就行～重点盯港口库存、公司订单，别把短期冲击当长周期哦～（内容仅供参考）",
-      "doubaoReplies": [
-        {
-          "askUser": "小西",
-          "askText": "@豆包 普通投资者该怎么做？",
-          "doubaoReply": "普通投资者别追第一根急拉哈，轻仓快进快出就行～重点盯港口库存、公司订单，别把短期冲击当长周期哦～（内容仅供参考）",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7705656911022064384"
-        }
-      ]
     },
     {
       "url": "https://www.toutiao.com/video/7707131920505585704/",
@@ -2345,8 +2334,8 @@
       "title": "11.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 9,
-      "loadedComments": 8,
+      "totalComments": 20,
+      "loadedComments": 19,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2554,8 +2543,8 @@
       "title": "10.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 187,
-      "loadedComments": 140,
+      "totalComments": 186,
+      "loadedComments": 139,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3236,6 +3225,26 @@
       "totalComments": 47,
       "loadedComments": 42,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7705633238119923752/",
+      "title": "秦皇岛暴雪里发现了关键线索✨ 整理了几个实用的观察小要点👇 1. 寒潮来袭的时候，别只盯着煤电气相关 2. 秦皇岛暴雪藏着关键线索 3. 遇到降温相关的行情，别追第一根急拉 4. 天气相关的炒作，要盯着库存和运输两个方向#上市公司大追踪#涨知识#暴雪",
+      "publishTime": "2026-11-08",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "普通投资者别追第一根急拉哈，轻仓快进快出就行～重点盯港口库存、公司订单，别把短期冲击当长周期哦～（内容仅供参考）",
+      "doubaoReplies": [
+        {
+          "askUser": "小西",
+          "askText": "@豆包 普通投资者该怎么做？",
+          "doubaoReply": "普通投资者别追第一根急拉哈，轻仓快进快出就行～重点盯港口库存、公司订单，别把短期冲击当长周期哦～（内容仅供参考）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7705656911022064384"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7706216033148797466/",
