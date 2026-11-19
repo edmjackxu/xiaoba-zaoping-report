@@ -1,8 +1,8 @@
 {
-  "builtAt": "2026-11-19T07:07:38.894Z",
-  "total": 634,
+  "builtAt": "2026-11-19T11:11:20.031Z",
+  "total": 635,
   "found": 339,
-  "notFound": 295,
+  "notFound": 296,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
@@ -335,7 +335,7 @@
       "title": "《天道》中最精彩的一段：五台山论道未删减版！看懂的都是神人！",
       "status": "not_found",
       "found": false,
-      "totalComments": 1427,
+      "totalComments": 1426,
       "loadedComments": 189,
       "creator": "初心笔记"
     },
@@ -745,6 +745,33 @@
       "totalComments": 1,
       "loadedComments": 1,
       "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7709803762021302307/",
+      "title": "分享视频",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7709780453620318248/",
+      "title": "指数全绿、科创独红，钱为什么全钻进了芯片一条线？2.中京电子封单全场最厚，一块印制电路板凭什么当旗杆？3.毅昌科技一字焊死、封单上千倍，家电厂怎么搭上人形机器人的量产末班车？4.全场最高才三连板，退潮期的矮梯队明天到底怎么走？5.九阳开板十几次、襄阳封单薄成纸，这种板明天最容易出事？#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 2,
+      "loadedComments": 2,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7709779488556482594/",
+      "title": "1. 4800只股票下跌！上证50却翻红，这盘面暗藏什么玄机？ 2. 一篇小作文带崩国产GPU？燧原暴跌16%，背后的真相让人大跌眼镜！ 3. 算力芯片重挫，半导体设备却逆势大涨！资金“避虚就实”的逻辑是什么？ 4. 看懂今天的“跷跷板”效应，你就明白接下来该盯紧什么板块了！#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 4,
+      "loadedComments": 3,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7709481549388841001/",
@@ -1482,44 +1509,6 @@
       "totalComments": 1,
       "loadedComments": 1,
       "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7706013996393988136/",
-      "title": "上午五十个涨停！风险偏好回来了 ✨ 闽发铝业六板一字焊死，底气来自机器人铝型材小批量供货 🚀 中国商业航天首个星座出海签约，这条线能成为第二主线吗 📈 福莱新材涨到八个点没封，属于机器人电子皮肤的补涨位 ⏰ 下午盯三只没涨停的强票#上市公司大追踪",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7705705568081543202/",
-      "title": "一车芯片连人带车消失，谁在给英伟达“黑色 食品车拉芯片，司机一起失联，这单货真的丢了吗？  是专门偷芯片，还是非正规物流出了问题？A股恐怕要重估“交付主权”了。  ✨确定性才是最珍贵的 英伟达失窃案的背后，全是A股的算力账本。  提醒大家别追脉冲，芯片被盗案里，藏着国产算力的定价锚。#上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 9,
-      "loadedComments": 7,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7705658739181027382/",
-      "title": "触觉传感器行情启动，先看清谁手里有订单 📌 苹果相关论文点破关键：机器人行业最大的软肋，A股哪些公司是真的在交货？ 📌 十万套订单对应单套万元级收入，触觉传感器这波行业分化已经藏不住了 📌 单台机器人“皮肤”成本达五千块，触觉产业链里谁在裸泳、谁在真出货一目了然 📌 苹果没明说的潜台词：机器人当下缺的不是“脑子”，是“手感”相关的生意#上市公司大追踪#机器人#涨知识",
-      "publishTime": "2026-11-08",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "苹果布局人形机器人点明短板在触觉感知，单台需配6-8套电子皮肤，单机价值3000-5000元，触觉数据需真摸真采、缺口极大，数采手套和灵巧手是核心增量～涉及A股：福莱新材(605488)、汉威科技(300007)、安培龙(301413)、晶华新材(603683)、柯力传感(603662)、日盈电子(603286)。以上为产业信息整理，不构成投资建议哦😊",
-      "doubaoReplies": [
-        {
-          "askUser": "edmxh0",
-          "askText": "@豆包，帮我总结视频内容。同时如果提及具体股票，请列出股票名称和编码，如果不提及则只做总结",
-          "doubaoReply": "苹果布局人形机器人点明短板在触觉感知，单台需配6-8套电子皮肤，单机价值3000-5000元，触觉数据需真摸真采、缺口极大，数采手套和灵巧手是核心增量～涉及A股：福莱新材(605488)、汉威科技(300007)、安培龙(301413)、晶华新材(603683)、柯力传感(603662)、日盈电子(603286)。以上为产业信息整理，不构成投资建议哦😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7705977846182855450"
-        }
-      ]
     },
     {
       "url": "https://www.toutiao.com/video/7707131920505585704/",
@@ -2308,6 +2297,15 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7709791404620251178/",
+      "title": "11.19",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 27,
+      "loadedComments": 22,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7709305453393494035/",
       "title": "11.18",
       "status": "not_found",
@@ -2341,8 +2339,8 @@
       "title": "11.15",
       "status": "not_found",
       "found": false,
-      "totalComments": 216,
-      "loadedComments": 149,
+      "totalComments": 217,
+      "loadedComments": 150,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2359,7 +2357,7 @@
       "title": "11.13",
       "status": "not_found",
       "found": false,
-      "totalComments": 416,
+      "totalComments": 415,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2377,7 +2375,7 @@
       "title": "11.11",
       "status": "not_found",
       "found": false,
-      "totalComments": 430,
+      "totalComments": 429,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2869,8 +2867,10 @@
     {
       "url": "https://www.toutiao.com/video/7689729828065230858/",
       "title": "9.26",
-      "status": "no_api",
+      "status": "not_found",
       "found": false,
+      "totalComments": 28,
+      "loadedComments": 24,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3074,7 +3074,7 @@
       "title": "9.1",
       "status": "not_found",
       "found": false,
-      "totalComments": 254,
+      "totalComments": 255,
       "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
@@ -3110,8 +3110,8 @@
       "title": "8.29 他说了“该说的”，但却不需要马上做“该做的”... #沃什 #通胀 #美元指数 #黄金 #AI发展",
       "status": "not_found",
       "found": false,
-      "totalComments": 166,
-      "loadedComments": 124,
+      "totalComments": 165,
+      "loadedComments": 123,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3205,13 +3205,24 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7675665096567210038/",
-      "title": "8.19",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 47,
-      "loadedComments": 42,
-      "creator": "艾丽无废话财经"
+      "url": "https://www.toutiao.com/video/7705658739181027382/",
+      "title": "触觉传感器行情启动，先看清谁手里有订单 📌 苹果相关论文点破关键：机器人行业最大的软肋，A股哪些公司是真的在交货？ 📌 十万套订单对应单套万元级收入，触觉传感器这波行业分化已经藏不住了 📌 单台机器人“皮肤”成本达五千块，触觉产业链里谁在裸泳、谁在真出货一目了然 📌 苹果没明说的潜台词：机器人当下缺的不是“脑子”，是“手感”相关的生意#上市公司大追踪#机器人#涨知识",
+      "publishTime": "2026-11-08",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "苹果布局人形机器人点明短板在触觉感知，单台需配6-8套电子皮肤，单机价值3000-5000元，触觉数据需真摸真采、缺口极大，数采手套和灵巧手是核心增量～涉及A股：福莱新材(605488)、汉威科技(300007)、安培龙(301413)、晶华新材(603683)、柯力传感(603662)、日盈电子(603286)。以上为产业信息整理，不构成投资建议哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "edmxh0",
+          "askText": "@豆包，帮我总结视频内容。同时如果提及具体股票，请列出股票名称和编码，如果不提及则只做总结",
+          "doubaoReply": "苹果布局人形机器人点明短板在触觉感知，单台需配6-8套电子皮肤，单机价值3000-5000元，触觉数据需真摸真采、缺口极大，数采手套和灵巧手是核心增量～涉及A股：福莱新材(605488)、汉威科技(300007)、安培龙(301413)、晶华新材(603683)、柯力传感(603662)、日盈电子(603286)。以上为产业信息整理，不构成投资建议哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7705977846182855450"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7707961439398494758/",
