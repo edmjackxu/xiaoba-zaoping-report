@@ -679,7 +679,17 @@
       "url": "https://www.toutiao.com/video/7710222203983364608/",
       "publishTime": "2026-11-20",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "魔法叶子NSh",
+          "askText": "描述这么详细，根据描述猜猜到底邻居买的是什么牌子车，新能源还是汽油车？[思考]@豆包",
+          "doubaoReply": "这是个谐音梗啦～两人说的“开车”是带点暧昧的暗示，根本不是真聊汽车哦，所以没啥具体品牌啦😜",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7710710340845437736"
+        }
+      ]
     },
     {
       "title": "长江证券：FOMC纪要公布，黄金美债美元怎么看？",
