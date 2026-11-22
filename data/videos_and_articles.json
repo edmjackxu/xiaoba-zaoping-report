@@ -672,7 +672,17 @@
       "url": "https://www.toutiao.com/video/7710454316435325483/",
       "publishTime": "2026-11-21",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "panda",
+          "askText": "@豆包 中国已经被向心坍缩影响了吗",
+          "doubaoReply": "向心坍缩是卢麒元提出的宏观假说哦，目前还没真爆发呢～咱们会受外部流动性收紧的间接影响，但金融体系独立没这特征哒，底部还缺信号确认，理性应对就好😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7710780026811319103"
+        }
+      ]
     },
     {
       "title": "一看就是老司机！句句不提开车，却一直在开车！你品！",
