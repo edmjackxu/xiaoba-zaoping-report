@@ -1,7 +1,7 @@
 {
-  "builtAt": "2026-11-23T11:10:18.251Z",
-  "total": 636,
-  "found": 343,
+  "builtAt": "2026-11-23T23:12:20.225Z",
+  "total": 638,
+  "found": 345,
   "notFound": 293,
   "replies": [
     {
@@ -673,13 +673,32 @@
       "creator": "初心笔记"
     },
     {
-      "url": "https://www.toutiao.com/video/7711213271696589354/",
-      "title": "11-23号大摩最新闭门会：邢自强分享。",
+      "url": "https://www.toutiao.com/video/7711330115192275498/",
+      "title": "11-23号大摩最新闭门会：半导体走势解读等。",
       "status": "not_found",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "totalComments": 2,
+      "loadedComments": 2,
       "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7711213271696589354/",
+      "title": "11-23号大摩最新闭门会：邢自强分享。",
+      "publishTime": "2026-11-23",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "content": "本次是摩根士丹利邢自强的闭门投资分享，背景是新加坡举办的亚太峰会，参会人数创历史新高但全球市场震荡，美股走弱，市场恐慌由英伟达相关风险、美国芯片出口管制、美国中期选举、AI算力带来的电力瓶颈以及美联储加息预期共同引发。\n核心观点部分：美国AI热潮造成明显K型分化，AI巨头与资本获益，普通民众却承受高生活成本、电价上涨，还担忧AI挤压就业，这种失衡最终带来社会和政治层面的反噬，中期选举民主党大胜就是典型体现。中美竞争是长期博弈，比拼的不只是算力和大模型，更要看能否实现均衡包容的增长，收敛K型分化。\n本轮美国AI投资占GDP比重突破5%，扩张速度比2000年科网泡沫时期快很多。历史规律显示科技热潮前期上游硬件厂商短期收益突出，但泡沫过后多数企业被淘汰；现在市场不再盲目追捧AI概念，下一阶段需要寻找真实落地的AI应用场景，已有宏观投资者进入资本保全模式，大幅降低股票敞口。\n在美国芯片出口管制新规下，中国拥有反制筹码，科技本土化进程提速，国产替代会加快。国内经济仍处在平衡产业升级与民生消费的阶段，通缩压力有待化解，十五五规划既要保障产业安全，也需要重视民生消费，转变重供给、轻需求的路径依赖。\n本次邢自强仅作开篇分享，后续团队分析师会继续拆解中美AI算力格局、寻找资产避风港，并探讨国内刺激政策与国产替代方向。\n以上内容仅为该场闭门会嘉宾观点，不构成任何投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "吉林权哥",
+          "askText": "@豆包 整理一下主要内容",
+          "doubaoReply": "本次是摩根士丹利邢自强的闭门投资分享，背景是新加坡举办的亚太峰会，参会人数创历史新高但全球市场震荡，美股走弱，市场恐慌由英伟达相关风险、美国芯片出口管制、美国中期选举、AI算力带来的电力瓶颈以及美联储加息预期共同引发。\n核心观点部分：美国AI热潮造成明显K型分化，AI巨头与资本获益，普通民众却承受高生活成本、电价上涨，还担忧AI挤压就业，这种失衡最终带来社会和政治层面的反噬，中期选举民主党大胜就是典型体现。中美竞争是长期博弈，比拼的不只是算力和大模型，更要看能否实现均衡包容的增长，收敛K型分化。\n本轮美国AI投资占GDP比重突破5%，扩张速度比2000年科网泡沫时期快很多。历史规律显示科技热潮前期上游硬件厂商短期收益突出，但泡沫过后多数企业被淘汰；现在市场不再盲目追捧AI概念，下一阶段需要寻找真实落地的AI应用场景，已有宏观投资者进入资本保全模式，大幅降低股票敞口。\n在美国芯片出口管制新规下，中国拥有反制筹码，科技本土化进程提速，国产替代会加快。国内经济仍处在平衡产业升级与民生消费的阶段，通缩压力有待化解，十五五规划既要保障产业安全，也需要重视民生消费，转变重供给、轻需求的路径依赖。\n本次邢自强仅作开篇分享，后续团队分析师会继续拆解中美AI算力格局、寻找资产避风港，并探讨国内刺激政策与国产替代方向。\n以上内容仅为该场闭门会嘉宾观点，不构成任何投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7711348323646849811"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7711128478929781282/",
@@ -771,21 +790,65 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7710034441845883420/",
-      "title": "长江证券：FOMC纪要公布，黄金美债美元怎么看？",
+      "url": "https://www.toutiao.com/video/7711504449998422026/",
+      "title": "刚果金禁钴，别急着追 四个月后会怎样？ 钴价腰斩后的反杀 谁在偷偷受益？ 这次不是断供那么简单#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7711502005315108890/",
+      "title": "老黄回来了，但国内买卡的门槛变得更高了。1. 英伟达一夜市值暴涨九千五百亿，今天A股该追哪半部分？2. 复职不等于完全放权：黄仁勋这次有不少东西是拿不回来的。3. 12月3号的那场听证会，影响比CEO辞职还大。4. 光模块和国产算力，今天要各走各的行情。#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7711489068592267299/",
+      "title": "🤖 机器人进门店，卖的不是功能是数据 📅 小鹏把交付日写进了日历 📈 涨停潮里，本体股价却在挨揍 ⚠️ 二七量产元年，别急着追高 🏪 机器人先站柜台，而不是进工厂#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 1,
+      "loadedComments": 1,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7711373152713965577/",
+      "title": "1️⃣ 强平不让砸尾盘了 2️⃣ 平仓线居然能商量？别会错意 3️⃣ 午后跳水的情况要消失了？ 4️⃣ 昨晚刚开阀，今早就开始修渠 5️⃣ 这份通知里藏了九个字，分量可不轻#上市公司大追踪#涨知识",
+      "publishTime": "2026-11-23",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "content": "两融强平就是融资账户跌到平仓线后券商卖出持仓，集中砸可能导致股价、大盘跳水；现在监管要求别在早盘尾盘集中卖，还能协商调整，主要是稳市场哦😊",
+      "doubaoReplies": [
+        {
+          "askUser": "运筹帷幄小羊af",
+          "askText": "@豆包 两融强平有啥影响？",
+          "doubaoReply": "两融强平就是融资账户跌到平仓线后券商卖出持仓，集中砸可能导致股价、大盘跳水；现在监管要求别在早盘尾盘集中卖，还能协商调整，主要是稳市场哦😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7711393963948688137"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7711372784743530531/",
+      "title": "1. 养老机器人真要进病房了？ 2. 一份文件点燃机器人涨停潮 3. 外骨骼写进国家方案的深意 4. 别追涨停，先看这三条线 5. 两千家养老院要改造了#上市公司大追踪#涨知识",
+      "status": "no_comments",
+      "found": false,
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711268117984313387/",
       "title": "整理了几篇相关内容给大家参考： 1. 《三箭齐发那晚，监管其实只说了四个字》 2. 《四千亿两融听着吓人，实际到账多少？》 3. 《创业板装了个“减震器”，做市商到底是干嘛的》 4. 《我为什么说这轮底大概率到了，但还要等两天》 5. 《明后天只看两个数，决定你加仓还是减仓》#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 19,
-      "loadedComments": 18,
+      "totalComments": 35,
+      "loadedComments": 31,
       "creator": "上市公司大追踪"
     },
     {
@@ -901,8 +964,8 @@
       "title": "1. 《顺丰被全军暂停采购，股价为啥只跌了零点七？》 2. 《一份“没写清楚”的公告，藏着顺丰最贵的成本》 3. 《七天申辩期：顺丰这局到底输没输，看这个信号》 4. 《千七百亿市值扛住全军封杀，市场在看什么？》 5. 《别猜顺丰违了啥规，盯这三个时间点就够了》#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 187,
-      "loadedComments": 119,
+      "totalComments": 189,
+      "loadedComments": 120,
       "creator": "上市公司大追踪"
     },
     {
@@ -1477,73 +1540,6 @@
       "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7706510466142765066/",
-      "title": "2. 鸽派翻脸，市场慌什么？ 3. 沃勒一句话，全球资产抖三抖 4. 一个数字，决定加不加五十点#上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7706502544654073899/",
-      "title": "1. 二十天跌掉四千块！华强北显卡崩了，抄底的人还好吗？ 2. 一万八到一万四，RTX 5080价格塌方，谁在裸泳？ 3. 显卡暴跌真相：跌的是泡沫，不是AI的底牌 4. 华强北踩踏出货，A股算力板块慌不慌？ 5. 别被四千块吓住！显卡降价背后藏着一条更硬的逻辑#上市公司大追踪#涨知识",
-      "publishTime": "2026-11-10",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "刚需自用的话，选官方自营带保修的可以入，别赌渠道最低价～暂时不急或想囤的话建议再等等，现在行情波动大呀😉",
-      "doubaoReplies": [
-        {
-          "askUser": "英明果断香瓜i",
-          "askText": "@豆包 现在能入手显卡吗？",
-          "doubaoReply": "刚需自用的话，选官方自营带保修的可以入，别赌渠道最低价～暂时不急或想囤的话建议再等等，现在行情波动大呀😉",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7706584259343074111"
-        }
-      ]
-    },
-    {
-      "url": "https://www.toutiao.com/video/7706480620909641762/",
-      "title": "核心在托 舍弃了半导体#上市公司大追踪#资金动向 #涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7706468476080095241/",
-      "title": "95家涨停创两周新高！指数却高开低走，钱到底去了哪。从讲故事到交订单：人形机器人这条线，这次真不一样了。福莱新材交了三万套传感器，机器人电子皮肤的真龙头是谁。星云星座发布，算力要上天：商业航天第二波怎么跟。一字板只有三只，普涨背后的分歧信号，明天必须看懂#上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7706433912347557951/",
-      "title": "1. 英伟达传出砍单消息，实际行业供需缺口反而更大 2. 台积电被砍单，到底是谁在暗中受益偷笑 3. 大家千万别被表面的「砍单」两个字给骗了 4. 眼下砍单只是表象，实际上行业核心是换轨 5. ASIC开始接盘后续需求，A股哪些板块会受益#上市公司大追踪#涨知识",
-      "publishTime": "2026-11-10",
-      "creator": "上市公司大追踪",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "视频拆解英伟达砍单实质是产线换轨（旧CoWoS产能砍单，新CoWSL产能加码），总需求未缩反增，2027年需求将从70万片涨至120多万片，释放的产能被AMD、博通、联发科等ASIC厂商承接。A股受益标的分三类：1. ASIC设计服务：芯原股份（688521）、翱捷科技（688220）；2. 光模块：中际旭创（300308）、新易盛（300502）；3. 国产算力：寒武纪（688256）、海光信息（688041）。同时提示台积电扩产未停，勿将产业结构调整误判为周期见顶，以上仅为观点整理，不构成投资建议。",
-      "doubaoReplies": [
-        {
-          "askUser": "edmxh0",
-          "askText": "@豆包，帮我总结视频内容。同时如果提及具体股票，请列出股票名称和编码，如果不提及则只做总结",
-          "doubaoReply": "视频拆解英伟达砍单实质是产线换轨（旧CoWoS产能砍单，新CoWSL产能加码），总需求未缩反增，2027年需求将从70万片涨至120多万片，释放的产能被AMD、博通、联发科等ASIC厂商承接。A股受益标的分三类：1. ASIC设计服务：芯原股份（688521）、翱捷科技（688220）；2. 光模块：中际旭创（300308）、新易盛（300502）；3. 国产算力：寒武纪（688256）、海光信息（688041）。同时提示台积电扩产未停，勿将产业结构调整误判为周期见顶，以上仅为观点整理，不构成投资建议。",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7707634590076257062"
-        }
-      ]
-    },
-    {
       "url": "https://www.toutiao.com/video/7710167927265181696/",
       "title": "股民做好股票交易的完整实战心法：读懂规律、稳住心态、持续盈利 #交易心法",
       "status": "not_found",
@@ -1813,8 +1809,8 @@
       "title": "2026年6月2日 重磅！国家定调六大未来产业，看懂这篇，抓住未来 5-10 年黄金机遇 #未来产业 #新兴产业",
       "status": "not_found",
       "found": false,
-      "totalComments": 97,
-      "loadedComments": 80,
+      "totalComments": 96,
+      "loadedComments": 79,
       "creator": "GNCapital产业研究"
     },
     {
@@ -2330,12 +2326,12 @@
       "creator": "GNCapital产业研究"
     },
     {
-      "url": "https://www.toutiao.com/video/7711293178581614607/",
-      "title": "11.23 信息",
+      "url": "https://www.toutiao.com/video/7711499914827530278/",
+      "title": "11.24",
       "status": "not_found",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 6,
+      "totalComments": 4,
+      "loadedComments": 4,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2343,8 +2339,8 @@
       "title": "11.22",
       "status": "not_found",
       "found": false,
-      "totalComments": 35,
-      "loadedComments": 26,
+      "totalComments": 38,
+      "loadedComments": 29,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2352,8 +2348,8 @@
       "title": "11.19",
       "status": "not_found",
       "found": false,
-      "totalComments": 63,
-      "loadedComments": 46,
+      "totalComments": 64,
+      "loadedComments": 47,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2442,97 +2438,109 @@
     {
       "url": "https://www.toutiao.com/video/7705235761083842603/",
       "title": "11.7",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.toutiao.com/video/7705235761083842603/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7705235761083842603/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 45,
+      "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7704852631688396809/",
       "title": "11.6",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7704852631688396809/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7704852631688396809/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 91,
+      "loadedComments": 77,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7704505288782512166/",
       "title": "11.5",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7704505288782512166/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7704505288782512166/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 110,
+      "loadedComments": 93,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7704271742075682856/",
       "title": "11.4",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7704271742075682856/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7704271742075682856/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 27,
+      "loadedComments": 22,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7703762851734749238/",
       "title": "11.3",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7703762851734749238/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7703762851734749238/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 148,
+      "loadedComments": 128,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7703051730165956646/",
       "title": "11.1 市场逻辑在开始发生变化",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7703051730165956646/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7703051730165956646/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 60,
+      "loadedComments": 49,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7702804970722050074/",
       "title": "10.30人生第一次现场看足球比赛：苏超 #苏超 #打卡苏式新图景 #江苏",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7702804970722050074/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7702804970722050074/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 38,
+      "loadedComments": 38,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7702457709681262643/",
       "title": "10.30",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7702457709681262643/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7702457709681262643/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 59,
+      "loadedComments": 43,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7701105899334549531/",
       "title": "10.27",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7701105899334549531/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7701105899334549531/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 107,
+      "loadedComments": 71,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7700926607657009194/",
       "title": "10.26",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7700926607657009194/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7700926607657009194/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 26,
+      "loadedComments": 24,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7700470251590271011/",
       "title": "10.25",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7700470251590271011/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7700470251590271011/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 99,
+      "loadedComments": 81,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7700468144246095906/",
       "title": "10.25",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7700468144246095906/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7700468144246095906/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 56,
+      "loadedComments": 47,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2558,33 +2566,37 @@
     {
       "url": "https://www.toutiao.com/video/7699799944575582249/",
       "title": "10.23",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7699799944575582249/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7699799944575582249/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 59,
+      "loadedComments": 42,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7699328243127599139/",
       "title": "10.22",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7699328243127599139/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7699328243127599139/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 186,
+      "loadedComments": 139,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7698969988492705855/",
       "title": "10.21",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7698969988492705855/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7698969988492705855/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 66,
+      "loadedComments": 37,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7698909182937792527/",
       "title": "10.21",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7698909182937792527/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7698909182937792527/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 81,
+      "loadedComments": 72,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2610,9 +2622,10 @@
     {
       "url": "https://www.toutiao.com/video/7698310107437301801/",
       "title": "10.19",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7698310107437301801/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7698310107437301801/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 47,
+      "loadedComments": 37,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2662,25 +2675,28 @@
     {
       "url": "https://www.toutiao.com/video/7697758893937524776/",
       "title": "10.18",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7697758893937524776/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7697758893937524776/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 68,
+      "loadedComments": 60,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7697189145458065458/",
       "title": "10.16",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7697189145458065458/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7697189145458065458/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 70,
+      "loadedComments": 59,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7696836181194965001/",
       "title": "10.15",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7696836181194965001/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7696836181194965001/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 32,
+      "loadedComments": 28,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2730,25 +2746,28 @@
     {
       "url": "https://www.toutiao.com/video/7696510938203029555/",
       "title": "10.14",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7696510938203029555/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7696510938203029555/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 32,
+      "loadedComments": 22,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7696350487851106304/",
       "title": "10.14",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7696350487851106304/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7696350487851106304/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 41,
+      "loadedComments": 39,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7696102609392893995/",
       "title": "10.13",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7696102609392893995/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7696102609392893995/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 17,
+      "loadedComments": 14,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2774,33 +2793,37 @@
     {
       "url": "https://www.toutiao.com/video/7695600456881405962/",
       "title": "10.12",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7695600456881405962/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7695600456881405962/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 71,
+      "loadedComments": 64,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7694580742411845674/",
       "title": "10.9 #美债拍卖 #投标倍数 #流动性",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7694580742411845674/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7694580742411845674/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 33,
+      "loadedComments": 27,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7694252550673367040/",
       "title": "10.8",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7694252550673367040/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7694252550673367040/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 51,
+      "loadedComments": 39,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7693411641896370211/",
       "title": "10.6",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7693411641896370211/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7693411641896370211/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 111,
+      "loadedComments": 87,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2826,17 +2849,19 @@
     {
       "url": "https://www.toutiao.com/video/7692398106742095887/",
       "title": "10.3",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7692398106742095887/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7692398106742095887/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 91,
+      "loadedComments": 71,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7692292920908939300/",
       "title": "10.3",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7692292920908939300/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7692292920908939300/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 85,
+      "loadedComments": 79,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2862,33 +2887,37 @@
     {
       "url": "https://www.toutiao.com/video/7691581632981631003/",
       "title": "10.1",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7691581632981631003/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7691581632981631003/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 32,
+      "loadedComments": 25,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7691158589473800207/",
       "title": "9.30",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7691158589473800207/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7691158589473800207/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 20,
+      "loadedComments": 19,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7690091291043954738/",
       "title": "9.27",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7690091291043954738/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7690091291043954738/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 102,
+      "loadedComments": 78,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7689729828065230858/",
       "title": "9.26",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7689729828065230858/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7689729828065230858/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 28,
+      "loadedComments": 24,
       "creator": "艾丽无废话财经"
     },
     {
@@ -2982,202 +3011,267 @@
     {
       "url": "https://www.toutiao.com/video/7688567992585568296/",
       "title": "9.23",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7688567992585568296/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7688567992585568296/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 18,
+      "loadedComments": 17,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7687822653444325430/",
       "title": "9.21",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7687822653444325430/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7687822653444325430/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 104,
+      "loadedComments": 73,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7687494641885741090/",
       "title": "9.20",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7687494641885741090/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7687494641885741090/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 106,
+      "loadedComments": 89,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7686723001504825379/",
       "title": "9.18",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7686723001504825379/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7686723001504825379/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 77,
+      "loadedComments": 56,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7686296177541906483/",
       "title": "9.17",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7686296177541906483/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7686296177541906483/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 92,
+      "loadedComments": 62,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7685687410662834214/",
       "title": "9.15",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7685687410662834214/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7685687410662834214/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 78,
+      "loadedComments": 68,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7683485588969619497/",
       "title": "9.9",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7683485588969619497/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7683485588969619497/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 341,
+      "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7683028401792811049/",
       "title": "9.8",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7683028401792811049/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7683028401792811049/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 73,
+      "loadedComments": 59,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7682708441581305898/",
       "title": "9.7",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7682708441581305898/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7682708441581305898/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 49,
+      "loadedComments": 39,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7682220896111001638/",
       "title": "9.6",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7682220896111001638/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7682220896111001638/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 38,
+      "loadedComments": 30,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7682008403614384162/",
       "title": "9.5",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7682008403614384162/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7682008403614384162/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 80,
+      "loadedComments": 70,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7681885922207465526/",
       "title": "9.5 助力中国优质企业出海之泰国行 #企业出海 #东盟 #泰国 #产业链供应链",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7681885922207465526/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7681885922207465526/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 9,
+      "loadedComments": 9,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7680505149945806902/",
       "title": "9.1",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7680505149945806902/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7680505149945806902/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 255,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7680090585684541478/",
       "title": "8.31",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7680090585684541478/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7680090585684541478/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 10,
+      "loadedComments": 9,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7679959743963594802/",
       "title": "8.31",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7679959743963594802/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7679959743963594802/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 31,
+      "loadedComments": 26,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7679643753854402570/",
       "title": "8.30",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7679643753854402570/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7679643753854402570/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 41,
+      "loadedComments": 35,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7679280401184981011/",
       "title": "8.29 他说了“该说的”，但却不需要马上做“该做的”... #沃什 #通胀 #美元指数 #黄金 #AI发展",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7679280401184981011/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7679280401184981011/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 164,
+      "loadedComments": 122,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7679063647169216522/",
       "title": "8.28",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7679063647169216522/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7679063647169216522/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 36,
+      "loadedComments": 27,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7679022498885763135/",
       "title": "8.28",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7679022498885763135/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7679022498885763135/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 21,
+      "loadedComments": 21,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7678548025106497545/",
       "title": "8.27",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7678548025106497545/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7678548025106497545/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 61,
+      "loadedComments": 51,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7678287304447754280/",
       "title": "8.26",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7678287304447754280/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7678287304447754280/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 15,
+      "loadedComments": 15,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7678132431496413226/",
       "title": "8.26",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7678132431496413226/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7678132431496413226/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 36,
+      "loadedComments": 30,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7677852360332296235/",
       "title": "8.25",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7677852360332296235/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7677852360332296235/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 44,
+      "loadedComments": 30,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7677051665389420582/",
       "title": "8.23",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7677051665389420582/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7677051665389420582/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 261,
+      "loadedComments": 168,
       "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7676291543758798867/",
       "title": "8.21",
-      "status": "error",
+      "status": "not_found",
       "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7676291543758798867/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7676291543758798867/\", waiting until \"domcontentloaded\"\n",
+      "totalComments": 224,
+      "loadedComments": 173,
       "creator": "艾丽无废话财经"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706502544654073899/",
+      "title": "1. 二十天跌掉四千块！华强北显卡崩了，抄底的人还好吗？ 2. 一万八到一万四，RTX 5080价格塌方，谁在裸泳？ 3. 显卡暴跌真相：跌的是泡沫，不是AI的底牌 4. 华强北踩踏出货，A股算力板块慌不慌？ 5. 别被四千块吓住！显卡降价背后藏着一条更硬的逻辑#上市公司大追踪#涨知识",
+      "publishTime": "2026-11-10",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "刚需自用的话，选官方自营带保修的可以入，别赌渠道最低价～暂时不急或想囤的话建议再等等，现在行情波动大呀😉",
+      "doubaoReplies": [
+        {
+          "askUser": "英明果断香瓜i",
+          "askText": "@豆包 现在能入手显卡吗？",
+          "doubaoReply": "刚需自用的话，选官方自营带保修的可以入，别赌渠道最低价～暂时不急或想囤的话建议再等等，现在行情波动大呀😉",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7706584259343074111"
+        }
+      ]
+    },
+    {
+      "url": "https://www.toutiao.com/video/7706433912347557951/",
+      "title": "1. 英伟达传出砍单消息，实际行业供需缺口反而更大 2. 台积电被砍单，到底是谁在暗中受益偷笑 3. 大家千万别被表面的「砍单」两个字给骗了 4. 眼下砍单只是表象，实际上行业核心是换轨 5. ASIC开始接盘后续需求，A股哪些板块会受益#上市公司大追踪#涨知识",
+      "publishTime": "2026-11-10",
+      "creator": "上市公司大追踪",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "视频拆解英伟达砍单实质是产线换轨（旧CoWoS产能砍单，新CoWSL产能加码），总需求未缩反增，2027年需求将从70万片涨至120多万片，释放的产能被AMD、博通、联发科等ASIC厂商承接。A股受益标的分三类：1. ASIC设计服务：芯原股份（688521）、翱捷科技（688220）；2. 光模块：中际旭创（300308）、新易盛（300502）；3. 国产算力：寒武纪（688256）、海光信息（688041）。同时提示台积电扩产未停，勿将产业结构调整误判为周期见顶，以上仅为观点整理，不构成投资建议。",
+      "doubaoReplies": [
+        {
+          "askUser": "edmxh0",
+          "askText": "@豆包，帮我总结视频内容。同时如果提及具体股票，请列出股票名称和编码，如果不提及则只做总结",
+          "doubaoReply": "视频拆解英伟达砍单实质是产线换轨（旧CoWoS产能砍单，新CoWSL产能加码），总需求未缩反增，2027年需求将从70万片涨至120多万片，释放的产能被AMD、博通、联发科等ASIC厂商承接。A股受益标的分三类：1. ASIC设计服务：芯原股份（688521）、翱捷科技（688220）；2. 光模块：中际旭创（300308）、新易盛（300502）；3. 国产算力：寒武纪（688256）、海光信息（688041）。同时提示台积电扩产未停，勿将产业结构调整误判为周期见顶，以上仅为观点整理，不构成投资建议。",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7707634590076257062"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7708997997392069148/",
