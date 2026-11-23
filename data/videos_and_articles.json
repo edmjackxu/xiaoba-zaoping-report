@@ -1,5 +1,5 @@
 {
-  "checkTime": "2026-11-22T07:06:28.183Z",
+  "checkTime": "2026-11-23T07:06:22.566Z",
   "articles": [
     {
       "title": "",
@@ -664,6 +664,47 @@
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "publishTime": "2024-11-28",
+      "type": "video",
+      "creator": "初心笔记"
+    },
+    {
+      "title": "【珍贵访谈】每逢大跌必重听！传奇基金经理Peter Lynch彼得·林奇：50年适用的投资规则，今天也适用！(句句值千金）",
+      "url": "https://www.toutiao.com/video/7711128478929781282/",
+      "publishTime": "2026-11-23",
+      "type": "video",
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "远山近海",
+          "askText": "@豆包，帮我总结视频内容。",
+          "doubaoReply": "这段是2002年6月28日CNBC对彼得·林奇的专访，当时互联网泡沫破裂纳指跌78%。他说投资规则长期适用，买股票得有清晰理由，股票是企业不是彩票，还要回归基本面；信任问题靠监管修复，跌了也不用慌，可配点货币基金避险～（以上仅为访谈观点，不构成投资建议）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7711150813250650922"
+        }
+      ]
+    },
+    {
+      "title": "洪灏瑞士宝盛最新访谈：解读市场走势。",
+      "url": "https://www.toutiao.com/video/7710951263319491100/",
+      "publishTime": "2026-11-22",
+      "type": "video",
+      "creator": "初心笔记",
+      "doubaoReply": [
+        {
+          "askUser": "认知回归",
+          "askText": "@豆包 总结提炼要点",
+          "doubaoReply": "洪灏在瑞士宝盛访谈中提到，美国新一轮AI芯片出口限制同时封堵实体芯片与海外远程算力租用渠道，国产大模型迭代已放缓。美方还在搭建算力技术联盟，短期封锁格局难破冰；国内可依托稀土等手段反制，国产半导体设备迎来利好，但算力产能上限仍有待观察。国内传统产业承压、经济大概率放缓，政策以维稳为主，短期难出大规模增量刺激，仅靠降息难以提振信贷，需要货币与财政政策协同发力。市场资金从成长股转向高股息价值股，股息率较高的红利标的具备吸引力，啤酒板块出现反弹，价值股强势行情还能维持一段时间，但不建议追高；市场尚未完全出清，悲观情绪和做空仓位还没到极致。人民币在偏弱环境中走强，新增流动性对股指拉动有限，美债5%-6%的收益率显著影响资产定价。\n（特别提示：以上仅为访谈观点整理，不构成投资建议）",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7711012665057608499"
+        }
+      ]
+    },
+    {
+      "title": "11-22号长江戴清：以景御波，应对外部挑战",
+      "url": "https://www.toutiao.com/video/7710939089663394304/",
+      "publishTime": "2026-11-22",
       "type": "video",
       "creator": "初心笔记"
     },
@@ -1700,59 +1741,76 @@
       "creator": "初心笔记"
     },
     {
-      "title": "9-30号摩根大通：大厂资本开支仍在扩大",
-      "url": "https://www.toutiao.com/video/7691490249582723613/",
-      "publishTime": "2026-10-01",
+      "title": "联播这条快讯藏着重磅 2. 机器人国标先利好谁 3. 别急着买整机厂 4. 数据身份证来了 5. 四维图新悄悄换了身份#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7711005546425352228/",
+      "publishTime": "2026-11-22",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "GoldenEggsGoose",
-          "askText": "@豆包 他们的主要观点是什么？",
-          "doubaoReply": "摩根大通主要观点是美债吸引力回升，建议关注短端美债和投资级公司债，零利率时代已结束，经济韧性强，AI行业会分化哦～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691609038722810624"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
-      "title": "马克·蒂尔伯里：新手如何投资？",
-      "url": "https://www.toutiao.com/video/7691429936216900140/",
-      "publishTime": "2026-10-01",
+      "title": "马斯克又放出新大招了？ 那块屏幕才是真正的杀招 二十五倍的水有多深 智驾别追涨停板 中国慢半拍其实是好事#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7711005109765095433/",
+      "publishTime": "2026-11-22",
       "type": "video",
-      "creator": "初心笔记"
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
-      "title": "湖南某国企董事长端午节收礼视频！牛B！",
-      "url": "https://www.toutiao.com/video/7691196883229753885/",
-      "publishTime": "2026-09-30",
+      "title": "最近一边意念云玩GTA6，一边琢磨A股谁真的能赚到钱。给大家梳理几个相关的点：1. 脑机接口别盲目追游戏噱头。2. 马斯克秀相关技术肌肉的时候，北京这边正在抓紧拿证。3. 有三个指标能识破炒概念的脑机概念股。4. 脑机接口赛道里，做铲子的比做整机的稳得多。#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7711004517864898560/",
+      "publishTime": "2026-11-22",
       "type": "video",
-      "creator": "初心笔记",
-      "doubaoReply": [
-        {
-          "askUser": "小折竞技",
-          "askText": "@豆包 这个人是谁",
-          "doubaoReply": "这是湖南丰润农业发展有限公司原董事长张祥哦，他因相关问题已经被免职，当地还在进一步核查处置呢～",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7691256579445965614"
-        }
-      ]
+      "summary": "",
+      "creator": "上市公司大追踪"
     },
     {
-      "title": "9-29号付 鹏：地产、大A、美债投资等",
-      "url": "https://www.toutiao.com/video/7691099145104310812/",
-      "publishTime": "2026-09-30",
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7710967165158981642/",
+      "publishTime": "2026-11-22",
       "type": "video",
-      "creator": "初心笔记"
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "四千亿真来了？ 2. 三招齐发别误读 3. 做市商不是躺赚 4. 下周一别急着追#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7710965558686974006/",
+      "publishTime": "2026-11-22",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "1. 降费二十八亿，为什么说重点不在钱多钱少？ 2. 交易所降费“换靶心”：从门票钱砍到店租钱，谁最受益？ 3. 一年从十四亿到四十六亿，这轮降费藏着一个关键转向 4. 券商基金省下的“通道租位费”，跟普通投资者有什么关系？ 5. 绿色债、科创债、民企债继续免到二〇二八年底，信号在哪？#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7710953969509466146/",
+      "publishTime": "2026-11-22",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "1. 创业板请来“报价人”，真是来托底的吗？ 2. 做市商进场，最受益的不是券商，是这类没人搭理的票 3. 两家做市商之后再加人，效果反而变弱？创业板要留意的细节 4. 做市商能让烂公司股价涨吗？别误会了 5. 创业板股票以后更好卖了？普通投资者最该盯的三件事#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7710953226194911283/",
+      "publishTime": "2026-11-22",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "四千亿要来了？先别急着加杠杆 2. 保证金降到八十，谁先吃到肉 3. 监管这脚油门，藏在细节里 4. 一万变一万二五，你敢用吗 5. 降保证金真利好？看这三个数#上市公司大追踪#涨知识",
+      "url": "https://www.toutiao.com/video/7710949934245429267/",
+      "publishTime": "2026-11-22",
+      "type": "video",
+      "creator": "上市公司大追踪"
+    },
+    {
+      "title": "分享视频",
+      "url": "https://www.toutiao.com/video/7710948681163210794/",
+      "publishTime": "2026-11-22",
+      "type": "video",
+      "creator": "上市公司大追踪"
     },
     {
       "title": "我整理了近期几个关注度很高的财经相关热点，给大家捋一捋：  1. 英伟达一周跌掉一个谷歌，A股谁先扛不住？ 2. 360亿主动ETF周一上市，钱往哪儿流？ 3. 周三晚上九点半，A股的方向就定了 4. 360亿红包VS千亿分红，这周谁在托底？ 5. 六G、碳化硅、词元标准：下周三个点火器#上市公司大追踪#涨知识",
       "url": "https://www.toutiao.com/video/7710834790219710500/",
       "publishTime": "2026-11-22",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1760,7 +1818,6 @@
       "url": "https://www.toutiao.com/video/7710737362640175114/",
       "publishTime": "2026-11-22",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -1768,7 +1825,6 @@
       "url": "https://www.toutiao.com/video/7710630462137991208/",
       "publishTime": "2026-11-21",
       "type": "video",
-      "summary": "",
       "creator": "上市公司大追踪"
     },
     {
@@ -3249,69 +3305,6 @@
     {
       "title": "操盘手拆解盘口——襄阳轴承 #上市公司大追踪 #盘口拆解 #襄阳轴承",
       "url": "https://www.toutiao.com/video/7701624337639768064/",
-      "publishTime": "2026-10-28",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "操盘手拆解盘口——宇树科技 #上市公司大追踪 #股票知识分享 #宇树科技",
-      "url": "https://www.toutiao.com/video/7701621689943408659/",
-      "publishTime": "2026-10-28",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "操盘手拆解盘口——万向钱潮 #上市公司大追踪 #股票知识分享 #盘口拆解 #万向钱潮",
-      "url": "https://www.toutiao.com/video/7701620293013340195/",
-      "publishTime": "2026-10-28",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "市场由弱转强，资金加速迁移 #上市公司大追踪 #a股市场 #a股行情 #股市复盘",
-      "url": "https://www.toutiao.com/video/7701616111028011027/",
-      "publishTime": "2026-10-28",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "信不信？ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7701590268323037193/",
-      "publishTime": "2026-10-28",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "分享视频",
-      "url": "https://www.toutiao.com/video/7701587401474310154/",
-      "publishTime": "2026-10-28",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "信不信？ #上市公司大追踪",
-      "url": "https://www.toutiao.com/video/7701582475306205211/",
-      "publishTime": "2026-10-28",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "操盘手拆解盘口——宇树科技 #上市公司大追踪 #短线交易 #宇树科技",
-      "url": "https://www.toutiao.com/video/7701577134166245414/",
-      "publishTime": "2026-10-28",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "操盘手拆解盘口——大洋电机 #上市公司大追踪 #股票知识分享 #盘口拆解 #大洋电机",
-      "url": "https://www.toutiao.com/video/7701567611951120435/",
-      "publishTime": "2026-10-28",
-      "type": "video",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "title": "#上市公司大追踪 #盘面",
-      "url": "https://www.toutiao.com/video/7701561246947999787/",
       "publishTime": "2026-10-28",
       "type": "video",
       "creator": "上市公司大追踪"
@@ -6013,5 +6006,5 @@
       "creator": "艾丽无废话财经"
     }
   ],
-  "totalItems": 725
+  "totalItems": 724
 }
