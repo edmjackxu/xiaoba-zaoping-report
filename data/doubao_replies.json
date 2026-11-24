@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-11-24T07:07:32.913Z",
+  "builtAt": "2026-11-24T11:10:46.054Z",
   "total": 639,
   "found": 346,
   "notFound": 293,
@@ -688,6 +688,7 @@
       "creator": "初心笔记",
       "status": "found",
       "found": true,
+      "from_db": true,
       "content": "这份是B站初心笔记整理的11月23日摩根士丹利闭门投资私享会讨论内容，提前说明下哦：以下仅为机构分析师交流观点，不构成投资建议～\n核心分两大块来看：\n首先是半导体与算力方向：美国BIS出口管制新规带来多重影响，英伟达供应链利润或承压，国内云厂商获取海外GPU受限，此前锁定的产能有望释放，市场普遍担忧产业链砍单，台积电还曾以当年受华为制裁的历史案例提示类似风险。目前国产GPU主要瓶颈在显存与HBM供应，安五G被认为是A股相对优选标的，平头哥等国产芯片厂商也被提及；海外先进芯片租赁、海外模型训练业务受限，腾讯、阿里的大模型业务也会受到冲击，国产替代大概率提速，但中美模型能力差距有扩大风险，算力长期趋势是向ASIC定制芯片演进。\n然后是宏观与全球经济方向：中国经济学家蔡志鹏判断国内政策以托底为主，财政持续收缩，受地方国企信用事件、银行间利率等周期性因素影响；贸易顺差不能简单解读，出口产生的美元存在利息损失。全球层面预计2027年经济仍有增长空间，美联储仍需管控通胀，通胀会部分抵消利率上行的影响。",
       "doubaoReplies": [
         {
@@ -790,6 +791,24 @@
       ]
     },
     {
+      "url": "https://www.toutiao.com/video/7711643646994415667/",
+      "title": "今天看A股的盘面，几个点真的挺感慨的：📉 涨跌数量差太多早上开盘还有五千只股票上涨，到收盘的时候就只剩一千九百只了，真的有点搞不懂，这一天大家的钱都去哪了。💸 放量砸盘直接放量一千亿往下砸，相当于把之前美国那边送来的上涨大礼直接退回去了。🤖 涨停板块意外今天所有涨停的个股里，居然没有一家是做机器人相关的。❓ 涨停逻辑看不懂不少票明明毛利率在往下走，股价却还在往上涨，实在想不通这批票凭什么能封板。💡 走势预判感受我觉得不是这轮反弹结束了，而是反弹的空间直接被提前消耗掉了。#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 5,
+      "loadedComments": 5,
+      "creator": "上市公司大追踪"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7711635363957047306/",
+      "title": "1. 创业板冲高四个点全吐回去，钱到底去哪了？ 2. 《今天最狠的不是机器人，是刚果金这一刀》 3. 《黄金便宜到五年最低还在跌，看懂这个你就不慌了》 4. 《英伟达一复活，A股这三个板块直接被点名》 5. 《指数没跌个股崩了，这种盘面最容易亏钱》#上市公司大追踪#涨知识",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 192,
+      "loadedComments": 149,
+      "creator": "上市公司大追踪"
+    },
+    {
       "url": "https://www.toutiao.com/video/7711515567194112051/",
       "title": "#科技",
       "status": "not_found",
@@ -821,8 +840,8 @@
       "title": "老黄回来了，但国内买卡的门槛变得更高了。1. 英伟达一夜市值暴涨九千五百亿，今天A股该追哪半部分？2. 复职不等于完全放权：黄仁勋这次有不少东西是拿不回来的。3. 12月3号的那场听证会，影响比CEO辞职还大。4. 光模块和国产算力，今天要各走各的行情。#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 32,
-      "loadedComments": 27,
+      "totalComments": 33,
+      "loadedComments": 28,
       "creator": "上市公司大追踪"
     },
     {
@@ -931,8 +950,8 @@
       "title": "1. 创业板请来“报价人”，真是来托底的吗？ 2. 做市商进场，最受益的不是券商，是这类没人搭理的票 3. 两家做市商之后再加人，效果反而变弱？创业板要留意的细节 4. 做市商能让烂公司股价涨吗？别误会了 5. 创业板股票以后更好卖了？普通投资者最该盯的三件事#上市公司大追踪#涨知识",
       "status": "not_found",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
+      "totalComments": 8,
+      "loadedComments": 8,
       "creator": "上市公司大追踪"
     },
     {
@@ -1522,24 +1541,6 @@
       "found": false,
       "totalComments": 1,
       "loadedComments": 1,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7706753737234055206/",
-      "title": "上午快五十只个股涨停，市场资金怎么就盯着这两条主线，创业板还在偷偷领涨。📍襄阳轴承一根轴承卡进机器人减速器赛道，不过板上的抛压已经露怯了。📍剑桥科技直接封板，封单都快十来亿了，之前微软替国产光模块说了句话。📍新易盛涨到九个点没封住，挺好奇光模块这条线下午会不会补涨封板。📍文投控股十六天走出九板，还开了十次板，真的搞不清它是旗杆还是温度计。#上市公司大追踪#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7706686158947745807/",
-      "title": "📊 热点1：通胀爆表！美联储连下狠手，英伟达大跌背后不简单！  📉 热点2：国债逼近五字头，美股高位跳水，A股哪些板块能扛住？  🤝 热点3：从卖芯片到抢饭碗，AI巨头互殴，微软也扛不住了？  🔍 热点4：揭秘美股分化真相：算力退潮，这个隐秘赛道却在狂飙！  🚢 热点5：出海订单暴增！SpaceX给中国光伏企业上了一堂什么课？#上市公司大追踪#美股#涨知识",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 9,
-      "loadedComments": 7,
       "creator": "上市公司大追踪"
     },
     {
@@ -2329,11 +2330,20 @@
       "creator": "GNCapital产业研究"
     },
     {
+      "url": "https://www.toutiao.com/video/7711643224540282880/",
+      "title": "11.24",
+      "status": "not_found",
+      "found": false,
+      "totalComments": 47,
+      "loadedComments": 41,
+      "creator": "艾丽无废话财经"
+    },
+    {
       "url": "https://www.toutiao.com/video/7711499914827530278/",
       "title": "11.24",
       "status": "not_found",
       "found": false,
-      "totalComments": 259,
+      "totalComments": 357,
       "loadedComments": 190,
       "creator": "艾丽无废话财经"
     },
@@ -2360,8 +2370,8 @@
       "title": "11.18",
       "status": "not_found",
       "found": false,
-      "totalComments": 47,
-      "loadedComments": 40,
+      "totalComments": 48,
+      "loadedComments": 41,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3125,7 +3135,7 @@
       "status": "not_found",
       "found": false,
       "totalComments": 255,
-      "loadedComments": 190,
+      "loadedComments": 189,
       "creator": "艾丽无废话财经"
     },
     {
@@ -3225,15 +3235,6 @@
       "found": false,
       "totalComments": 261,
       "loadedComments": 168,
-      "creator": "艾丽无废话财经"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7676291543758798867/",
-      "title": "8.21",
-      "status": "not_found",
-      "found": false,
-      "totalComments": 224,
-      "loadedComments": 173,
       "creator": "艾丽无废话财经"
     },
     {
