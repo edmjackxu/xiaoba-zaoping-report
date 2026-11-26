@@ -1,70 +1,63 @@
 {
-  "builtAt": "2026-11-25T04:07:36.863Z",
-  "total": 639,
+  "builtAt": "2026-11-25T11:11:22.728Z",
+  "total": 640,
   "found": 346,
-  "notFound": 293,
+  "notFound": 294,
   "replies": [
     {
       "url": "https://www.toutiao.com/video/7678998215349256231/",
       "title": "付鹏：解读英伟达财报",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7678998215349256231/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7678998215349256231/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7658549034822729764/",
       "title": "许家印是如何玩转他的生意的？！一般人看一遍看不懂",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 18,
-      "loadedComments": 16,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7658549034822729764/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7658549034822729764/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7622648145071882290/",
       "title": "一个煎饼果子的故事！😂 周末大家娱乐一下",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7622648145071882290/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7622648145071882290/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7621152892333850651/",
       "title": "如何避免心源性猝死的发生？（CCTV健康中国作品）",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 11,
-      "loadedComments": 11,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7621152892333850651/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7621152892333850651/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7597584094083743753/",
       "title": "娱乐一下：手机手机？！超级搞笑",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 126,
-      "loadedComments": 83,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7597584094083743753/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7597584094083743753/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7591463158892462090/",
       "title": "马杜罗抵达美国",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7591463158892462090/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7591463158892462090/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7590175734233038886/",
       "title": "李想湖畔大学分享: 企业应该优先扩张还是优先盈利？",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7590175734233038886/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7590175734233038886/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
@@ -90,595 +83,545 @@
     {
       "url": "https://www.toutiao.com/video/7578118858734338057/",
       "title": "患癌医学博士对话大冰｜看完以后五味杂陈，人生奋斗的意义是什么",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 14,
-      "loadedComments": 13,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7578118858734338057/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7578118858734338057/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7574805111252189230/",
       "title": "宇树科技创始人王兴兴创业分享演。福耀科技大学25年开学典礼上",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7574805111252189230/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7574805111252189230/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7561221799099236403/",
       "title": "马未都精彩演讲：没钱不行！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7561221799099236403/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7561221799099236403/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7560869106573180954/",
       "title": "新凯来：中国半导体设备黑马的崛起之路！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 73,
-      "loadedComments": 69,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7560869106573180954/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7560869106573180954/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7549935694057472010/",
       "title": "模拟芯片概念股整理出来了！拿去不谢！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7549935694057472010/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7549935694057472010/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7549727966385668142/",
       "title": "国产芯片概念股｜商务部周末对美芯片反倾销｜下周芯片继续狂飙",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7549727966385668142/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7549727966385668142/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7549196720379265034/",
       "title": "数据要素概念股大全！拿去不谢",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7549196720379265034/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7549196720379265034/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7548821186663809033/",
       "title": "甲骨文概念股！拿去不谢！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7548821186663809033/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7548821186663809033/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7548590054973636659/",
       "title": "Ai算力基建概念股大全！｜拿去不谢！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 3,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7548590054973636659/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7548590054973636659/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7547675584306872330/",
       "title": "深空经济概念股｜国家出了深空经济政策",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7547675584306872330/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7547675584306872330/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7546991849928409097/",
       "title": "固态电池概念股｜周五大涨｜拿去不谢！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7546991849928409097/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7546991849928409097/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7546170246438486066/",
       "title": "9-4号高盛亚洲首席策略师：美联储降息对亚洲是利好，大A还未过热",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7546170246438486066/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7546170246438486066/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7545502793675571227/",
       "title": "特斯拉Optimus机器人产业链及概念梳理｜据传T3明年有量产指引",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7545502793675571227/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7545502793675571227/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7545339721422274586/",
       "title": "工业母机概念股！｜国家出台《工业母机高质量标准体系建设方案》",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7545339721422274586/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7545339721422274586/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7544761151352274954/",
       "title": "阿里题材股！下周必炒概念！拿去不谢！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7544761151352274954/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7544761151352274954/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7536893372355575818/",
       "title": "北京炒家心法大合集！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7536893372355575818/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7536893372355575818/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7532100383070486562/",
       "title": "曹德旺：不要认为穿了袈裟的就是和尚！认知真高[赞]",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7532100383070486562/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7532100383070486562/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7530633375867928628/",
       "title": "让你受用一生的顶级思维-纯干货！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 10,
-      "loadedComments": 10,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7530633375867928628/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7530633375867928628/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7521167638706765864/",
       "title": "杨澜专访蔡澜，经典！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7521167638706765864/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7521167638706765864/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7516918244038049807/",
       "title": "青曲社：《日本漫谈》，经典中的经典！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7516918244038049807/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7516918244038049807/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7509102123553685519/",
       "title": "职场搞笑，有点货！[捂脸]",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7509102123553685519/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7509102123553685519/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7508199645269458944/",
       "title": "涨知识：瓶装饮料制作的全过程！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7508199645269458944/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7508199645269458944/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7507637294333968436/",
       "title": "田娃的绿豆蝇，李大国的乌龟，方正的仓鼠。世间一绝😂",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7507637294333968436/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7507637294333968436/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7507223295205818402/",
       "title": "向祚松：详解综合整治内卷式竞争",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7507223295205818402/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7507223295205818402/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7506504073240117248/",
       "title": "管清友：普通人不建议炒股！说的挺在理",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 127,
-      "loadedComments": 105,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7506504073240117248/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7506504073240117248/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7505592232110161955/",
       "title": "王树国三问中国教育！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7505592232110161955/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7505592232110161955/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7503082438735462452/",
       "title": "印专家谈印巴冲突：解读非常到位，东大的支持，印度很难招架",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7503082438735462452/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7503082438735462452/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7502700230274449408/",
       "title": "《天道》中最精彩的一段：五台山论道未删减版！看懂的都是神人！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1426,
-      "loadedComments": 189,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7502700230274449408/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7502700230274449408/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7502449333560672290/",
       "title": "田娃爆笑段子！实力嘎嘎牛",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 38,
-      "loadedComments": 36,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7502449333560672290/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7502449333560672290/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7502079108671930408/",
       "title": "阿三的军事果然非同凡响！印度军事搞笑版[捂脸][捂脸][捂脸]",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 35,
-      "loadedComments": 35,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7502079108671930408/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7502079108671930408/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7501291783675412520/",
       "title": "张一鸣专访：值得看n遍的视频！认知还是很重要的",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 11,
-      "loadedComments": 11,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7501291783675412520/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7501291783675412520/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7500743155768098831/",
       "title": "交易者每日复盘指南：30分钟高效复盘法",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7500743155768098831/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7500743155768098831/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7500362833910038528/",
       "title": "2025巴菲特最新股东大会精剪片段1",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 8,
-      "loadedComments": 4,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7500362833910038528/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7500362833910038528/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7499999131847852047/",
       "title": "彼得·林奇1994年珍贵演讲：股市赚钱其实很简单",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7499999131847852047/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7499999131847852047/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7499790868648624163/",
       "title": "纳瓦尔3小时访谈全记录（1）财富和幸福的真相",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7499790868648624163/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7499790868648624163/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7499754731556831232/",
       "title": "马云精彩演讲！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7499754731556831232/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7499754731556831232/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7499617308877258752/",
       "title": "鲍鹏山：人生不要太多的机会，抓住一次就能成就人生！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7499617308877258752/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7499617308877258752/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7497547544816287778/",
       "title": "如何培养孩子？应该教孩子什么知识？",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7497547544816287778/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7497547544816287778/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7497397651323748367/",
       "title": "王健林谈赚钱秘籍💰",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7497397651323748367/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7497397651323748367/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7496838623954731043/",
       "title": "王德峰：良好的亲子关系从这一步开始！精辟",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7496838623954731043/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7496838623954731043/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7495886011730231296/",
       "title": "刘强东7分钟内部讲话曝光：让外卖兄弟们赚钱",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 6,
-      "loadedComments": 6,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7495886011730231296/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7495886011730231296/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7494645246353997858/",
       "title": "挣大钱的核心逻辑系统！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7494645246353997858/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7494645246353997858/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7494055599441707008/",
       "title": "林园：怎样选择好公司",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 13,
-      "loadedComments": 12,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7494055599441707008/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7494055599441707008/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7493003824543006755/",
       "title": "重温马云谈中美贸易战！挺有远见的！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 4,
-      "loadedComments": 4,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7493003824543006755/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7493003824543006755/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7490124535287513103/",
       "title": "Bernstein半导体分析师谈关税对芯片股的影响",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7490124535287513103/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7490124535287513103/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489827183024832547/",
       "title": "4-5号 卢麒元解读关税战6",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 12,
-      "loadedComments": 12,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7489827183024832547/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7489827183024832547/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489827070898831395/",
       "title": "4-5号 卢麒元解读关税战5",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7489827070898831395/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7489827070898831395/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489826864518119424/",
       "title": "4-5号 卢麒元解读关税战4",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7489826864518119424/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7489826864518119424/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489826731843747875/",
       "title": "4-5号 卢麒元解读关税战3",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7489826731843747875/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7489826731843747875/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489826321137958964/",
       "title": "4-5号 卢麒元解读关税战2",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 10,
-      "loadedComments": 10,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7489826321137958964/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7489826321137958964/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489823518142496803/",
       "title": "4-5号 卢麒元解读关税战1",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7489823518142496803/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7489823518142496803/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7489770668796411904/",
       "title": "高盛首席：关税公布后，全球衰退概率进一步增强",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7489770668796411904/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7489770668796411904/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7488270041885245475/",
       "title": "投资的财富来自哪里？颠覆认知！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 18,
-      "loadedComments": 17,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7488270041885245475/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7488270041885245475/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7485705687222190095/",
       "title": "刘丰：开启高维智慧！颠覆你的认知！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 7,
-      "loadedComments": 7,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7485705687222190095/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7485705687222190095/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7484908073740894242/",
       "title": "马云最精彩演讲！没有之一",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 3,
-      "loadedComments": 3,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7484908073740894242/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7484908073740894242/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7484900776553234472/",
       "title": "何广智顶级段子：向上管理",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 23,
-      "loadedComments": 19,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7484900776553234472/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7484900776553234472/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7481254399377932303/",
       "title": "AI的前世今生：阿里王坚院士干货分享！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7481254399377932303/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7481254399377932303/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7479720576181862440/",
       "title": "窦文涛VS尹烨：大师级碰撞！干货满满！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7479720576181862440/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7479720576181862440/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7477185300641546275/",
       "title": "段永平：遗憾是生活的一部分！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7477185300641546275/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7477185300641546275/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7471425250794684451/",
       "title": "白岩松精彩演讲 ：平静与焦虑！干货！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7471425250794684451/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7471425250794684451/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7470388961743994914/",
       "title": "大部分都是那头驴！思维确实需要升级了！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7470388961743994914/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7470388961743994914/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7458536166952828980/",
       "title": "乔布斯1分钟时间告诉你最好的营销是什么？！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 5,
-      "loadedComments": 5,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7458536166952828980/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7458536166952828980/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7457884625730273299/",
       "title": "一年40倍大牛，牛人“帅小伙3123（又欠）”—专做龙头，值得学习",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7457884625730273299/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7457884625730273299/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7456008597416181810/",
       "title": "马斯克解读：第一性原理下的五步流程法",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 47,
-      "loadedComments": 46,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7456008597416181810/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7456008597416181810/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7442105249403584512/",
       "title": "鹰的重生！\n与正在经历磨难的你们共勉！",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7442105249403584512/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7442105249403584512/\", waiting until \"domcontentloaded\"\n",
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7711958795518132786/",
+      "title": "11-25号洪灏：经济和市场展望展望（英文采访）。",
+      "status": "error",
+      "found": false,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711958795518132786/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711958795518132786/\", waiting until \"domcontentloaded\"\n",
+      "creator": "初心笔记"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7711952885717828138/",
+      "title": "1124-高盛-中国经济专有指标：11月分析",
+      "status": "error",
+      "found": false,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711952885717828138/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711952885717828138/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
       "url": "https://www.toutiao.com/video/7711516809112404514/",
       "title": "华创张瑜：全球流动性开启“颠簸隧道”模式",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711516809112404514/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711516809112404514/\", waiting until \"domcontentloaded\"\n",
       "creator": "初心笔记"
     },
     {
@@ -762,122 +705,99 @@
       ]
     },
     {
-      "url": "https://www.toutiao.com/video/7710939089663394304/",
-      "title": "11-22号长江戴清：以景御波，应对外部挑战",
-      "status": "not_found",
+      "url": "https://www.toutiao.com/video/7712008939696554025/",
+      "title": "最近看盘越看越懵，几个点实在是理不顺👇  1. 大盘指数暴跌的情况下，涨停的居然还有57家，真的好奇大家的钱到底躲去了哪里 2. 流感消息一出，直接十几只医药股齐刷刷涨停，这到底是新一轮主线，还是单纯的一日游行情 3. 克来机电直接一字板焊死拿下四板，一家做自动化装备的公司，凭啥能当这波行情的旗杆 4. 同样是涨停，中京电子却是尾盘偷板，换手直接四成，这种涨停的含金量到底差在了哪 5. 处在这种跌市里，到底要怎么挑出真正的主线？其实看这一个信号就够了。  #上市公司大追踪#涨知识",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
-      "creator": "初心笔记"
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7712008939696554025/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7712008939696554025/\", waiting until \"domcontentloaded\"\n",
+      "creator": "上市公司大追踪"
     },
     {
-      "url": "https://www.toutiao.com/video/7710454316435325483/",
-      "title": "【美元体系的“向心坍缩”：中国股市下一轮大机会，正在酝酿还是即将到来？-哔哩哔哩】 https://b23.tv/CwfelUC",
-      "publishTime": "2026-11-21",
-      "creator": "初心笔记",
-      "status": "found",
-      "found": true,
-      "from_db": true,
-      "content": "向心坍缩是卢麒元提出的宏观假说哦，目前还没真爆发呢～咱们会受外部流动性收紧的间接影响，但金融体系独立没这特征哒，底部还缺信号确认，理性应对就好😊",
-      "doubaoReplies": [
-        {
-          "askUser": "panda",
-          "askText": "@豆包 中国已经被向心坍缩影响了吗",
-          "doubaoReply": "向心坍缩是卢麒元提出的宏观假说哦，目前还没真爆发呢～咱们会受外部流动性收紧的间接影响，但金融体系独立没这特征哒，底部还缺信号确认，理性应对就好😊",
-          "doubaoUser": "豆包",
-          "diggCount": 0,
-          "replyId": "7710780026811319103"
-        }
-      ]
+      "url": "https://www.toutiao.com/video/7711949567792513060/",
+      "title": "今天盘面对比往常感觉有点不对劲，整理了几个挺有意思的现象👇  📈 盘面反常点 指数翻绿，涨停的个股反而变多了，看来资金今天偷偷换了新主线。  🤔 看不懂的热点 流感概念一发酵，十几只医药股直接涨停，我挺好奇这条线到底能走多远。  ⚡ 超预期连板 克来机电直接一字焊死#拿下四连板，一家做自动化装备的公司，凭啥当上市场旗杆啊。 杭州解百也连收三个涨停，一家传统百货公司，莫名其妙就搭上了商业航天的热度。  ⏰ 下午关注方向 下午我打算盯着三只还没封板的强势票，看看金迪克、华人健康、邵阳液压谁先率先启动。#上市公司大追踪#涨知识",
+      "status": "error",
+      "found": false,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711949567792513060/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711949567792513060/\", waiting until \"domcontentloaded\"\n",
+      "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711870666709958692/",
       "title": "#级反弹只活了一天，昨夜美股到底跌的是什么2. 英伟达跌去昨天一半涨幅，成交量却腰斩：这不是恐慌3. 苹果涨、美光跌百分之十一：一根标尺看清谁是讲故事4. 黄金白银铜集体回吐，这次连避险都失灵了5. A股周三怎么接：光模块别接飞刀，存储模组看错杀#上市公司大追踪#涨知识",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 24,
-      "loadedComments": 22,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711870666709958692/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711870666709958692/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711740698319437850/",
       "title": "整理了几篇相关内容的标题： 1. 《三条新闻藏着同一件事》 3. 《AI漫剧赚钱的只有四种》 4. 《别追跨界AI漫剧第一波》 5. 《内容资产正在被重新定价》#上市公司大追踪#涨知识",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711740698319437850/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711740698319437850/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711738666246537254/",
       "title": "3. 别追航天类的涨停板 4. 神舟背后的真实订单 5. 完成三巡天宫的男人#上市公司大追踪#涨知识",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711738666246537254/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711738666246537254/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711716520287879222/",
       "title": "今天看到央行“补水”八千亿的消息先别急，实际上中期的趋势是在收水。  一万六千亿一天就到期了，央行为什么只补一万三？  MLF早就不是降息信号灯了，还在盯着它看就过时了。  跨月这道坎，央行选择用七天期钱接棒，想知道A股会怎么反应。  别被“八千亿”的数字骗了，真正该盯紧的其实是这两个关键数字。#上市公司大追踪#涨知识",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711716520287879222/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711716520287879222/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711707060404633635/",
       "title": "🔍 几个值得注意的点分享下： 1. 说是暂停管制？其实只松了半扇门 2. 眼下只有两个月窗口，别当三年牛市做 3. 锑的价差直接翻了一倍，谁真吃到肉了 4. 军口这边没松，这才是最狠的信号 5. 小金属的新玩法：直接盯商务部日历#上市公司大追踪#涨知识",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711707060404633635/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711707060404633635/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711643646994415667/",
       "title": "今天看A股的盘面，几个点真的挺感慨的：📉 涨跌数量差太多早上开盘还有五千只股票上涨，到收盘的时候就只剩一千九百只了，真的有点搞不懂，这一天大家的钱都去哪了。💸 放量砸盘直接放量一千亿往下砸，相当于把之前美国那边送来的上涨大礼直接退回去了。🤖 涨停板块意外今天所有涨停的个股里，居然没有一家是做机器人相关的。❓ 涨停逻辑看不懂不少票明明毛利率在往下走，股价却还在往上涨，实在想不通这批票凭什么能封板。💡 走势预判感受我觉得不是这轮反弹结束了，而是反弹的空间直接被提前消耗掉了。#上市公司大追踪#涨知识",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 8,
-      "loadedComments": 7,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711643646994415667/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711643646994415667/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711635363957047306/",
       "title": "1. 创业板冲高四个点全吐回去，钱到底去哪了？ 2. 《今天最狠的不是机器人，是刚果金这一刀》 3. 《黄金便宜到五年最低还在跌，看懂这个你就不慌了》 4. 《英伟达一复活，A股这三个板块直接被点名》 5. 《指数没跌个股崩了，这种盘面最容易亏钱》#上市公司大追踪#涨知识",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 454,
-      "loadedComments": 190,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711635363957047306/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711635363957047306/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711515567194112051/",
       "title": "#科技",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711515567194112051/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711515567194112051/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711511908766990355/",
       "title": "分享视频",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 1,
-      "loadedComments": 1,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711511908766990355/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711511908766990355/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
       "url": "https://www.toutiao.com/video/7711504449998422026/",
       "title": "刚果金禁钴，别急着追 四个月后会怎样？ 钴价腰斩后的反杀 谁在偷偷受益？ 这次不是断供那么简单#上市公司大追踪#涨知识",
-      "status": "not_found",
+      "status": "error",
       "found": false,
-      "totalComments": 2,
-      "loadedComments": 2,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711504449998422026/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711504449998422026/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
@@ -885,7 +805,7 @@
       "title": "老黄回来了，但国内买卡的门槛变得更高了。1. 英伟达一夜市值暴涨九千五百亿，今天A股该追哪半部分？2. 复职不等于完全放权：黄仁勋这次有不少东西是拿不回来的。3. 12月3号的那场听证会，影响比CEO辞职还大。4. 光模块和国产算力，今天要各走各的行情。#上市公司大追踪#涨知识",
       "status": "error",
       "found": false,
-      "error": "page.goto: Timeout 15000ms exceeded.\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711502005315108890/\", waiting until \"domcontentloaded\"\n",
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711502005315108890/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711502005315108890/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
@@ -893,7 +813,7 @@
       "title": "🤖 机器人进门店，卖的不是功能是数据 📅 小鹏把交付日写进了日历 📈 涨停潮里，本体股价却在挨揍 ⚠️ 二七量产元年，别急着追高 🏪 机器人先站柜台，而不是进工厂#上市公司大追踪#涨知识",
       "status": "error",
       "found": false,
-      "error": "page.goto: net::ERR_TIMED_OUT at https://www.toutiao.com/video/7711489068592267299/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711489068592267299/\", waiting until \"domcontentloaded\"\n",
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711489068592267299/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711489068592267299/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
@@ -921,7 +841,7 @@
       "title": "1. 养老机器人真要进病房了？ 2. 一份文件点燃机器人涨停潮 3. 外骨骼写进国家方案的深意 4. 别追涨停，先看这三条线 5. 两千家养老院要改造了#上市公司大追踪#涨知识",
       "status": "error",
       "found": false,
-      "error": "page.goto: net::ERR_NETWORK_CHANGED at https://www.toutiao.com/video/7711372784743530531/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711372784743530531/\", waiting until \"domcontentloaded\"\n",
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711372784743530531/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711372784743530531/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
@@ -929,7 +849,7 @@
       "title": "整理了几篇相关内容给大家参考： 1. 《三箭齐发那晚，监管其实只说了四个字》 2. 《四千亿两融听着吓人，实际到账多少？》 3. 《创业板装了个“减震器”，做市商到底是干嘛的》 4. 《我为什么说这轮底大概率到了，但还要等两天》 5. 《明后天只看两个数，决定你加仓还是减仓》#上市公司大追踪#涨知识",
       "status": "error",
       "found": false,
-      "error": "page.goto: net::ERR_NETWORK_CHANGED at https://www.toutiao.com/video/7711268117984313387/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711268117984313387/\", waiting until \"domcontentloaded\"\n",
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711268117984313387/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711268117984313387/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
@@ -1026,14 +946,6 @@
       "status": "error",
       "found": false,
       "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7710630462137991208/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7710630462137991208/\", waiting until \"domcontentloaded\"\n",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7710556097269989418/",
-      "title": "1. 《顺丰被全军暂停采购，股价为啥只跌了零点七？》 2. 《一份“没写清楚”的公告，藏着顺丰最贵的成本》 3. 《七天申辩期：顺丰这局到底输没输，看这个信号》 4. 《千七百亿市值扛住全军封杀，市场在看什么？》 5. 《别猜顺丰违了啥规，盯这三个时间点就够了》#上市公司大追踪#涨知识",
-      "status": "error",
-      "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7710556097269989418/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7710556097269989418/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
@@ -1466,14 +1378,6 @@
       "status": "error",
       "found": false,
       "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7707183262682054656/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7707183262682054656/\", waiting until \"domcontentloaded\"\n",
-      "creator": "上市公司大追踪"
-    },
-    {
-      "url": "https://www.toutiao.com/video/7707180812147359787/",
-      "title": "分享视频",
-      "status": "error",
-      "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7707180812147359787/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7707180812147359787/\", waiting until \"domcontentloaded\"\n",
       "creator": "上市公司大追踪"
     },
     {
@@ -2187,6 +2091,14 @@
       "found": false,
       "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7588790382840643599/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7588790382840643599/\", waiting until \"domcontentloaded\"\n",
       "creator": "GNCapital产业研究"
+    },
+    {
+      "url": "https://www.toutiao.com/video/7711959644985360418/",
+      "title": "11.25",
+      "status": "error",
+      "found": false,
+      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7711959644985360418/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7711959644985360418/\", waiting until \"domcontentloaded\"\n",
+      "creator": "艾丽无废话财经"
     },
     {
       "url": "https://www.toutiao.com/video/7711841379969663003/",
@@ -3021,12 +2933,24 @@
       "creator": "艾丽无废话财经"
     },
     {
-      "url": "https://www.toutiao.com/video/7677852360332296235/",
-      "title": "8.25",
-      "status": "error",
-      "found": false,
-      "error": "page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.toutiao.com/video/7677852360332296235/\nCall log:\n  - navigating to \"https://www.toutiao.com/video/7677852360332296235/\", waiting until \"domcontentloaded\"\n",
-      "creator": "艾丽无废话财经"
+      "url": "https://www.toutiao.com/video/7710454316435325483/",
+      "title": "【美元体系的“向心坍缩”：中国股市下一轮大机会，正在酝酿还是即将到来？-哔哩哔哩】 https://b23.tv/CwfelUC",
+      "publishTime": "2026-11-21",
+      "creator": "初心笔记",
+      "status": "found",
+      "found": true,
+      "from_db": true,
+      "content": "向心坍缩是卢麒元提出的宏观假说哦，目前还没真爆发呢～咱们会受外部流动性收紧的间接影响，但金融体系独立没这特征哒，底部还缺信号确认，理性应对就好😊",
+      "doubaoReplies": [
+        {
+          "askUser": "panda",
+          "askText": "@豆包 中国已经被向心坍缩影响了吗",
+          "doubaoReply": "向心坍缩是卢麒元提出的宏观假说哦，目前还没真爆发呢～咱们会受外部流动性收紧的间接影响，但金融体系独立没这特征哒，底部还缺信号确认，理性应对就好😊",
+          "doubaoUser": "豆包",
+          "diggCount": 0,
+          "replyId": "7710780026811319103"
+        }
+      ]
     },
     {
       "url": "https://www.toutiao.com/video/7710222203983364608/",
